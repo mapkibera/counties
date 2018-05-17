@@ -37,6 +37,15 @@
             overflow:scroll;
         }
 
+        .forty {
+          height: 40%;
+          overflow: scroll;
+        }
+        .sixty {
+          height: 60%;
+          overflow: scroll;
+        }
+
         .title {
             padding:10px;
             text-transform:uppercase;
@@ -49,18 +58,18 @@
 <div id='menu'>
     <input id='streets' type='radio' name='rtoggle' checked value='streets'>
     <label for='streets'>streets</label>
-    <input id='satellite' type='radio' name='rtoggle' value='satellite'>
+    <input id='satellite-streets' type='radio' name='rtoggle' value='satellite-streets'>
     <label for='satellite'>satellite</label>
 </div>
 
 <div id='sidebar' class='keyline-right'>
     <div class='title fill-denim dark'>Filter by</div>
-    <div class='half keyline-bottom'>
+    <div class='forty keyline-bottom'>
         <div class='filters margin0'>
         </div>
     </div>
     <div class='title fill-denim dark'>Project</div>
-    <div class='half'>
+    <div class='sixty'>
         <div class='list'>
         </div>
     </div>
