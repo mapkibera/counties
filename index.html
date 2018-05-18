@@ -79,6 +79,7 @@
         </div>
     </div>
 </div>
+
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoibWlrZWxtYXJvbiIsImEiOiJjaWZlY25lZGQ2cTJjc2trbmdiZDdjYjllIn0.Wx1n0X7aeCQyDTnK6_mrGw';
 var map = new mapboxgl.Map({
@@ -89,9 +90,6 @@ var map = new mapboxgl.Map({
     hash: true
 });
 map.addControl(new mapboxgl.NavigationControl());
-
-var layerList = document.getElementById('menu');
-var inputs = layerList.getElementsByTagName('input');
 
 function switchLayer(layer) {
     var layerId = layer.target.id;
@@ -112,12 +110,12 @@ function switchPOI() {
   }
 }
 
+var layerList = document.getElementById('menu');
+var inputs = layerList.getElementsByTagName('input');
+
 inputs[0].onclick = switchLayer;
 inputs[1].onclick = switchLayer;
 inputs[2].onclick = switchPOI;
-//for (var i = 0; i < inputs.length; i++) {
-//    inputs[i].onclick = switchLayer;
-//}
 
 class AJAXError extends Error {
     constructor(message, status, url) {
@@ -276,6 +274,38 @@ function loadProjects() {
       map.getSource('projects').setData(dataset);
     }
 
+    function applyFilter(){
+      //generate list of all unchecked boxes, in same order as the list attributesToFilter
+      var exclusions = [[], [],[],[],[],[]];
+      var unchecked =
+        d3.selectAll('input:not(:checked)')
+          .each(function(){
+            var filterIndex = d3.select(this).attr('filterIndex');
+            if (filterIndex != undefined)
+              exclusions[filterIndex].push(getSecondPart(d3.select(this).attr('id')));
+          });
+
+      function filterReports(filterAttributes, excludedValues) {
+        var filteredResult = projects.features;
+
+        // iterate through attributes to prune reports recursively
+        filterAttributes.forEach(function(Attribute, attributeIndex){
+
+          //if there are no excluded values for this attribute, skip it
+          if (excludedValues[attributeIndex].length===0) return;
+          filteredResult =
+            filteredResult.filter(function(project){
+              return excludedValues[attributeIndex].indexOf(project.properties[Attribute]) === -1
+            });
+        });
+
+        return {'type':'FeatureCollection', 'features': filteredResult};
+      };
+
+      updateMap(filterReports(attributesToFilter, exclusions));
+
+    }
+
     var attributesToFilter = ['Category', 'What_is_the_project_s_apparent_status', 'In_your_opinion_is_the_project_quality'];
 
     var filterValues = [];
@@ -318,37 +348,7 @@ function loadProjects() {
             .attr('id', i+' - '+value) // inserting i to disambiguate the Others in multiple categories
             .attr('filterIndex', i)
             .attr('checked', 'checked')
-            .on('change', function(){
-              //generate list of all unchecked boxes, in same order as the list attributesToFilter
-              var exclusions = [[], [],[],[],[],[]];
-              var unchecked =
-                d3.selectAll('input:not(:checked)')
-                  .each(function(){
-                    var filterIndex = d3.select(this).attr('filterIndex');
-                    if (filterIndex != undefined)
-                      exclusions[filterIndex].push(getSecondPart(d3.select(this).attr('id')));
-                  });
-
-              function filterReports(filterAttributes, excludedValues) {
-                var filteredResult = projects.features;
-
-                // iterate through attributes to prune reports recursively
-                filterAttributes.forEach(function(Attribute, attributeIndex){
-
-                  //if there are no excluded values for this attribute, skip it
-                  if (excludedValues[attributeIndex].length===0) return;
-                  filteredResult =
-                    filteredResult.filter(function(project){
-                      return excludedValues[attributeIndex].indexOf(project.properties[Attribute]) === -1
-                    });
-                });
-
-                return {'type':'FeatureCollection', 'features': filteredResult};
-              };
-
-              updateMap(filterReports(attributesToFilter, exclusions));
-
-            });
+            .on('change', applyFilter);
 
           // labels for checkboxes
           tick
@@ -359,6 +359,8 @@ function loadProjects() {
 
         });
       });
+
+      applyFilter();
 
       map.on('click', 'projects-layer', function (e) {
         var coordinates = e.features[0].geometry.coordinates.slice();
