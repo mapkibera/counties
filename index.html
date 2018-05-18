@@ -377,6 +377,7 @@ function loadProjects() {
           .attr('class', 'entry pad2 keyline-top')
           .html(function(d){
               return "<strong>" + e.features[0].properties['name'] + "</strong><br/>" +
+                e.features[0].properties['Project_Description'] + "<br/>" +
                 "<em>" +  e.features[0].properties['Please_add_any_details_about_y'] + "</em>";
           })
           .append('img').attr('src', e.features[0].properties.image);
