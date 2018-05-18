@@ -25,7 +25,7 @@
           left: 400px;
           padding: 10px;
           background: #fff;
-          width: 180px;
+          width: 240px;
           font-family: 'Open Sans', sans-serif;
         }
         input {
@@ -51,6 +51,9 @@
             text-transform:uppercase;
             margin-bottom:0px;
         }
+        .count {
+          float: right;
+        }
     </style>
 </head>
 <body>
@@ -60,15 +63,17 @@
     <label for='streets'>streets</label>
     <input id='satellite-streets' type='radio' name='rtoggle' value='satellite-streets'>
     <label for='satellite'>satellite</label>
+    <input id='poi' type='checkbox' name='rtoggle' checked value='poi'>
+    <label for='poi'>POI</label>
 </div>
 
 <div id='sidebar' class='keyline-right'>
-    <div class='title fill-denim dark'>Filter by</div>
+    <div class='title fill-denim dark'>Filter by <span class='count' id="project-count"></span></div>
     <div class='forty keyline-bottom'>
         <div class='filters margin0'>
         </div>
     </div>
-    <div class='title fill-denim dark'>Project</div>
+    <div class='title fill-denim dark'>Details</div>
     <div class='sixty'>
         <div class='list'>
         </div>
@@ -83,6 +88,7 @@ var map = new mapboxgl.Map({
     zoom: 12, // starting zoom
     hash: true
 });
+map.addControl(new mapboxgl.NavigationControl());
 
 var layerList = document.getElementById('menu');
 var inputs = layerList.getElementsByTagName('input');
@@ -91,13 +97,27 @@ function switchLayer(layer) {
     var layerId = layer.target.id;
     map.setStyle('mapbox://styles/mapbox/' + layerId + '-v9');
     map.on('style.load', function() {
-      loadGeoJSON();
+      loadPOI();
+      loadProjects();
     });
 }
 
-for (var i = 0; i < inputs.length; i++) {
-    inputs[i].onclick = switchLayer;
+function switchPOI() {
+  var visibility = map.getLayoutProperty('poi-layer', 'visibility');
+
+  if (visibility === 'visible') {
+    map.setLayoutProperty('poi-layer', 'visibility', 'none');
+  } else {
+    map.setLayoutProperty('poi-layer', 'visibility', 'visible');
+  }
 }
+
+inputs[0].onclick = switchLayer;
+inputs[1].onclick = switchLayer;
+inputs[2].onclick = switchPOI;
+//for (var i = 0; i < inputs.length; i++) {
+//    inputs[i].onclick = switchLayer;
+//}
 
 class AJAXError extends Error {
     constructor(message, status, url) {
@@ -164,9 +184,65 @@ function cleanLabel(str){
   return str;
 }
 
-map.on('load', loadGeoJSON);
+map.on('load', function() { loadPOI(); loadProjects(); });
+map.on('render', function() {
+  var features = map.queryRenderedFeatures({ layers: ['projects-layer'] });
+  d3.select('#project-count')
+    .text( features.length + " projects visible")
+});
 
-function loadGeoJSON() {
+function loadPOI() {
+  getJSON({url:'data/wote-poi-only.geojson'}, function(err,poi){
+    var visibility = "none";
+    if (inputs[2].checked) visibility = "visible";
+
+    map.addSource('poi', {
+      'type': 'geojson',
+        'data': poi
+    })
+    .addLayer({
+      'id': 'poi-layer',
+      'type': 'circle',
+      'source': 'poi',
+      'layout': {
+        'visibility': visibility
+      },
+      'paint': {
+        'circle-radius': 5,
+        'circle-color': '#3377ff'
+      }
+    });
+
+
+    map.on('click', 'poi-layer', function (e) {
+      var coordinates = e.features[0].geometry.coordinates.slice();
+
+      // Ensure that if the map is zoomed out such that multiple
+      // copies of the feature are visible, the popup appears
+      // over the copy being pointed to.
+      while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+        coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+      }
+
+      d3.select('.entry').remove();
+
+      d3.select('.list')
+        .append('div')
+        .attr('class', 'entry pad2 keyline-top')
+        .html(function(d){
+          var poi_text = '';
+          for (attribute in e.features[0].properties) {
+            poi_text = poi_text + attribute + ": " + e.features[0].properties[attribute] + "<br/>";
+          }
+          return poi_text;
+        });
+
+    });
+  });
+
+}
+
+function loadProjects() {
   getJSON({url:'data/wote-projects-matched.geojson'}, function(err,projects){
     map.addSource('projects', {
       'type': 'geojson',
@@ -299,13 +375,15 @@ function loadGeoJSON() {
         d3.select('.list')
           .append('div')
           .attr('class', 'entry pad2 keyline-top')
-          .text(function(d){
-              return e.features[0].properties['name'];
+          .html(function(d){
+              return "<strong>" + e.features[0].properties['name'] + "</strong><br/>" +
+                "<em>" +  e.features[0].properties['Please_add_any_details_about_y'] + "</em>";
           })
           .append('img').attr('src', e.features[0].properties.image);
 
       });
     });
+
 };
 </script>
 

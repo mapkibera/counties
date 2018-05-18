@@ -32,6 +32,9 @@ def sync_osm():
   url_base = "http://overpass-api.de/api/interpreter?data=[bbox];node['wb_pb:id'];out%20meta;&bbox="
   url2file(url_base + wote,"wote-projects-osm.xml")
 
+  url_base = "http://overpass-api.de/api/interpreter?data=[bbox];node[~'.'~'.'];out%20meta;&bbox="
+  url2file(url_base + wote,"wote-poi-osm.xml")
+
 def sync_projects():
   url2file('https://docs.google.com/spreadsheets/u/1/d/1xFKs2JLuIqlsvUnORMwbSx_TOSiedI3ISL2HUPk475k/export?format=csv&id=1xFKs2JLuIqlsvUnORMwbSx_TOSiedI3ISL2HUPk475k&gid=1724788530', 'wote-projects-23.csv')
   url2file('https://docs.google.com/spreadsheets/u/1/d/1xFKs2JLuIqlsvUnORMwbSx_TOSiedI3ISL2HUPk475k/export?format=csv&id=1xFKs2JLuIqlsvUnORMwbSx_TOSiedI3ISL2HUPk475k&gid=239806010', 'wote-projects-25.csv')
@@ -40,6 +43,8 @@ def sync_projects():
 
 def convert_geojson():
   os.system("osmtogeojson -e wote-projects-osm.xml > wote-projects-osm.geojson")
+  os.system("osmtogeojson -e wote-poi-osm.xml > wote-poi-osm.geojson")
+
 
 def match_projects():
   result = {}
@@ -71,7 +76,21 @@ def match_projects():
   dump = geojson.dumps(result, sort_keys=True, indent=2)
   writefile('wote-projects-matched.geojson',dump)
 
-sync_osm()
-sync_projects()
-convert_geojson()
-match_projects()
+def filter_poi():
+   result = {}
+   result['type'] = 'FeatureCollection'
+   result['features'] = []
+
+   osm = geojson.loads(readfile('wote-poi-osm.geojson'))
+   for feature in osm.features:
+       if feature.properties['tags'].get('wb_pb:id', None) == None:
+           result['features'].append({ "type": "Feature", "properties": feature.properties['tags'], "geometry": feature.geometry })
+
+   dump = geojson.dumps(result, sort_keys=True, indent=2)
+   writefile('wote-poi-only.geojson',dump)
+
+#sync_osm()
+#sync_projects()
+#convert_geojson()
+#match_projects()
+filter_poi()
