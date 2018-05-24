@@ -378,11 +378,16 @@ function loadProjects() {
           .append('div')
           .attr('class', 'entry pad2 keyline-top')
           .html(function(d){
+             var poi_text = "<br/>";
+             for (attribute in e.features[0].properties) {
+               poi_text = poi_text + attribute + ": " + e.features[0].properties[attribute] + "<br/>";
+              }
               return "<strong>" + e.features[0].properties['name'] + "</strong><br/>" +
                 e.features[0].properties['Project_Description'] + "<br/>" +
-                "<em>" +  e.features[0].properties['Please_add_any_details_about_y'] + "</em>";
-          })
-          .append('img').attr('src', e.features[0].properties.image);
+                "<em>" +  e.features[0].properties['Please_add_any_details_about_y'] + "</em>"
+                + "<img src='" + e.features[0].properties.image + "'/>"
+                + poi_text;
+          });
 
       });
     });
