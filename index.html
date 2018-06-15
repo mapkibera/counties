@@ -82,9 +82,31 @@
 
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoibWlrZWxtYXJvbiIsImEiOiJjaWZlY25lZGQ2cTJjc2trbmdiZDdjYjllIn0.Wx1n0X7aeCQyDTnK6_mrGw';
+var osm_style = {
+  "version": 8,
+  "sources": {
+    "openstreetmap-tiles": {
+      "type": "raster",
+      "tiles": [
+        "https://a.tile.openstreetmap.org/{z}/{x}/{y}.png",
+        "https://b.tile.openstreetmap.org/{z}/{x}/{y}.png",
+        "https://c.tile.openstreetmap.org/{z}/{x}/{y}.png"
+      ],
+      "tileSize": 256
+    }
+  },
+  "layers": [{
+    "id": "openstreetmap-layer",
+    "type": "raster",
+    "source": "openstreetmap-tiles",
+    "minzoom": 0,
+    "maxzoom": 18
+  }]
+};
 var map = new mapboxgl.Map({
     container: 'map', // container id
-    style: 'mapbox://styles/mapbox/streets-v9', //stylesheet location
+    style: osm_style,
+    //style: 'mapbox://styles/mapbox/streets-v9', //stylesheet location
     center: [37.6004, -1.7805], // starting position
     zoom: 12, // starting zoom
     hash: true
@@ -93,11 +115,11 @@ map.addControl(new mapboxgl.NavigationControl());
 
 function switchLayer(layer) {
     var layerId = layer.target.id;
-    map.setStyle('mapbox://styles/mapbox/' + layerId + '-v9');
-    map.on('style.load', function() {
-      loadPOI();
-      loadProjects();
-    });
+    if (layerId == "streets") {
+      map.setStyle(osm_style);
+    } else {
+      map.setStyle('mapbox://styles/mapbox/' + layerId + '-v9');
+    }
 }
 
 function switchPOI() {
@@ -182,37 +204,208 @@ function cleanLabel(str){
   return str;
 }
 
-map.on('load', function() { loadPOI(); loadProjects(); });
+map.on('style.load', function() {
+  loadProjects(); loadPOI();
+});
 map.on('render', function() {
-  var features = map.queryRenderedFeatures({ layers: ['projects-layer'] });
-  d3.select('#project-count')
-    .text( features.length + " projects visible")
+  if (map.getLayer('projects-layer')) {
+    var features = map.queryRenderedFeatures({ layers: ['projects-layer'] });
+    d3.select('#project-count')
+      .text( features.length + " projects visible")
+  }
 });
 
-function loadPOI() {
-  getJSON({url:'data/wote-poi-only.geojson'}, function(err,poi){
-    var visibility = "none";
-    if (inputs[2].checked) visibility = "visible";
 
+function addPoiLayer() {
+  var visibility = "none";
+  if (inputs[2].checked) visibility = "visible";
+
+  map.addLayer({
+    'id': 'poi-layer',
+    'type': 'circle',
+    'source': 'poi',
+    'layout': {
+      'visibility': visibility
+    },
+    'paint': {
+      'circle-radius': 5,
+      'circle-color': '#3377ff'
+    }
+  });
+
+  map.on('click', 'poi-layer', function (e) {
+    var coordinates = e.features[0].geometry.coordinates.slice();
+
+    // Ensure that if the map is zoomed out such that multiple
+    // copies of the feature are visible, the popup appears
+    // over the copy being pointed to.
+    while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+      coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+    }
+
+    d3.select('.entry').remove();
+
+    d3.select('.list')
+      .append('div')
+      .attr('class', 'entry pad2 keyline-top')
+      .html(function(d){
+        var poi_text = '';
+        for (attribute in e.features[0].properties) {
+          poi_text = poi_text + attribute + ": " + e.features[0].properties[attribute] + "<br/>";
+        }
+        return poi_text;
+      });
+
+  });
+
+}
+
+function loadPOI() {
+  if (map.getSource('poi')) {
+    addPoiLayer();
+    return;
+  }
+
+  getJSON({url:'data/wote-poi-only.geojson'}, function(err,poi){
     map.addSource('poi', {
       'type': 'geojson',
         'data': poi
-    })
-    .addLayer({
-      'id': 'poi-layer',
-      'type': 'circle',
-      'source': 'poi',
-      'layout': {
-        'visibility': visibility
-      },
-      'paint': {
-        'circle-radius': 5,
-        'circle-color': '#3377ff'
-      }
+    });
+    addPoiLayer();
+  });
+
+}
+
+function addProjectLayer() {
+  map.addLayer({
+    'id': 'projects-layer',
+    'type': 'circle',
+    'source': 'projects',
+    'layout': {
+      'visibility': 'visible'
+    },
+    'paint': {
+      'circle-radius': 5,
+      'circle-color': '#ff7733'
+    }
+  });
+  /* map.addLayer({
+    'id': 'projects-layer',
+    'type': 'symbol',
+    'source': 'projects',
+    'layout': {
+      "icon-allow-overlap": true,
+      'visibility': 'visible',
+      'icon-image': [
+        'match',
+          ['get', 'Category'],
+          'trade', 'shop-15',
+          'transport', 'bus-15',
+          'agriculture', 'garden-15',
+          'water_irrigati', 'drinking-water-15',
+          'health', 'hospital-15',
+          'education', 'college-15',
+          'environment', 'park-15',
+          'devolution', 'townhall-15',
+          'finance', 'bank-15',
+          'gender', 'triangle-15',
+          'circle-15'
+      ]
+    }
+  });*/
+
+  function updateMap(dataset){
+    map.getSource('projects').setData(dataset);
+  }
+
+  function filterReports(filterAttributes, excludedValues) {
+    var filteredResult = projects.features;
+
+    // iterate through attributes to prune reports recursively
+    filterAttributes.forEach(function(Attribute, attributeIndex){
+
+    //if there are no excluded values for this attribute, skip it
+    if (excludedValues[attributeIndex].length===0) return;
+    filteredResult =
+      filteredResult.filter(function(project){
+        return excludedValues[attributeIndex].indexOf(project.properties[Attribute]) === -1
+      });
     });
 
+    return {'type':'FeatureCollection', 'features': filteredResult};
+  }
 
-    map.on('click', 'poi-layer', function (e) {
+  function applyFilter(){
+    //generate list of all unchecked boxes, in same order as the list attributesToFilter
+    var exclusions = [[], [],[],[],[],[]];
+    var unchecked =
+      d3.selectAll('input:not(:checked)')
+        .each(function(){
+          var filterIndex = d3.select(this).attr('filterIndex');
+            if (filterIndex != undefined)
+              exclusions[filterIndex].push(getSecondPart(d3.select(this).attr('id')));
+        });
+
+    updateMap(filterReports(attributesToFilter, exclusions));
+
+  }
+
+  var attributesToFilter = ['Category', 'What_is_the_project_s_apparent_status', 'In_your_opinion_is_the_project_quality'];
+
+  var filterValues = [];
+  // get all extant values for each attribute, to populate filter UI
+  attributesToFilter.forEach(function(attribute, index){
+    var attributeValues = [];
+    projects.features.forEach(function(project){
+      if (attributeValues.indexOf(project.properties[attribute])==-1) attributeValues.push(project.properties[attribute])
+    });
+
+    filterValues.push(attributeValues);
+  });
+
+  var filter = d3.select('.filters')
+    .selectAll('.filter')
+    .data(filterValues)
+    .enter()
+    .append('div')
+    .attr('class', 'filter space-top2');
+
+  filter
+    .append('h3')
+    .attr('class', 'space-bottom0')
+    .text(function(d,i){return cleanLabel(attributesToFilter[i])});
+
+  filter
+    .each(function(d,i){
+      var filterSection = d3.select(this);
+
+      d.forEach(function(value){
+        // checkboxes
+        var tick = filterSection
+          .append('div')
+          .attr('class', 'small quiet inline space-right0');
+
+        tick
+          .append('input')
+          .attr('type', 'checkbox')
+          .attr('id', i+' - '+value) // inserting i to disambiguate the Others in multiple categories
+          .attr('filterIndex', i)
+          .attr('checked', 'checked')
+          .on('change', applyFilter);
+
+        // labels for checkboxes
+        tick
+          .append('label')
+          .attr('class', 'small quiet')
+          .attr('for', i+' - '+value)
+          .text(cleanLabel(value));
+
+      });
+    });
+
+    applyFilter();
+
+    map.on('click', 'projects-layer', function (e) {
       var coordinates = e.features[0].geometry.coordinates.slice();
 
       // Ensure that if the map is zoomed out such that multiple
@@ -228,171 +421,35 @@ function loadPOI() {
         .append('div')
         .attr('class', 'entry pad2 keyline-top')
         .html(function(d){
-          var poi_text = '';
+          var poi_text = "<br/>";
           for (attribute in e.features[0].properties) {
-            poi_text = poi_text + attribute + ": " + e.features[0].properties[attribute] + "<br/>";
+            if (attribute[0]  != attribute[0].toUpperCase() && attribute != "image") {
+              poi_text = poi_text + attribute + ": " + e.features[0].properties[attribute] + "<br/>";
+            }
           }
-          return poi_text;
+          return "<strong>" + e.features[0].properties['name'] + "</strong><br/>" +
+            e.features[0].properties['Project_Description'] + "<br/>" +
+            "<em>" +  e.features[0].properties['Please_add_any_details_about_y'] + "</em>"
+            + "<img src='" + e.features[0].properties.image + "'/>";
         });
-
     });
-  });
-
 }
 
+var projects;
 function loadProjects() {
-  getJSON({url:'data/wote-projects-matched.geojson'}, function(err,projects){
+  if (map.getSource('projects')) {
+    addProjectLayer();
+    return;
+  }
+  getJSON({url:'data/wote-projects-matched.geojson'}, function(err,response){
+    projects = response;
     map.addSource('projects', {
       'type': 'geojson',
       'data': projects
-    })
-    .addLayer({
-      'id': 'projects-layer',
-      'type': 'symbol',
-      'source': 'projects',
-      'layout': {
-        "icon-allow-overlap": true,
-        'icon-image': [
-          'match',
-            ['get', 'Category'],
-            'trade', 'shop-15',
-            'transport', 'bus-15',
-            'agriculture', 'garden-15',
-            'water_irrigati', 'drinking-water-15',
-            'health', 'hospital-15',
-            'education', 'college-15',
-            'environment', 'park-15',
-            'devolution', 'townhall-15',
-            'finance', 'bank-15',
-            'gender', 'triangle-15',
-            /* other */ 'circle-15'
-        ]
-      }
     });
+    addProjectLayer();
 
-    function updateMap(dataset){
-      map.getSource('projects').setData(dataset);
-    }
-
-    function applyFilter(){
-      //generate list of all unchecked boxes, in same order as the list attributesToFilter
-      var exclusions = [[], [],[],[],[],[]];
-      var unchecked =
-        d3.selectAll('input:not(:checked)')
-          .each(function(){
-            var filterIndex = d3.select(this).attr('filterIndex');
-            if (filterIndex != undefined)
-              exclusions[filterIndex].push(getSecondPart(d3.select(this).attr('id')));
-          });
-
-      function filterReports(filterAttributes, excludedValues) {
-        var filteredResult = projects.features;
-
-        // iterate through attributes to prune reports recursively
-        filterAttributes.forEach(function(Attribute, attributeIndex){
-
-          //if there are no excluded values for this attribute, skip it
-          if (excludedValues[attributeIndex].length===0) return;
-          filteredResult =
-            filteredResult.filter(function(project){
-              return excludedValues[attributeIndex].indexOf(project.properties[Attribute]) === -1
-            });
-        });
-
-        return {'type':'FeatureCollection', 'features': filteredResult};
-      };
-
-      updateMap(filterReports(attributesToFilter, exclusions));
-
-    }
-
-    var attributesToFilter = ['Category', 'What_is_the_project_s_apparent_status', 'In_your_opinion_is_the_project_quality'];
-
-    var filterValues = [];
-    // get all extant values for each attribute, to populate filter UI
-    attributesToFilter.forEach(function(attribute, index){
-       var attributeValues = [];
-       projects.features.forEach(function(project){
-          if (attributeValues.indexOf(project.properties[attribute])==-1) attributeValues.push(project.properties[attribute])
-       });
-
-       filterValues.push(attributeValues);
-    });
-
-    var filter = d3.select('.filters')
-      .selectAll('.filter')
-      .data(filterValues)
-      .enter()
-      .append('div')
-      .attr('class', 'filter space-top2');
-
-    filter
-      .append('h3')
-      .attr('class', 'space-bottom0')
-      .text(function(d,i){return cleanLabel(attributesToFilter[i])});
-
-    filter
-      .each(function(d,i){
-        var filterSection = d3.select(this);
-
-        d.forEach(function(value){
-
-          // checkboxes
-          var tick = filterSection
-            .append('div')
-            .attr('class', 'small quiet inline space-right0');
-
-          tick
-            .append('input')
-            .attr('type', 'checkbox')
-            .attr('id', i+' - '+value) // inserting i to disambiguate the Others in multiple categories
-            .attr('filterIndex', i)
-            .attr('checked', 'checked')
-            .on('change', applyFilter);
-
-          // labels for checkboxes
-          tick
-            .append('label')
-            .attr('class', 'small quiet')
-            .attr('for', i+' - '+value)
-            .text(cleanLabel(value));
-
-        });
-      });
-
-      applyFilter();
-
-      map.on('click', 'projects-layer', function (e) {
-        var coordinates = e.features[0].geometry.coordinates.slice();
-
-        // Ensure that if the map is zoomed out such that multiple
-        // copies of the feature are visible, the popup appears
-        // over the copy being pointed to.
-        while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-          coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-        }
-
-        d3.select('.entry').remove();
-
-        d3.select('.list')
-          .append('div')
-          .attr('class', 'entry pad2 keyline-top')
-          .html(function(d){
-             var poi_text = "<br/>";
-             for (attribute in e.features[0].properties) {
-               if (attribute[0]  != attribute[0].toUpperCase() && attribute != "image") {
-                 poi_text = poi_text + attribute + ": " + e.features[0].properties[attribute] + "<br/>";
-               }
-              }
-              return "<strong>" + e.features[0].properties['name'] + "</strong><br/>" +
-                e.features[0].properties['Project_Description'] + "<br/>" +
-                "<em>" +  e.features[0].properties['Please_add_any_details_about_y'] + "</em>"
-                + "<img src='" + e.features[0].properties.image + "'/>";
-          });
-
-      });
-    });
-
+  });
 };
 </script>
 
