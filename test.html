@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Raster TMS + Symbols Test</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <link href='https://www.mapbox.com/base/latest/base.css' rel='stylesheet' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.css' rel='stylesheet' />
+
+    <style>
+        body { margin:0; padding:0; overflow:hidden;}
+        #map { position:absolute; top:0; bottom:0; left:0px; right:0px;}
+        #menu {
+          position: relative;
+          padding: 10px;
+          background: #fff;
+          width: 300px;
+          font-family: 'Open Sans', sans-serif;
+        }
+        input {
+            vertical-align: inherit
+        }
+    </style>
+</head>
+<body>
+<div id='map'></div>
+<div id='menu'>
+    <input id='symbol-osm' type='radio' name='rtoggle' checked value='symbol-osm'>
+    <label for='symbol-osm'>symbol-osm</label>
+    <input id='symbol-streets' type='radio' name='rtoggle' value='symbol-streets'>
+    <label for='symbol-streets'>symbol-streets</label>
+</div>
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoibWlrZWxtYXJvbiIsImEiOiJjaWZlY25lZGQ2cTJjc2trbmdiZDdjYjllIn0.Wx1n0X7aeCQyDTnK6_mrGw';
+var osm_style = {
+  "version": 8,
+  "sources": {
+    "openstreetmap-tiles": {
+      "type": "raster",
+      "tiles": [
+        "https://a.tile.openstreetmap.org/{z}/{x}/{y}.png",
+      ],
+      "tileSize": 256
+    }
+  },
+  "layers": [{
+    "id": "openstreetmap-layer",
+    "type": "raster",
+    "source": "openstreetmap-tiles",
+    "minzoom": 0,
+    "maxzoom": 18
+  }]
+};
+var map = new mapboxgl.Map({
+    container: 'map', // container id
+    style: osm_style,
+    center: [37.6004, -1.7805], // starting position
+    zoom: 12, // starting zoom
+    hash: true
+});
+map.addControl(new mapboxgl.NavigationControl());
+
+function loadPOI() {
+  if (map.getSource('poi')) {
+    addPoiLayer();
+    return;
+  }
+
+  getJSON({url:'data/wote-poi-only.geojson'}, function(err,poi){
+    map.addSource('poi', {
+      'type': 'geojson',
+        'data': poi
+    });
+    addPoiLayer();
+  });
+
+}
+
+map.on('style.load', function() {
+  loadPOI();
+});
+
+function addPoiLayer() {
+    map.addLayer({
+      'id': 'poi-layer',
+      'type': 'symbol',
+      'source': 'poi',
+      'layout': {
+        "icon-allow-overlap": true,
+        'icon-image': 'bus-15',
+        'visibility': 'visible'
+      }
+    });
+}
+
+function switchType(type) {
+    var typeId = type.target.id;
+    if (typeId == 'symbol-streets') {
+      map.setStyle('mapbox://styles/mapbox/streets-v9');
+    } else {
+      map.setStyle(osm_style);
+    }
+}
+
+var layerList = document.getElementById('menu');
+var inputs = layerList.getElementsByTagName('input');
+
+inputs[0].onclick = switchType;
+inputs[1].onclick = switchType;
+
+class AJAXError extends Error {
+    constructor(message, status, url) {
+        super(message);
+        this.status = status;
+        this.url = url;
+
+        // work around for https://github.com/Rich-Harris/buble/issues/40
+        this.name = this.constructor.name;
+        this.message = message;
+    }
+
+    toString() {
+        return `${this.name}: ${this.message} (${this.status}): ${this.url}`;
+    }
+}
+
+function makeRequest(requestParameters) {
+    const xhr = new window.XMLHttpRequest();
+
+    xhr.open('GET', requestParameters.url, true);
+    for (const k in requestParameters.headers) {
+        xhr.setRequestHeader(k, requestParameters.headers[k]);
+    }
+    xhr.withCredentials = requestParameters.credentials === 'include';
+    return xhr;
+};
+
+function getJSON(requestParameters, callback) {
+    const xhr = makeRequest(requestParameters);
+    xhr.setRequestHeader('Accept', 'application/json');
+    xhr.onerror = function() {
+        callback(new Error(xhr.statusText));
+    };
+    xhr.onload = function() {
+        if (xhr.status >= 200 && xhr.status < 300 && xhr.response) {
+            let data;
+            try {
+                data = JSON.parse(xhr.response);
+            } catch (err) {
+                return callback(err);
+            }
+            callback(null, data);
+        } else {
+            if (xhr.status === 401 && requestParameters.url.match(/mapbox.com/)) {
+                callback(new AJAXError(`${xhr.statusText}: you may have provided an invalid Mapbox access token. See https://www.mapbox.com/api-documentation/#access-tokens`, xhr.status, requestParameters.url));
+            } else {
+                callback(new AJAXError(xhr.statusText, xhr.status, requestParameters.url));
+            }
+        }
+    };
+    xhr.send();
+    return xhr;
+};
+
+</script>
+
+</body>
+</html>
