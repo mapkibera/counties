@@ -84,6 +84,7 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoibWlrZWxtYXJvbiIsImEiOiJjaWZlY25lZGQ2cTJjc2trbmdiZDdjYjllIn0.Wx1n0X7aeCQyDTnK6_mrGw';
 var osm_style = {
   "version": 8,
+  "sprite": "mapbox://sprites/mapbox/streets-v9",
   "sources": {
     "openstreetmap-tiles": {
       "type": "raster",
@@ -107,8 +108,8 @@ var map = new mapboxgl.Map({
     container: 'map', // container id
     style: osm_style,
     //style: 'mapbox://styles/mapbox/streets-v9', //stylesheet location
-    center: [37.6004, -1.7805], // starting position
-    zoom: 12, // starting zoom
+    center: [37.5066, -1.7366], // starting position
+    zoom: 11, // starting zoom
     hash: true
 });
 map.addControl(new mapboxgl.NavigationControl());
@@ -205,7 +206,7 @@ function cleanLabel(str){
 }
 
 map.on('style.load', function() {
-  loadProjects(); loadPOI();
+  loadPOI(); loadProjects();
 });
 map.on('render', function() {
   if (map.getLayer('projects-layer')) {
@@ -253,6 +254,7 @@ function addPoiLayer() {
         for (attribute in e.features[0].properties) {
           poi_text = poi_text + attribute + ": " + e.features[0].properties[attribute] + "<br/>";
         }
+        poi_text = poi_text + "<a target='_blank_' href='https://www.openstreetmap.org/node/" + e.features[0].properties['osm:id'] + "'>Open in OpenStreetMap</a>";
         return poi_text;
       });
 
@@ -266,7 +268,7 @@ function loadPOI() {
     return;
   }
 
-  getJSON({url:'data/wote-poi-only.geojson'}, function(err,poi){
+  getJSON({url:'data/makueni-poi-only.geojson'}, function(err,poi){
     map.addSource('poi', {
       'type': 'geojson',
         'data': poi
@@ -277,7 +279,7 @@ function loadPOI() {
 }
 
 function addProjectLayer() {
-  map.addLayer({
+  /* map.addLayer({
     'id': 'projects-layer',
     'type': 'circle',
     'source': 'projects',
@@ -288,8 +290,8 @@ function addProjectLayer() {
       'circle-radius': 5,
       'circle-color': '#ff7733'
     }
-  });
-  /* map.addLayer({
+  }); */
+   map.addLayer({
     'id': 'projects-layer',
     'type': 'symbol',
     'source': 'projects',
@@ -312,7 +314,7 @@ function addProjectLayer() {
           'circle-15'
       ]
     }
-  });*/
+  });
 
   function updateMap(dataset){
     map.getSource('projects').setData(dataset);
@@ -427,7 +429,7 @@ function addProjectLayer() {
               poi_text = poi_text + attribute + ": " + e.features[0].properties[attribute] + "<br/>";
             }
           }
-          return "<strong>" + e.features[0].properties['name'] + "</strong><br/>" +
+          return "<strong><a target='_blank_' href='https://www.openstreetmap.org/node/" + e.features[0].properties['osm:id'] + "'>" + e.features[0].properties['name'] + "</a></strong><br/>" +
             e.features[0].properties['Project_Description'] + "<br/>" +
             "<em>" +  e.features[0].properties['Please_add_any_details_about_y'] + "</em>"
             + "<img src='" + e.features[0].properties.image + "'/>";
@@ -441,7 +443,7 @@ function loadProjects() {
     addProjectLayer();
     return;
   }
-  getJSON({url:'data/wote-projects-matched.geojson'}, function(err,response){
+  getJSON({url:'data/makueni-projects-matched.geojson'}, function(err,response){
     projects = response;
     map.addSource('projects', {
       'type': 'geojson',
