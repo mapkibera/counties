@@ -528,25 +528,24 @@
     "type": "node",
     "id": "44990580",
     "tags": {
-      "created_by": "JOSM",
       "is_in": "Makueni,Kenya",
       "name": "Kikima",
       "place": "village"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2007-09-07T14:34:04Z",
-      "version": "1",
-      "changeset": "376211",
-      "user": "Gregory Williams",
-      "uid": "7037"
+      "timestamp": "2018-06-19T11:42:16Z",
+      "version": "2",
+      "changeset": "59975609",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      37.45,
-      -1.6666
+      37.4474088,
+      -1.6617002
     ]
   }
 },
@@ -25428,6 +25427,354 @@
     "coordinates": [
       37.4257257,
       -1.6690648
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5702426107",
+  "properties": {
+    "type": "node",
+    "id": "5702426107",
+    "tags": {
+      "amenity": "school",
+      "gender_type": "mixed",
+      "government_registered": "moe",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526644906625.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526645102006.jpg",
+      "name": "Ukala Secondary School",
+      "operator": "Government",
+      "operator:type": "government",
+      "type": "secondary",
+      "wb_pb:id": "22762087"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-06-19T13:02:01Z",
+      "version": "1",
+      "changeset": "59978573",
+      "user": "muindre",
+      "uid": "261050"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.4091567,
+      -1.666735
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5702426108",
+  "properties": {
+    "type": "node",
+    "id": "5702426108",
+    "tags": {
+      "amenity": "school",
+      "gender_type": "mixed",
+      "government_registered": "moe",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526645594217.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526645742645.jpg",
+      "name": "Ukala CTTI",
+      "operator": "Ukala ccti",
+      "operator:type": "government",
+      "type": "tertiary",
+      "wb_pb:id": "22762180"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-06-19T13:02:01Z",
+      "version": "1",
+      "changeset": "59978573",
+      "user": "muindre",
+      "uid": "261050"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.4092383,
+      -1.6654567
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5702426109",
+  "properties": {
+    "type": "node",
+    "id": "5702426109",
+    "tags": {
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526893088780.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526893286009.jpg",
+      "name": "Kyumbuni Earthdam",
+      "opening_hours_002": "24/7",
+      "operational_status": "operational",
+      "type": "earth_dam",
+      "wb_pb:id": "22946694"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-06-19T13:02:01Z",
+      "version": "1",
+      "changeset": "59978573",
+      "user": "muindre",
+      "uid": "261050"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.40648,
+      -1.6693599
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5702426110",
+  "properties": {
+    "type": "node",
+    "id": "5702426110",
+    "tags": {
+      "amenity": "school",
+      "gender_type": "mixed",
+      "government_registered": "moe",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526895488397.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526896030669.jpg",
+      "name": "Miuusini ECDE",
+      "operator": "Government",
+      "operator:type": "government",
+      "type": "pre_primary",
+      "wb_pb:id": "22946839"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-06-19T13:02:01Z",
+      "version": "1",
+      "changeset": "59978573",
+      "user": "muindre",
+      "uid": "261050"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.409875,
+      -1.6844067
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5702426111",
+  "properties": {
+    "type": "node",
+    "id": "5702426111",
+    "tags": {
+      "amenity": "toilets",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526899881025.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526900164789.jpg",
+      "name": "Fruit storage structure",
+      "opening_hours": "mo-fr 7:00",
+      "type": "Public toilet",
+      "wb_pb:id": "22947198",
+      "wheelchair": "yes"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-06-19T13:02:02Z",
+      "version": "1",
+      "changeset": "59978573",
+      "user": "muindre",
+      "uid": "261050"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.4214933,
+      -1.6710017
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5702426112",
+  "properties": {
+    "type": "node",
+    "id": "5702426112",
+    "tags": {
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526900446479.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526900667538.jpg",
+      "name": "Kyuu fruit storage structure toilet",
+      "opening_hours": "mo-fr 7:00",
+      "type": "Fruit storage",
+      "wb_pb:id": "22947305",
+      "wheelchair": "no"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-06-19T13:02:02Z",
+      "version": "1",
+      "changeset": "59978573",
+      "user": "muindre",
+      "uid": "261050"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.421425,
+      -1.67146
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5702426113",
+  "properties": {
+    "type": "node",
+    "id": "5702426113",
+    "tags": {
+      "amenity": "clinic",
+      "dispensing": "yes",
+      "family_planning": "yes",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979060966.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979252615.jpg",
+      "immunization": "yes",
+      "malaria": "yes",
+      "name": "Katilini Dispensary Mbooni",
+      "opening_hours": "mo-fr 7:00-7:00",
+      "pregancy_test": "yes",
+      "wb_pb:id": "22947667"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-06-19T13:02:02Z",
+      "version": "1",
+      "changeset": "59978573",
+      "user": "muindre",
+      "uid": "261050"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.427395,
+      -1.6666217
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5702426114",
+  "properties": {
+    "type": "node",
+    "id": "5702426114",
+    "tags": {
+      "Electricity": "none",
+      "General_medical_services": "yes",
+      "amenity": "clinic",
+      "dispensing": "yes",
+      "family_planning": "yes",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979412203.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979616729.jpg",
+      "immunization": "yes",
+      "malaria": "yes",
+      "name": "Katilini dispensary (staffs guarter)",
+      "opening_hours": "mo-fr 7:00-7:0",
+      "pregancy_test": "yes",
+      "wb_pb:id": "22947695"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-06-19T13:02:02Z",
+      "version": "1",
+      "changeset": "59978573",
+      "user": "muindre",
+      "uid": "261050"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.4275183,
+      -1.666555
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5702426115",
+  "properties": {
+    "type": "node",
+    "id": "5702426115",
+    "tags": {
+      "General_medical_services": "yes",
+      "Referal": "Mbooni hospital",
+      "amenity": "clinic",
+      "dispensing": "yes",
+      "electricity": "sometime",
+      "family_planning": "yes",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983904704.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526984129492.jpg",
+      "immunization": "yes",
+      "malaria": "yes",
+      "name": "Ebenezer dispensary water tank",
+      "opening_hours": "mo-fr 7:00-7:00",
+      "pregancy_test": "yes",
+      "wb_pb:id": "22951663"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-06-19T13:02:02Z",
+      "version": "1",
+      "changeset": "59978573",
+      "user": "muindre",
+      "uid": "261050"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.691382,
+      -1.6248991
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5702426116",
+  "properties": {
+    "type": "node",
+    "id": "5702426116",
+    "tags": {
+      "amenity": "place_of_worship",
+      "building_type": "church",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526642677569.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526642893477.jpg",
+      "name": "AIC Mutanda",
+      "religion": "christian",
+      "service_times": "7:30",
+      "wb_pb:id": "22952267"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-06-19T13:02:03Z",
+      "version": "1",
+      "changeset": "59978573",
+      "user": "muindre",
+      "uid": "261050"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.4582663,
+      -1.6207012
     ]
   }
 }

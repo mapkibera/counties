@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.3 9da5e7ae">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2018-06-18T21:06:02Z"/>
+<meta osm_base="2018-06-19T14:04:02Z"/>
 
   <bounds minlat="-1.8769500" minlon="37.3700000" maxlat="-1.5900700" maxlon="37.7359800"/>
 
@@ -5495,6 +5495,124 @@
     <tag k="type" v="public_market"/>
     <tag k="wb_pb:id" v="22956649"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5702426107" lat="-1.6667350" lon="37.4091567" version="1" timestamp="2018-06-19T13:02:01Z" changeset="59978573" uid="261050" user="muindre">
+    <tag k="amenity" v="school"/>
+    <tag k="gender_type" v="mixed"/>
+    <tag k="government_registered" v="moe"/>
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526644906625.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526645102006.jpg"/>
+    <tag k="name" v="Ukala Secondary School"/>
+    <tag k="operator" v="Government"/>
+    <tag k="operator:type" v="government"/>
+    <tag k="type" v="secondary"/>
+    <tag k="wb_pb:id" v="22762087"/>
+  </node>
+  <node id="5702426108" lat="-1.6654567" lon="37.4092383" version="1" timestamp="2018-06-19T13:02:01Z" changeset="59978573" uid="261050" user="muindre">
+    <tag k="amenity" v="school"/>
+    <tag k="gender_type" v="mixed"/>
+    <tag k="government_registered" v="moe"/>
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526645594217.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526645742645.jpg"/>
+    <tag k="name" v="Ukala CTTI"/>
+    <tag k="operator" v="Ukala ccti"/>
+    <tag k="operator:type" v="government"/>
+    <tag k="type" v="tertiary"/>
+    <tag k="wb_pb:id" v="22762180"/>
+  </node>
+  <node id="5702426109" lat="-1.6693599" lon="37.4064800" version="1" timestamp="2018-06-19T13:02:01Z" changeset="59978573" uid="261050" user="muindre">
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526893088780.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526893286009.jpg"/>
+    <tag k="name" v="Kyumbuni Earthdam"/>
+    <tag k="opening_hours_002" v="24/7"/>
+    <tag k="operational_status" v="operational"/>
+    <tag k="type" v="earth_dam"/>
+    <tag k="wb_pb:id" v="22946694"/>
+  </node>
+  <node id="5702426110" lat="-1.6844067" lon="37.4098750" version="1" timestamp="2018-06-19T13:02:01Z" changeset="59978573" uid="261050" user="muindre">
+    <tag k="amenity" v="school"/>
+    <tag k="gender_type" v="mixed"/>
+    <tag k="government_registered" v="moe"/>
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526895488397.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526896030669.jpg"/>
+    <tag k="name" v="Miuusini ECDE"/>
+    <tag k="operator" v="Government"/>
+    <tag k="operator:type" v="government"/>
+    <tag k="type" v="pre_primary"/>
+    <tag k="wb_pb:id" v="22946839"/>
+  </node>
+  <node id="5702426111" lat="-1.6710017" lon="37.4214933" version="1" timestamp="2018-06-19T13:02:02Z" changeset="59978573" uid="261050" user="muindre">
+    <tag k="amenity" v="toilets"/>
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526899881025.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526900164789.jpg"/>
+    <tag k="name" v="Fruit storage structure"/>
+    <tag k="opening_hours" v="mo-fr 7:00"/>
+    <tag k="type" v="Public toilet"/>
+    <tag k="wb_pb:id" v="22947198"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5702426112" lat="-1.6714600" lon="37.4214250" version="1" timestamp="2018-06-19T13:02:02Z" changeset="59978573" uid="261050" user="muindre">
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526900446479.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526900667538.jpg"/>
+    <tag k="name" v="Kyuu fruit storage structure toilet"/>
+    <tag k="opening_hours" v="mo-fr 7:00"/>
+    <tag k="type" v="Fruit storage"/>
+    <tag k="wb_pb:id" v="22947305"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5702426113" lat="-1.6666217" lon="37.4273950" version="1" timestamp="2018-06-19T13:02:02Z" changeset="59978573" uid="261050" user="muindre">
+    <tag k="amenity" v="clinic"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="family_planning" v="yes"/>
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979060966.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979252615.jpg"/>
+    <tag k="immunization" v="yes"/>
+    <tag k="malaria" v="yes"/>
+    <tag k="name" v="Katilini Dispensary Mbooni"/>
+    <tag k="opening_hours" v="mo-fr 7:00-7:00"/>
+    <tag k="pregancy_test" v="yes"/>
+    <tag k="wb_pb:id" v="22947667"/>
+  </node>
+  <node id="5702426114" lat="-1.6665550" lon="37.4275183" version="1" timestamp="2018-06-19T13:02:02Z" changeset="59978573" uid="261050" user="muindre">
+    <tag k="Electricity" v="none"/>
+    <tag k="General_medical_services" v="yes"/>
+    <tag k="amenity" v="clinic"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="family_planning" v="yes"/>
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979412203.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979616729.jpg"/>
+    <tag k="immunization" v="yes"/>
+    <tag k="malaria" v="yes"/>
+    <tag k="name" v="Katilini dispensary (staffs guarter)"/>
+    <tag k="opening_hours" v="mo-fr 7:00-7:0"/>
+    <tag k="pregancy_test" v="yes"/>
+    <tag k="wb_pb:id" v="22947695"/>
+  </node>
+  <node id="5702426115" lat="-1.6248991" lon="37.6913820" version="1" timestamp="2018-06-19T13:02:02Z" changeset="59978573" uid="261050" user="muindre">
+    <tag k="General_medical_services" v="yes"/>
+    <tag k="Referal" v="Mbooni hospital"/>
+    <tag k="amenity" v="clinic"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="electricity" v="sometime"/>
+    <tag k="family_planning" v="yes"/>
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983904704.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526984129492.jpg"/>
+    <tag k="immunization" v="yes"/>
+    <tag k="malaria" v="yes"/>
+    <tag k="name" v="Ebenezer dispensary water tank"/>
+    <tag k="opening_hours" v="mo-fr 7:00-7:00"/>
+    <tag k="pregancy_test" v="yes"/>
+    <tag k="wb_pb:id" v="22951663"/>
+  </node>
+  <node id="5702426116" lat="-1.6207012" lon="37.4582663" version="1" timestamp="2018-06-19T13:02:03Z" changeset="59978573" uid="261050" user="muindre">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building_type" v="church"/>
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526642677569.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526642893477.jpg"/>
+    <tag k="name" v="AIC Mutanda"/>
+    <tag k="religion" v="christian"/>
+    <tag k="service_times" v="7:30"/>
+    <tag k="wb_pb:id" v="22952267"/>
   </node>
 
 </osm>

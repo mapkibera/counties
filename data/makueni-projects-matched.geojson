@@ -3175,6 +3175,64 @@
     {
       "geometry": {
         "coordinates": [
+          37.4091567, 
+          -1.666735
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Not complete", 
+        "Project_Description": "Incomplete", 
+        "Project_Name_or_Title": "Ukala secondary", 
+        "What_is_the_project_s_apparent_status": "in_progress", 
+        "amenity": "school", 
+        "gender_type": "mixed", 
+        "government_registered": "moe", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526644906625.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526645102006.jpg", 
+        "name": "Ukala Secondary School", 
+        "operator": "Government", 
+        "operator:type": "government", 
+        "osm:id": "5702426107", 
+        "type": "secondary", 
+        "wb_pb:id": "22762087"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4092383, 
+          -1.6654567
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Construction underway", 
+        "Project_Description": "Not yet started", 
+        "Project_Name_or_Title": "Ukala ccti", 
+        "What_is_the_project_s_apparent_status": "not_yet_starte", 
+        "amenity": "school", 
+        "gender_type": "mixed", 
+        "government_registered": "moe", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526645594217.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526645742645.jpg", 
+        "name": "Ukala CTTI", 
+        "operator": "Ukala ccti", 
+        "operator:type": "government", 
+        "osm:id": "5702426108", 
+        "type": "tertiary", 
+        "wb_pb:id": "22762180"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           37.4402029, 
           -1.6653302
         ], 
@@ -3418,6 +3476,176 @@
         "osm:id": "5637308465", 
         "type": "Earth Dam", 
         "wb_pb:id": "22946341"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.40648, 
+          -1.6693599
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "Category": "water_irrigati", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "It's helping the villages in domestic use", 
+        "Project_Description": "In good condition", 
+        "Project_Name_or_Title": "Kyumbuni earthdam", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526893088780.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526893286009.jpg", 
+        "name": "Kyumbuni Earthdam", 
+        "opening_hours_002": "24/7", 
+        "operational_status": "operational", 
+        "osm:id": "5702426109", 
+        "type": "earth_dam", 
+        "wb_pb:id": "22946694"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.409875, 
+          -1.6844067
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Needs another ecdeteacher for the population is high", 
+        "Project_Description": "Finished and equipped", 
+        "Project_Name_or_Title": "Miuusini ecde", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "gender_type": "mixed", 
+        "government_registered": "moe", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526895488397.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526896030669.jpg", 
+        "name": "Miuusini ECDE", 
+        "operator": "Government", 
+        "operator:type": "government", 
+        "osm:id": "5702426110", 
+        "type": "pre_primary", 
+        "wb_pb:id": "22946839"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4214933, 
+          -1.6710017
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "Category": "agriculture", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "The concerned department should sensitize the community about the project.", 
+        "Project_Description": "Complete", 
+        "Project_Name_or_Title": "Kyuu fruit storage structure", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "toilets", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526899881025.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526900164789.jpg", 
+        "name": "Fruit storage structure", 
+        "opening_hours": "mo-fr 7:00", 
+        "osm:id": "5702426111", 
+        "type": "Public toilet", 
+        "wb_pb:id": "22947198", 
+        "wheelchair": "yes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.421425, 
+          -1.67146
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "Category": "agriculture", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Helping the community during produce seasons.", 
+        "Project_Description": "Complete", 
+        "Project_Name_or_Title": "Kyuu fruit storage structure (toilet)", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526900446479.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526900667538.jpg", 
+        "name": "Kyuu fruit storage structure toilet", 
+        "opening_hours": "mo-fr 7:00", 
+        "osm:id": "5702426112", 
+        "type": "Fruit storage", 
+        "wb_pb:id": "22947305", 
+        "wheelchair": "no"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.427395, 
+          -1.6666217
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "Category": "health", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "It's free no charges and no long distance", 
+        "Project_Description": "Need for electricity for laboratory services", 
+        "Project_Name_or_Title": "Katilini dispensary", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "family_planning": "yes", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979060966.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979252615.jpg", 
+        "immunization": "yes", 
+        "malaria": "yes", 
+        "name": "Katilini Dispensary Mbooni", 
+        "opening_hours": "mo-fr 7:00-7:00", 
+        "osm:id": "5702426113", 
+        "pregancy_test": "yes", 
+        "wb_pb:id": "22947667"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4275183, 
+          -1.666555
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "Category": "health", 
+        "Electricity": "none", 
+        "General_medical_services": "yes", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "There is need for a toilet for the staffs quarters", 
+        "Project_Description": "Not complete", 
+        "Project_Name_or_Title": "Katilini staffs quarters", 
+        "What_is_the_project_s_apparent_status": "not_yet_starte", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "family_planning": "yes", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979412203.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979616729.jpg", 
+        "immunization": "yes", 
+        "malaria": "yes", 
+        "name": "Katilini dispensary (staffs guarter)", 
+        "opening_hours": "mo-fr 7:00-7:0", 
+        "osm:id": "5702426114", 
+        "pregancy_test": "yes", 
+        "wb_pb:id": "22947695"
       }, 
       "type": "Feature"
     }, 
@@ -3756,6 +3984,66 @@
         "osm:id": "5637519162", 
         "pregancy_est": "yes", 
         "wb_pb:id": "22951661"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.691382, 
+          -1.6248991
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "Category": "health", 
+        "General_medical_services": "yes", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "It's functioning and provides the dispensary with water storage", 
+        "Project_Description": "Ebenezer water tank", 
+        "Project_Name_or_Title": "Ebenezer water tank", 
+        "Referal": "Mbooni hospital", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "sometime", 
+        "family_planning": "yes", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983904704.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526984129492.jpg", 
+        "immunization": "yes", 
+        "malaria": "yes", 
+        "name": "Ebenezer dispensary water tank", 
+        "opening_hours": "mo-fr 7:00-7:00", 
+        "osm:id": "5702426115", 
+        "pregancy_test": "yes", 
+        "wb_pb:id": "22951663"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4582663, 
+          -1.6207012
+        ], 
+        "type": "Point"
+      }, 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "The project has promoted early childhood education in the region", 
+        "Project_Description": "Construction of ECDE centre", 
+        "Project_Name_or_Title": "AIC mutanda ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "place_of_worship", 
+        "building_type": "church", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526642677569.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526642893477.jpg", 
+        "name": "AIC Mutanda", 
+        "osm:id": "5702426116", 
+        "religion": "christian", 
+        "service_times": "7:30", 
+        "wb_pb:id": "22952267"
       }, 
       "type": "Feature"
     }, 
