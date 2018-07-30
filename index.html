@@ -272,7 +272,7 @@ function addPoiLayer() {
         var poi_text = '';
         for (attribute in e.features[0].properties) {
           if (! ["is_in", "osm:id", "wikidata", "created_by"].includes(attribute)) {
-            poi_text = poi_text + "<strong>" + attribute + "</strong>: " + e.features[0].properties[attribute] + "<br/>";
+            poi_text = poi_text + "<strong>" + attribute + "</strong>: " + cleanLabel(e.features[0].properties[attribute]) + "<br/>";
           }
         }
         poi_text = poi_text + "<a target='_blank_' href='https://www.openstreetmap.org/node/" + e.features[0].properties['osm:id'] + "'>Open in OpenStreetMap</a>";
