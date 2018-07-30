@@ -73,7 +73,7 @@ def match_projects():
 
          feature.properties['tags']['osm:id'] = feature.properties['id']
 
-         result['features'].append( { "type": "Feature", "properties": feature.properties['tags'], "geometry": feature.geometry })
+         result['features'].append( { "type": "Feature", "id": feature.properties["id"], "properties": feature.properties['tags'], "geometry": feature.geometry })
 
     if found_match == False:
       print "WARN: no project id match " +  row['_id']
@@ -90,7 +90,7 @@ def filter_poi():
    for feature in osm.features:
        if feature.properties['tags'].get('wb_pb:id', None) == None:
            feature.properties['tags']['osm:id'] = feature.properties['id']
-           result['features'].append({ "type": "Feature", "properties": feature.properties['tags'], "geometry": feature.geometry })
+           result['features'].append({ "type": "Feature",  "id": feature.properties["id"], "properties": feature.properties['tags'], "geometry": feature.geometry })
 
    dump = geojson.dumps(result, sort_keys=True, indent=2)
    writefile('makueni-poi-only.geojson',dump)

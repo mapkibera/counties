@@ -7,8 +7,8 @@
     <link href='https://www.mapbox.com/base/latest/base.css' rel='stylesheet' />
 
     <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.js'></script>
-    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.47.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.47.0/mapbox-gl.css' rel='stylesheet' />
 
     <style>
         body { margin:0; padding:0; overflow:hidden;}
@@ -85,6 +85,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoibWlrZWxtYXJvbiIsImEiOiJjaWZlY25lZGQ2cTJjc2trb
 var osm_style = {
   "version": 8,
   "sprite": "mapbox://sprites/mapbox/streets-v9",
+  "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
   "sources": {
     "openstreetmap-tiles": {
       "type": "raster",
@@ -139,6 +140,10 @@ var inputs = layerList.getElementsByTagName('input');
 inputs[0].onclick = switchLayer;
 inputs[1].onclick = switchLayer;
 inputs[2].onclick = switchPOI;
+
+
+var selectedPoiId;
+var selectedProjectId;
 
 class AJAXError extends Error {
     constructor(message, status, url) {
@@ -229,13 +234,27 @@ function addPoiLayer() {
       'visibility': visibility
     },
     'paint': {
-      'circle-radius': 5,
+      'circle-radius':  [
+        'case',
+          ["boolean", ["feature-state", 'selected'], false],
+                7.5,
+                5
+      ],
       'circle-color': '#3377ff'
-    }
+    },
   });
 
   map.on('click', 'poi-layer', function (e) {
     var coordinates = e.features[0].geometry.coordinates.slice();
+
+    if (selectedPoiId) {
+        map.setFeatureState({source: 'poi', id: selectedPoiId}, { selected: false});
+    }
+    if (selectedProjectId) {
+        map.setFeatureState({source: 'projects', id: selectedProjectId}, { selected: false});
+    }
+    selectedPoiId = e.features[0].id;
+    map.setFeatureState({source: 'poi', id: selectedPoiId}, { selected: true});
 
     // Ensure that if the map is zoomed out such that multiple
     // copies of the feature are visible, the popup appears
@@ -300,6 +319,7 @@ function addProjectLayer() {
     'layout': {
       "icon-allow-overlap": true,
       'visibility': 'visible',
+      'text-field': "___",
       'icon-image': [
         'match',
           ['get', 'Category'],
@@ -314,6 +334,14 @@ function addProjectLayer() {
           'finance', 'bank-15',
           'gender', 'triangle-15',
           'circle-15'
+      ]
+    },
+    'paint': {
+      'text-opacity': [
+        'case',
+          ["boolean", ["feature-state", 'selected'], false],
+                1,
+                0
       ]
     }
   });
@@ -411,6 +439,15 @@ function addProjectLayer() {
 
     map.on('click', 'projects-layer', function (e) {
       var coordinates = e.features[0].geometry.coordinates.slice();
+
+      if (selectedProjectId) {
+          map.setFeatureState({source: 'projects', id: selectedProjectId}, { selected: false});
+      }
+      if (selectedPoiId) {
+          map.setFeatureState({source: 'poi', id: selectedPoiId}, { selected: false});
+      }
+      selectedProjectId = e.features[0].id;
+      map.setFeatureState({source: 'projects', id: selectedProjectId}, { selected: true});
 
       // Ensure that if the map is zoomed out such that multiple
       // copies of the feature are visible, the popup appears
