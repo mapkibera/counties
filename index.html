@@ -124,6 +124,7 @@ function switchLayer(layer) {
     }
 }
 
+
 function switchPOI() {
   var visibility = map.getLayoutProperty('poi-layer', 'visibility');
 
@@ -211,7 +212,7 @@ function cleanLabel(str){
 }
 
 map.on('style.load', function() {
-  loadPOI(); loadProjects();
+  loadPOI(); loadProjects(); loadBoundary();
 });
 map.on('render', function() {
   if (map.getLayer('projects-layer')) {
@@ -493,6 +494,74 @@ function loadProjects() {
 
   });
 };
+
+
+function addBoundaryLayer() {
+  map.addLayer({
+    'id': 'boundary-layer',
+    'type': 'line',
+    'source': 'boundary',
+    "filter": [
+      "==",
+      "$type",
+      "Polygon"
+    ],
+    "layout": {},
+    "paint": {
+      "line-color": "hsl(301, 44%, 71%)",
+      "line-width": 3
+    }
+  });
+  map.addLayer({
+    "id": "boundary-text",
+    "type": "symbol",
+    "source": "boundary",
+    "filter": [
+      "==",
+      "$type",
+      "Polygon"
+    ],
+    "layout": {
+      "visibility": "visible",
+      "symbol-placement": "line",
+      "text-rotation-alignment": "map",
+      "text-offset": [
+        0,
+        1
+      ],
+      "text-field": [
+        "to-string",
+        [
+          "get",
+          "name"
+        ]
+      ],
+      "text-font": [
+        "Open Sans Italic",
+        "Arial Unicode MS Regular"
+      ]
+    },
+    "paint": {
+      "text-opacity": 1
+    }
+  });
+}
+
+function loadBoundary() {
+  if (map.getSource('boundary')) {
+    addBoundaryLayer();
+    return;
+  }
+
+  getJSON({url:'data/boundary.geojson'}, function(err,boundary){
+    map.addSource('boundary', {
+      'type': 'geojson',
+      'data': boundary
+    });
+    addBoundaryLayer();
+  });
+
+}
 </script>
 
 </body>
