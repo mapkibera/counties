@@ -83,7 +83,7 @@ def match_projects(county):
          result['features'].append( { "type": "Feature", "id": feature.properties["id"], "properties": feature.properties['tags'], "geometry": feature.geometry })
 
     if found_match == False:
-      print "WARN: no project id match " +  row['_id']
+      print "WARN: " + county + " no project id match " +  row['_id']
 
   dump = geojson.dumps(result, sort_keys=True, indent=2)
   writefile(county + '-projects-matched.geojson',dump)

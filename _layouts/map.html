@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>{{page.title}}</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <link href='https://www.mapbox.com/base/latest/base.css' rel='stylesheet' />
+
+    <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.47.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.47.0/mapbox-gl.css' rel='stylesheet' />
+
+    <style>
+        body { margin:0; padding:0; overflow:hidden;}
+        #map { position:absolute; top:0; bottom:0; left:400px; right:0px;}
+        #sidebar{
+            width:400px;
+            overflow:hidden;
+            top: 0px;
+            bottom: 0px;
+            position:absolute;
+        }
+        #menu {
+          position: relative;
+          left: 400px;
+          padding: 10px;
+          background: #fff;
+          width: 240px;
+          font-family: 'Open Sans', sans-serif;
+        }
+        input {
+            vertical-align: inherit
+        }
+
+        .half {
+            height:50%;
+            overflow:scroll;
+        }
+
+        .forty {
+          height: 40%;
+          overflow: scroll;
+        }
+        .sixty {
+          height: 60%;
+          overflow: scroll;
+        }
+
+        .title {
+            padding:10px;
+            text-transform:uppercase;
+            margin-bottom:0px;
+        }
+        .count {
+          float: right;
+        }
+    </style>
+</head>
+<body>
+<div id='map'></div>
+<div id='menu'>
+    <input id='streets' type='radio' name='rtoggle' checked value='streets'>
+    <label for='streets'>streets</label>
+    <input id='satellite-streets' type='radio' name='rtoggle' value='satellite-streets'>
+    <label for='satellite-streets'>satellite</label>
+    <input id='poi' type='checkbox' name='rtoggle' checked value='poi'>
+    <label for='poi'>POI</label>
+</div>
+
+<div id='sidebar' class='keyline-right'>
+    <div class='title fill-denim dark'>Filter by <span class='count' id="project-count"></span></div>
+    <div class='forty keyline-bottom'>
+        <div class='filters margin0'>
+        </div>
+    </div>
+    <div class='title fill-denim dark'>Details</div>
+    <div class='sixty'>
+        <div class='list'>
+        </div>
+    </div>
+</div>
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoibWlrZWxtYXJvbiIsImEiOiJjaWZlY25lZGQ2cTJjc2trbmdiZDdjYjllIn0.Wx1n0X7aeCQyDTnK6_mrGw';
+var osm_style = {
+  "version": 8,
+  "sprite": "mapbox://sprites/mapbox/streets-v9",
+  "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
+  "sources": {
+    "openstreetmap-tiles": {
+      "type": "raster",
+      "tiles": [
+        "https://a.tile.openstreetmap.org/{z}/{x}/{y}.png",
+        "https://b.tile.openstreetmap.org/{z}/{x}/{y}.png",
+        "https://c.tile.openstreetmap.org/{z}/{x}/{y}.png"
+      ],
+      "tileSize": 256
+    }
+  },
+  "layers": [{
+    "id": "openstreetmap-layer",
+    "type": "raster",
+    "source": "openstreetmap-tiles",
+    "minzoom": 0,
+    "maxzoom": 18
+  }]
+};
+var map = new mapboxgl.Map({
+    container: 'map', // container id
+    style: osm_style,
+    //style: 'mapbox://styles/mapbox/streets-v9', //stylesheet location
+    center: [{{page.lon}}, {{page.lat}}], // starting position
+    zoom: {{page.zoom}}, // starting zoom
+    hash: true
+});
+map.addControl(new mapboxgl.NavigationControl());
+
+function switchLayer(layer) {
+    var layerId = layer.target.id;
+    if (layerId == "streets") {
+      map.setStyle(osm_style);
+    } else {
+      map.setStyle('mapbox://styles/mapbox/' + layerId + '-v9');
+    }
+}
+
+
+function switchPOI() {
+  var visibility = map.getLayoutProperty('poi-layer', 'visibility');
+
+  if (visibility === 'visible') {
+    map.setLayoutProperty('poi-layer', 'visibility', 'none');
+  } else {
+    map.setLayoutProperty('poi-layer', 'visibility', 'visible');
+  }
+}
+
+var layerList = document.getElementById('menu');
+var inputs = layerList.getElementsByTagName('input');
+
+inputs[0].onclick = switchLayer;
+inputs[1].onclick = switchLayer;
+inputs[2].onclick = switchPOI;
+
+
+var selectedPoiId;
+var selectedProjectId;
+
+class AJAXError extends Error {
+    constructor(message, status, url) {
+        super(message);
+        this.status = status;
+        this.url = url;
+
+        // work around for https://github.com/Rich-Harris/buble/issues/40
+        this.name = this.constructor.name;
+        this.message = message;
+    }
+
+    toString() {
+        return `${this.name}: ${this.message} (${this.status}): ${this.url}`;
+    }
+}
+
+function makeRequest(requestParameters) {
+    const xhr = new window.XMLHttpRequest();
+
+    xhr.open('GET', requestParameters.url, true);
+    for (const k in requestParameters.headers) {
+        xhr.setRequestHeader(k, requestParameters.headers[k]);
+    }
+    xhr.withCredentials = requestParameters.credentials === 'include';
+    return xhr;
+};
+
+function getJSON(requestParameters, callback) {
+    const xhr = makeRequest(requestParameters);
+    xhr.setRequestHeader('Accept', 'application/json');
+    xhr.onerror = function() {
+        callback(new Error(xhr.statusText));
+    };
+    xhr.onload = function() {
+        if (xhr.status >= 200 && xhr.status < 300 && xhr.response) {
+            let data;
+            try {
+                data = JSON.parse(xhr.response);
+            } catch (err) {
+                return callback(err);
+            }
+            callback(null, data);
+        } else {
+            if (xhr.status === 401 && requestParameters.url.match(/mapbox.com/)) {
+                callback(new AJAXError(`${xhr.statusText}: you may have provided an invalid Mapbox access token. See https://www.mapbox.com/api-documentation/#access-tokens`, xhr.status, requestParameters.url));
+            } else {
+                callback(new AJAXError(xhr.statusText, xhr.status, requestParameters.url));
+            }
+        }
+    };
+    xhr.send();
+    return xhr;
+};
+
+function getSecondPart(str) {
+  return str.split(' - ')[1];
+}
+
+function cleanLabel(str){
+  str = str.charAt(0).toUpperCase() + str.slice(1);
+  str = str.replace(/_/g,' ');
+  str = str.replace(/ s /g, "'s ");
+  return str;
+}
+
+map.on('style.load', function() {
+  loadPOI(); loadProjects(); loadBoundary();
+});
+map.on('render', function() {
+  if (map.getLayer('projects-layer')) {
+    var features = map.queryRenderedFeatures({ layers: ['projects-layer'] });
+    d3.select('#project-count')
+      .text( features.length + " projects visible")
+  }
+});
+
+
+function addPoiLayer() {
+  var visibility = "none";
+  if (inputs[2].checked) visibility = "visible";
+
+  map.addLayer({
+    'id': 'poi-layer',
+    'type': 'circle',
+    'source': 'poi',
+    'layout': {
+      'visibility': visibility
+    },
+    'paint': {
+      'circle-radius':  [
+        'case',
+          ["boolean", ["feature-state", 'selected'], false],
+                7.5,
+                5
+      ],
+      'circle-color': '#3377ff'
+    },
+  });
+
+  map.on('click', 'poi-layer', function (e) {
+    var coordinates = e.features[0].geometry.coordinates.slice();
+
+    if (selectedPoiId) {
+        map.setFeatureState({source: 'poi', id: selectedPoiId}, { selected: false});
+    }
+    if (selectedProjectId) {
+        map.setFeatureState({source: 'projects', id: selectedProjectId}, { selected: false});
+    }
+    selectedPoiId = e.features[0].id;
+    map.setFeatureState({source: 'poi', id: selectedPoiId}, { selected: true});
+
+    // Ensure that if the map is zoomed out such that multiple
+    // copies of the feature are visible, the popup appears
+    // over the copy being pointed to.
+    while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+      coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+    }
+
+    d3.select('.entry').remove();
+
+    d3.select('.list')
+      .append('div')
+      .attr('class', 'entry pad2 keyline-top')
+      .html(function(d){
+        var poi_text = '';
+        for (attribute in e.features[0].properties) {
+          if (! ["is_in", "osm:id", "wikidata", "created_by"].includes(attribute)) {
+            poi_text = poi_text + "<strong>" + attribute + "</strong>: " + cleanLabel(e.features[0].properties[attribute]) + "<br/>";
+          }
+        }
+        poi_text = poi_text + "<a target='_blank_' href='https://www.openstreetmap.org/node/" + e.features[0].properties['osm:id'] + "'>Open in OpenStreetMap</a>";
+        return poi_text;
+      });
+
+  });
+
+}
+
+function loadPOI() {
+  if (map.getSource('poi')) {
+    addPoiLayer();
+    return;
+  }
+
+  getJSON({url:'{{page.poi}}'}, function(err,poi){
+    map.addSource('poi', {
+      'type': 'geojson',
+        'data': poi
+    });
+    addPoiLayer();
+  });
+
+}
+
+function addProjectLayer() {
+  /* map.addLayer({
+    'id': 'projects-layer',
+    'type': 'circle',
+    'source': 'projects',
+    'layout': {
+      'visibility': 'visible'
+    },
+    'paint': {
+      'circle-radius': 5,
+      'circle-color': '#ff7733'
+    }
+  }); */
+   map.addLayer({
+    'id': 'projects-layer',
+    'type': 'symbol',
+    'source': 'projects',
+    'layout': {
+      "icon-allow-overlap": true,
+      'text-allow-overlap': true,
+      'visibility': 'visible',
+      'text-field': "___",
+      'icon-image': [
+        'match',
+          ['get', 'Category'],
+          'trade', 'shop-15',
+          'transport', 'bus-15',
+          'Transport, Public Works and Infrasctructure', 'bus-15',
+          'agriculture', 'garden-15',
+          'Agriculture, Livestock and Fisheries', 'garden-15',
+          'water_irrigati', 'drinking-water-15',
+          'Water and Irrigation', 'drinking-water-15',
+          'health', 'hospital-15',
+          'Health Services', 'hospital-15',
+          'education', 'college-15',
+          'Education, Sports, Culture and Social services', 'college-15',
+          'environment', 'park-15',
+          'Environment, Natural Resource, Tourism and Wildlife Management', 'park-15',
+          'devolution', 'townhall-15',
+          'finance', 'bank-15',
+          'gender', 'triangle-15',
+          'circle-15'
+      ]
+    },
+    'paint': {
+      'text-opacity': [
+        'case',
+          ["boolean", ["feature-state", 'selected'], false],
+                1,
+                0
+      ]
+    }
+  });
+
+  function updateMap(dataset){
+    map.getSource('projects').setData(dataset);
+  }
+
+  function filterReports(filterAttributes, excludedValues) {
+    var filteredResult = projects.features;
+
+    // iterate through attributes to prune reports recursively
+    filterAttributes.forEach(function(Attribute, attributeIndex){
+
+    //if there are no excluded values for this attribute, skip it
+    if (excludedValues[attributeIndex].length===0) return;
+    filteredResult =
+      filteredResult.filter(function(project){
+        return excludedValues[attributeIndex].indexOf(project.properties[Attribute]) === -1
+      });
+    });
+
+    return {'type':'FeatureCollection', 'features': filteredResult};
+  }
+
+  function applyFilter(){
+    //generate list of all unchecked boxes, in same order as the list attributesToFilter
+    var exclusions = [[], [],[],[],[],[]];
+    var unchecked =
+      d3.selectAll('input:not(:checked)')
+        .each(function(){
+          var filterIndex = d3.select(this).attr('filterIndex');
+            if (filterIndex != undefined)
+              exclusions[filterIndex].push(getSecondPart(d3.select(this).attr('id')));
+        });
+
+    updateMap(filterReports(attributesToFilter, exclusions));
+
+  }
+
+  var attributesToFilter = ['Category', 'What_is_the_project_s_apparent_status', 'In_your_opinion_is_the_project_quality'];
+
+  var filterValues = [];
+  // get all extant values for each attribute, to populate filter UI
+  attributesToFilter.forEach(function(attribute, index){
+    var attributeValues = [];
+    projects.features.forEach(function(project){
+      if (attributeValues.indexOf(project.properties[attribute])==-1) attributeValues.push(project.properties[attribute])
+    });
+
+    filterValues.push(attributeValues);
+  });
+
+  var filter = d3.select('.filters')
+    .selectAll('.filter')
+    .data(filterValues)
+    .enter()
+    .append('div')
+    .attr('class', 'filter space-top2');
+
+  filter
+    .append('h3')
+    .attr('class', 'space-bottom0')
+    .text(function(d,i){return cleanLabel(attributesToFilter[i])});
+
+  filter
+    .each(function(d,i){
+      var filterSection = d3.select(this);
+
+      d.forEach(function(value){
+        // checkboxes
+        var tick = filterSection
+          .append('div')
+          .attr('class', 'small quiet inline space-right0');
+
+        tick
+          .append('input')
+          .attr('type', 'checkbox')
+          .attr('id', i+' - '+value) // inserting i to disambiguate the Others in multiple categories
+          .attr('filterIndex', i)
+          .attr('checked', 'checked')
+          .on('change', applyFilter);
+
+        // labels for checkboxes
+        tick
+          .append('label')
+          .attr('class', 'small quiet')
+          .attr('for', i+' - '+value)
+          .text(cleanLabel(value));
+
+      });
+    });
+
+    applyFilter();
+
+    map.on('click', 'projects-layer', function (e) {
+      var coordinates = e.features[0].geometry.coordinates.slice();
+
+      if (selectedProjectId) {
+          map.setFeatureState({source: 'projects', id: selectedProjectId}, { selected: false});
+      }
+      if (selectedPoiId) {
+          map.setFeatureState({source: 'poi', id: selectedPoiId}, { selected: false});
+      }
+      selectedProjectId = e.features[0].id;
+      map.setFeatureState({source: 'projects', id: selectedProjectId}, { selected: true});
+
+      // Ensure that if the map is zoomed out such that multiple
+      // copies of the feature are visible, the popup appears
+      // over the copy being pointed to.
+      while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+        coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+      }
+
+      d3.select('.entry').remove();
+
+      d3.select('.list')
+        .append('div')
+        .attr('class', 'entry pad2 keyline-top')
+        .html(function(d){
+          var poi_text = "<br/>";
+          for (attribute in e.features[0].properties) {
+            if (attribute[0]  != attribute[0].toUpperCase() && attribute != "image") {
+              poi_text = poi_text + attribute + ": " + e.features[0].properties[attribute] + "<br/>";
+            }
+          }
+          var image = e.features[0].properties.image || e.features[0].properties['image:project'];
+          return "<strong><a target='_blank_' href='https://www.openstreetmap.org/node/" + e.features[0].properties['osm:id'] + "'>" + e.features[0].properties['name'] + "</a></strong><br/>" +
+            e.features[0].properties['Project_Description'] + "<br/>" +
+            "<em>" +  e.features[0].properties['Please_add_any_details_about_y'] + "</em>"
+            + "<img src='" + image + "'/>";
+        });
+    });
+}
+
+var projects;
+function loadProjects() {
+  if (map.getSource('projects')) {
+    addProjectLayer();
+    return;
+  }
+  getJSON({url:'{{page.projects}}'}, function(err,response){
+    projects = response;
+    map.addSource('projects', {
+      'type': 'geojson',
+      'data': projects
+    });
+    addProjectLayer();
+
+  });
+};
+
+
+function addBoundaryLayer() {
+  map.addLayer({
+    'id': 'boundary-layer',
+    'type': 'line',
+    'source': 'boundary',
+    "filter": [
+      "==",
+      "$type",
+      "Polygon"
+    ],
+    "layout": {},
+    "paint": {
+      "line-color": "hsl(301, 44%, 71%)",
+      "line-width": 3
+    }
+  });
+  map.addLayer({
+    "id": "boundary-text",
+    "type": "symbol",
+    "source": "boundary",
+    "filter": [
+      "==",
+      "$type",
+      "Polygon"
+    ],
+    "layout": {
+      "visibility": "visible",
+      "symbol-placement": "line",
+      "text-rotation-alignment": "map",
+      "text-offset": [
+        0,
+        1
+      ],
+      "text-field": [
+        "to-string",
+        [
+          "get",
+          "name"
+        ]
+      ],
+      "text-font": [
+        "Open Sans Italic",
+        "Arial Unicode MS Regular"
+      ]
+    },
+    "paint": {
+      "text-opacity": 1
+    }
+  });
+}
+
+function loadBoundary() {
+  if (map.getSource('boundary')) {
+    addBoundaryLayer();
+    return;
+  }
+
+  getJSON({url:'{{page.boundary}}'}, function(err,boundary){
+    map.addSource('boundary', {
+      'type': 'geojson',
+      'data': boundary
+    });
+    addBoundaryLayer();
+  });
+
+}
+</script>
+
+</body>
+</html>
