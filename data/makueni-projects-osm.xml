@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.4 3079d8ea">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2018-07-30T14:45:02Z"/>
+<meta osm_base="2018-08-08T01:49:02Z"/>
 
   <bounds minlat="-1.8769500" minlon="37.3700000" maxlat="-1.5900700" maxlon="37.7359800"/>
 
@@ -783,8 +783,8 @@
     <tag k="wb_pb:id" v="21683535"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5588163875" lat="-1.7827054" lon="37.6350190" version="2" timestamp="2018-05-09T12:19:22Z" changeset="58817917" uid="265690" user="fondolucy">
-    <tag k="building" v="residentials"/>
+  <node id="5588163875" lat="-1.7827054" lon="37.6350190" version="3" timestamp="2018-08-02T07:29:27Z" changeset="61287120" uid="85218" user="Aleks-Berlin">
+    <tag k="building" v="residential"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524480908282.jpg"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="type" v="Residential Apartments"/>
@@ -3288,20 +3288,20 @@
     <tag k="type" v="secondary"/>
     <tag k="wb_pb:id" v="22948443"/>
   </node>
-  <node id="5637244512" lat="-1.6335388" lon="37.3865283" version="1" timestamp="2018-05-23T12:00:31Z" changeset="59208834" uid="8123810" user="Ms Ruth">
-    <tag k="Electricity" v="sometime"/>
-    <tag k="General_medical_services" v="yes"/>
-    <tag k="Referal" v="Makueni and Machakos"/>
+  <node id="5637244512" lat="-1.6335388" lon="37.3865283" version="2" timestamp="2018-08-04T18:35:54Z" changeset="61359703" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
-    <tag k="family_planning" v="yes"/>
+    <tag k="electricity" v="sometime"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526635616970.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526635845734.jpg"/>
-    <tag k="immunization" v="no"/>
-    <tag k="malaria" v="yes"/>
+    <tag k="medical_service:family_planning" v="yes"/>
+    <tag k="medical_service:general_medical_services" v="yes"/>
+    <tag k="medical_service:immunizations" v="no"/>
+    <tag k="medical_service:malaria" v="yes"/>
+    <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Kali Dispensary"/>
     <tag k="opening_hours" v="mo-fr 7:00-7:00"/>
-    <tag k="pregancy_test" v="yes"/>
+    <tag k="referal" v="Makueni and Machakos"/>
     <tag k="wb_pb:id" v="22948127"/>
   </node>
   <node id="5637244513" lat="-1.6300575" lon="37.3964900" version="1" timestamp="2018-05-23T12:00:31Z" changeset="59208834" uid="8123810" user="Ms Ruth">
@@ -4476,20 +4476,20 @@
     <tag k="wb_pb:id" v="22950729"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5637519162" lat="-1.6306172" lon="37.4684729" version="2" timestamp="2018-06-21T08:48:12Z" changeset="60035752" uid="345975" user="VlIvYur">
-    <tag k="Electricity" v="sometime"/>
-    <tag k="Referal" v="Mbooni"/>
+  <node id="5637519162" lat="-1.6306172" lon="37.4684729" version="3" timestamp="2018-08-04T18:35:54Z" changeset="61359703" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
-    <tag k="family_planning" v="yes"/>
-    <tag k="general_medical_services" v="yes"/>
+    <tag k="electricity" v="sometime"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983431363.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983765499.jpg"/>
-    <tag k="immunization" v="yes"/>
-    <tag k="malaria" v="yes"/>
+    <tag k="medical_service:family_planning" v="yes"/>
+    <tag k="medical_service:general_medical_services" v="yes"/>
+    <tag k="medical_service:immunizations" v="yes"/>
+    <tag k="medical_service:malaria" v="yes"/>
+    <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Ebenezer"/>
     <tag k="opening_hours" v="Mo-Fr 07:00-19:00"/>
-    <tag k="pregancy_est" v="yes"/>
+    <tag k="referal" v="Mbooni"/>
     <tag k="wb_pb:id" v="22951661"/>
   </node>
   <node id="5637519163" lat="-1.6195063" lon="37.4776500" version="1" timestamp="2018-05-23T13:47:39Z" changeset="59212330" uid="261050" user="muindre">
@@ -4986,15 +4986,15 @@
     <tag k="wb_pb:id" v="22956697"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5641419316" lat="-1.6631030" lon="37.4451453" version="1" timestamp="2018-05-25T09:45:19Z" changeset="59265042" uid="261050" user="muindre">
+  <node id="5641419316" lat="-1.6631030" lon="37.4451453" version="2" timestamp="2018-08-04T18:35:55Z" changeset="61359703" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
-    <tag k="family_planning" v="yes"/>
-    <tag k="general_medical_services" v="yes"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526982939420.jpg"/>
-    <tag k="immunization" v="yes"/>
-    <tag k="malaria" v="yes"/>
+    <tag k="medical_service:family_planning" v="yes"/>
+    <tag k="medical_service:general_medical_services" v="yes"/>
+    <tag k="medical_service:immunizations" v="yes"/>
+    <tag k="medical_service:malaria" v="yes"/>
     <tag k="name" v="DG Peter's Medical Center"/>
     <tag k="opening_hours" v="Mo- Fr 7:00-7:00"/>
     <tag k="wb_pb:id" v="22956694"/>
@@ -5050,19 +5050,19 @@
     <tag k="wb_pb:id" v="22956655"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5641420323" lat="-1.6629221" lon="37.4469354" version="1" timestamp="2018-05-25T09:45:20Z" changeset="59265042" uid="261050" user="muindre">
-    <tag k="Electricity" v="always"/>
-    <tag k="General_medical_services" v="no"/>
-    <tag k="Referal" v="No"/>
+  <node id="5641420323" lat="-1.6629221" lon="37.4469354" version="2" timestamp="2018-08-04T18:35:55Z" changeset="61359703" uid="616774" user="mueschel">
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="no"/>
-    <tag k="family_planning" v="no"/>
+    <tag k="electricity" v="always"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526980659962.jpg"/>
-    <tag k="immunization" v="no"/>
-    <tag k="malaria" v="no"/>
+    <tag k="medical_service:family_planning" v="no"/>
+    <tag k="medical_service:general_medical_services" v="no"/>
+    <tag k="medical_service:immunizations" v="no"/>
+    <tag k="medical_service:malaria" v="no"/>
+    <tag k="medical_service:pregnancy_test" v="no"/>
     <tag k="name" v="Longonot Chemist"/>
     <tag k="opening_hours" v="Mo-Fr 7:00-7:00"/>
-    <tag k="pregancy_test" v="no"/>
+    <tag k="referal" v="No"/>
     <tag k="wb_pb:id" v="22956648"/>
   </node>
   <node id="5641420324" lat="-1.6630873" lon="37.4468629" version="1" timestamp="2018-05-25T09:45:20Z" changeset="59265042" uid="261050" user="muindre">
@@ -5385,20 +5385,20 @@
     <tag k="name_5" v="Mbooni Sub County Hospital"/>
     <tag k="wb_pb:id" v="22958290"/>
   </node>
-  <node id="5641420360" lat="-1.6590352" lon="37.4545954" version="1" timestamp="2018-05-25T09:45:24Z" changeset="59265042" uid="261050" user="muindre">
-    <tag k="Electricity" v="always"/>
-    <tag k="Referal" v="Machakos Referral hospital"/>
+  <node id="5641420360" lat="-1.6590352" lon="37.4545954" version="2" timestamp="2018-08-04T18:35:55Z" changeset="61359703" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
-    <tag k="family_planning" v="yes"/>
-    <tag k="general_medical_services" v="yes"/>
+    <tag k="electricity" v="always"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526898625144.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526899020838.jpg"/>
-    <tag k="immunization" v="yes"/>
-    <tag k="malaria" v="yes"/>
+    <tag k="medical_service:family_planning" v="yes"/>
+    <tag k="medical_service:general_medical_services" v="yes"/>
+    <tag k="medical_service:immunizations" v="yes"/>
+    <tag k="medical_service:malaria" v="yes"/>
+    <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Bosnia Sub-County Hospital"/>
     <tag k="opening_hours" v="24/7"/>
-    <tag k="pregancy_test" v="yes"/>
+    <tag k="referal" v="Machakos Referral hospital"/>
     <tag k="wb_pb:id" v="22958288"/>
   </node>
   <node id="5641420361" lat="-1.6556145" lon="37.4445859" version="2" timestamp="2018-05-25T10:17:21Z" changeset="59266141" uid="261050" user="muindre">
@@ -5489,48 +5489,48 @@
     <tag k="wb_pb:id" v="22947305"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5702426113" lat="-1.6666217" lon="37.4273950" version="1" timestamp="2018-06-19T13:02:02Z" changeset="59978573" uid="261050" user="muindre">
+  <node id="5702426113" lat="-1.6666217" lon="37.4273950" version="2" timestamp="2018-08-04T18:35:55Z" changeset="61359703" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
-    <tag k="family_planning" v="yes"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979060966.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979252615.jpg"/>
-    <tag k="immunization" v="yes"/>
-    <tag k="malaria" v="yes"/>
+    <tag k="medical_service:family_planning" v="yes"/>
+    <tag k="medical_service:immunizations" v="yes"/>
+    <tag k="medical_service:malaria" v="yes"/>
+    <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Katilini Dispensary Mbooni"/>
     <tag k="opening_hours" v="mo-fr 7:00-7:00"/>
-    <tag k="pregancy_test" v="yes"/>
     <tag k="wb_pb:id" v="22947667"/>
   </node>
-  <node id="5702426114" lat="-1.6665550" lon="37.4275183" version="1" timestamp="2018-06-19T13:02:02Z" changeset="59978573" uid="261050" user="muindre">
-    <tag k="Electricity" v="none"/>
-    <tag k="General_medical_services" v="yes"/>
+  <node id="5702426114" lat="-1.6665550" lon="37.4275183" version="2" timestamp="2018-08-04T18:35:56Z" changeset="61359703" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
-    <tag k="family_planning" v="yes"/>
+    <tag k="electricity" v="none"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979412203.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979616729.jpg"/>
-    <tag k="immunization" v="yes"/>
-    <tag k="malaria" v="yes"/>
+    <tag k="medical_service:family_planning" v="yes"/>
+    <tag k="medical_service:general_medical_services" v="yes"/>
+    <tag k="medical_service:immunizations" v="yes"/>
+    <tag k="medical_service:malaria" v="yes"/>
+    <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Katilini dispensary (staffs guarter)"/>
     <tag k="opening_hours" v="mo-fr 7:00-7:0"/>
-    <tag k="pregancy_test" v="yes"/>
     <tag k="wb_pb:id" v="22947695"/>
   </node>
-  <node id="5702426115" lat="-1.6248991" lon="37.6913820" version="1" timestamp="2018-06-19T13:02:02Z" changeset="59978573" uid="261050" user="muindre">
-    <tag k="General_medical_services" v="yes"/>
-    <tag k="Referal" v="Mbooni hospital"/>
+  <node id="5702426115" lat="-1.6248991" lon="37.6913820" version="2" timestamp="2018-08-04T18:35:57Z" changeset="61359703" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="sometime"/>
-    <tag k="family_planning" v="yes"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983904704.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526984129492.jpg"/>
-    <tag k="immunization" v="yes"/>
-    <tag k="malaria" v="yes"/>
+    <tag k="medical_service:family_planning" v="yes"/>
+    <tag k="medical_service:general_medical_services" v="yes"/>
+    <tag k="medical_service:immunizations" v="yes"/>
+    <tag k="medical_service:malaria" v="yes"/>
+    <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Ebenezer dispensary water tank"/>
     <tag k="opening_hours" v="mo-fr 7:00-7:00"/>
-    <tag k="pregancy_test" v="yes"/>
+    <tag k="referal" v="Mbooni hospital"/>
     <tag k="wb_pb:id" v="22951663"/>
   </node>
   <node id="5702426116" lat="-1.6207012" lon="37.4582663" version="1" timestamp="2018-06-19T13:02:03Z" changeset="59978573" uid="261050" user="muindre">

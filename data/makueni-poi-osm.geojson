@@ -6354,7 +6354,7 @@
     "type": "node",
     "id": "5588163875",
     "tags": {
-      "building": "residentials",
+      "building": "residential",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524480908282.jpg",
       "opening_hours": "24/7",
       "type": "Residential Apartments",
@@ -6364,11 +6364,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-09T12:19:22Z",
-      "version": "2",
-      "changeset": "58817917",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-08-02T07:29:27Z",
+      "version": "3",
+      "changeset": "61287120",
+      "user": "Aleks-Berlin",
+      "uid": "85218"
     }
   },
   "geometry": {
@@ -17712,28 +17712,28 @@
     "type": "node",
     "id": "5637244512",
     "tags": {
-      "Electricity": "sometime",
-      "General_medical_services": "yes",
-      "Referal": "Makueni and Machakos",
       "amenity": "hospital",
       "dispensing": "yes",
-      "family_planning": "yes",
+      "electricity": "sometime",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526635616970.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526635845734.jpg",
-      "immunization": "no",
-      "malaria": "yes",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunizations": "no",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
       "name": "Kali Dispensary",
       "opening_hours": "mo-fr 7:00-7:00",
-      "pregancy_test": "yes",
+      "referal": "Makueni and Machakos",
       "wb_pb:id": "22948127"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T12:00:31Z",
-      "version": "1",
-      "changeset": "59208834",
-      "user": "Ms Ruth",
-      "uid": "8123810"
+      "timestamp": "2018-08-04T18:35:54Z",
+      "version": "2",
+      "changeset": "61359703",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -21767,28 +21767,28 @@
     "type": "node",
     "id": "5637519162",
     "tags": {
-      "Electricity": "sometime",
-      "Referal": "Mbooni",
       "amenity": "clinic",
       "dispensing": "yes",
-      "family_planning": "yes",
-      "general_medical_services": "yes",
+      "electricity": "sometime",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983431363.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983765499.jpg",
-      "immunization": "yes",
-      "malaria": "yes",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
       "name": "Ebenezer",
       "opening_hours": "Mo-Fr 07:00-19:00",
-      "pregancy_est": "yes",
+      "referal": "Mbooni",
       "wb_pb:id": "22951661"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-06-21T08:48:12Z",
-      "version": "2",
-      "changeset": "60035752",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2018-08-04T18:35:54Z",
+      "version": "3",
+      "changeset": "61359703",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -23591,22 +23591,22 @@
       "amenity": "clinic",
       "dispensing": "yes",
       "electricity": "always",
-      "family_planning": "yes",
-      "general_medical_services": "yes",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526982939420.jpg",
-      "immunization": "yes",
-      "malaria": "yes",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
       "name": "DG Peter's Medical Center",
       "opening_hours": "Mo- Fr 7:00-7:00",
       "wb_pb:id": "22956694"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T09:45:19Z",
-      "version": "1",
-      "changeset": "59265042",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2018-08-04T18:35:55Z",
+      "version": "2",
+      "changeset": "61359703",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -23813,27 +23813,27 @@
     "type": "node",
     "id": "5641420323",
     "tags": {
-      "Electricity": "always",
-      "General_medical_services": "no",
-      "Referal": "No",
       "amenity": "pharmacy",
       "dispensing": "no",
-      "family_planning": "no",
+      "electricity": "always",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526980659962.jpg",
-      "immunization": "no",
-      "malaria": "no",
+      "medical_service:family_planning": "no",
+      "medical_service:general_medical_services": "no",
+      "medical_service:immunizations": "no",
+      "medical_service:malaria": "no",
+      "medical_service:pregnancy_test": "no",
       "name": "Longonot Chemist",
       "opening_hours": "Mo-Fr 7:00-7:00",
-      "pregancy_test": "no",
+      "referal": "No",
       "wb_pb:id": "22956648"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T09:45:20Z",
-      "version": "1",
-      "changeset": "59265042",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2018-08-04T18:35:55Z",
+      "version": "2",
+      "changeset": "61359703",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -24999,28 +24999,28 @@
     "type": "node",
     "id": "5641420360",
     "tags": {
-      "Electricity": "always",
-      "Referal": "Machakos Referral hospital",
       "amenity": "hospital",
       "dispensing": "yes",
-      "family_planning": "yes",
-      "general_medical_services": "yes",
+      "electricity": "always",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526898625144.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526899020838.jpg",
-      "immunization": "yes",
-      "malaria": "yes",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
       "name": "Bosnia Sub-County Hospital",
       "opening_hours": "24/7",
-      "pregancy_test": "yes",
+      "referal": "Machakos Referral hospital",
       "wb_pb:id": "22958288"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T09:45:24Z",
-      "version": "1",
-      "changeset": "59265042",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2018-08-04T18:35:55Z",
+      "version": "2",
+      "changeset": "61359703",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -25363,23 +25363,23 @@
     "tags": {
       "amenity": "clinic",
       "dispensing": "yes",
-      "family_planning": "yes",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979060966.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979252615.jpg",
-      "immunization": "yes",
-      "malaria": "yes",
+      "medical_service:family_planning": "yes",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
       "name": "Katilini Dispensary Mbooni",
       "opening_hours": "mo-fr 7:00-7:00",
-      "pregancy_test": "yes",
       "wb_pb:id": "22947667"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-06-19T13:02:02Z",
-      "version": "1",
-      "changeset": "59978573",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2018-08-04T18:35:55Z",
+      "version": "2",
+      "changeset": "61359703",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -25397,27 +25397,27 @@
     "type": "node",
     "id": "5702426114",
     "tags": {
-      "Electricity": "none",
-      "General_medical_services": "yes",
       "amenity": "clinic",
       "dispensing": "yes",
-      "family_planning": "yes",
+      "electricity": "none",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979412203.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979616729.jpg",
-      "immunization": "yes",
-      "malaria": "yes",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
       "name": "Katilini dispensary (staffs guarter)",
       "opening_hours": "mo-fr 7:00-7:0",
-      "pregancy_test": "yes",
       "wb_pb:id": "22947695"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-06-19T13:02:02Z",
-      "version": "1",
-      "changeset": "59978573",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2018-08-04T18:35:56Z",
+      "version": "2",
+      "changeset": "61359703",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -25435,28 +25435,28 @@
     "type": "node",
     "id": "5702426115",
     "tags": {
-      "General_medical_services": "yes",
-      "Referal": "Mbooni hospital",
       "amenity": "clinic",
       "dispensing": "yes",
       "electricity": "sometime",
-      "family_planning": "yes",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983904704.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526984129492.jpg",
-      "immunization": "yes",
-      "malaria": "yes",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
       "name": "Ebenezer dispensary water tank",
       "opening_hours": "mo-fr 7:00-7:00",
-      "pregancy_test": "yes",
+      "referal": "Mbooni hospital",
       "wb_pb:id": "22951663"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-06-19T13:02:02Z",
-      "version": "1",
-      "changeset": "59978573",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2018-08-04T18:35:57Z",
+      "version": "2",
+      "changeset": "61359703",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
