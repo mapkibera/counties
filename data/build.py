@@ -35,7 +35,7 @@ def sync_osm():
   url2file(url_base + makueni,"makueni-projects-osm.xml")
   url2file(url_base + baringo,"baringo-projects-osm.xml")
 
-  url_base = "http://overpass-api.de/api/interpreter?data=[bbox];node[~'.'~'.'];out%20meta;&bbox="
+  url_base = "http://overpass-api.de/api/interpreter?data=[bbox];node[~'.'~'.'](newer:'2018-05-01T00:00:00Z');out%20meta;&bbox="
   url2file(url_base + makueni,"makueni-poi-osm.xml")
   url2file(url_base + baringo,"baringo-poi-osm.xml")
 

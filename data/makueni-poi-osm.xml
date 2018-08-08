@@ -1,498 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.4 3079d8ea">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2018-08-08T02:07:02Z"/>
+<meta osm_base="2018-08-08T02:30:02Z"/>
 
   <bounds minlat="-1.8769500" minlon="37.3700000" maxlat="-1.5900700" maxlon="37.7359800"/>
 
-  <node id="44910351" lat="-1.7803167" lon="37.6290353" version="4" timestamp="2017-10-14T10:52:56Z" changeset="52921058" uid="528240" user="toyotagps">
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Wote"/>
-    <tag k="place" v="town"/>
-    <tag k="wikidata" v="Q7193508"/>
-  </node>
-  <node id="44910867" lat="-1.7000000" lon="37.4500000" version="1" timestamp="2007-09-07T13:14:56Z" changeset="376211" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Utangwa"/>
-    <tag k="place" v="village"/>
-  </node>
-  <node id="44913804" lat="-1.8666000" lon="37.4000000" version="2" timestamp="2010-10-26T09:56:58Z" changeset="6180462" uid="74900" user="FischersFritz">
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Wautu"/>
-    <tag k="place" v="village"/>
-  </node>
-  <node id="44924164" lat="-1.8178943" lon="37.5364803" version="2" timestamp="2013-02-04T14:27:39Z" changeset="14910572" uid="420883" user="joedal-osm">
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Nziu"/>
-    <tag k="place" v="village"/>
-  </node>
-  <node id="44924167" lat="-1.7666000" lon="37.4500000" version="1" timestamp="2007-09-07T13:27:57Z" changeset="376211" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Nzuuni"/>
-    <tag k="place" v="village"/>
-  </node>
-  <node id="44924228" lat="-1.7666000" lon="37.5000000" version="1" timestamp="2007-09-07T13:27:58Z" changeset="376211" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Okia"/>
-    <tag k="place" v="village"/>
-  </node>
-  <node id="44924356" lat="-1.8333000" lon="37.7000000" version="2" timestamp="2016-11-18T06:01:29Z" changeset="43754735" uid="472018" user="DenisCarriere">
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Ngosini West"/>
-    <tag k="place" v="village"/>
-    <tag k="wikidata" v="Q7022586"/>
-  </node>
-  <node id="44924362" lat="-1.8333000" lon="37.7000000" version="1" timestamp="2007-09-07T13:28:05Z" changeset="376211" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Ngosini-West Detention Camp"/>
-    <tag k="place" v="village"/>
-  </node>
-  <node id="44929018" lat="-1.6166858" lon="37.4654177" version="2" timestamp="2013-04-27T03:36:49Z" changeset="15878924" uid="343553" user="mathias_on_the_road">
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Mbooni Mission"/>
-    <tag k="place" v="village"/>
-  </node>
-  <node id="44929132" lat="-1.6166000" lon="37.4666000" version="2" timestamp="2016-11-18T06:01:32Z" changeset="43754735" uid="472018" user="DenisCarriere">
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Mbooni"/>
-    <tag k="place" v="village"/>
-    <tag k="wikidata" v="Q6799755"/>
-  </node>
-  <node id="44929136" lat="-1.6666000" lon="37.4500000" version="2" timestamp="2016-11-18T06:01:32Z" changeset="43754735" uid="472018" user="DenisCarriere">
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Mbooni"/>
-    <tag k="place" v="village"/>
-    <tag k="wikidata" v="Q6799755"/>
-  </node>
-  <node id="44929168" lat="-1.6223090" lon="37.5616920" version="3" timestamp="2016-11-18T06:01:32Z" changeset="43754735" uid="472018" user="DenisCarriere">
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Mbumbuni"/>
-    <tag k="place" v="village"/>
-    <tag k="wikidata" v="Q6799813"/>
-  </node>
-  <node id="44929854" lat="-1.6166000" lon="37.4166000" version="2" timestamp="2016-11-18T06:01:33Z" changeset="43754735" uid="472018" user="DenisCarriere">
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Mavindu"/>
-    <tag k="place" v="village"/>
-    <tag k="wikidata" v="Q6794229"/>
-  </node>
-  <node id="44930606" lat="-1.8000000" lon="37.5833000" version="3" timestamp="2018-04-16T10:00:47Z" changeset="58132580" uid="6124644" user="Steve Mbuvi">
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Malivani"/>
-    <tag k="place" v="village"/>
-    <tag k="wikidata" v="Q6743381"/>
-  </node>
-  <node id="44930674" lat="-1.8000000" lon="37.6166000" version="1" timestamp="2007-09-07T13:33:48Z" changeset="376211" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Makueni"/>
-    <tag k="place" v="village"/>
-  </node>
-  <node id="44930711" lat="-1.6500000" lon="37.6999980" version="3" timestamp="2016-11-18T06:01:33Z" changeset="43754735" uid="472018" user="DenisCarriere">
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="is_in:country" v="Kenya"/>
-    <tag k="name" v="Makinya"/>
-    <tag k="place" v="village"/>
-    <tag k="wikidata" v="Q6739728"/>
-  </node>
-  <node id="44933082" lat="-1.6666000" lon="37.5000000" version="1" timestamp="2007-09-07T13:35:54Z" changeset="376211" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Kithungo"/>
-    <tag k="place" v="village"/>
-  </node>
-  <node id="44933099" lat="-1.6666000" lon="37.5000000" version="1" timestamp="2007-09-07T13:35:54Z" changeset="376211" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Kithungu"/>
-    <tag k="place" v="village"/>
-  </node>
   <node id="44990580" lat="-1.6617002" lon="37.4474088" version="2" timestamp="2018-06-19T11:42:16Z" changeset="59975609" uid="261050" user="muindre">
     <tag k="is_in" v="Makueni,Kenya"/>
     <tag k="name" v="Kikima"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="44990662" lat="-1.8000000" lon="37.3833000" version="1" timestamp="2007-09-07T14:34:07Z" changeset="376211" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Kikoko"/>
-    <tag k="place" v="village"/>
-  </node>
-  <node id="44992658" lat="-1.7666000" lon="37.5500000" version="1" timestamp="2007-09-07T14:36:40Z" changeset="376211" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Kilala"/>
-    <tag k="place" v="village"/>
-  </node>
-  <node id="44997232" lat="-1.7833000" lon="37.3833000" version="2" timestamp="2016-11-18T06:01:37Z" changeset="43754735" uid="472018" user="DenisCarriere">
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Katulye"/>
-    <tag k="place" v="village"/>
-    <tag k="wikidata" v="Q15045695"/>
-  </node>
-  <node id="44997268" lat="-1.7333000" lon="37.5833000" version="2" timestamp="2016-11-18T06:01:37Z" changeset="43754735" uid="472018" user="DenisCarriere">
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Kaumoni"/>
-    <tag k="place" v="village"/>
-    <tag k="wikidata" v="Q15045696"/>
-  </node>
-  <node id="44998816" lat="-1.7333000" lon="37.5166000" version="2" timestamp="2016-11-18T06:01:38Z" changeset="43754735" uid="472018" user="DenisCarriere">
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Iuani"/>
-    <tag k="place" v="village"/>
-    <tag k="wikidata" v="Q15045681"/>
-  </node>
-  <node id="44998961" lat="-1.7833000" lon="37.4000000" version="2" timestamp="2016-11-18T06:01:39Z" changeset="43754735" uid="472018" user="DenisCarriere">
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Inyokoni"/>
-    <tag k="place" v="village"/>
-    <tag k="wikidata" v="Q15045676"/>
-  </node>
-  <node id="44999024" lat="-1.6500000" lon="37.4500000" version="1" timestamp="2007-09-07T14:43:49Z" changeset="376211" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Ithemboni"/>
-    <tag k="place" v="village"/>
-  </node>
-  <node id="44999324" lat="-1.6333000" lon="37.3833000" version="1" timestamp="2007-09-07T14:44:07Z" changeset="376211" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Kali"/>
-    <tag k="place" v="village"/>
-  </node>
-  <node id="44999328" lat="-1.6500000" lon="37.7000000" version="1" timestamp="2007-09-07T14:44:07Z" changeset="376211" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Kalawa Market"/>
-    <tag k="place" v="village"/>
-  </node>
-  <node id="44999344" lat="-1.6500000" lon="37.7000000" version="1" timestamp="2007-09-07T14:44:08Z" changeset="376211" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Kalawa"/>
-    <tag k="place" v="village"/>
-  </node>
-  <node id="44999365" lat="-1.8666000" lon="37.5166000" version="1" timestamp="2007-09-07T14:44:09Z" changeset="376211" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="is_in" v="Makueni,Kenya"/>
-    <tag k="name" v="Kalamba"/>
-    <tag k="place" v="village"/>
-  </node>
-  <node id="2129367798" lat="-1.7476684" lon="37.4602625" version="1" timestamp="2013-01-26T15:42:33Z" changeset="14794049" uid="343553" user="mathias_on_the_road">
-    <tag k="amenity" v="fuel"/>
-  </node>
-  <node id="2129369298" lat="-1.7824240" lon="37.6260552" version="2" timestamp="2018-04-16T10:30:01Z" changeset="58133305" uid="8123781" user="Ngumbau Samuel">
-    <tag k="amenity" v="fuel"/>
-    <tag k="fuel:diesel" v="yes"/>
-    <tag k="name" v="Kapeo Filling Station"/>
-    <tag k="payment:cash" v="yes"/>
-  </node>
-  <node id="2141391531" lat="-1.8495587" lon="37.5320542" version="1" timestamp="2013-02-04T14:27:13Z" changeset="14910572" uid="420883" user="joedal-osm">
-    <tag k="place" v="village"/>
-  </node>
-  <node id="2362998644" lat="-1.8152932" lon="37.5356848" version="1" timestamp="2013-06-27T12:14:16Z" changeset="16725872" uid="1589009" user="eunice254">
-    <tag k="amenity" v="school"/>
-  </node>
-  <node id="2362999295" lat="-1.8160250" lon="37.5372539" version="1" timestamp="2013-06-27T12:14:55Z" changeset="16725872" uid="1589009" user="eunice254">
-    <tag k="amenity" v="hospital"/>
-  </node>
-  <node id="2362999370" lat="-1.8160840" lon="37.5380264" version="1" timestamp="2013-06-27T12:15:22Z" changeset="16725872" uid="1589009" user="eunice254">
-    <tag k="amenity" v="school"/>
-  </node>
-  <node id="2363000494" lat="-1.8157730" lon="37.5354300" version="1" timestamp="2013-06-27T12:17:37Z" changeset="16725872" uid="1589009" user="eunice254">
-    <tag k="leisure" v="playground"/>
-  </node>
-  <node id="2363000495" lat="-1.8168400" lon="37.5378386" version="1" timestamp="2013-06-27T12:17:37Z" changeset="16725872" uid="1589009" user="eunice254">
-    <tag k="amenity" v="school"/>
-  </node>
-  <node id="2363000739" lat="-1.8170867" lon="37.5386218" version="1" timestamp="2013-06-27T12:17:45Z" changeset="16725872" uid="1589009" user="eunice254">
-    <tag k="leisure" v="playground"/>
-  </node>
-  <node id="2363002835" lat="-1.8196603" lon="37.5369320" version="1" timestamp="2013-06-27T12:20:08Z" changeset="16725872" uid="1589009" user="eunice254">
-    <tag k="highway" v="bus_stop"/>
-  </node>
-  <node id="2363003820" lat="-1.8182073" lon="37.5376026" version="1" timestamp="2013-06-27T12:21:09Z" changeset="16725872" uid="1589009" user="eunice254">
-    <tag k="amenity" v="marketplace"/>
-  </node>
-  <node id="2363006905" lat="-1.8178695" lon="37.5380532" version="1" timestamp="2013-06-27T12:24:01Z" changeset="16725872" uid="1589009" user="eunice254">
-    <tag k="amenity" v="kindergarten"/>
-  </node>
-  <node id="2363007208" lat="-1.8176979" lon="37.5377313" version="1" timestamp="2013-06-27T12:24:10Z" changeset="16725872" uid="1589009" user="eunice254">
-    <tag k="amenity" v="kindergarten"/>
-  </node>
-  <node id="2363007571" lat="-1.8174084" lon="37.5375221" version="1" timestamp="2013-06-27T12:24:39Z" changeset="16725872" uid="1589009" user="eunice254">
-    <tag k="amenity" v="police"/>
-  </node>
-  <node id="2411749420" lat="-1.8069563" lon="37.3904818" version="1" timestamp="2013-08-09T07:53:07Z" changeset="17275594" uid="343553" user="mathias_on_the_road">
-    <tag k="place" v="village"/>
-  </node>
-  <node id="2668903605" lat="-1.8226043" lon="37.5606282" version="1" timestamp="2014-02-12T15:42:55Z" changeset="20524540" uid="343553" user="mathias_on_the_road">
-    <tag k="natural" v="peak"/>
-  </node>
-  <node id="2668905284" lat="-1.8288880" lon="37.5050397" version="1" timestamp="2014-02-12T15:43:43Z" changeset="20524556" uid="343553" user="mathias_on_the_road">
-    <tag k="natural" v="peak"/>
-  </node>
-  <node id="2668907111" lat="-1.8697598" lon="37.4289695" version="1" timestamp="2014-02-12T15:44:29Z" changeset="20524571" uid="343553" user="mathias_on_the_road">
-    <tag k="natural" v="peak"/>
-  </node>
-  <node id="4336477623" lat="-1.5997914" lon="37.4759684" version="1" timestamp="2016-08-05T03:33:21Z" changeset="41251202" uid="343553" user="mathias_on_the_road">
-    <tag k="natural" v="peak"/>
-  </node>
-  <node id="4336478039" lat="-1.6204190" lon="37.3978653" version="1" timestamp="2016-08-05T03:34:44Z" changeset="41251213" uid="343553" user="mathias_on_the_road">
-    <tag k="natural" v="peak"/>
-  </node>
-  <node id="4336487333" lat="-1.7000410" lon="37.5197027" version="1" timestamp="2016-08-05T03:57:38Z" changeset="41251359" uid="343553" user="mathias_on_the_road">
-    <tag k="natural" v="peak"/>
-  </node>
-  <node id="5483558910" lat="-1.7899804" lon="37.6199153" version="1" timestamp="2018-03-16T21:38:22Z" changeset="57253906" uid="7826330" user="JRazz">
-    <tag k="highway" v="crossing"/>
-  </node>
-  <node id="5495040413" lat="-1.8565586" lon="37.6267192" version="1" timestamp="2018-03-22T00:26:19Z" changeset="57404676" uid="7894543" user="Linn Sofia Nyrvik">
-    <tag k="natural" v="tree"/>
-  </node>
-  <node id="5495040414" lat="-1.8564183" lon="37.6264071" version="1" timestamp="2018-03-22T00:26:19Z" changeset="57404676" uid="7894543" user="Linn Sofia Nyrvik">
-    <tag k="natural" v="tree"/>
-  </node>
-  <node id="5495040415" lat="-1.8568676" lon="37.6277242" version="1" timestamp="2018-03-22T00:26:19Z" changeset="57404676" uid="7894543" user="Linn Sofia Nyrvik">
-    <tag k="natural" v="tree"/>
-  </node>
-  <node id="5495040416" lat="-1.8572196" lon="37.6277757" version="1" timestamp="2018-03-22T00:26:19Z" changeset="57404676" uid="7894543" user="Linn Sofia Nyrvik">
-    <tag k="natural" v="tree"/>
-  </node>
-  <node id="5495040419" lat="-1.8573713" lon="37.6256025" version="1" timestamp="2018-03-22T00:26:19Z" changeset="57404676" uid="7894543" user="Linn Sofia Nyrvik">
-    <tag k="natural" v="tree"/>
-  </node>
-  <node id="5495040420" lat="-1.8573112" lon="37.6254050" version="1" timestamp="2018-03-22T00:26:19Z" changeset="57404676" uid="7894543" user="Linn Sofia Nyrvik">
-    <tag k="natural" v="tree"/>
-  </node>
-  <node id="5498749941" lat="-1.8405692" lon="37.6070387" version="1" timestamp="2018-03-23T11:54:34Z" changeset="57454656" uid="7913641" user="Annika Milton">
-    <tag k="highway" v="crossing"/>
-  </node>
-  <node id="5498764875" lat="-1.8323726" lon="37.5368205" version="1" timestamp="2018-03-23T12:01:36Z" changeset="57454892" uid="7913642" user="Vincydixit">
-    <tag k="amenity" v="place_of_worship"/>
-  </node>
-  <node id="5498764876" lat="-1.8326782" lon="37.5376949" version="1" timestamp="2018-03-23T12:01:36Z" changeset="57454892" uid="7913642" user="Vincydixit">
-    <tag k="amenity" v="hospital"/>
-    <tag k="healthcare" v="hospital"/>
-  </node>
-  <node id="5498764877" lat="-1.8311233" lon="37.5362907" version="1" timestamp="2018-03-23T12:01:36Z" changeset="57454892" uid="7913642" user="Vincydixit">
-    <tag k="amenity" v="place_of_worship"/>
-  </node>
-  <node id="5498764878" lat="-1.8302976" lon="37.5389193" version="1" timestamp="2018-03-23T12:01:36Z" changeset="57454892" uid="7913642" user="Vincydixit">
-    <tag k="amenity" v="hospital"/>
-    <tag k="healthcare" v="hospital"/>
-  </node>
-  <node id="5498764915" lat="-1.8308753" lon="37.5391674" version="1" timestamp="2018-03-23T12:01:37Z" changeset="57454892" uid="7913642" user="Vincydixit">
-    <tag k="amenity" v="cafe"/>
-  </node>
-  <node id="5498764916" lat="-1.8335294" lon="37.5373757" version="1" timestamp="2018-03-23T12:01:37Z" changeset="57454892" uid="7913642" user="Vincydixit">
-    <tag k="amenity" v="cafe"/>
-  </node>
-  <node id="5498765453" lat="-1.8326568" lon="37.5366568" version="1" timestamp="2018-03-23T12:01:37Z" changeset="57454892" uid="7913642" user="Vincydixit">
-    <tag k="amenity" v="cafe"/>
-  </node>
-  <node id="5498765461" lat="-1.8311696" lon="37.5369961" version="1" timestamp="2018-03-23T12:01:37Z" changeset="57454892" uid="7913642" user="Vincydixit">
-    <tag k="amenity" v="cafe"/>
-  </node>
-  <node id="5498778110" lat="-1.8451454" lon="37.6721500" version="1" timestamp="2018-03-23T12:06:22Z" changeset="57455074" uid="7913761" user="mocismaan">
-    <tag k="highway" v="motorway_junction"/>
-  </node>
-  <node id="5498778118" lat="-1.8423573" lon="37.6751111" version="1" timestamp="2018-03-23T12:06:22Z" changeset="57455074" uid="7913761" user="mocismaan">
-    <tag k="highway" v="motorway_junction"/>
-  </node>
-  <node id="5498806918" lat="-1.8536055" lon="37.5200535" version="1" timestamp="2018-03-23T12:10:19Z" changeset="57455212" uid="7913734" user="jgj03">
-    <tag k="crossing" v="zebra"/>
-    <tag k="highway" v="crossing"/>
-  </node>
-  <node id="5498807495" lat="-1.8555972" lon="37.5214876" version="1" timestamp="2018-03-23T12:10:22Z" changeset="57455212" uid="7913734" user="jgj03">
-    <tag k="crossing" v="zebra"/>
-    <tag k="highway" v="crossing"/>
-  </node>
-  <node id="5498903584" lat="-1.8137125" lon="37.5902286" version="1" timestamp="2018-03-23T12:46:10Z" changeset="57456563" uid="7574899" user="Nyaega Orina">
-    <tag k="building" v="yes"/>
-  </node>
-  <node id="5498903585" lat="-1.8127045" lon="37.5906041" version="1" timestamp="2018-03-23T12:46:10Z" changeset="57456563" uid="7574899" user="Nyaega Orina">
-    <tag k="building" v="yes"/>
-  </node>
-  <node id="5498903586" lat="-1.8126402" lon="37.5904003" version="1" timestamp="2018-03-23T12:46:10Z" changeset="57456563" uid="7574899" user="Nyaega Orina">
-    <tag k="building" v="yes"/>
-  </node>
-  <node id="5498903587" lat="-1.8143345" lon="37.5921276" version="1" timestamp="2018-03-23T12:46:10Z" changeset="57456563" uid="7574899" user="Nyaega Orina">
-    <tag k="building" v="yes"/>
-  </node>
-  <node id="5558806083" lat="-1.6766803" lon="37.4414039" version="1" timestamp="2018-04-17T09:18:27Z" changeset="58161900" uid="8123815" user="WanjiruCEG">
-    <tag k="highway" v="traffic_mirror"/>
-  </node>
-  <node id="5558885434" lat="-1.6783560" lon="37.4401177" version="1" timestamp="2018-04-17T09:56:36Z" changeset="58162745" uid="8123815" user="WanjiruCEG">
-    <tag k="building" v="yes"/>
-    <tag k="name" v="Mbooni Secondary"/>
-  </node>
-  <node id="5558888371" lat="-1.6199546" lon="37.4802770" version="1" timestamp="2018-04-17T09:59:42Z" changeset="58162810" uid="8124097" user="finance">
-    <tag k="amenity" v="hospital"/>
-    <tag k="healthcare" v="hospital"/>
-  </node>
-  <node id="5558912687" lat="-1.6243709" lon="37.4982928" version="1" timestamp="2018-04-17T10:15:39Z" changeset="58163164" uid="8123811" user="Mulinga">
-    <tag k="crossing" v="zebra"/>
-    <tag k="highway" v="crossing"/>
-  </node>
-  <node id="5561357956" lat="-1.7842661" lon="37.6331679" version="2" timestamp="2018-04-18T08:53:33Z" changeset="58193580" uid="261050" user="muindre">
-    <tag k="leisure" v="picnic_table"/>
-  </node>
-  <node id="5561357957" lat="-1.7842859" lon="37.6332176" version="1" timestamp="2018-04-18T08:33:43Z" changeset="58193039" uid="8123811" user="Mulinga">
-    <tag k="name" v="Tree 3"/>
-    <tag k="natural" v="tree"/>
-  </node>
-  <node id="5561357962" lat="-1.7843530" lon="37.6333740" version="1" timestamp="2018-04-18T08:33:43Z" changeset="58193039" uid="8123811" user="Mulinga">
-    <tag k="name" v="2nd Tree"/>
-    <tag k="natural" v="tree"/>
-  </node>
-  <node id="5561357978" lat="-1.7843530" lon="37.6333730" version="1" timestamp="2018-04-18T08:33:44Z" changeset="58193039" uid="8123811" user="Mulinga">
-    <tag k="name" v="1st tree Kusyombunguo"/>
-    <tag k="natural" v="tree"/>
-  </node>
-  <node id="5561357979" lat="-1.7843365" lon="37.6333850" version="2" timestamp="2018-04-18T08:53:33Z" changeset="58193580" uid="261050" user="muindre">
-    <tag k="amenity" v="water_point"/>
-    <tag k="name" v="Tap 1 Kusyombunguo"/>
-  </node>
-  <node id="5561357980" lat="-1.7845663" lon="37.6330085" version="1" timestamp="2018-04-18T08:33:44Z" changeset="58193039" uid="8123811" user="Mulinga">
-    <tag k="information" v="office"/>
-    <tag k="name" v="Kusyombunguo Reception"/>
-    <tag k="tourism" v="information"/>
-  </node>
   <node id="5561375879" lat="-1.7848421" lon="37.6346876" version="2" timestamp="2018-05-06T21:36:46Z" changeset="58741068" uid="186592" user="Johnwhelan">
     <tag k="highway" v="street_lamp"/>
-  </node>
-  <node id="5561395380" lat="-1.7840934" lon="37.6326907" version="1" timestamp="2018-04-18T08:51:06Z" changeset="58193529" uid="8123865" user="Benjamin Mengo">
-    <tag k="man_made" v="storage_tank"/>
-  </node>
-  <node id="5561395382" lat="-1.7844895" lon="37.6330038" version="1" timestamp="2018-04-18T08:51:06Z" changeset="58193529" uid="8123865" user="Benjamin Mengo">
-    <tag k="pipeline" v="valve"/>
-  </node>
-  <node id="5561395383" lat="-1.7846584" lon="37.6329897" version="1" timestamp="2018-04-18T08:51:06Z" changeset="58193529" uid="8123865" user="Benjamin Mengo">
-    <tag k="highway" v="street_lamp"/>
-    <tag k="opening_hours" v="6:00PM-6:00AM"/>
-  </node>
-  <node id="5561406610" lat="-1.7843540" lon="37.6333136" version="1" timestamp="2018-04-18T08:53:33Z" changeset="58193580" uid="261050" user="muindre">
-    <tag k="leisure" v="picnic_table"/>
-  </node>
-  <node id="5561460441" lat="-1.7840767" lon="37.6322763" version="1" timestamp="2018-04-18T09:13:35Z" changeset="58193977" uid="8123944" user="Nancy muoki">
-    <tag k="leisure" v="picnic_table"/>
-  </node>
-  <node id="5561460442" lat="-1.7841263" lon="37.6322494" version="1" timestamp="2018-04-18T09:13:35Z" changeset="58193977" uid="8123944" user="Nancy muoki">
-    <tag k="leisure" v="picnic_table"/>
-  </node>
-  <node id="5561460443" lat="-1.7841866" lon="37.6324010" version="1" timestamp="2018-04-18T09:13:36Z" changeset="58193977" uid="8123944" user="Nancy muoki">
-    <tag k="amenity" v="parking_space"/>
-  </node>
-  <node id="5561460444" lat="-1.7840512" lon="37.6325713" version="1" timestamp="2018-04-18T09:13:36Z" changeset="58193977" uid="8123944" user="Nancy muoki">
-    <tag k="amenity" v="parking_entrance"/>
-  </node>
-  <node id="5561460445" lat="-1.7841772" lon="37.6326102" version="1" timestamp="2018-04-18T09:13:36Z" changeset="58193977" uid="8123944" user="Nancy muoki">
-    <tag k="natural" v="tree"/>
-  </node>
-  <node id="5561490164" lat="-1.7848782" lon="37.6332211" version="1" timestamp="2018-04-18T09:22:39Z" changeset="58194181" uid="8129334" user="kinywee">
-    <tag k="highway" v="street_lamp"/>
-    <tag k="opening_hours" v="1800-0600"/>
-  </node>
-  <node id="5561490165" lat="-1.7847589" lon="37.6332801" version="1" timestamp="2018-04-18T09:22:39Z" changeset="58194181" uid="8129334" user="kinywee">
-    <tag k="name" v="MWAA"/>
-    <tag k="natural" v="tree"/>
-  </node>
-  <node id="5561490166" lat="-1.7844171" lon="37.6335208" version="1" timestamp="2018-04-18T09:22:39Z" changeset="58194181" uid="8129334" user="kinywee">
-    <tag k="highway" v="street_lamp"/>
-  </node>
-  <node id="5561490167" lat="-1.7849064" lon="37.6332271" version="1" timestamp="2018-04-18T09:22:40Z" changeset="58194181" uid="8129334" user="kinywee">
-    <tag k="man_made" v="water_works"/>
-    <tag k="name" v="IUANI WQATER PURIFICATION AND BOTTLING"/>
-    <tag k="operator" v="KUSYOMBUNGUO"/>
-  </node>
-  <node id="5561490168" lat="-1.7844104" lon="37.6334457" version="1" timestamp="2018-04-18T09:22:40Z" changeset="58194181" uid="8129334" user="kinywee">
-    <tag k="man_made" v="storage_tank"/>
-    <tag k="name" v="WATER TANK"/>
-  </node>
-  <node id="5561490169" lat="-1.7843541" lon="37.6334370" version="1" timestamp="2018-04-18T09:22:40Z" changeset="58194181" uid="8129334" user="kinywee">
-    <tag k="amenity" v="parking_entrance"/>
-  </node>
-  <node id="5561490170" lat="-1.7847727" lon="37.6333492" version="1" timestamp="2018-04-18T09:22:40Z" changeset="58194181" uid="8129334" user="kinywee">
-    <tag k="amenity" v="parking_space"/>
-    <tag k="name" v="MZEE MASIKA"/>
-  </node>
-  <node id="5561505096" lat="-1.7844158" lon="37.6326149" version="1" timestamp="2018-04-18T09:32:42Z" changeset="58194471" uid="8123873" user="monicah ngila">
-    <tag k="name" v="main kitchen"/>
-    <tag k="shop" v="kitchen"/>
-  </node>
-  <node id="5561505097" lat="-1.7844205" lon="37.6325304" version="1" timestamp="2018-04-18T09:32:42Z" changeset="58194471" uid="8123873" user="monicah ngila">
-    <tag k="name" v="staff changing room"/>
-  </node>
-  <node id="5561505098" lat="-1.7843836" lon="37.6327577" version="1" timestamp="2018-04-18T09:32:42Z" changeset="58194471" uid="8123873" user="monicah ngila">
-    <tag k="amenity" v="food_court"/>
-  </node>
-  <node id="5561505099" lat="-1.7842576" lon="37.6329495" version="1" timestamp="2018-04-18T09:32:42Z" changeset="58194471" uid="8123873" user="monicah ngila">
-    <tag k="natural" v="tree"/>
-  </node>
-  <node id="5561513494" lat="-1.7843393" lon="37.6325390" version="1" timestamp="2018-04-18T09:41:40Z" changeset="58194635" uid="8123944" user="Nancy muoki">
-    <tag k="tourism" v="guest_house"/>
-  </node>
-  <node id="5566259538" lat="-1.7846104" lon="37.6348742" version="2" timestamp="2018-04-21T10:10:39Z" changeset="58286763" uid="616774" user="mueschel">
-    <tag k="highway" v="street_lamp"/>
-  </node>
-  <node id="5587817771" lat="-1.7915050" lon="37.6271582" version="1" timestamp="2018-04-30T08:38:35Z" changeset="58547321" uid="8123824" user="Kitone">
-    <tag k="amenity" v="police"/>
-    <tag k="name" v="Makueni Police station"/>
-  </node>
-  <node id="5587817772" lat="-1.8012281" lon="37.6243821" version="1" timestamp="2018-04-30T08:38:36Z" changeset="58547321" uid="8123824" user="Kitone">
-    <tag k="government" v="County"/>
-    <tag k="name" v="Map offices"/>
-    <tag k="office" v="government"/>
-    <tag k="opening_hours" v="8.00am-5.00pm"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="5587817773" lat="-1.8018791" lon="37.6240330" version="1" timestamp="2018-04-30T08:38:36Z" changeset="58547321" uid="8123824" user="Kitone">
-    <tag k="amenity" v="prison"/>
-    <tag k="name" v="Makueni Remand Prison"/>
-  </node>
-  <node id="5587817774" lat="-1.8040620" lon="37.6232681" version="1" timestamp="2018-04-30T08:38:36Z" changeset="58547321" uid="8123824" user="Kitone">
-    <tag k="government" v="County"/>
-    <tag k="name" v="Makueni County Public Service Board"/>
-    <tag k="office" v="government"/>
-    <tag k="opening_hours" v="8.00am-5.00pm"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="5587817775" lat="-1.8044119" lon="37.6227851" version="1" timestamp="2018-04-30T08:38:36Z" changeset="58547321" uid="8123824" user="Kitone">
-    <tag k="amenity" v="college"/>
-    <tag k="name" v="Wote Technical Training Institute"/>
-  </node>
-  <node id="5587817776" lat="-1.7873092" lon="37.6278800" version="1" timestamp="2018-04-30T08:38:36Z" changeset="58547321" uid="8123824" user="Kitone">
-    <tag k="amenity" v="fuel"/>
-    <tag k="fuel:GTL_diesel" v="yes"/>
-    <tag k="fuel:diesel" v="yes"/>
-    <tag k="name" v="Petros Filling Station"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="shop" v="no"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="5587817777" lat="-1.7855762" lon="37.6290840" version="1" timestamp="2018-04-30T08:38:36Z" changeset="58547321" uid="8123824" user="Kitone">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="denomination" v="anglican"/>
-    <tag k="name" v="ACK Church Wote"/>
-    <tag k="religion" v="christian"/>
-  </node>
-  <node id="5587817778" lat="-1.7831323" lon="37.6299889" version="1" timestamp="2018-04-30T08:38:36Z" changeset="58547321" uid="8123824" user="Kitone">
-    <tag k="name" v="NCPB Makueni Depot"/>
-    <tag k="shop" v="variety_store"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="5587817779" lat="-1.7826706" lon="37.6300238" version="1" timestamp="2018-04-30T08:38:36Z" changeset="58547321" uid="8123824" user="Kitone">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="denomination" v="protestant"/>
-    <tag k="name" v="AIC Wote"/>
-    <tag k="religion" v="christian"/>
-    <tag k="service_times" v="Sun 10.30am-1.00pm"/>
-    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="5587817780" lat="-1.7827180" lon="37.6286563" version="2" timestamp="2018-07-04T10:38:24Z" changeset="60404750" uid="345975" user="VlIvYur">
     <tag k="highway" v="street_lamp"/>
@@ -559,10 +78,6 @@
   </node>
   <node id="5587817799" lat="-1.7808337" lon="37.6208265" version="2" timestamp="2018-05-11T09:08:08Z" changeset="58872528" uid="4570042" user="Peter Agenga">
     <tag k="highway" v="street_lamp"/>
-  </node>
-  <node id="5587817800" lat="-1.7806119" lon="37.6210649" version="1" timestamp="2018-04-30T08:38:37Z" changeset="58547321" uid="8123824" user="Kitone">
-    <tag k="highway" v="street_lamp"/>
-    <tag k="opening_hours" v="Mon-Sun 5.00pm-6.00am"/>
   </node>
   <node id="5587817801" lat="-1.7803239" lon="37.6208314" version="2" timestamp="2018-05-11T09:08:08Z" changeset="58872528" uid="4570042" user="Peter Agenga">
     <tag k="highway" v="street_lamp"/>
@@ -1079,19 +594,6 @@
     <tag k="village" v="Westlands"/>
     <tag k="wb_pb:id" v="21746565"/>
   </node>
-  <node id="5588098797" lat="-1.7920573" lon="37.5984150" version="1" timestamp="2018-04-30T10:34:02Z" changeset="58550664" uid="4570042" user="Peter Agenga">
-    <tag k="Gender" v="mixed"/>
-    <tag k="Governement_registered" v="moe"/>
-    <tag k="Name_of_operating_organization" v="Government of Kenya"/>
-    <tag k="Operator_type" v="government"/>
-    <tag k="Photo" v="1524651263534.jpg"/>
-    <tag k="Type" v="secondary"/>
-    <tag k="Village" v="Iviani"/>
-    <tag k="amenity" v="school"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651263534.jpg"/>
-    <tag k="name" v="St John Secondary School"/>
-    <tag k="wb_pb:id" v="21741509"/>
-  </node>
   <node id="5588098798" lat="-1.7829700" lon="37.6293908" version="2" timestamp="2018-05-09T12:19:20Z" changeset="58817917" uid="265690" user="fondolucy">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643506410.jpg"/>
     <tag k="name" v="Wote Ward Administrator's Office"/>
@@ -1285,19 +787,6 @@
     <tag k="religion" v="christian"/>
     <tag k="village" v="Lower Kitheini"/>
     <tag k="wb_pb:id" v="21642163"/>
-  </node>
-  <node id="5588128982" lat="-1.8231183" lon="37.5368250" version="1" timestamp="2018-04-30T10:49:58Z" changeset="58551014" uid="261050" user="muindre">
-    <tag k="Gender" v="mixed"/>
-    <tag k="Governement_registered" v="moe"/>
-    <tag k="Name_of_operating_organization" v="Government of Makueni County"/>
-    <tag k="Operator_type" v="government"/>
-    <tag k="Photo" v="1524476726756.jpg"/>
-    <tag k="Village" v="Nziu"/>
-    <tag k="amenity" v="school"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524476726756.jpg"/>
-    <tag k="name" v="Nziu CTTI"/>
-    <tag k="type" v="tertiary"/>
-    <tag k="wb_pb:id" v="21642011"/>
   </node>
   <node id="5588128983" lat="-1.8351994" lon="37.5344112" version="2" timestamp="2018-05-10T10:14:42Z" changeset="58845153" uid="261050" user="muindre">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524481272650.jpg"/>
@@ -1498,18 +987,6 @@
     <tag k="wb_pb:id" v="21642124"/>
     <tag k="wheelchair" v="Yes"/>
   </node>
-  <node id="5588163892" lat="-1.7754013" lon="37.5982587" version="1" timestamp="2018-04-30T11:06:31Z" changeset="58551366" uid="4570042" user="Peter Agenga">
-    <tag k="Building_type" v="church"/>
-    <tag k="Denomination" v="evangelical"/>
-    <tag k="Photo" v="1524489846694.jpg"/>
-    <tag k="Village" v="Nguvuna"/>
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="deviceid" v="355938094610849"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524489846694.jpg"/>
-    <tag k="name" v="AIC Bethiel"/>
-    <tag k="religion" v="christian"/>
-    <tag k="wb_pb:id" v="21683558"/>
-  </node>
   <node id="5588163893" lat="-1.7839312" lon="37.6278157" version="2" timestamp="2018-05-11T08:49:52Z" changeset="58872036" uid="4570042" user="Peter Agenga">
     <tag k="amenity" v="hospital"/>
     <tag k="deviceid" v="355938094610849"/>
@@ -1597,14 +1074,6 @@
     <tag k="village" v="Nziu"/>
     <tag k="wb_pb:id" v="21749150"/>
   </node>
-  <node id="5588170692" lat="-1.8160567" lon="37.5374483" version="1" timestamp="2018-04-30T11:09:41Z" changeset="58551465" uid="261050" user="muindre">
-    <tag k="Photo" v="1524643716312.jpg"/>
-    <tag k="Village" v="Nziu"/>
-    <tag k="amenity" v="hospital"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643716312.jpg"/>
-    <tag k="name" v="Nziu Health Centre"/>
-    <tag k="wb_pb:id" v="21748436"/>
-  </node>
   <node id="5588170693" lat="-1.8177867" lon="37.5373800" version="3" timestamp="2018-05-09T10:09:38Z" changeset="58814802" uid="261050" user="muindre">
     <tag k="amenity" v="townhall"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524640116671.jpg"/>
@@ -1683,9 +1152,6 @@
     <tag k="type_of_facility" v="Micro finance"/>
     <tag k="wb_pb:id" v="21748810"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="5588254260" lat="-1.8169060" lon="37.6374280" version="1" timestamp="2018-04-30T11:48:15Z" changeset="58552474" uid="4570042" user="Peter Agenga">
-    <tag k="power" v="transformer"/>
   </node>
   <node id="5588257993" lat="-1.8174248" lon="37.5370638" version="2" timestamp="2018-05-10T09:47:29Z" changeset="58844327" uid="261050" user="muindre">
     <tag k="amenity" v="police"/>
