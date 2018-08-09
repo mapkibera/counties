@@ -239,8 +239,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.7411448, 
-          0.4933232
+          35.7407854, 
+          0.4933178
         ], 
         "type": "Point"
       }, 
@@ -2020,6 +2020,30 @@
     {
       "geometry": {
         "coordinates": [
+          35.7427341, 
+          0.4850803
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5820321726", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "The facility's workmanship is good,the equipments are of good quality.", 
+        "Project_Description": "renovation works of ICU", 
+        "Project_Name_or_Title": "Kabarnet refferal hospital ICU", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "hospital", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904495659.jpg", 
+        "name": "Kabarnet Refferal Hopital-ICU", 
+        "osm:id": "5820321726", 
+        "wb_pb:id": "26199364"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.73775, 
           0.4974922
         ], 
@@ -2939,6 +2963,35 @@
     {
       "geometry": {
         "coordinates": [
+          35.7035017, 
+          0.0055506
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5820105409", 
+      "properties": {
+        "Category": "Water and Irrigation", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "The tank needs repairs due to leakages", 
+        "Project_Description": "Erection of kabiyet-Benonin-sogonin water tank", 
+        "Project_Name_or_Title": "Kabiyet-Benonin-Sogonin water piping", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "cost": "0.0", 
+        "funded_by": "County Government of Baringo", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532594918411.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532595323774.jpg", 
+        "man_made": "storage_tank", 
+        "name": "Benonin Storage Tank", 
+        "operated_by": "Government", 
+        "operational_status": "Operational", 
+        "osm:id": "5820105409", 
+        "wb_pb:id": "26661920"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.7179869, 
           0.0001721
         ], 
@@ -2965,6 +3018,32 @@
     {
       "geometry": {
         "coordinates": [
+          35.7179869, 
+          0.0001721
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5820105416", 
+      "properties": {
+        "Category": "Agriculture, Livestock and Fisheries", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "It need to be completed for operation purpose", 
+        "Project_Description": "The cattle dip is incomplete", 
+        "Project_Name_or_Title": "Sinende cattle dip", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "agriculture", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532601103540.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532601416168.jpg", 
+        "name": "Sinende Cattle Dip", 
+        "osm:id": "5820105416", 
+        "type": "Cattle dip", 
+        "wb_pb:id": "26662034"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.7255043, 
           0.0256107
         ], 
@@ -2983,6 +3062,32 @@
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532605875088.jpg", 
         "name": "Kaburandi (Sosion) Cattle Dip", 
         "osm:id": "5798751612", 
+        "type": "Cattle dip", 
+        "wb_pb:id": "26662079"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7255043, 
+          0.0256107
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5820105413", 
+      "properties": {
+        "Category": "Agriculture, Livestock and Fisheries", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "It requires maintainance", 
+        "Project_Description": "Construction of Kaburandi( Sosion Cattle Dip)", 
+        "Project_Name_or_Title": "Kaburandi(Sosion)Cattle Dip", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "agriculture", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532605631119.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532605875088.jpg", 
+        "name": "Kaburandi (Sosion) Cattle Dip", 
+        "osm:id": "5820105413", 
         "type": "Cattle dip", 
         "wb_pb:id": "26662079"
       }, 
@@ -3282,8 +3387,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.7252429, 
-          0.0451146
+          35.7251989, 
+          0.0451609
         ], 
         "type": "Point"
       }, 
@@ -3367,6 +3472,32 @@
         "osm:id": "5798859905", 
         "type": "Garden Square", 
         "wb_pb:id": "26663654"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7252023, 
+          0.0452854
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5820417010", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "Good condition ", 
+        "Project_Description": "Construction of generator", 
+        "Project_Name_or_Title": "Walk way ", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "generator:source": "solar", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606893111.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607098117.jpg", 
+        "name": "Eldama Ravine Sub-County Referral Hospital-Power Generator", 
+        "osm:id": "5820417010", 
+        "power": "generator", 
+        "wb_pb:id": "26663837"
       }, 
       "type": "Feature"
     }, 
@@ -3516,6 +3647,93 @@
         "osm:id": "5798788033", 
         "type": "Primary", 
         "wb_pb:id": "26664170"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7389514, 
+          0.0437974
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817629961", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "The polytecnic is well build also well equiped", 
+        "Project_Description": "Contruction of administration block and classroom", 
+        "Project_Name_or_Title": "Kamelilo vocational trainning center", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "college", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532595795390.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596227472.jpg", 
+        "name": "Kamelilo Vocational Trainning Center", 
+        "operator_type": "Government", 
+        "osm:id": "5817629961", 
+        "type": "Tertiary", 
+        "wb_pb:id": "26669236"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.739174, 
+          0.0444881
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817629958", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Poor", 
+        "Please_add_any_details_about_y": "The classrooms have stayed for more than three years still under construction (incomplete classrooms)", 
+        "Project_Description": "Erection and completion of ecde classrooms", 
+        "Project_Name_or_Title": "Kamelilo ECDE", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597764324.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598196976.jpg", 
+        "name": "Kinikwet ECDE", 
+        "operator_type": "Government", 
+        "osm:id": "5817629958", 
+        "type": "Pre_primary", 
+        "wb_pb:id": "26669272"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7385896, 
+          0.0570641
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817629651", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "Well built", 
+        "Project_Description": "Multi-purpose dinning hall", 
+        "Project_Name_or_Title": "Kamelilo day dinning hall", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532614878580.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532615141122.jpg", 
+        "name": "Kamelilo Secondary Mixed", 
+        "operator_type": "Government", 
+        "osm:id": "5817629651", 
+        "type": "Secondary", 
+        "wb_pb:id": "26669317"
       }, 
       "type": "Feature"
     }, 
