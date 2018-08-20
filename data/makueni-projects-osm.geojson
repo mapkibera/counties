@@ -1650,17 +1650,16 @@
       "office": "administrative",
       "opening_hours": "Mo-Fr 8:00-5:00",
       "type": "Government Office",
-      "village": "Wote",
       "wb_pb:id": "21745649",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-09T12:19:20Z",
-      "version": "2",
-      "changeset": "58817917",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-08-20T12:07:42Z",
+      "version": "3",
+      "changeset": "61821121",
+      "user": "kbizz",
+      "uid": "8556619"
     }
   },
   "geometry": {
@@ -1682,17 +1681,16 @@
       "name": "Community Information Centre",
       "office": "telecommunication",
       "type": "County County Information Centre",
-      "village": "Wote",
       "wb_pb:id": "21745797",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-10T08:52:02Z",
-      "version": "3",
-      "changeset": "58842775",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2018-08-20T12:07:42Z",
+      "version": "4",
+      "changeset": "61821121",
+      "user": "kbizz",
+      "uid": "8556619"
     }
   },
   "geometry": {
@@ -1715,17 +1713,16 @@
       "office": "administrative",
       "opening_hours": "Mo-Fr 8:00-5:00",
       "type": "Sub Ward Administrators Office",
-      "village": "Wote",
       "wb_pb:id": "21745918",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-09T12:19:20Z",
-      "version": "2",
-      "changeset": "58817917",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-08-20T12:07:42Z",
+      "version": "3",
+      "changeset": "61821121",
+      "user": "kbizz",
+      "uid": "8556619"
     }
   },
   "geometry": {
@@ -1780,17 +1777,16 @@
       "office": "administrative",
       "opening_hours": "Mo-Fr 8:00-5:00",
       "type": "Chiefs Office",
-      "village": "Wote",
       "wb_pb:id": "21745757",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-09T12:19:20Z",
-      "version": "2",
-      "changeset": "58817917",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-08-20T12:07:42Z",
+      "version": "3",
+      "changeset": "61821121",
+      "user": "kbizz",
+      "uid": "8556619"
     }
   },
   "geometry": {
@@ -1876,17 +1872,16 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524645909621.jpg",
       "name": "Wote Water and Sewerage Company Limited",
       "office": "government",
-      "village": "Wote",
       "wb_pb:id": "21746120",
       "wheelchair": "limited"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-09T12:19:21Z",
-      "version": "2",
-      "changeset": "58817917",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-08-20T12:07:43Z",
+      "version": "3",
+      "changeset": "61821121",
+      "user": "kbizz",
+      "uid": "8556619"
     }
   },
   "geometry": {
@@ -2075,17 +2070,16 @@
       "office": "government",
       "opening_hours": "Mo-Fr 8:00-5:00",
       "type": "National Council for Persons with Disabilities Office",
-      "village": "Wote",
       "wb_pb:id": "21746030",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-09T12:19:21Z",
-      "version": "2",
-      "changeset": "58817917",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-08-20T12:07:43Z",
+      "version": "3",
+      "changeset": "61821121",
+      "user": "kbizz",
+      "uid": "8556619"
     }
   },
   "geometry": {
@@ -5379,16 +5373,15 @@
       "operator": "Government of Kenya",
       "operator:type": "government",
       "type": "primary",
-      "village": "Unoa",
       "wb_pb:id": "21744447"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-04T10:38:26Z",
-      "version": "4",
-      "changeset": "60404750",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2018-08-20T12:07:43Z",
+      "version": "5",
+      "changeset": "61821121",
+      "user": "kbizz",
+      "uid": "8556619"
     }
   },
   "geometry": {
@@ -10654,6 +10647,7 @@
       "amenity": "hospital",
       "dispensing": "yes",
       "electricity": "sometime",
+      "health_facility:referals": "Makueni and Machakos",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526635616970.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526635845734.jpg",
       "medical_service:family_planning": "yes",
@@ -10663,14 +10657,13 @@
       "medical_service:pregnancy_test": "yes",
       "name": "Kali Dispensary",
       "opening_hours": "mo-fr 7:00-7:00",
-      "referal": "Makueni and Machakos",
       "wb_pb:id": "22948127"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-04T18:35:54Z",
-      "version": "2",
-      "changeset": "61359703",
+      "timestamp": "2018-08-11T10:25:34Z",
+      "version": "3",
+      "changeset": "61562241",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -14648,6 +14641,7 @@
       "amenity": "clinic",
       "dispensing": "yes",
       "electricity": "sometime",
+      "health_facility:referals": "Mbooni",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983431363.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983765499.jpg",
       "medical_service:family_planning": "yes",
@@ -14657,14 +14651,13 @@
       "medical_service:pregnancy_test": "yes",
       "name": "Ebenezer",
       "opening_hours": "Mo-Fr 07:00-19:00",
-      "referal": "Mbooni",
       "wb_pb:id": "22951661"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-04T18:35:54Z",
-      "version": "3",
-      "changeset": "61359703",
+      "timestamp": "2018-08-11T10:25:34Z",
+      "version": "4",
+      "changeset": "61562241",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -16694,6 +16687,7 @@
       "amenity": "pharmacy",
       "dispensing": "no",
       "electricity": "always",
+      "health_facility:referals": "No",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526980659962.jpg",
       "medical_service:family_planning": "no",
       "medical_service:general_medical_services": "no",
@@ -16702,14 +16696,13 @@
       "medical_service:pregnancy_test": "no",
       "name": "Longonot Chemist",
       "opening_hours": "Mo-Fr 7:00-7:00",
-      "referal": "No",
       "wb_pb:id": "22956648"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-04T18:35:55Z",
-      "version": "2",
-      "changeset": "61359703",
+      "timestamp": "2018-08-11T10:25:34Z",
+      "version": "3",
+      "changeset": "61562241",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -17880,6 +17873,7 @@
       "amenity": "hospital",
       "dispensing": "yes",
       "electricity": "always",
+      "health_facility:referals": "Machakos Referral hospital",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526898625144.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526899020838.jpg",
       "medical_service:family_planning": "yes",
@@ -17889,14 +17883,13 @@
       "medical_service:pregnancy_test": "yes",
       "name": "Bosnia Sub-County Hospital",
       "opening_hours": "24/7",
-      "referal": "Machakos Referral hospital",
       "wb_pb:id": "22958288"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-04T18:35:55Z",
-      "version": "2",
-      "changeset": "61359703",
+      "timestamp": "2018-08-11T10:25:35Z",
+      "version": "3",
+      "changeset": "61562241",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -18288,6 +18281,7 @@
       "amenity": "clinic",
       "dispensing": "yes",
       "electricity": "sometime",
+      "health_facility:referals": "Mbooni hospital",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983904704.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526984129492.jpg",
       "medical_service:family_planning": "yes",
@@ -18297,14 +18291,13 @@
       "medical_service:pregnancy_test": "yes",
       "name": "Ebenezer dispensary water tank",
       "opening_hours": "mo-fr 7:00-7:00",
-      "referal": "Mbooni hospital",
       "wb_pb:id": "22951663"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-04T18:35:57Z",
-      "version": "2",
-      "changeset": "61359703",
+      "timestamp": "2018-08-11T10:25:35Z",
+      "version": "3",
+      "changeset": "61562241",
       "user": "mueschel",
       "uid": "616774"
     }

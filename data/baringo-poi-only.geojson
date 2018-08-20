@@ -368,36 +368,6 @@
     {
       "geometry": {
         "coordinates": [
-          36.1192123, 
-          -0.0879148
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5610312014", 
-      "properties": {
-        "noexit": "yes", 
-        "osm:id": "5610312014"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          36.117164, 
-          -0.0872396
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5610312015", 
-      "properties": {
-        "noexit": "yes", 
-        "osm:id": "5610312015"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           35.983333, 
           -0.066667
         ], 
@@ -780,6 +750,3028 @@
     {
       "geometry": {
         "coordinates": [
+          35.6566656, 
+          0.4564995
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779173632", 
+      "properties": {
+        "amenity": "shelter", 
+        "funded_by": "County Government Of Baringo", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531913390882.jpg", 
+        "name": "Oinabmoi Bodaboda Shade", 
+        "operational_status": "Operational", 
+        "operator": "Oinabmoi Bodaboda", 
+        "osm:id": "5779173632"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6565525, 
+          0.456836
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779173633", 
+      "properties": {
+        "amenity": "water_point", 
+        "funded_by": "County Government Of Baringo", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531910315045.jpg", 
+        "name": "Oinabmoi Borehole", 
+        "osm:id": "5779173633"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6487947, 
+          0.4530009
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779173635", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531905448847.jpg", 
+        "name": "Cheploch Gorge", 
+        "opening_hours": "Mo-Fr 08:30-20:00, Tu-Su 08:00-15:00; Sa 08:00-12:00", 
+        "osm:id": "5779173635", 
+        "tourism": "attraction"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6652574, 
+          0.4915569
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779197167", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "building_type": "Church", 
+        "denomination": "catholic", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919312776.jpg", 
+        "name": "Salawa Catholic Church", 
+        "osm:id": "5779197167", 
+        "religion": "christian", 
+        "service_times": "08:00"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6771236, 
+          0.5488252
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779268904", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "building_type": "church", 
+        "denomination": "evangelical", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531909556849.jpg", 
+        "name": "A.I.C Chesongo", 
+        "osm:id": "5779268904", 
+        "religion": "christian", 
+        "service_times": "10:00"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6764257, 
+          0.5493999
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779268908", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531909252144.jpg", 
+        "name": "Chesongo Day Secondary School", 
+        "operational_status": "Operational", 
+        "operator_type": "Government", 
+        "osm:id": "5779268908"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6770483, 
+          0.54796
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779268909", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531909008813.jpg", 
+        "name": "Chesongo Primary School", 
+        "operational_status": "Operational", 
+        "operator_type": "Government", 
+        "osm:id": "5779268909"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6487386, 
+          0.5496269
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779268912", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531911446160.jpg", 
+        "name": "Kaptara Center", 
+        "osm:id": "5779268912", 
+        "place": "town"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6683897, 
+          0.5549545
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779268913", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531910530855.jpg", 
+        "name": "Sachangwan Center", 
+        "osm:id": "5779268913", 
+        "place": "town"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.677746, 
+          0.5475717
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779268914", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531908608322.jpg", 
+        "name": "Chesongo Center", 
+        "osm:id": "5779268914", 
+        "place": "town"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6486008, 
+          0.5500058
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779268918", 
+      "properties": {
+        "fee": "5 KSH", 
+        "funded_by": "NGO", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531911205736.jpg", 
+        "man_made": "water_well", 
+        "name": "Kaptara Borehole", 
+        "operational_status": "Operational", 
+        "operator_type": "NGO", 
+        "osm:id": "5779268918"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6763271, 
+          0.4825496
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779324096", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531987299846.jpg1531984863625.jpg", 
+        "name": "Eron primary school", 
+        "operator_type": "Government", 
+        "osm:id": "5779324096", 
+        "type": "Primary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7435332, 
+          0.4876499
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779627775", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532082991180.jpg", 
+        "name": "Wema Supermarket", 
+        "osm:id": "5779627775", 
+        "shop": "supermarket", 
+        "type": "Supermarket"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7445494, 
+          0.4898944
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781093170", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532084687650.jpg", 
+        "information": "office", 
+        "name": "Kabarnet Museum", 
+        "osm:id": "5781093170", 
+        "tourism": "information", 
+        "type": "Tourist Site"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.745471, 
+          0.4841569
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781093171", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532083132549.jpg", 
+        "information": "office", 
+        "name": "Kabarnet KWS Office", 
+        "osm:id": "5781093171", 
+        "tourism": "information", 
+        "type": "K.W.S"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7447422, 
+          0.4875978
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781093181", 
+      "properties": {
+        "highway": "street_lamp", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532082579348.jpg", 
+        "osm:id": "5781093181", 
+        "type": "Flood light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6507923, 
+          0.514614
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781138887", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531990067387.jpg", 
+        "name": "Kipsoit primary school", 
+        "operator": "Government", 
+        "osm:id": "5781138887"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6505424, 
+          0.5139506
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781138888", 
+      "properties": {
+        "amenity": "school", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531989881369.jpg", 
+        "name": "Kipsoit Mixed Day Secondary School", 
+        "operator": "Government", 
+        "osm:id": "5781138888"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6524414, 
+          0.5125017
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781138889", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "denomination": "evangelical", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531989369097.jpg", 
+        "name": "Kipsoit AIC", 
+        "osm:id": "5781138889", 
+        "religion": "christian", 
+        "service_times": "10:00"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6536169, 
+          0.51136
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781138892", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531989011555.jpg", 
+        "name": "ST. John academy", 
+        "operator": "Private", 
+        "osm:id": "5781138892"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6525639, 
+          0.5114117
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781138893", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "denomination": "catholic", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531988662933.jpg", 
+        "name": "Kipsoit Catholic Church", 
+        "osm:id": "5781138893", 
+        "religion": "christian", 
+        "service_times": "10:00"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6442443, 
+          0.5149863
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781138895", 
+      "properties": {
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531986348090.jpg", 
+        "name": "Kipsoit Center", 
+        "osm:id": "5781138895", 
+        "place": "town"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7352301, 
+          0.4930556
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781399423", 
+      "properties": {
+        "amenity": "school", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531994703109.jpg", 
+        "name": "Elias ICT Center", 
+        "operator": "County Government Of Baringo", 
+        "osm:id": "5781399423", 
+        "type": "school"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7336572, 
+          0.4965344
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781399425", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992134074.jpg", 
+        "name": "Kaptimbor Chiefs Office", 
+        "office": "administrative", 
+        "operator": "Government", 
+        "osm:id": "5781399425", 
+        "type": "chiefs office"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7432454, 
+          0.4896442
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781471050", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531911852649.jpg", 
+        "name": "AIC Visa Oshwal Primary School", 
+        "operator_type": "Government", 
+        "osm:id": "5781471050"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7427193, 
+          0.4855942
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781471052", 
+      "properties": {
+        "building": "yes", 
+        "electricity": "always", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907382788.jpg", 
+        "name": "Baringo County referral hospital Adminstative Block", 
+        "office": "administrative", 
+        "osm:id": "5781471052"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7415969, 
+          0.4861037
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781471253", 
+      "properties": {
+        "amenity": "waste_disposal", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906979759.jpg", 
+        "name": "Baringo County referral hospital lagoon", 
+        "osm:id": "5781471253", 
+        "type": "hospital", 
+        "water": "lagoon"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7422797, 
+          0.4857875
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781471254", 
+      "properties": {
+        "building": "yes", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906457617.jpg", 
+        "name": "Baringo County referral hospitall Intern quarters", 
+        "osm:id": "5781471254", 
+        "type": "hospital"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7423587, 
+          0.4849538
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781471260", 
+      "properties": {
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531901814836.jpg", 
+        "medical_service:family_planning": "Yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "Yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Baringo County referral hospital", 
+        "osm:id": "5781471260", 
+        "referral": "Moi Refferal Hospital"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7416117, 
+          0.4920976
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781471261", 
+      "properties": {
+        "amenity": "theatre", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531917588607.jpg", 
+        "name": "Kabarnet Youth Empowerment centre", 
+        "osm:id": "5781471261"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7424469, 
+          0.4943937
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492691", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075710738.jpg", 
+        "name": "Menego Uniform Makers", 
+        "osm:id": "5781492691", 
+        "shop": "supermarket", 
+        "type": "Mall"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7425894, 
+          0.4939949
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492693", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075515841.jpg", 
+        "name": "Sowes Bar", 
+        "osm:id": "5781492693", 
+        "shop": "alcohol", 
+        "type": "Bar"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7400624, 
+          0.4900491
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492694", 
+      "properties": {
+        "amenity": "school", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076219805.jpg", 
+        "name": "St Mary's Catholic Academy", 
+        "operator_type": "Private", 
+        "osm:id": "5781492694", 
+        "type": "Primary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7427969, 
+          0.4939041
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492695", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075401079.jpg", 
+        "name": "Kezem Hardware", 
+        "osm:id": "5781492695", 
+        "shop": "hardware", 
+        "type": "Hardware"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7398748, 
+          0.4902513
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492696", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "building_type": "Church", 
+        "denomination": "catholic", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076070377.jpg", 
+        "name": "St.Mary Catholic Church", 
+        "osm:id": "5781492696", 
+        "religion": "christian", 
+        "service_times": "07:45"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7424518, 
+          0.4937437
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492697", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075102304.jpg", 
+        "name": "Mama Kitchen Hotel", 
+        "osm:id": "5781492697", 
+        "tourism": "hotel", 
+        "type": "Hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7409729, 
+          0.4909336
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492698", 
+      "properties": {
+        "highway": "street_lamp", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075400180.jpg", 
+        "osm:id": "5781492698", 
+        "type": "Street Light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7431281, 
+          0.4929844
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492699", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077915340.jpg", 
+        "name": "Bei Nafuu Supermarket", 
+        "osm:id": "5781492699", 
+        "shop": "supermarket", 
+        "type": "supermarket"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7404403, 
+          0.4914233
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492700", 
+      "properties": {
+        "highway": "street_lamp", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075168448.jpg", 
+        "osm:id": "5781492700", 
+        "type": "Street Light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7409067, 
+          0.4914602
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492701", 
+      "properties": {
+        "highway": "street_lamp", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075022655.jpg", 
+        "osm:id": "5781492701", 
+        "type": "Street Light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7430535, 
+          0.4915461
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492702", 
+      "properties": {
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074693891.jpg", 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Tionybei Health Clinic", 
+        "osm:id": "5781492702", 
+        "referral": "Baringo County Referra Hospital"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7430091, 
+          0.4914259
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492703", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781492703", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7430484, 
+          0.493248
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492704", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077522628.jpg", 
+        "name": "Quick Service Self Selction", 
+        "osm:id": "5781492704", 
+        "shop": "supermarket", 
+        "type": "Supermarket"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7429027, 
+          0.4914299
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492705", 
+      "properties": {
+        "highway": "street_lamp", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074369337.jpg", 
+        "osm:id": "5781492705", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7425719, 
+          0.4914963
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492706", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074182845.jpg", 
+        "name": "Diwani Hotel", 
+        "osm:id": "5781492706", 
+        "tourism": "hotel", 
+        "type": "Hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7424965, 
+          0.4914678
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492707", 
+      "properties": {
+        "amenity": "pharmacy", 
+        "electricity": "always", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074032975.jpg", 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "no", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Sochigaa Chemist", 
+        "osm:id": "5781492707", 
+        "referral": "Baringo County Referal Hospital"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.743443, 
+          0.4916456
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492708", 
+      "properties": {
+        "highway": "street_lamp", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532078293058.jpg", 
+        "osm:id": "5781492708", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7414688, 
+          0.4913001
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492709", 
+      "properties": {
+        "highway": "street_lamp", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532073596283.jpg", 
+        "osm:id": "5781492709", 
+        "type": "Street Light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7428625, 
+          0.4935477
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492710", 
+      "properties": {
+        "amenity": "bank", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077118087.jpg", 
+        "name": "Transnational Bank", 
+        "osm:id": "5781492710", 
+        "type": "Bank"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7415021, 
+          0.4914305
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492711", 
+      "properties": {
+        "highway": "street_lamp", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532073480947.jpg", 
+        "osm:id": "5781492711", 
+        "type": "Street Light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7431684, 
+          0.4915245
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492712", 
+      "properties": {
+        "amenity": "pharmacy", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532078159242.jpg", 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "no", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Riwo Chemist", 
+        "osm:id": "5781492712", 
+        "referral": "Baringo County referral hospital"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7395977, 
+          0.4928218
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492713", 
+      "properties": {
+        "highway": "street_lamp", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532072966446.jpg", 
+        "osm:id": "5781492713", 
+        "type": "Street Light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7394996, 
+          0.4916971
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492714", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532072470850.jpg", 
+        "name": "A.I.C Kabarnet Private Academy", 
+        "operator_type": "Private", 
+        "osm:id": "5781492714", 
+        "type": "Primary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.742522, 
+          0.4950527
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492715", 
+      "properties": {
+        "amenity": "college", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076783958.jpg", 
+        "name": "Bartek Institute", 
+        "operator_type": "Private", 
+        "osm:id": "5781492715", 
+        "type": "Tertiary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.742439, 
+          0.4883497
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492717", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077170656.jpg", 
+        "name": "Warwa Academy Primary School", 
+        "operator_type": "Private", 
+        "osm:id": "5781492717", 
+        "type": "Primary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7430124, 
+          0.4951675
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492718", 
+      "properties": {
+        "amenity": "car_wash", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076176650.jpg", 
+        "name": "Stadium Car Wash", 
+        "osm:id": "5781492718", 
+        "type": "Car wash"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7401331, 
+          0.4882311
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492719", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076891509.jpg", 
+        "name": "Seventh Day Adventist Primary School", 
+        "operator_type": "Private", 
+        "osm:id": "5781492719", 
+        "type": "Primary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7397436, 
+          0.4878272
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492720", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "building_type": "Church", 
+        "denomination": "SDA", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076727640.jpg", 
+        "name": "Seventh Day Adventist", 
+        "osm:id": "5781492720", 
+        "religion": "christian", 
+        "service_times": "07:45"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7422696, 
+          0.4945155
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781492721", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075821731.jpg", 
+        "name": "Spikes Bar", 
+        "osm:id": "5781492721", 
+        "shop": "alcohol", 
+        "type": "Bar"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6487528, 
+          0.5502472
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781534446", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "building_type": "Church", 
+        "denomination": "evangelical", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531911339479.jpg", 
+        "name": "A.I.C Kaptara", 
+        "osm:id": "5781534446", 
+        "religion": "christian"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6771236, 
+          0.5488252
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781534447", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "building_type": "church", 
+        "denomination": "evangelical", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531909556849.jpg", 
+        "name": "A.I.C Chesongo", 
+        "osm:id": "5781534447", 
+        "religion": "christian", 
+        "service_times": "10:00"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.676068, 
+          0.5521831
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781534450", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531909839813.jpg", 
+        "name": "Citadel Primary School", 
+        "operational_status": "Operational", 
+        "operator_type": "Private", 
+        "osm:id": "5781534450"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6764257, 
+          0.5493999
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781534451", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531909252144.jpg", 
+        "name": "Chesongo Day Secondary School", 
+        "operational_status": "Operational", 
+        "operator_type": "Government", 
+        "osm:id": "5781534451"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6637958, 
+          0.5327034
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781605125", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992761907.jpg", 
+        "name": "Kapyemit Primary School", 
+        "operater": "Government", 
+        "osm:id": "5781605125", 
+        "type": "Primary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.631113, 
+          0.5168344
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781605135", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531984900601.jpg", 
+        "man_made": "water_well", 
+        "name": "Kakwane borehole", 
+        "operater": "CBO", 
+        "operational_status": "operational", 
+        "osm:id": "5781605135"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7436994, 
+          0.4947671
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632970", 
+      "properties": {
+        "name": "Sunrise Supermarket", 
+        "osm:id": "5781632970", 
+        "shop": "supermarket", 
+        "type": "Supermarket"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7434759, 
+          0.4945385
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632971", 
+      "properties": {
+        "access": "customers", 
+        "amenity": "toilets", 
+        "fee": "10 KSH", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532086506886.jpg", 
+        "name": "Kabarnet Stage Public Toilet", 
+        "operator:type": "County government", 
+        "osm:id": "5781632971", 
+        "toilets:handwashing": "yes", 
+        "toilets:num_chambers": "8", 
+        "toilets:type": "Flushing", 
+        "unisex": "yes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7435707, 
+          0.4945817
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632972", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781632972", 
+        "type": "Flood_Light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7436169, 
+          0.4946416
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632973", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781632973", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7436538, 
+          0.4943142
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632974", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781632974", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.749899, 
+          0.4982254
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632976", 
+      "properties": {
+        "amenity": "police", 
+        "name": "Kabarnet Police Station", 
+        "osm:id": "5781632976", 
+        "type": "police station"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7448739, 
+          0.4945472
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632977", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "denomination": "anglican", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532085497371.jpg", 
+        "name": "Full Gospel Churches of God Kabarnet", 
+        "osm:id": "5781632977", 
+        "religion": "christian", 
+        "type": "Christian"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7442738, 
+          0.4951706
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632978", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781632978", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7443109, 
+          0.495314
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632979", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "denomination": "protestant", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532085078392.jpg", 
+        "name": "PAG KABARNET", 
+        "osm:id": "5781632979", 
+        "religion": "christian", 
+        "service_times": "08:00", 
+        "type": "Church"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7446673, 
+          0.4951253
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632980", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781632980", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7499556, 
+          0.4978955
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632981", 
+      "properties": {
+        "amenity": "waste_basket", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532081919732.jpg", 
+        "osm:id": "5781632981", 
+        "type": "Trash can", 
+        "waste": "trash"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7450072, 
+          0.4950309
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632982", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781632982", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7454644, 
+          0.494889
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632983", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781632983", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7450188, 
+          0.4952455
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632984", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "building_type": "Mosque", 
+        "denomination": "sunni", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532084809077.jpg", 
+        "name": "Kabarnet Mosque", 
+        "osm:id": "5781632984", 
+        "religion": "muslim", 
+        "type": "Islam"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7429271, 
+          0.4938998
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632985", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532091057214.jpg", 
+        "name": "Uchuzi Supermarket", 
+        "osm:id": "5781632985", 
+        "shop": "supermarket", 
+        "type": "Uchuzi Supermarket"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7462168, 
+          0.4944963
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632986", 
+      "properties": {
+        "amenity": "fuel", 
+        "brand": "Shell", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077733114.jpg", 
+        "name": "Mart Petrol Station", 
+        "osm:id": "5781632986", 
+        "type": "Petrol station"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7431339, 
+          0.4934444
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632988", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532091315614.jpg", 
+        "name": "Kipsetim Building", 
+        "osm:id": "5781632988", 
+        "shop": "department_store", 
+        "type": "Plaza"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7432765, 
+          0.4930083
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632989", 
+      "properties": {
+        "amenity": "clinic", 
+        "name": "Figtree Optical", 
+        "osm:id": "5781632989", 
+        "type": "Optical"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7432733, 
+          0.4929645
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632990", 
+      "properties": {
+        "amenity": "clinic", 
+        "name": "Sundowner Chemist", 
+        "osm:id": "5781632990", 
+        "type": "Health Clinic"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7434035, 
+          0.4927231
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632991", 
+      "properties": {
+        "amenity": "vending_machine", 
+        "name": "MoloLine Booking office", 
+        "osm:id": "5781632991", 
+        "type": "Booking Office", 
+        "vending": "public_transport_tickets"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.74335, 
+          0.4928526
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632992", 
+      "properties": {
+        "name": "Famco General shop", 
+        "osm:id": "5781632992", 
+        "shop": "clothes", 
+        "type": "shop"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7434161, 
+          0.4927979
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632993", 
+      "properties": {
+        "amenity": "cafe", 
+        "name": "Ivory Cafe", 
+        "osm:id": "5781632993", 
+        "type": "Hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7434272, 
+          0.492667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632994", 
+      "properties": {
+        "amenity": "cafe", 
+        "name": "Simo Sizzlers Hotel", 
+        "osm:id": "5781632994", 
+        "type": "hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7433853, 
+          0.4926531
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632995", 
+      "properties": {
+        "amenity": "taxi", 
+        "name": "Taxi parking space", 
+        "osm:id": "5781632995", 
+        "type": "Taxi Parking Space"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7437064, 
+          0.4930909
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632996", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532088477031.jpg", 
+        "name": "Ketbonet Building", 
+        "osm:id": "5781632996", 
+        "shop": "department_store", 
+        "type": "Bookshop"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7436732, 
+          0.4934822
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632997", 
+      "properties": {
+        "name": "Sinkoro Complex", 
+        "osm:id": "5781632997", 
+        "shop": "department_store", 
+        "type": "Business_Complex"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.743263, 
+          0.494153
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632998", 
+      "properties": {
+        "amenity": "fuel", 
+        "fuel:diesel": "yes", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532087666625.jpg", 
+        "name": "Tobil Petrol Station", 
+        "osm:id": "5781632998", 
+        "type": "Petrol station"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7435219, 
+          0.4942204
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781632999", 
+      "properties": {
+        "amenity": "waste_disposal", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532087495017.jpg", 
+        "osm:id": "5781632999", 
+        "type": "Compost", 
+        "waste": "trash"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7438098, 
+          0.4947512
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781633000", 
+      "properties": {
+        "amenity": "veterinary", 
+        "name": "Sunrise Agrovet", 
+        "osm:id": "5781633000", 
+        "type": "Agrovet"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7500487, 
+          0.4965816
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667666", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532082807423.jpg", 
+        "name": "LelianB Lodge", 
+        "osm:id": "5781667666", 
+        "tourism": "guest_house"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7500071, 
+          0.4971067
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667667", 
+      "properties": {
+        "amenity": "waste_basket", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532082449093.jpg", 
+        "osm:id": "5781667667", 
+        "type": "Trash can"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7500857, 
+          0.4970343
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667668", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667668", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7500969, 
+          0.4973659
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667669", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667669", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7501746, 
+          0.4975132
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667670", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667670", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7501496, 
+          0.4975151
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667671", 
+      "properties": {
+        "amenity": "college", 
+        "name": "Egerton University", 
+        "operational_status": "operational", 
+        "operator": "Government", 
+        "osm:id": "5781667671", 
+        "type": "Tertiary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7457887, 
+          0.4947244
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667672", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667672", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7501642, 
+          0.4977822
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667673", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667673", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7459215, 
+          0.494504
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667674", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667674", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7500387, 
+          0.4982399
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667675", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667675", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7460052, 
+          0.4945922
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667676", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667676", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7498616, 
+          0.4985239
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667677", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667677", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7463445, 
+          0.4947153
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667678", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667678", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7466251, 
+          0.4948583
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667679", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667679", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7499129, 
+          0.4988558
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667680", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667680", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7498274, 
+          0.4992264
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667681", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667681", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7497405, 
+          0.4996111
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667682", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667682", 
+        "type": "Street Lights"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7469235, 
+          0.4948869
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667683", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667683", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7473248, 
+          0.4949492
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667684", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667684", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7476085, 
+          0.4949904
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667685", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667685", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7497948, 
+          0.4999482
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667686", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667686", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7478633, 
+          0.4950601
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667687", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667687", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7498997, 
+          0.5002795
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667688", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667688", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7482976, 
+          0.4951847
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667689", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667689", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7485719, 
+          0.4951813
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667690", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667690", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7489262, 
+          0.4953602
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667691", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667691", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.74921, 
+          0.4955874
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667692", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667692", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7495166, 
+          0.4957579
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667693", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667693", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7498018, 
+          0.4961052
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667694", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667694", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.74991, 
+          0.4963982
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781667695", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781667695", 
+        "type": "Street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7445437, 
+          0.4917084
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797204", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532080017881.jpg", 
+        "name": "Kabarnet Huduma Centre", 
+        "office": "government", 
+        "osm:id": "5781797204"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7486806, 
+          0.5023851
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797205", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781797205", 
+        "type": "Street Light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7435326, 
+          0.4927945
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797206", 
+      "properties": {
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076146406.jpg", 
+        "name": "Saimo Selection", 
+        "osm:id": "5781797206", 
+        "shop": "boutique"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7443632, 
+          0.492085
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797207", 
+      "properties": {
+        "amenity": "courthouse", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532079684283.jpg", 
+        "name": "Kabarnet Law Court", 
+        "osm:id": "5781797207"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7423365, 
+          0.4913413
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797208", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075666576.jpg", 
+        "name": "Kabarnet Revenue Office", 
+        "office": "government", 
+        "osm:id": "5781797208"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7445773, 
+          0.4921297
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797209", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532079143443.jpg", 
+        "name": "Pastoralist Livelihood Resciliance Project", 
+        "office": "government", 
+        "osm:id": "5781797209"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7445783, 
+          0.4922819
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797210", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532078941123.jpg", 
+        "name": "Kabarnet Information Centre", 
+        "office": "advertising_agency", 
+        "osm:id": "5781797210"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7446663, 
+          0.492466
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797211", 
+      "properties": {
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532078762137.jpg", 
+        "name": "Kabarnet Mosop Chief Office", 
+        "office": "government", 
+        "osm:id": "5781797211"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7395032, 
+          0.4946646
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797212", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532071430244.jpg", 
+        "name": "Kabarnet Outreach Church", 
+        "osm:id": "5781797212", 
+        "religion": "christian"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7481983, 
+          0.4969316
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797214", 
+      "properties": {
+        "amenity": "restaurant", 
+        "cuisine": "chicken", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532078692501.jpg", 
+        "name": "Kabarnet Hotel", 
+        "osm:id": "5781797214"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7469786, 
+          0.4952527
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797215", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532078156837.jpg", 
+        "name": "Kipnyekwei Departmental Store", 
+        "osm:id": "5781797215", 
+        "shop": "department_store"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7467767, 
+          0.4952416
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797216", 
+      "properties": {
+        "amenity": "university", 
+        "gender": "Mixed", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077985937.jpg", 
+        "name": "Kisii University", 
+        "operator_type": "Private", 
+        "osm:id": "5781797216", 
+        "type": "Tertiary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7429282, 
+          0.4869688
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797217", 
+      "properties": {
+        "amenity": "police", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077440190.jpg", 
+        "name": "Kabarnet Police Station", 
+        "osm:id": "5781797217"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7464483, 
+          0.4926377
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797218", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Male", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532080931381.jpg", 
+        "name": "Kabarnet Boys High School", 
+        "operator": "MOE (Ministry of Education)", 
+        "operator_type": "Government", 
+        "osm:id": "5781797218", 
+        "school": "Secondary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7450323, 
+          0.4936873
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797219", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077243138.jpg", 
+        "name": "Kanu Office-Kabarnet Branch", 
+        "office": "political_party", 
+        "osm:id": "5781797219"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7449232, 
+          0.4923703
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797220", 
+      "properties": {
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532080774881.jpg", 
+        "name": "Kabrnet Land Registry", 
+        "office": "administrative", 
+        "osm:id": "5781797220"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7412846, 
+          0.4927272
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797221", 
+      "properties": {
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069882012.jpg", 
+        "name": "Superior Hardware", 
+        "osm:id": "5781797221", 
+        "shop": "hardware"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7499229, 
+          0.5006291
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797222", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781797222", 
+        "type": "Street Light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7446044, 
+          0.4928252
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797223", 
+      "properties": {
+        "amenity": "post_office", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077029706.jpg", 
+        "name": "Kabarnet Post Office", 
+        "osm:id": "5781797223"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7498785, 
+          0.5009858
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797224", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781797224", 
+        "type": "Street Light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.749754, 
+          0.5012913
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797225", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781797225", 
+        "type": "Street Light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7448835, 
+          0.4925298
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797226", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532080703089.jpg", 
+        "name": "Baringo Central IEBC Office", 
+        "office": "government", 
+        "osm:id": "5781797226"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7428001, 
+          0.4923978
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797227", 
+      "properties": {
+        "amenity": "bank", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069522612.jpg", 
+        "name": "Skyline Sacco", 
+        "osm:id": "5781797227"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7443431, 
+          0.4927379
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797228", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781797228", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7495485, 
+          0.5015638
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797229", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781797229", 
+        "type": "Street Light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7493682, 
+          0.5018433
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797230", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781797230", 
+        "type": "Street Light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7491359, 
+          0.5020267
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797231", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781797231", 
+        "type": "Street Light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.741641, 
+          0.4927169
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797232", 
+      "properties": {
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069369553.jpg", 
+        "name": "Quick Service Self Selection", 
+        "osm:id": "5781797232", 
+        "shop": "supermarket"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7444952, 
+          0.4914672
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797233", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532080195045.jpg", 
+        "name": "County Commissioner Officer", 
+        "office": "government", 
+        "osm:id": "5781797233"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.74886, 
+          0.5022871
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781797234", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5781797234", 
+        "type": "street_light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7081019, 
+          0.4751543
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5783441495", 
+      "properties": {
+        "amenity": "school", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531984910783.jpg", 
+        "name": "Kapsigorian ECDE", 
+        "osm:id": "5783441495"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7081551, 
+          0.4747938
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5783441496", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531984636128.jpg", 
+        "name": "Kapsigorian Primary School", 
+        "operational_status": "Operational", 
+        "operator": "Government", 
+        "osm:id": "5783441496"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6634906, 
+          0.494939
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5783508722", 
+      "properties": {
+        "highway": "street_lamp", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531914654945.jpg", 
+        "osm:id": "5783508722", 
+        "type": "Street light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6622285, 
+          0.4898009
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5783508724", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Female", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531921949354.jpg", 
+        "name": "A.I.C Philemon Chelagat Girls High School", 
+        "operator_type": "Religious", 
+        "osm:id": "5783508724"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6637842, 
+          0.4909996
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5783508725", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919907591.jpg", 
+        "name": "St. Mary's Mixed Day and Boarding Secondary School", 
+        "operator_type": "Religious", 
+        "osm:id": "5783508725"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6655196, 
+          0.4982235
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5783508726", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531917779484.jpg", 
+        "name": "A.I.C Salawa ECDE", 
+        "operator_type": "Religious", 
+        "osm:id": "5783508726"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6638745, 
+          0.4972877
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5783508727", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916794838.jpg", 
+        "name": "Salawa Primary School", 
+        "operator_type": "Government", 
+        "osm:id": "5783508727"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6617687, 
+          0.4953735
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5783508728", 
+      "properties": {
+        "amenity": "college", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531914152103.jpg", 
+        "name": "Learning Resource Centre", 
+        "operator_type": "Government", 
+        "osm:id": "5783508728"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6593208, 
+          0.4961479
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5783508730", 
+      "properties": {
+        "amenity": "drinking_water", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531911332745.jpg", 
+        "name": "Salawa Cotton Factory Water Tank", 
+        "osm:id": "5783508730", 
+        "type": "Water Tank"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6506237, 
+          0.485028
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5783508731", 
+      "properties": {
+        "amenity": "watering_place", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531908383758.jpg", 
+        "name": "Kasaon water trough", 
+        "osm:id": "5783508731", 
+        "type": "Water trough"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.658518, 
+          0.4958925
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5783508732", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531910950369.jpg", 
+        "industrial": "factory", 
+        "osm:id": "5783508732", 
+        "type": "Cotton Factory(Warehouses)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7433277, 
+          0.491727
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5783571609", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531987299846.jpg1532084687650.jpg", 
+        "name": "Kabarnet Museum", 
+        "osm:id": "5783571609", 
+        "tourism": "attraction", 
+        "type": "Tourist Site"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.745471, 
+          0.4841569
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5783571610", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531987299846.jpg1532083132549.jpg", 
+        "information": "office", 
+        "name": "Kabarnet KWS Office", 
+        "osm:id": "5783571610", 
+        "tourism": "information", 
+        "type": "K.W.S"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7448949, 
+          0.4874451
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5783571620", 
+      "properties": {
+        "highway": "street_lamp", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531987299846.jpg1532082579348.jpg", 
+        "osm:id": "5783571620", 
+        "type": "Flood light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.6635, 
           0.4949821
         ], 
@@ -843,36 +3835,749 @@
     {
       "geometry": {
         "coordinates": [
-          35.728267, 
-          0.0521024
+          35.7274874, 
+          0.0414495
         ], 
         "type": "Point"
       }, 
-      "id": "5798782567", 
+      "id": "5798730238", 
       "properties": {
-        "name": "Kenya Power and Lightning Company Offices", 
-        "office": "government", 
-        "osm:id": "5798782567", 
-        "type": "Kenya Power Offices", 
-        "wb_pbid": "26728755"
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532681438420.jpg", 
+        "osm:id": "5798730238"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          35.7282271, 
-          0.0521259
+          35.7283079, 
+          0.0397688
         ], 
         "type": "Point"
       }, 
-      "id": "5798782568", 
+      "id": "5798730239", 
+      "properties": {
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680835629.jpg", 
+        "osm:id": "5798730239", 
+        "power": "transformer"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7249797, 
+          0.0361503
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798730240", 
+      "properties": {
+        "funded_by": "National Government", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680139276.jpg", 
+        "man_made": "storage_tank", 
+        "name": "Chemususu Water Reservoir", 
+        "operational_status": "Operational", 
+        "operator_type": "Government", 
+        "osm:id": "5798730240"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7135247, 
+          0.0262556
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798730242", 
+      "properties": {
+        "amenity": "school", 
+        "building": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532677029515.jpg", 
+        "name": "Kaplelechwa ECDE", 
+        "operator_type": "Government", 
+        "osm:id": "5798730242"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7229865, 
+          0.0392914
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798730245", 
+      "properties": {
+        "amenity": "college", 
+        "building": "church", 
+        "denomination": "evangelical", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682486624.jpg", 
+        "name": "Ravine Bible College", 
+        "osm:id": "5798730245"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7259905, 
+          0.0416212
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798730247", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Male", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532681657633.jpg", 
+        "name": "Baringo Boys High School", 
+        "operator_type": "Government", 
+        "osm:id": "5798730247"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7095817, 
+          0.0089211
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798751607", 
+      "properties": {
+        "amenity": "agriculture", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596453573.jpg", 
+        "name": "Benonin Cattle Dip", 
+        "osm:id": "5798751607", 
+        "type": "Cattle dip"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7206711, 
+          0.0398972
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798751610", 
+      "properties": {
+        "amenity": "drinking_water", 
+        "funded_by": "NGO", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608969370.jpg", 
+        "name": "ERAWASCO Water Kiosk", 
+        "operational_status": "Non-operational", 
+        "operator_type": "NGO", 
+        "osm:id": "5798751610"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7136667, 
+          0.0120753
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798751617", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597691464.jpg", 
+        "name": "Benonin Primary School", 
+        "operator_type": "Government", 
+        "osm:id": "5798751617", 
+        "type": "Primary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7126779, 
+          0.0102992
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798751618", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597022626.jpg", 
+        "name": "Benonin Secondary School", 
+        "operator_type": "Government", 
+        "osm:id": "5798751618", 
+        "type": "Secondary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7269705, 
+          0.0414051
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798782564", 
+      "properties": {
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532685908092.jpg", 
+        "name": "Cereal Board Offices", 
+        "office": "government", 
+        "osm:id": "5798782564"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7268949, 
+          0.0416025
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798782565", 
+      "properties": {
+        "amenity": "social_facility", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532685318249.jpg", 
+        "name": "NCPB-Eldama Ravine Branch", 
+        "osm:id": "5798782565", 
+        "social_facility": "food_bank"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7248738, 
+          0.0539661
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798782572", 
+      "properties": {
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532678918928.jpg", 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Mercy Mission Hospital", 
+        "osm:id": "5798782572"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7248058, 
+          0.0547683
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798782573", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Female", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532678666013.jpg", 
+        "name": "Eldama Ravine Girls High School", 
+        "operator": "Private", 
+        "osm:id": "5798782573"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7246668, 
+          0.0579749
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798782574", 
+      "properties": {
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532677074219.jpg", 
+        "man_made": "tower", 
+        "name": "Shauri Safaricom Booster", 
+        "osm:id": "5798782574"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.723289, 
+          0.058664
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798782575", 
+      "properties": {
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532676774897.jpg", 
+        "name": "Kisarget Transformer", 
+        "osm:id": "5798782575", 
+        "power": "pole", 
+        "transformer": "distribution"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7261354, 
+          0.0454813
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798782578", 
+      "properties": {
+        "craft": "blacksmith", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532689176214.jpg", 
+        "industrial": "factory", 
+        "name": "Jua Kali", 
+        "osm:id": "5798782578"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7230745, 
+          0.043146
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798782579", 
+      "properties": {
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532687881748.jpg", 
+        "industrial": "factory", 
+        "osm:id": "5798782579"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7306464, 
+          0.0022488
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798788037", 
+      "properties": {
+        "amenity": "hospital", 
+        "dispensing": "no", 
+        "electricity": "always", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231050323067.jpg", 
+        "medical_service:family_planning": "no", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "no", 
+        "medical_service:malaria": "no", 
+        "medical_service:pregnancy_test": "no", 
+        "name": "Kabiyet Dispensary", 
+        "osm:id": "5798788037", 
+        "referral": "Eldama Ravine District Hospital"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7318659, 
+          0.0015461
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798788038", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231048785508.jpg", 
+        "name": "Kerio Valley Shop", 
+        "osm:id": "5798788038", 
+        "shop": "kiosk", 
+        "type": "kiosk"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.741502, 
+          -0.0047454
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798788040", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231045912806.jpg", 
+        "name": "Kabitoi Pre School (ECDE)", 
+        "operator_type": "Government", 
+        "osm:id": "5798788040", 
+        "type": "Pre_primary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7292371, 
+          0.0235109
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798802347", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686731763.jpg", 
+        "name": "Sogonin primary", 
+        "operator_type": "Government", 
+        "osm:id": "5798802347"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7412889, 
+          0.0103748
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798803053", 
+      "properties": {
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680057662.jpg", 
+        "osm:id": "5798803053", 
+        "power": "transformer"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7340399, 
+          0.0031335
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798803054", 
+      "properties": {
+        "funded_by": "National Government", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532676807829.jpg", 
+        "man_made": "storage_tank", 
+        "name": "Kabiyet Tabare Storage Tank", 
+        "operational_status": "Non-operational", 
+        "operator_type": "CBO", 
+        "osm:id": "5798803054"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7310236, 
+          0.0017835
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798803055", 
+      "properties": {
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532675590307.jpg", 
+        "name": "Centre Posho Mill", 
+        "osm:id": "5798803055"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7218523, 
+          0.050338
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859913", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532604151738.jpg", 
+        "name": "Bridge International", 
+        "operator_type": "Private", 
+        "osm:id": "5798859913", 
+        "type": "Primary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7253663, 
+          0.0614529
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859923", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532595407888.jpg", 
+        "industrial": "Transformer Kapdening", 
+        "osm:id": "5798859923", 
+        "power": "pole", 
+        "transformer": "distribution"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7256804, 
+          0.061695
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859924", 
+      "properties": {
+        "amenity": "police", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532595026292.jpg", 
+        "name": "Administration Police Kapdeining", 
+        "osm:id": "5798859924", 
+        "type": "police station"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7261743, 
+          0.0512143
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785521", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533020733461.jpg", 
+        "name": "Baringo County Government Offices", 
+        "office": "administrative", 
+        "osm:id": "5800785521", 
+        "type": "office"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7274223, 
+          0.0496402
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785523", 
+      "properties": {
+        "amenity": "parking_space", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532953821486.jpg", 
+        "name": "Moi Parking", 
+        "osm:id": "5800785523", 
+        "type": "Parking Space"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7267138, 
+          0.0475438
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785525", 
+      "properties": {
+        "amenity": "fuel", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532943621092.jpg", 
+        "name": "Boss Energy", 
+        "osm:id": "5800785525", 
+        "type": "Petrol Station"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7267759, 
+          0.0481417
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785526", 
       "properties": {
         "amenity": "bank", 
-        "name": "Boresha Sacco", 
-        "osm:id": "5798782568", 
-        "type": "Boresha Sacco", 
-        "wb_pbid": "26728751"
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532943481040.jpg", 
+        "name": "Equity Bank", 
+        "osm:id": "5800785526"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7267252, 
+          0.049022
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785527", 
+      "properties": {
+        "amenity": "bank", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532942867179.jpg", 
+        "name": "Transnational Bank", 
+        "osm:id": "5800785527", 
+        "type": "Bank"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7256804, 
+          0.0498776
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785528", 
+      "properties": {
+        "amenity": "restaurant", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532942387655.jpg", 
+        "name": "Koibatek Hotel", 
+        "osm:id": "5800785528", 
+        "type": "Hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7255978, 
+          0.0495612
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785529", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532942142194.jpg", 
+        "osm:id": "5800785529", 
+        "shop": "car_repair", 
+        "type": "Garage"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7249219, 
+          0.0493233
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785530", 
+      "properties": {
+        "amenity": "bank", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532941866046.jpg", 
+        "name": "KCB Bank", 
+        "osm:id": "5800785530", 
+        "type": "Bank"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7251481, 
+          0.0508076
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785533", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532940604243.jpg", 
+        "name": "Youth Initiative Project", 
+        "office": "government", 
+        "osm:id": "5800785533", 
+        "type": "office"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7242465, 
+          0.0519993
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785535", 
+      "properties": {
+        "amenity": "car_wash", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532939892362.jpg", 
+        "name": "Stage Car Wash", 
+        "osm:id": "5800785535", 
+        "type": "Car wash"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7237946, 
+          0.0520165
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785537", 
+      "properties": {
+        "fee": "3 KSH / 20 litres", 
+        "funded_by": "Private", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532939143151.jpg", 
+        "man_made": "storage_tank", 
+        "name": "Stage Water Kiosk", 
+        "operational_status": "Operational", 
+        "operator": "Government", 
+        "osm:id": "5800785537"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.72507, 
+          0.057918
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785542", 
+      "properties": {
+        "highway": "street_lamp", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532936202805.jpg", 
+        "name": "Mwisho wa Lami Street light", 
+        "osm:id": "5800785542", 
+        "type": "Street Light"
       }, 
       "type": "Feature"
     }, 
@@ -1380,6 +5085,133 @@
     {
       "geometry": {
         "coordinates": [
+          35.7238595, 
+          0.0532932
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5801831219", 
+      "properties": {
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533021492010.jpg", 
+        "name": "Eldama Ravine Market-Clothes", 
+        "osm:id": "5801831219", 
+        "shop": "clothes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7244276, 
+          0.0530407
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817574912", 
+      "properties": {
+        "amenity": "marketplace", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533019833673.jpg", 
+        "name": "Ravine Market", 
+        "osm:id": "5817574912", 
+        "type": "Market"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7243895, 
+          0.0486588
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817574913", 
+      "properties": {
+        "amenity": "fast_food", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532955554850.jpg", 
+        "name": "Ravine Bakery", 
+        "osm:id": "5817574913", 
+        "type": "Bakery"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7242399, 
+          0.0490024
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817574914", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532954591619.jpg", 
+        "name": "Chambai Springs Hotel", 
+        "osm:id": "5817574914", 
+        "shop": "department_store", 
+        "type": "Hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7273388, 
+          0.0486512
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817574920", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532940500892.jpg", 
+        "name": "Agriculture Finance Corporation", 
+        "office": "government", 
+        "osm:id": "5817574920", 
+        "type": "Public"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7290486, 
+          0.0409041
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817574922", 
+      "properties": {
+        "amenity": "shelter", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532936779135.jpg", 
+        "name": "Eldama Ravine Childrens Village", 
+        "osm:id": "5817574922", 
+        "type": "Children's Home"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7357841, 
+          0.0369759
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817629652", 
+      "properties": {
+        "funded_by": "private", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532612707009.jpg", 
+        "landuse": "reservoir", 
+        "name": "Kamelilo Sand Dam", 
+        "operational_status": "Operational", 
+        "operator_type": "Private", 
+        "osm:id": "5817629652"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.7282142, 
           0.0392523
         ], 
@@ -1388,14 +5220,12 @@
       "id": "5817717018", 
       "properties": {
         "amenity": "college", 
-        "gender": "Mixed", 
+        "gender": "mixed", 
         "government_registered": "MOE (Ministry of Education)", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532695033719.jpg", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532695033719.jpg", 
         "name": "Eldama Ravine Technical Training Institute", 
         "operator_type": "Government", 
-        "osm:id": "5817717018", 
-        "type": "Tertiary", 
-        "wb_pbid": "26733035"
+        "osm:id": "5817717018"
       }, 
       "type": "Feature"
     }, 
@@ -1410,11 +5240,9 @@
       "id": "5817717019", 
       "properties": {
         "amenity": "courthouse", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532694418569.jpg", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532694418569.jpg", 
         "name": "Milimani Court", 
-        "osm:id": "5817717019", 
-        "type": "Court house", 
-        "wb_pbid": "26733032"
+        "osm:id": "5817717019"
       }, 
       "type": "Feature"
     }, 
@@ -1428,221 +5256,10 @@
       }, 
       "id": "5817717020", 
       "properties": {
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532687725747.jpg", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532687725747.jpg", 
         "name": "Eldma Ravine County Commisioner's Offices", 
         "office": "administrative", 
-        "osm:id": "5817717020", 
-        "type": "offices", 
-        "wb_pbid": "26733031"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7317993, 
-          0.04988
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5817717021", 
-      "properties": {
-        "amenity": "school", 
-        "gender": "Mixed", 
-        "government_registered": "MOE (Ministry of Education)", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686099757.jpg", 
-        "image:project": "1532686350800.jpg", 
-        "name": "Koibatek Primary School", 
-        "operational_status": "Government", 
-        "osm:id": "5817717021", 
-        "type": "Primary", 
-        "wb_pbid": "26733025"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7331343, 
-          0.0505081
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5817717022", 
-      "properties": {
-        "amenity": "school", 
-        "gender": "Mixed", 
-        "government_registered": "MOE (Ministry of Education)", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532685115259.jpg", 
-        "name": "Mlimani ECDE", 
-        "operational_status": "Private", 
-        "osm:id": "5817717022", 
-        "type": "Pre_primary", 
-        "wb_pbid": "26733020"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7333794, 
-          0.0498388
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5817717023", 
-      "properties": {
-        "amenity": "place_of_worship", 
-        "building": "mosque", 
-        "denomination": "sunni", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532684935493.jpg", 
-        "name": "Al Aqsa Mosque", 
-        "osm:id": "5817717023", 
-        "religion": "muslim", 
-        "service_time": "05:00", 
-        "type": "Islam", 
-        "wb_pbid": "26733010"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7348903, 
-          0.0513617
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5817717024", 
-      "properties": {
-        "funde_by": "National Government", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532684556169.jpg", 
-        "man_made": "storage_tank", 
-        "name": "Mlimani Water Tank", 
-        "operator_type": "Operational", 
-        "osm:id": "5817717024", 
-        "wb_pbid": "26733004"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7326767, 
-          0.0561382
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5817717025", 
-      "properties": {
-        "building": "bungalow", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680872252.jpg", 
-        "name": "NCPB Residential Houses", 
-        "osm:id": "5817717025", 
-        "type": "Residential Houses", 
-        "wb_pbid": "26732993"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7321404, 
-          0.0559993
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5817717026", 
-      "properties": {
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680556317.jpg", 
-        "name": "Kibasiso Business Centre", 
-        "osm:id": "5817717026", 
-        "shop": "department_store", 
-        "type": "Business centre", 
-        "wb_pbid": "26732986"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7320689, 
-          0.0553917
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5817717027", 
-      "properties": {
-        "amenity": "hospital", 
-        "dispensing": "yes", 
-        "electricity": "always", 
-        "family_planning": "yes", 
-        "genaral_medical_cover": "yes", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680349856.jpg", 
-        "immunization": "yes", 
-        "malaria": "yes", 
-        "name": "Eldama Ravine Nursing Home", 
-        "osm:id": "5817717027", 
-        "pregnancy_test": "yes", 
-        "refarral": "St.Luke's Eldoret", 
-        "type": "Health center", 
-        "wb_pbid": "26732977"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7315264, 
-          0.0555001
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5817717028", 
-      "properties": {
-        "amenity": "restaurant", 
-        "name": "Taidy's Restaurant", 
-        "osm:id": "5817717028", 
-        "type": "Hotel", 
-        "wb_pbid": "26732971"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7326367, 
-          0.0574081
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5817717029", 
-      "properties": {
-        "amenity": "cafe", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532679424445.jpg", 
-        "name": "Umoja Hotel", 
-        "osm:id": "5817717029", 
-        "type": "Hotel", 
-        "wb_pbid": "26732968"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7327638, 
-          0.0572592
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5817717030", 
-      "properties": {
-        "craft": "blacksmith", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532679289873.jpg", 
-        "name": "Umoja Engineering Welding Workshop", 
-        "osm:id": "5817717030", 
-        "type": "Workshop", 
-        "wb_pbid": "26732959"
+        "osm:id": "5817717020"
       }, 
       "type": "Feature"
     }, 
@@ -1657,11 +5274,9 @@
       "id": "5817717031", 
       "properties": {
         "amenity": "fuel", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532679069841.jpg", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532679069841.jpg", 
         "name": "Sawmill Petrol Station", 
-        "osm:id": "5817717031", 
-        "type": "Petrol station", 
-        "wb_pbid": "26732943"
+        "osm:id": "5817717031"
       }, 
       "type": "Feature"
     }, 
@@ -1676,11 +5291,9 @@
       "id": "5817717032", 
       "properties": {
         "amenity": "library", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532678816440.jpg", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532678816440.jpg", 
         "name": "Karen Roses Joint Body Library", 
-        "osm:id": "5817717032", 
-        "type": "Library", 
-        "wb_pbid": "26732928"
+        "osm:id": "5817717032"
       }, 
       "type": "Feature"
     }, 
@@ -1694,12 +5307,10 @@
       }, 
       "id": "5817717033", 
       "properties": {
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532678207119.jpg", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532678207119.jpg", 
         "name": "Sawmill Business Centre", 
         "osm:id": "5817717033", 
-        "shop": "department_store", 
-        "type": "Business centre", 
-        "wb_pbid": "26732914"
+        "shop": "department_store"
       }, 
       "type": "Feature"
     }, 
@@ -1714,37 +5325,13 @@
       "id": "5817717034", 
       "properties": {
         "amenity": "school", 
-        "gender": "Mixed", 
+        "gender": "mixed", 
         "government_registered": "MOE (Ministry of Education)", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532677892173.jpg", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532677892173.jpg", 
         "name": "Sunrise ECDE", 
         "operator_type": "Private", 
         "osm:id": "5817717034", 
-        "type": "Pre_primary", 
-        "wb_pbid": "26732902"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7358042, 
-          0.058845
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5817717035", 
-      "properties": {
-        "amenity": "place_of_worship", 
-        "building_type": "Church", 
-        "denomination": "evangelical", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532677717477.jpg", 
-        "name": "River of Mercy Ministries", 
-        "osm:id": "5817717035", 
-        "religion": "christian", 
-        "service_time": "08:50", 
-        "type": "Christian", 
-        "wb_pbid": "26732892"
+        "school": "Pre_primary"
       }, 
       "type": "Feature"
     }, 
@@ -1759,119 +5346,620 @@
       "id": "5817717036", 
       "properties": {
         "amenity": "shelter", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532677246834.jpg", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532677246834.jpg", 
         "name": "Sawmill Bodaboda Shed", 
         "osm:id": "5817717036", 
-        "shelter_type": "public_transport", 
-        "type": "Shed", 
-        "wb_pbid": "26732880"
+        "shelter_type": "public_transport"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          35.7413959, 
-          0.0549982
+          35.7424293, 
+          0.4925943
         ], 
         "type": "Point"
       }, 
-      "id": "5817717037", 
+      "id": "5817722201", 
       "properties": {
-        "funde_by": "National Government", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674208425.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674422068.jpg", 
-        "name": "Chemususu Water Project Offices", 
+        "amenity": "bank", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069054498.jpg", 
+        "name": "Agricultural Finance Corporation", 
+        "osm:id": "5817722201", 
+        "type": "Corporate Association"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7393072, 
+          0.496732
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722202", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532072201521.jpg", 
+        "name": "Kerio Valley Development Authority", 
         "office": "government", 
-        "operational_status": "Operational", 
-        "operator": "Government", 
-        "osm:id": "5817717037", 
-        "wb_pbid": "26732864"
+        "osm:id": "5817722202", 
+        "type": "Office"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          35.7283079, 
-          0.0397688
+          35.7432441, 
+          0.4926178
         ], 
         "type": "Point"
       }, 
-      "id": "5820197012", 
+      "id": "5817722203", 
       "properties": {
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680835629.jpg", 
-        "osm:id": "5820197012", 
-        "power": "transformer", 
-        "type": "Electronics", 
-        "wb_pbid": "26724312"
+        "amenity": "fuel", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532068786621.jpg", 
+        "name": "Kenol Petrol Station", 
+        "osm:id": "5817722203", 
+        "type": "Petrol Station"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          35.7249797, 
-          0.0361503
+          35.7394415, 
+          0.496528
         ], 
         "type": "Point"
       }, 
-      "id": "5820197013", 
+      "id": "5817722204", 
       "properties": {
-        "funded_by": "National Government", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680139276.jpg", 
-        "man_made": "storage_tank", 
-        "name": "Chemususu Water Reservoir", 
-        "operational_status": "Operational", 
-        "operator_type": "Government", 
-        "osm:id": "5820197013", 
-        "type": "Water Reservoir", 
-        "wb_pbid": "26724298"
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532072005333.jpg", 
+        "name": "Kenya Industrial Estates Limited", 
+        "office": "estate_agent", 
+        "osm:id": "5817722204", 
+        "type": "Office"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          35.7134646, 
-          0.0250332
+          35.7393304, 
+          0.4950901
         ], 
         "type": "Point"
       }, 
-      "id": "5820197014", 
+      "id": "5817722205", 
       "properties": {
         "amenity": "place_of_worship", 
-        "building": "church", 
+        "building_type": "Church", 
         "denomination": "evangelical", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532677205734.jpg", 
-        "name": "AIC Kaplelechwa", 
-        "osm:id": "5820197014", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532071589493.jpg", 
+        "name": "Deliverance Church", 
+        "osm:id": "5817722205", 
         "religion": "christian", 
-        "type": "Christian", 
-        "wb_pbid": "26724288"
+        "service_times": "10:30"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          35.7135247, 
-          0.0262556
+          35.7420862, 
+          0.4938256
         ], 
         "type": "Point"
       }, 
-      "id": "5820197015", 
+      "id": "5817722206", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074646014.jpg", 
+        "name": "Kokwet Machinery Services", 
+        "osm:id": "5817722206", 
+        "shop": "hardware", 
+        "type": "Hardware"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7420174, 
+          0.493927
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722207", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074522090.jpg", 
+        "name": "Dubai Collection", 
+        "osm:id": "5817722207", 
+        "shop": "supermarket", 
+        "type": "Supermarket"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7419281, 
+          0.4939493
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722208", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074358892.jpg", 
+        "name": "Royal Hotel", 
+        "osm:id": "5817722208", 
+        "tourism": "hotel", 
+        "type": "Hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7398452, 
+          0.4944314
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722209", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532071053908.jpg", 
+        "name": "Garage", 
+        "osm:id": "5817722209", 
+        "shop": "car_repair"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.742924, 
+          0.4931914
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722210", 
+      "properties": {
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "family_planning": "yes", 
+        "general_medical_services": "yes", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074195088.jpg", 
+        "immunization": "yes", 
+        "malaria": "yes", 
+        "osm:id": "5817722210", 
+        "pregancy_test": "yes", 
+        "referral": "Baringo Refferal Hospital", 
+        "type": "Hospital"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7399233, 
+          0.4935371
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722211", 
+      "properties": {
+        "amenity": "car_wash", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070791408.jpg", 
+        "name": "Car Wash", 
+        "osm:id": "5817722211", 
+        "type": "Car wash"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7408549, 
+          0.4919897
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722212", 
       "properties": {
         "amenity": "school", 
-        "building": "school", 
         "gender": "Mixed", 
         "government_registered": "MOE (Ministry of Education)", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532677029515.jpg", 
-        "name": "Kaplelechwa ECDE", 
-        "operator_type": "Government", 
-        "osm:id": "5820197015", 
-        "type": "Pre_primary", 
-        "wb_pbid": "26724281"
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532072088104.jpg", 
+        "name": "AIC Kabarnet", 
+        "operator_type": "Private", 
+        "osm:id": "5817722212", 
+        "religion": "christian", 
+        "school": "Pre_primary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7400603, 
+          0.4916453
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722213", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "building_type": "Church", 
+        "denomination": "evangelical", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532071729640.jpg", 
+        "name": "AIC Kabarnet", 
+        "osm:id": "5817722213", 
+        "religion": "christian", 
+        "service_times": "08:30"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7403756, 
+          0.4928324
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722214", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070500195.jpg", 
+        "name": "Centre Posho Mill", 
+        "osm:id": "5817722214", 
+        "type": "Posho mill"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7406612, 
+          0.4927283
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722215", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532071134120.jpg", 
+        "name": "Lilian Lodge", 
+        "osm:id": "5817722215", 
+        "tourism": "hotel", 
+        "type": "Hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7417138, 
+          0.4948992
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722216", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532073743435.jpg", 
+        "name": "Garage", 
+        "osm:id": "5817722216", 
+        "shop": "car_repair"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7407118, 
+          0.4926819
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722217", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532071047324.jpg", 
+        "name": "Soko Supermarket", 
+        "osm:id": "5817722217", 
+        "shop": "supermarket", 
+        "type": "Supermarket"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7410281, 
+          0.4926386
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722218", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070956405.jpg", 
+        "name": "Highland Butchery", 
+        "osm:id": "5817722218", 
+        "shop": "butcher", 
+        "type": "Butcher"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7406386, 
+          0.4929199
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722219", 
+      "properties": {
+        "highway": "street_lamp", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070238147.jpg", 
+        "osm:id": "5817722219"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7411655, 
+          0.4926429
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722220", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070838626.jpg", 
+        "name": "Kabarnet View Point Hotel", 
+        "osm:id": "5817722220", 
+        "tourism": "hotel", 
+        "type": "Hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7416031, 
+          0.4926332
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722223", 
+      "properties": {
+        "amenity": "bank", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070546584.jpg", 
+        "name": "Vision Fund Kenya", 
+        "osm:id": "5817722223", 
+        "type": "Bank"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7421778, 
+          0.4924073
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722224", 
+      "properties": {
+        "amenity": "pharmacy", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "health_facility:referals": "County Referral Hospital", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070270324.jpg", 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "no", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Lelbel Chemist", 
+        "osm:id": "5817722224"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7423205, 
+          0.4923749
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722225", 
+      "properties": {
+        "amenity": "fuel", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070037970.jpg", 
+        "name": "Kobil Petrol Station", 
+        "osm:id": "5817722225", 
+        "type": "Petrol Station"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7424883, 
+          0.4923023
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722226", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069945254.jpg", 
+        "name": "Restaurant", 
+        "osm:id": "5817722226", 
+        "tourism": "hotel", 
+        "type": "Hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7425638, 
+          0.4923887
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722227", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069781875.jpg", 
+        "name": "Safaricom Customer Care Centre", 
+        "office": "telecommunication", 
+        "osm:id": "5817722227", 
+        "type": "communication Centre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7413965, 
+          0.4925671
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722228", 
+      "properties": {
+        "amenity": "bank", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069740010.jpg", 
+        "name": "Kenya Women Micro Finace Bank", 
+        "osm:id": "5817722228", 
+        "type": "Bank"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7430658, 
+          0.4923002
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722229", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069327188.jpg", 
+        "name": "City Clock Hotel", 
+        "osm:id": "5817722229", 
+        "tourism": "hotel", 
+        "type": "Hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7416813, 
+          0.492698
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722230", 
+      "properties": {
+        "amenity": "bank", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069525430.jpg", 
+        "name": "Kenya Credit Traders Limited", 
+        "osm:id": "5817722230", 
+        "type": "Bank"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.743048, 
+          0.4925223
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722231", 
+      "properties": {
+        "amenity": "bank", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069233643.jpg", 
+        "name": "Faulu Micro Finance", 
+        "osm:id": "5817722231", 
+        "type": "Bank"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7433156, 
+          0.4923917
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722232", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532068916169.jpg", 
+        "name": "Superior Hardware", 
+        "osm:id": "5817722232", 
+        "shop": "hardware", 
+        "type": "Hardware"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7434917, 
+          0.4923739
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817722233", 
+      "properties": {
+        "amenity": "clock", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532068542793.jpg", 
+        "osm:id": "5817722233", 
+        "type": "City Clock"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7092468, 
+          0.0087804
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5820105408", 
+      "properties": {
+        "amenity": "community_centre", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596317324.jpg", 
+        "name": "Benonin Community Centre", 
+        "osm:id": "5820105408", 
+        "type": "Community centre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7039002, 
+          -0.0017975
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5820105410", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532593055894.jpg", 
+        "osm:id": "5820105410", 
+        "type": "Forest"
       }, 
       "type": "Feature"
     }, 
@@ -1887,14 +5975,12 @@
       "properties": {
         "amenity": "school", 
         "building": "school", 
-        "gender": "Mixed", 
+        "gender": "mixed", 
         "government_registered": "MOE (Ministry of Education)", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532683984610.jpg", 
         "name": "Green View", 
         "operator_type": "Private", 
-        "osm:id": "5820197016", 
-        "type": "Primary", 
-        "wb_pbid": "26724407"
+        "osm:id": "5820197016"
       }, 
       "type": "Feature"
     }, 
@@ -1909,35 +5995,13 @@
       "id": "5820197017", 
       "properties": {
         "amenity": "school", 
-        "gender": "Mixed", 
+        "gender": "mixed", 
         "government_registered": "MOE (Ministry of Education)", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682983938.jpg", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682983938.jpg", 
         "name": "Eldama Ravine Boarding Primary School", 
         "operator_type": "Government", 
         "osm:id": "5820197017", 
-        "type": "Primary", 
-        "wb_pbid": "26724395"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7229865, 
-          0.0392914
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5820197018", 
-      "properties": {
-        "amenity": "college", 
-        "building": "church", 
-        "denomination": "evangelical", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682486624.jpg", 
-        "name": "Ravine Bible College", 
-        "osm:id": "5820197018", 
-        "type": "Christian", 
-        "wb_pbid": "26724378"
+        "school": "primary"
       }, 
       "type": "Feature"
     }, 
@@ -1955,39 +6019,438 @@
         "building": "Dispensary", 
         "dispensing": "yes", 
         "electricity": "always", 
-        "family_planning": "yes", 
-        "general_medical_services": "yes", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682076791.jpg", 
-        "immunization": "yes", 
-        "malaria": "yes", 
+        "health_facility:referals": "District", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682076791.jpg", 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
         "name": "Mission Hospital", 
-        "osm:id": "5820197019", 
-        "pregnancy_test": "yes", 
-        "referral": "District", 
-        "type": "Dispensary", 
-        "wb_pbid": "26724364"
+        "osm:id": "5820197019"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          35.7259905, 
-          0.0416212
+          35.7427341, 
+          0.4850803
         ], 
         "type": "Point"
       }, 
-      "id": "5820197020", 
+      "id": "5820321726", 
       "properties": {
-        "amenity": "school", 
-        "gender": "Male", 
-        "government_registered": "MOE (Ministry of Education)", 
-        "image:pointofInterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532681657633.jpg", 
-        "name": "Baringo Boys High School", 
-        "operator_type": "Government", 
-        "osm:id": "5820197020", 
-        "type": "Secondary", 
-        "wb_pbid": "26724348"
+        "amenity": "hospital", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904495659.jpg", 
+        "name": "Kabarnet Refferal Hopital-ICU", 
+        "osm:id": "5820321726"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7296389, 
+          0.0511859
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882702", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882702"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7294177, 
+          0.0509999
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882703", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882703"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7291306, 
+          0.0508032
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882704", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882704"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7285362, 
+          0.0503927
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882705", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882705"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7281453, 
+          0.0500912
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882706", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882706"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7278585, 
+          0.0498265
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882707", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882707"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7276367, 
+          0.0495728
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882708", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882708"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7273487, 
+          0.0493853
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882709", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882709"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7271367, 
+          0.0491794
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882710", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882710"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7269388, 
+          0.0489962
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882711", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882711"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7267188, 
+          0.0489208
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882712", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882712"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7264584, 
+          0.0488626
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882713", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882713"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7261851, 
+          0.0488418
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882714", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882714"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7259124, 
+          0.0487934
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882715", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882715"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7256281, 
+          0.0487517
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882716", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882716"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7251097, 
+          0.0486304
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882717", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882717"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7245595, 
+          0.0485005
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882718", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882718"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7240748, 
+          0.0482392
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882719", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882719"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7236318, 
+          0.0480127
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882720", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882720"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7232837, 
+          0.0478461
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882721", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882721"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7229724, 
+          0.0477039
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882722", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882722"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.722644, 
+          0.0474049
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882723", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882723"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7223009, 
+          0.046998
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882724", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882724"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7220337, 
+          0.0467762
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882725", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882725"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7216703, 
+          0.0467241
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882726", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882726"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7212874, 
+          0.0469478
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5828882727", 
+      "properties": {
+        "highway": "street_lamp", 
+        "osm:id": "5828882727"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7290076, 
+          0.0011916
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5829352270", 
+      "properties": {
+        "osm:id": "5829352270", 
+        "power": "pole", 
+        "transformer": "distribution"
       }, 
       "type": "Feature"
     }

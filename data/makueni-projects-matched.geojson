@@ -2109,7 +2109,6 @@
         "name": "Wote Water and Sewerage Company Limited", 
         "office": "government", 
         "osm:id": "5588098805", 
-        "village": "Wote", 
         "wb_pb:id": "21746120", 
         "wheelchair": "limited"
       }, 
@@ -2137,7 +2136,6 @@
         "opening_hours": "Mo-Fr 8:00-5:00", 
         "osm:id": "5588098800", 
         "type": "Sub Ward Administrators Office", 
-        "village": "Wote", 
         "wb_pb:id": "21745918", 
         "wheelchair": "yes"
       }, 
@@ -2164,7 +2162,6 @@
         "office": "telecommunication", 
         "osm:id": "5588098799", 
         "type": "County County Information Centre", 
-        "village": "Wote", 
         "wb_pb:id": "21745797", 
         "wheelchair": "yes"
       }, 
@@ -4535,6 +4532,7 @@
         "amenity": "hospital", 
         "dispensing": "yes", 
         "electricity": "sometime", 
+        "health_facility:referals": "Makueni and Machakos", 
         "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526635616970.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526635845734.jpg", 
         "medical_service:family_planning": "yes", 
@@ -4545,7 +4543,6 @@
         "name": "Kali Dispensary", 
         "opening_hours": "mo-fr 7:00-7:00", 
         "osm:id": "5637244512", 
-        "referal": "Makueni and Machakos", 
         "wb_pb:id": "22948127"
       }, 
       "type": "Feature"
@@ -4851,6 +4848,7 @@
         "amenity": "clinic", 
         "dispensing": "yes", 
         "electricity": "sometime", 
+        "health_facility:referals": "Mbooni", 
         "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983431363.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983765499.jpg", 
         "medical_service:family_planning": "yes", 
@@ -4861,7 +4859,6 @@
         "name": "Ebenezer", 
         "opening_hours": "Mo-Fr 07:00-19:00", 
         "osm:id": "5637519162", 
-        "referal": "Mbooni", 
         "wb_pb:id": "22951661"
       }, 
       "type": "Feature"
@@ -4885,6 +4882,7 @@
         "amenity": "clinic", 
         "dispensing": "yes", 
         "electricity": "sometime", 
+        "health_facility:referals": "Mbooni hospital", 
         "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983904704.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526984129492.jpg", 
         "medical_service:family_planning": "yes", 
@@ -4895,7 +4893,6 @@
         "name": "Ebenezer dispensary water tank", 
         "opening_hours": "mo-fr 7:00-7:00", 
         "osm:id": "5702426115", 
-        "referal": "Mbooni hospital", 
         "wb_pb:id": "22951663"
       }, 
       "type": "Feature"
@@ -5025,6 +5022,7 @@
         "amenity": "hospital", 
         "dispensing": "yes", 
         "electricity": "always", 
+        "health_facility:referals": "Machakos Referral hospital", 
         "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526898625144.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526899020838.jpg", 
         "medical_service:family_planning": "yes", 
@@ -5035,7 +5033,6 @@
         "name": "Bosnia Sub-County Hospital", 
         "opening_hours": "24/7", 
         "osm:id": "5641420360", 
-        "referal": "Machakos Referral hospital", 
         "wb_pb:id": "22958288"
       }, 
       "type": "Feature"

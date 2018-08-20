@@ -56,83 +56,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.7422797, 
-          0.4857875
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5781471254", 
-      "properties": {
-        "Category": "Health Services", 
-        "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "the work is good.", 
-        "Project_Description": "renovation of kabarnet refferal hopital intern quarters.tilling and painting", 
-        "Project_Name_or_Title": "kabarnet refferal intern quarters.", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "building": "yes", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906457617.jpg", 
-        "name": "Baringo County referral hospitall Intern quarters", 
-        "osm:id": "5781471254", 
-        "type": "hospital", 
-        "wb_pb:id": "26125995"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7415969, 
-          0.4861037
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5781471253", 
-      "properties": {
-        "Category": "Health Services", 
-        "In_your_opinion_is_the_project_quality": "Adequate", 
-        "Please_add_any_details_about_y": "the quality is avarage, the perimeter wall is not complete.", 
-        "Project_Description": "proposed rehabilitation of hospital sewarage lagoon", 
-        "Project_Name_or_Title": "kabarnet refferal hospital ", 
-        "What_is_the_project_s_apparent_status": "In progress", 
-        "amenity": "waste_disposal", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906979759.jpg", 
-        "name": "Baringo County referral hospital lagoon", 
-        "osm:id": "5781471253", 
-        "type": "hospital", 
-        "water": "lagoon", 
-        "wb_pb:id": "26126011"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7427193, 
-          0.4855942
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5781471052", 
-      "properties": {
-        "Category": "Health Services", 
-        "In_your_opinion_is_the_project_quality": "Adequate", 
-        "Please_add_any_details_about_y": "the workmanship was good and of good quality.", 
-        "Project_Description": "renovation of administration block.", 
-        "Project_Name_or_Title": "kabarnert refferal hospital", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "building": "yes", 
-        "electricity": "always", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907382788.jpg", 
-        "name": "Baringo County referral hospital Adminstative Block", 
-        "office": "administrative", 
-        "osm:id": "5781471052", 
-        "wb_pb:id": "26126016"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           35.7438767, 
           0.4893079
         ], 
@@ -203,7 +126,6 @@
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531912339437.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531912791843.jpg", 
         "name": "Kabarnet Model ECDE School", 
-        "opening_hours": "Mo-Fr 8:30-4:00", 
         "operator_type": "Baringo County Government", 
         "osm:id": "5781471258", 
         "wb_pb:id": "26126096"
@@ -877,6 +799,7 @@
         "amenity": "clinic", 
         "dispensing": "yes", 
         "electricity": "often", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907158978.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907624084.jpg", 
         "medical_service:family_planning": "yes", 
         "medical_service:general_medical_services": "yes", 
@@ -1613,7 +1536,7 @@
         "Project_Description": "Project not yet started", 
         "Project_Name_or_Title": "Soil erosion control conservation", 
         "What_is_the_project_s_apparent_status": "Not yet started", 
-        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531994246256.jpg", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531994246256.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531994456429.jpg", 
         "name": "Soil erosion control conservation", 
         "osm:id": "5781138891", 
@@ -1638,7 +1561,7 @@
         "Project_Name_or_Title": "Kipsoit water project", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "fee": "5.0 KSH", 
-        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531988004813.jpg", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531988004813.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/\\1531988212032.jpg", 
         "man_made": "water_well", 
         "name": "Kipsoit Borehole", 
@@ -2014,30 +1937,6 @@
         "osm:id": "5779627494", 
         "type": "Cattle dip", 
         "wb_pb:id": "26194042"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7427341, 
-          0.4850803
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5820321726", 
-      "properties": {
-        "Category": "Health Services", 
-        "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "The facility's workmanship is good,the equipments are of good quality.", 
-        "Project_Description": "renovation works of ICU", 
-        "Project_Name_or_Title": "Kabarnet refferal hospital ICU", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "amenity": "hospital", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904495659.jpg", 
-        "name": "Kabarnet Refferal Hopital-ICU", 
-        "osm:id": "5820321726", 
-        "wb_pb:id": "26199364"
       }, 
       "type": "Feature"
     }, 
@@ -2976,14 +2875,13 @@
         "Project_Description": "Erection of kabiyet-Benonin-sogonin water tank", 
         "Project_Name_or_Title": "Kabiyet-Benonin-Sogonin water piping", 
         "What_is_the_project_s_apparent_status": "Completed", 
-        "cost": "0.0", 
         "funded_by": "County Government of Baringo", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532594918411.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532595323774.jpg", 
         "man_made": "storage_tank", 
         "name": "Benonin Storage Tank", 
-        "operated_by": "Government", 
         "operational_status": "Operational", 
+        "operator:type": "Government", 
         "osm:id": "5820105409", 
         "wb_pb:id": "26661920"
       }, 
@@ -3849,6 +3747,63 @@
     {
       "geometry": {
         "coordinates": [
+          35.7413959, 
+          0.0549982
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817717037", 
+      "properties": {
+        "Category": "Water and Irrigation", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "There are adequate and quality materials and labour for construction", 
+        "Project_Description": "Construction offices ", 
+        "Project_Name_or_Title": "Chemususu Project Offices", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "funded_by": "National Government", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674208425.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674422068.jpg", 
+        "name": "Chemususu Water Project Offices", 
+        "office": "government", 
+        "operational_status": "Operational", 
+        "operator": "Government", 
+        "osm:id": "5817717037", 
+        "wb_pb:id": "26732864"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7317993, 
+          0.04988
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817717021", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Poor", 
+        "Please_add_any_details_about_y": "The construction is incomplete due to lack of enough  materials", 
+        "Project_Description": "", 
+        "Project_Name_or_Title": "ECDE Construction project", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "school", 
+        "gender": "mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686099757.jpg", 
+        "image:project": "1532686350800.jpg", 
+        "name": "Koibatek Primary School", 
+        "operational_status": "Government", 
+        "osm:id": "5817717021", 
+        "school": "primary", 
+        "wb_pb:id": "26733025"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.7244639, 
           0.0526767
         ], 
@@ -3862,7 +3817,7 @@
         "Project_Description": "In good condition serving the community ", 
         "Project_Name_or_Title": "Chemususu water project ", 
         "What_is_the_project_s_apparent_status": "Completed", 
-        "cost_per_20litres(inKSH)": "3", 
+        "fee": "3 KSH / 20 litres", 
         "funded_by": "CDF", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937915925.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938060932.jpg", 
@@ -3871,7 +3826,6 @@
         "operational_status": "Operational", 
         "operator": "Government", 
         "osm:id": "5800785539", 
-        "type": "Water tank", 
         "wb_pb:id": "26921344"
       }, 
       "type": "Feature"
@@ -3888,20 +3842,19 @@
       "properties": {
         "Category": "Water and Irrigation", 
         "In_your_opinion_is_the_project_quality": "Poor", 
-        "Operational_status": "Non-operational", 
         "Please_add_any_details_about_y": "Bowser need renovation ", 
         "Project_Description": "Main stage ", 
         "Project_Name_or_Title": "Water tank bowser", 
         "What_is_the_project_s_apparent_status": "Completed", 
-        "cost_per_20litres(inKSH)": "2", 
+        "fee": "2 KSH / 20 litres", 
         "funded_by": "Government", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532939429676.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532939572754.jpg", 
         "man_made": "storage_tank", 
         "name": "Stage Water Bowser", 
-        "operator_type": "County Government of Baringo", 
+        "operational_status": "Non-operational", 
+        "operator": "County Government of Baringo", 
         "osm:id": "5800785536", 
-        "type": "Water tank", 
         "wb_pb:id": "26922141"
       }, 
       "type": "Feature"

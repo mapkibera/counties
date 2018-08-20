@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.4 3079d8ea">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2018-08-09T16:45:03Z"/>
+<meta osm_base="2018-08-20T15:51:03Z"/>
 
   <bounds minlat="-1.8769500" minlon="37.3700000" maxlat="-1.5900700" maxlon="37.7359800"/>
 
@@ -515,32 +515,29 @@
     <tag k="name" v="St John Secondary School"/>
     <tag k="wb_pb:id" v="21741509"/>
   </node>
-  <node id="5588098798" lat="-1.7829700" lon="37.6293908" version="2" timestamp="2018-05-09T12:19:20Z" changeset="58817917" uid="265690" user="fondolucy">
+  <node id="5588098798" lat="-1.7829700" lon="37.6293908" version="3" timestamp="2018-08-20T12:07:42Z" changeset="61821121" uid="8556619" user="kbizz">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643506410.jpg"/>
     <tag k="name" v="Wote Ward Administrator's Office"/>
     <tag k="office" v="administrative"/>
     <tag k="opening_hours" v="Mo-Fr 8:00-5:00"/>
     <tag k="type" v="Government Office"/>
-    <tag k="village" v="Wote"/>
     <tag k="wb_pb:id" v="21745649"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5588098799" lat="-1.7833950" lon="37.6291408" version="3" timestamp="2018-05-10T08:52:02Z" changeset="58842775" uid="261050" user="muindre">
+  <node id="5588098799" lat="-1.7833950" lon="37.6291408" version="4" timestamp="2018-08-20T12:07:42Z" changeset="61821121" uid="8556619" user="kbizz">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524644731444.jpg"/>
     <tag k="name" v="Community Information Centre"/>
     <tag k="office" v="telecommunication"/>
     <tag k="type" v="County County Information Centre"/>
-    <tag k="village" v="Wote"/>
     <tag k="wb_pb:id" v="21745797"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5588098800" lat="-1.7831758" lon="37.6292058" version="2" timestamp="2018-05-09T12:19:20Z" changeset="58817917" uid="265690" user="fondolucy">
+  <node id="5588098800" lat="-1.7831758" lon="37.6292058" version="3" timestamp="2018-08-20T12:07:42Z" changeset="61821121" uid="8556619" user="kbizz">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524645334060.jpg"/>
     <tag k="name" v="Sub Ward Administrators Office"/>
     <tag k="office" v="administrative"/>
     <tag k="opening_hours" v="Mo-Fr 8:00-5:00"/>
     <tag k="type" v="Sub Ward Administrators Office"/>
-    <tag k="village" v="Wote"/>
     <tag k="wb_pb:id" v="21745918"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -553,13 +550,12 @@
     <tag k="wb_pb:id" v="21747034"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5588098802" lat="-1.7830685" lon="37.6292411" version="2" timestamp="2018-05-09T12:19:20Z" changeset="58817917" uid="265690" user="fondolucy">
+  <node id="5588098802" lat="-1.7830685" lon="37.6292411" version="3" timestamp="2018-08-20T12:07:42Z" changeset="61821121" uid="8556619" user="kbizz">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643685769.jpg"/>
     <tag k="name" v="Chiefs Office"/>
     <tag k="office" v="administrative"/>
     <tag k="opening_hours" v="Mo-Fr 8:00-5:00"/>
     <tag k="type" v="Chiefs Office"/>
-    <tag k="village" v="Wote"/>
     <tag k="wb_pb:id" v="21745757"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -582,11 +578,10 @@
     <tag k="wb_pb:id" v="21746703"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5588098805" lat="-1.7832583" lon="37.6290117" version="2" timestamp="2018-05-09T12:19:21Z" changeset="58817917" uid="265690" user="fondolucy">
+  <node id="5588098805" lat="-1.7832583" lon="37.6290117" version="3" timestamp="2018-08-20T12:07:43Z" changeset="61821121" uid="8556619" user="kbizz">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524645909621.jpg"/>
     <tag k="name" v="Wote Water and Sewerage Company Limited"/>
     <tag k="office" v="government"/>
-    <tag k="village" v="Wote"/>
     <tag k="wb_pb:id" v="21746120"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -641,13 +636,12 @@
     <tag k="wb_pb:id" v="21747351"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5588098811" lat="-1.7830222" lon="37.6288117" version="2" timestamp="2018-05-09T12:19:21Z" changeset="58817917" uid="265690" user="fondolucy">
+  <node id="5588098811" lat="-1.7830222" lon="37.6288117" version="3" timestamp="2018-08-20T12:07:43Z" changeset="61821121" uid="8556619" user="kbizz">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524645504035.jpg"/>
     <tag k="name" v="National Council for Persons with Disabilities."/>
     <tag k="office" v="government"/>
     <tag k="opening_hours" v="Mo-Fr 8:00-5:00"/>
     <tag k="type" v="National Council for Persons with Disabilities Office"/>
-    <tag k="village" v="Wote"/>
     <tag k="wb_pb:id" v="21746030"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -1642,7 +1636,7 @@
     <tag k="opening_hours" v="Mo-Su 06:00-20:00"/>
     <tag k="wb_pb:id" v="21742891"/>
   </node>
-  <node id="5592138034" lat="-1.7820429" lon="37.6298218" version="4" timestamp="2018-07-04T10:38:26Z" changeset="60404750" uid="345975" user="VlIvYur">
+  <node id="5592138034" lat="-1.7820429" lon="37.6298218" version="5" timestamp="2018-08-20T12:07:43Z" changeset="61821121" uid="8556619" user="kbizz">
     <tag k="amenity" v="school"/>
     <tag k="gender_type" v="mixed"/>
     <tag k="governement_registered" v="moe"/>
@@ -1651,7 +1645,6 @@
     <tag k="operator" v="Government of Kenya"/>
     <tag k="operator:type" v="government"/>
     <tag k="type" v="primary"/>
-    <tag k="village" v="Unoa"/>
     <tag k="wb_pb:id" v="21744447"/>
   </node>
   <node id="5592138035" lat="-1.7827025" lon="37.6300696" version="1" timestamp="2018-05-02T11:27:38Z" changeset="58612187" uid="8123824" user="Kitone">
@@ -3288,10 +3281,11 @@
     <tag k="type" v="secondary"/>
     <tag k="wb_pb:id" v="22948443"/>
   </node>
-  <node id="5637244512" lat="-1.6335388" lon="37.3865283" version="2" timestamp="2018-08-04T18:35:54Z" changeset="61359703" uid="616774" user="mueschel">
+  <node id="5637244512" lat="-1.6335388" lon="37.3865283" version="3" timestamp="2018-08-11T10:25:34Z" changeset="61562241" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="sometime"/>
+    <tag k="health_facility:referals" v="Makueni and Machakos"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526635616970.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526635845734.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -3301,7 +3295,6 @@
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Kali Dispensary"/>
     <tag k="opening_hours" v="mo-fr 7:00-7:00"/>
-    <tag k="referal" v="Makueni and Machakos"/>
     <tag k="wb_pb:id" v="22948127"/>
   </node>
   <node id="5637244513" lat="-1.6300575" lon="37.3964900" version="1" timestamp="2018-05-23T12:00:31Z" changeset="59208834" uid="8123810" user="Ms Ruth">
@@ -4476,10 +4469,11 @@
     <tag k="wb_pb:id" v="22950729"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5637519162" lat="-1.6306172" lon="37.4684729" version="3" timestamp="2018-08-04T18:35:54Z" changeset="61359703" uid="616774" user="mueschel">
+  <node id="5637519162" lat="-1.6306172" lon="37.4684729" version="4" timestamp="2018-08-11T10:25:34Z" changeset="61562241" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="sometime"/>
+    <tag k="health_facility:referals" v="Mbooni"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983431363.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983765499.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -4489,7 +4483,6 @@
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Ebenezer"/>
     <tag k="opening_hours" v="Mo-Fr 07:00-19:00"/>
-    <tag k="referal" v="Mbooni"/>
     <tag k="wb_pb:id" v="22951661"/>
   </node>
   <node id="5637519163" lat="-1.6195063" lon="37.4776500" version="1" timestamp="2018-05-23T13:47:39Z" changeset="59212330" uid="261050" user="muindre">
@@ -5050,10 +5043,11 @@
     <tag k="wb_pb:id" v="22956655"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5641420323" lat="-1.6629221" lon="37.4469354" version="2" timestamp="2018-08-04T18:35:55Z" changeset="61359703" uid="616774" user="mueschel">
+  <node id="5641420323" lat="-1.6629221" lon="37.4469354" version="3" timestamp="2018-08-11T10:25:34Z" changeset="61562241" uid="616774" user="mueschel">
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="no"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="No"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526980659962.jpg"/>
     <tag k="medical_service:family_planning" v="no"/>
     <tag k="medical_service:general_medical_services" v="no"/>
@@ -5062,7 +5056,6 @@
     <tag k="medical_service:pregnancy_test" v="no"/>
     <tag k="name" v="Longonot Chemist"/>
     <tag k="opening_hours" v="Mo-Fr 7:00-7:00"/>
-    <tag k="referal" v="No"/>
     <tag k="wb_pb:id" v="22956648"/>
   </node>
   <node id="5641420324" lat="-1.6630873" lon="37.4468629" version="1" timestamp="2018-05-25T09:45:20Z" changeset="59265042" uid="261050" user="muindre">
@@ -5385,10 +5378,11 @@
     <tag k="name_5" v="Mbooni Sub County Hospital"/>
     <tag k="wb_pb:id" v="22958290"/>
   </node>
-  <node id="5641420360" lat="-1.6590352" lon="37.4545954" version="2" timestamp="2018-08-04T18:35:55Z" changeset="61359703" uid="616774" user="mueschel">
+  <node id="5641420360" lat="-1.6590352" lon="37.4545954" version="3" timestamp="2018-08-11T10:25:35Z" changeset="61562241" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Machakos Referral hospital"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526898625144.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526899020838.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -5398,7 +5392,6 @@
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Bosnia Sub-County Hospital"/>
     <tag k="opening_hours" v="24/7"/>
-    <tag k="referal" v="Machakos Referral hospital"/>
     <tag k="wb_pb:id" v="22958288"/>
   </node>
   <node id="5641420361" lat="-1.6556145" lon="37.4445859" version="2" timestamp="2018-05-25T10:17:21Z" changeset="59266141" uid="261050" user="muindre">
@@ -5517,10 +5510,11 @@
     <tag k="opening_hours" v="mo-fr 7:00-7:0"/>
     <tag k="wb_pb:id" v="22947695"/>
   </node>
-  <node id="5702426115" lat="-1.6248991" lon="37.6913820" version="2" timestamp="2018-08-04T18:35:57Z" changeset="61359703" uid="616774" user="mueschel">
+  <node id="5702426115" lat="-1.6248991" lon="37.6913820" version="3" timestamp="2018-08-11T10:25:35Z" changeset="61562241" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="sometime"/>
+    <tag k="health_facility:referals" v="Mbooni hospital"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983904704.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526984129492.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -5530,7 +5524,6 @@
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Ebenezer dispensary water tank"/>
     <tag k="opening_hours" v="mo-fr 7:00-7:00"/>
-    <tag k="referal" v="Mbooni hospital"/>
     <tag k="wb_pb:id" v="22951663"/>
   </node>
   <node id="5702426116" lat="-1.6207012" lon="37.4582663" version="1" timestamp="2018-06-19T13:02:03Z" changeset="59978573" uid="261050" user="muindre">
