@@ -82,7 +82,7 @@ def match_projects(county):
   for row in reader:
     found_match = False
     for feature in osm.features:
-       if feature.properties['tags']['wb_pb:id'] == row['_id']:
+       if feature.properties['tags']['wb_pb:id'] == row['_id'] and found_match == False:
          found_match = True
          feature.properties['tags']['Project_Name_or_Title'] = row['Project_Name_or_Title']
          feature.properties['tags']['Project_Description'] = row['Project_Description']
@@ -120,25 +120,46 @@ def number_projects(county):
    result['type'] = 'FeatureCollection'
    result['features'] = []
 
+
    i = 1
    osm = geojson.loads(readfile(county + '-projects-matched.geojson'))
-   for feature in sorted(osm.features, key=lambda project: project.properties['Project_Name_or_Title'].strip().lower()):
-     feature.properties["iterator"] = i
-     result['features'].append(feature)
-     i += 1
+   completed = list(filter(lambda p: p.properties['What_is_the_project_s_apparent_status'] == 'Completed', osm.features))
+   in_progress = list(filter(lambda p: p.properties['What_is_the_project_s_apparent_status'] == 'In progress', osm.features))
+   not_yet_started = list(filter(lambda p: p.properties['What_is_the_project_s_apparent_status'] == 'Not yet started', osm.features))
+
+   for features in [completed, in_progress, not_yet_started]:
+     for feature in sorted(features, key=lambda project: project.properties['Project_Name_or_Title'].strip().lower()):
+       feature.properties["iterator"] = i
+       result['features'].append(feature)
+       i += 1
 
    dump = geojson.dumps(result, sort_keys=True, indent=2)
    writefile(county + '-projects-numbered.geojson',dump)
 
-sync_osm()
-sync_projects()
-convert_geojson()
+def create_index(county):
+   projects = geojson.loads(readfile(county + '-projects-numbered.geojson'))
+   result = ''
+   status = ''
+   for feature in projects.features:
+       if feature.properties['What_is_the_project_s_apparent_status'] != status:
+           status = feature.properties['What_is_the_project_s_apparent_status']
+           result = result + status + "\n"
+
+       result = result + str(feature.properties["iterator"]) + ". " + feature.properties['Project_Name_or_Title'] + "\n"
+
+   writefile(county + '-projects-listing.txt', result)
+
+#sync_osm()
+#sync_projects()
+#convert_geojson()
 match_projects('makueni')
-#match_projects('baringo')
+##match_projects('baringo')
 match_projects('kabernet')
 match_projects('eldama')
 merge_geojson()
-filter_poi('makueni')
-filter_poi('baringo')
+#filter_poi('makueni')
+#filter_poi('baringo')
 number_projects('kabernet')
 number_projects('eldama')
+create_index('kabernet')
+create_index('eldama')
