@@ -1,0 +1,1041 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          35.7248489, 
+          0.0581344
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859920", 
+      "properties": {
+        "Category": "Water and Irrigation", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Not enough  water for community  at large ", 
+        "Project_Description": "Construction of chemususu water project ", 
+        "Project_Name_or_Title": "Chemususu water project ", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "drinking_water", 
+        "cost": "3.0", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597260143.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597436439.jpg", 
+        "iterator": 1, 
+        "name": "Chemususu Water Project", 
+        "operational_status": "Operational", 
+        "operator_type": "Private", 
+        "osm:id": "5798859920", 
+        "wb_pb:id": "26662893"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7244639, 
+          0.0526767
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785539", 
+      "properties": {
+        "Category": "Water and Irrigation", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "It's serve the community at large ", 
+        "Project_Description": "In good condition serving the community ", 
+        "Project_Name_or_Title": "Chemususu water project ", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "fee": "3 KSH / 20 litres", 
+        "funded_by": "CDF", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937915925.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938060932.jpg", 
+        "iterator": 2, 
+        "man_made": "water_tower", 
+        "name": "Chemesusu Water Project", 
+        "operational_status": "Operational", 
+        "operator": "Government", 
+        "osm:id": "5800785539", 
+        "wb_pb:id": "26921344"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.725065, 
+          0.0584222
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859921", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "Its serve the local of kapdeining and community at large ", 
+        "Project_Description": "Eldama ravine stadium ", 
+        "Project_Name_or_Title": "Eco toilet", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "toilets", 
+        "fee": "yes", 
+        "female": "yes", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596618749.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596770104.jpg", 
+        "iterator": 3, 
+        "male": "yes", 
+        "name": "Eco toilet", 
+        "operator": "County government of baringo", 
+        "osm:id": "5798859921", 
+        "toilets:disposal": "flushing", 
+        "toilets:handwashing": "yes", 
+        "toilets:num_chambers": "6", 
+        "unisex": "no", 
+        "wb_pb:id": "26662882"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7260979, 
+          0.0591971
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798782577", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Needs renovations", 
+        "Project_Description": "Rehabilitation of the running track,football pitch and fencing", 
+        "Project_Name_or_Title": "Eldama Ravine-rehabilitation of running track and football pitch and fencing", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674148381.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674503455.jpg", 
+        "iterator": 4, 
+        "leisure": "stadium", 
+        "name": "Eldama Ravine Stadium-Running Tracks and Football Pitch", 
+        "osm:id": "5798782577", 
+        "wb_pb:id": "26727827"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7254796, 
+          0.0492113
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859905", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "It serve people of eldama ravine town", 
+        "Project_Description": "Public toilet", 
+        "Project_Name_or_Title": "Garden square", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610226450.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610379185.jpg", 
+        "iterator": 5, 
+        "name": "Ravine Garden Square", 
+        "osm:id": "5798859905", 
+        "type": "Garden Square", 
+        "wb_pb:id": "26663654"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7243828, 
+          0.0526206
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785538", 
+      "properties": {
+        "Category": "Transport, Public Works and Infrasctructure", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "In good condition serving the community at large ", 
+        "Project_Description": "Car wash ", 
+        "Project_Name_or_Title": "Improvemrnt of parking roads ", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "car_wash", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938302657.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938560980.jpg", 
+        "iterator": 6, 
+        "name": "Main Stage Car Wash", 
+        "osm:id": "5800785538", 
+        "type": "Car wash", 
+        "wb_pb:id": "26922849"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7286833, 
+          0.001784
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798788033", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "1.incomplete erection of drawers\n2.No facilitation of playing kits\n3Need more space of classes\n4.Inadequate teachers\n5.cracking walls\n6 No ECDE toilets", 
+        "Project_Description": "", 
+        "Project_Name_or_Title": "Kabiyet ECDE", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231053153471.jpg", 
+        "image:project": "1231053714486.jpg", 
+        "iterator": 7, 
+        "name": "Kabiyet Primary School", 
+        "operator_type": "Government", 
+        "osm:id": "5798788033", 
+        "type": "Primary", 
+        "wb_pb:id": "26664170"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7035017, 
+          0.0055506
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798751609", 
+      "properties": {
+        "Category": "Water and Irrigation", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "The tank needs repairs due to leakages", 
+        "Project_Description": "Erection of kabiyet-Benonin-sogonin water tank", 
+        "Project_Name_or_Title": "Kabiyet-Benonin-Sogonin water piping", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "cost": "0.0", 
+        "funded_by": "Other", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532594918411.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532595323774.jpg", 
+        "iterator": 8, 
+        "man_made": "storage_tank", 
+        "name": "Benonin Storage Tank", 
+        "operational_status": "Operational", 
+        "operator_type": "Government", 
+        "osm:id": "5798751609", 
+        "wb_pb:id": "26661920"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7255043, 
+          0.0256107
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798751612", 
+      "properties": {
+        "Category": "Agriculture, Livestock and Fisheries", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "It requires maintainance", 
+        "Project_Description": "Construction of Kaburandi( Sosion Cattle Dip)", 
+        "Project_Name_or_Title": "Kaburandi(Sosion)Cattle Dip", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "agriculture", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532605631119.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532605875088.jpg", 
+        "iterator": 9, 
+        "name": "Kaburandi (Sosion) Cattle Dip", 
+        "osm:id": "5798751612", 
+        "type": "Cattle dip", 
+        "wb_pb:id": "26662079"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7389514, 
+          0.0437974
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817629961", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "The polytecnic is well build also well equiped", 
+        "Project_Description": "Contruction of administration block and classroom", 
+        "Project_Name_or_Title": "Kamelilo vocational trainning center", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "college", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532595795390.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596227472.jpg", 
+        "iterator": 10, 
+        "name": "Kamelilo Vocational Trainning Center", 
+        "operator_type": "Government", 
+        "osm:id": "5817629961", 
+        "type": "Tertiary", 
+        "wb_pb:id": "26669236"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7251989, 
+          0.0451609
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859909", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "In good condition ", 
+        "Project_Description": "Wall", 
+        "Project_Name_or_Title": "Mojury equipment", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607352984.jpg", 
+        "iterator": 11, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Eldama Ravine Sub-County Referral Hospital-Mortuary", 
+        "osm:id": "5798859909", 
+        "referral": "Eldoret Referral Hospital", 
+        "wb_pb:id": "26663338"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7239565, 
+          0.0532994
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785522", 
+      "properties": {
+        "Category": "Transport, Public Works and Infrasctructure", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Its need to be revanished not in good condition", 
+        "Project_Description": "Proposed renovation and civil works at ravine market", 
+        "Project_Name_or_Title": "Renovation of ravine market", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "marketplace", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124345492.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124583285.jpg", 
+        "iterator": 12, 
+        "name": "Eldama Ravine Market", 
+        "osm:id": "5800785522", 
+        "type": "Public Market", 
+        "wb_pb:id": "27061423"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7246667, 
+          0.0463533
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859908", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "In good condition ", 
+        "Project_Description": "Walkbway", 
+        "Project_Name_or_Title": "Renovation of wards", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607807515.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607913062.jpg", 
+        "iterator": 13, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Eldama Ravine Sub-County Referral Hospital", 
+        "osm:id": "5798859908", 
+        "referral": "Eldoret", 
+        "wb_pb:id": "26663361"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7227542, 
+          0.0589654
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859919", 
+      "properties": {
+        "Category": "Agriculture, Livestock and Fisheries", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Construction  of septic  tank  completed but its stich", 
+        "Project_Description": "Eldama ravine slaughter house ", 
+        "Project_Name_or_Title": "Septic tanks ", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598145387.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598375724.jpg", 
+        "industrial": "slaughterhouse", 
+        "iterator": 14, 
+        "osm:id": "5798859919", 
+        "type": "Slaughter House", 
+        "wb_pb:id": "26662913"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7293371, 
+          0.0025198
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798788034", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "1.poor drainage\n2.No gas system\n3.broken taps\n4.No sits\n5.inadequate fume chamber", 
+        "Project_Description": "Use for science practicals", 
+        "Project_Name_or_Title": "Uhuru kabiyet science labaratory", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231052230903.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231052689752.jpg", 
+        "iterator": 15, 
+        "name": "Uhuru Kenyatta High School-kabiyet", 
+        "operator_type": "Government", 
+        "osm:id": "5798788034", 
+        "type": "Secondary", 
+        "wb_pb:id": "26664159"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7252023, 
+          0.0452854
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5820417010", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "Good condition ", 
+        "Project_Description": "Construction of generator", 
+        "Project_Name_or_Title": "Walk way ", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "generator:source": "solar", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606893111.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607098117.jpg", 
+        "iterator": 16, 
+        "name": "Eldama Ravine Sub-County Referral Hospital-Power Generator", 
+        "osm:id": "5820417010", 
+        "power": "generator", 
+        "wb_pb:id": "26663837"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7219117, 
+          0.0507183
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859914", 
+      "properties": {
+        "Category": "Water and Irrigation", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Not in good condition inadequate water ", 
+        "Project_Description": "Water kiosk ", 
+        "Project_Name_or_Title": "Water kiosk", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "drinking_water", 
+        "cost": "3.0", 
+        "funded_by": "Other", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603812647.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603916564.jpg", 
+        "iterator": 17, 
+        "name": "Water Kiosk", 
+        "operational_status": "Operational", 
+        "operator_type": "Private", 
+        "osm:id": "5798859914", 
+        "wb_pb:id": "26663249"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7236454, 
+          0.0524096
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785536", 
+      "properties": {
+        "Category": "Water and Irrigation", 
+        "In_your_opinion_is_the_project_quality": "Poor", 
+        "Please_add_any_details_about_y": "Bowser need renovation ", 
+        "Project_Description": "Main stage ", 
+        "Project_Name_or_Title": "Water tank bowser", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "fee": "2 KSH / 20 litres", 
+        "funded_by": "Government", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532939429676.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532939572754.jpg", 
+        "iterator": 18, 
+        "man_made": "storage_tank", 
+        "name": "Stage Water Bowser", 
+        "operational_status": "Non-operational", 
+        "operator": "County Government of Baringo", 
+        "osm:id": "5800785536", 
+        "wb_pb:id": "26922141"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7218, 
+          0.0504917
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859915", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Not yet completed ", 
+        "Project_Description": "Not yet finished ", 
+        "Project_Name_or_Title": "Bondeni nursery school ", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603569979.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603700659.jpg", 
+        "iterator": 19, 
+        "name": "Bondeni Nursery School", 
+        "operator_type": "Government", 
+        "osm:id": "5798859915", 
+        "type": "Pre_primary", 
+        "wb_pb:id": "26663240"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7224572, 
+          0.0531211
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859916", 
+      "properties": {
+        "Category": "Water and Irrigation", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Not satisfactory need renovation ", 
+        "Project_Description": "Not satisfactory not enough  water ", 
+        "Project_Name_or_Title": "Bondeni water kiosk project", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "drinking_water", 
+        "cost": "3.0", 
+        "funded_by": "Other", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532602780804.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532602925860.jpg", 
+        "iterator": 20, 
+        "name": "Bondeni Water Kiosk", 
+        "operational_status": "Operational", 
+        "operator_type": "Private", 
+        "osm:id": "5798859916", 
+        "wb_pb:id": "26663236"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7413959, 
+          0.0549982
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817717037", 
+      "properties": {
+        "Category": "Water and Irrigation", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "There are adequate and quality materials and labour for construction", 
+        "Project_Description": "Construction offices ", 
+        "Project_Name_or_Title": "Chemususu Project Offices", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "funded_by": "National Government", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674208425.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674422068.jpg", 
+        "iterator": 21, 
+        "name": "Chemususu Water Project Offices", 
+        "office": "government", 
+        "operational_status": "Operational", 
+        "operator": "Government", 
+        "osm:id": "5817717037", 
+        "wb_pb:id": "26732864"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7247244, 
+          0.04579
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859911", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Construction In progress ", 
+        "Project_Description": "Construction Kitchen laundry block ", 
+        "Project_Name_or_Title": "Construction and equipping of laundry block", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "sometime", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606346905.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606491571.jpg", 
+        "iterator": 22, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Eldama Ravine Sub-County Referral Hospital-Laundry", 
+        "osm:id": "5798859911", 
+        "referral": "Eldoret Referral Hospital", 
+        "wb_pb:id": "26663306"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7317993, 
+          0.04988
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817717021", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Poor", 
+        "Please_add_any_details_about_y": "The construction is incomplete due to lack of enough  materials", 
+        "Project_Description": "", 
+        "Project_Name_or_Title": "ECDE Construction project", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "school", 
+        "gender": "mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686099757.jpg", 
+        "image:project": "1532686350800.jpg", 
+        "iterator": 23, 
+        "name": "Koibatek Primary School", 
+        "operational_status": "Government", 
+        "osm:id": "5817717021", 
+        "school": "primary", 
+        "wb_pb:id": "26733025"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7258241, 
+          0.0602013
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859922", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Started but not yet completed ", 
+        "Project_Description": "Construction and completion of eldama ravine stadium ", 
+        "Project_Name_or_Title": "Eldama ravine stadium ", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596063117.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596274336.jpg", 
+        "iterator": 24, 
+        "leisure": "stadium", 
+        "name": "Eldama Ravine Stadium", 
+        "osm:id": "5798859922", 
+        "type": "Stadium", 
+        "wb_pb:id": "26662858"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7385896, 
+          0.0570641
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817629651", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "Well built", 
+        "Project_Description": "Multi-purpose dinning hall", 
+        "Project_Name_or_Title": "Kamelilo day dinning hall", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532614878580.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532615141122.jpg", 
+        "iterator": 25, 
+        "name": "Kamelilo Secondary Mixed", 
+        "operator_type": "Government", 
+        "osm:id": "5817629651", 
+        "type": "Secondary", 
+        "wb_pb:id": "26669317"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.739174, 
+          0.0444881
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817629958", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Poor", 
+        "Please_add_any_details_about_y": "The classrooms have stayed for more than three years still under construction (incomplete classrooms)", 
+        "Project_Description": "Erection and completion of ecde classrooms", 
+        "Project_Name_or_Title": "Kamelilo ECDE", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597764324.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598196976.jpg", 
+        "iterator": 26, 
+        "name": "Kinikwet ECDE", 
+        "operator_type": "Government", 
+        "osm:id": "5817629958", 
+        "type": "Pre_primary", 
+        "wb_pb:id": "26669272"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7212654, 
+          0.0595421
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859918", 
+      "properties": {
+        "Category": "Agriculture, Livestock and Fisheries", 
+        "In_your_opinion_is_the_project_quality": "Poor", 
+        "Please_add_any_details_about_y": "Very poor  need maintenance ", 
+        "Project_Description": "Very poor", 
+        "Project_Name_or_Title": "Kisarget dumping site", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "waste_disposal", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598804250.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532599170722.jpg", 
+        "iterator": 27, 
+        "name": "Kisarget dumping site", 
+        "osm:id": "5798859918", 
+        "type": "dumping site", 
+        "wb_pb:id": "26663173"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7246126, 
+          -0.0112952
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798788041", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Poor", 
+        "Please_add_any_details_about_y": "1. The classroom floors are already damaged due to poor construction.\n2. The project is stalling\n3. There are no toilets for the pupils.", 
+        "Project_Description": "Construction of ECDE classrooms", 
+        "Project_Name_or_Title": "Luita ECDE", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "place_of_worship", 
+        "building_type": "Church", 
+        "denomination": "evangelical", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231042571403.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231043242009.jpg", 
+        "iterator": 28, 
+        "name": "Mosop Full Gospel Church", 
+        "osm:id": "5798788041", 
+        "religion": "christian", 
+        "service_times": "10:00", 
+        "wb_pb:id": "26664063"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.72442, 
+          0.0464489
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859907", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "It is not yet used construction in progress ", 
+        "Project_Description": "Pavement wall", 
+        "Project_Name_or_Title": "Opd block", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608064458.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608196635.jpg", 
+        "iterator": 29, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Eldama Ravine Sub-County Referral Hospital- Opd Block", 
+        "osm:id": "5798859907", 
+        "referral": "Eldoret Referral Hospital", 
+        "wb_pb:id": "26663862"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7282367, 
+          0.0554136
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798782570", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Part of the classroom block is complete but the windows need repairs.", 
+        "Project_Description": "Construction of an ECDE classroom block", 
+        "Project_Name_or_Title": "Shimon  ECDE", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680306484.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680805309.jpg", 
+        "iterator": 30, 
+        "name": "St. Patrics Shimoni Intergrated Primary School", 
+        "operator": "Government", 
+        "osm:id": "5798782570", 
+        "wb_pb:id": "26728748"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7179869, 
+          0.0001721
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798751615", 
+      "properties": {
+        "Category": "Agriculture, Livestock and Fisheries", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "It need to be completed for operation purpose", 
+        "Project_Description": "The cattle dip is incomplete", 
+        "Project_Name_or_Title": "Sinende cattle dip", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "agriculture", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532601103540.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532601416168.jpg", 
+        "iterator": 31, 
+        "name": "Sinende Cattle Dip", 
+        "osm:id": "5798751615", 
+        "type": "Cattle dip", 
+        "wb_pb:id": "26662034"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7368921, 
+          0.0290389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798802346", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Poor", 
+        "Please_add_any_details_about_y": "1.poor erection of pillars.\n2.No fisherboards.\n3 Cracking of walls and floors.\n4 Congestion of pupils.\n5.Poor location and texture of chalkboard.\n6. Inadequate chairs and tables.", 
+        "Project_Description": "Construction of ECDE classrooms", 
+        "Project_Name_or_Title": "Sogonin ECDE", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686939269.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532687436967.jpg", 
+        "iterator": 32, 
+        "name": "Sogonin ECDE", 
+        "operator_type": "CBO", 
+        "osm:id": "5798802346", 
+        "wb_pb:id": "26728319"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7426378, 
+          0.0128933
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798802350", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "1.Project has stopped for four years.\n2.poor workmanship.\n3.New project has overcomed old project.\n4.The building is small,congestion of pupils.", 
+        "Project_Description": "Construction of new classroom", 
+        "Project_Name_or_Title": "Tabare ECDE classroom", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682114870.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682710793.jpg", 
+        "iterator": 33, 
+        "name": "Tabare ECDE", 
+        "operator_type": "CBO", 
+        "osm:id": "5798802350", 
+        "wb_pb:id": "26728281"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.729173, 
+          0.0025515
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798788035", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "1.Good workmanship\n2.worked in good time", 
+        "Project_Description": "Construction of Adminstration Block, offices and classrooms", 
+        "Project_Name_or_Title": "Uhuru High School-Kabiyet", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "1231051464836.jpg", 
+        "image:project": "1231052002481.jpg", 
+        "iterator": 34, 
+        "name": "Uhuru High School Kabiyet Laboratory", 
+        "operator_type": "Government", 
+        "osm:id": "5798788035", 
+        "type": "Secondary", 
+        "wb_pb:id": "26664152"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7246483, 
+          0.0458721
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859910", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Need renovation ", 
+        "Project_Description": "In progress ", 
+        "Project_Name_or_Title": "Hospital kitchen ", 
+        "What_is_the_project_s_apparent_status": "Not yet started", 
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "sometime", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606676419.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606762137.jpg", 
+        "iterator": 35, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Eldama Ravine Sub-County Refferal Hospital- Orthopedic Ward", 
+        "osm:id": "5798859910", 
+        "referral": "Eldoret Referal Hospital", 
+        "wb_pb:id": "26663312"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "type": "FeatureCollection"
+}
