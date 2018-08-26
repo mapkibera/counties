@@ -3004,39 +3004,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5779318653",
-  "properties": {
-    "type": "node",
-    "id": "5779318653",
-    "tags": {
-      "amenity": "school",
-      "gender": "Mixed",
-      "government_registered": "MOE (Ministry of Education)",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916651894.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916818508.jpg",
-      "name": "Kiboino Primary School",
-      "operator_type": "Government",
-      "wb_pb:id": "26127280"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-23T13:32:40Z",
-      "version": "1",
-      "changeset": "60987580",
-      "user": "Eryque",
-      "uid": "8556496"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6827662,
-      0.4611636
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5779318654",
   "properties": {
     "type": "node",
@@ -4475,39 +4442,6 @@
     "coordinates": [
       35.7185067,
       0.5211017
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5781093177",
-  "properties": {
-    "type": "node",
-    "id": "5781093177",
-    "tags": {
-      "amenity": "school",
-      "gender": "Mixed",
-      "government_registered": "MOE (Ministry of Education)",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075987829.jpg",
-      "name": "Magonoi Primary School",
-      "operator": "Government",
-      "type": "Primary",
-      "wb_pb:id": "26240597"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-24T07:39:29Z",
-      "version": "1",
-      "changeset": "61010537",
-      "user": "ronovincent32",
-      "uid": "8556507"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6839133,
-      0.5119043
     ]
   }
 },
@@ -11077,40 +11011,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5783571613",
-  "properties": {
-    "type": "node",
-    "id": "5783571613",
-    "tags": {
-      "amenity": "place_of_worship",
-      "building_type": "Church",
-      "denomination": "catholic",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076441912.jpg",
-      "name": "Magonoi Catholic Church",
-      "religion": "christian",
-      "service_times": "10:00",
-      "type": "Christian",
-      "wb_pb:id": "26240626"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-28T15:40:33Z",
-      "version": "2",
-      "changeset": "61145545",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6826258,
-      0.5102592
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5783571614",
   "properties": {
     "type": "node",
@@ -11169,73 +11069,6 @@
     "coordinates": [
       35.7185067,
       0.5211017
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5783571616",
-  "properties": {
-    "type": "node",
-    "id": "5783571616",
-    "tags": {
-      "amenity": "school",
-      "gender": "Mixed",
-      "government_registered": "MOE (Ministry of Education)",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075987829.jpg",
-      "name": "Magonoi Primary School",
-      "operator": "Government",
-      "type": "Primary",
-      "wb_pb:id": "26240597"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-25T08:49:44Z",
-      "version": "1",
-      "changeset": "61048025",
-      "user": "muindre",
-      "uid": "261050"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6839133,
-      0.5119043
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5783571617",
-  "properties": {
-    "type": "node",
-    "id": "5783571617",
-    "tags": {
-      "amenity": "place_of_worship",
-      "building_type": "Church",
-      "denomination": "evangelical",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075577791.jpg",
-      "name": "Magonoi A.I.C",
-      "religion": "christian",
-      "service_times": "10:00",
-      "type": "Christian",
-      "wb_pb:id": "26240583"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-28T15:40:33Z",
-      "version": "2",
-      "changeset": "61145545",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6820367,
-      0.5117187
     ]
   }
 },
@@ -11328,39 +11161,6 @@
     "coordinates": [
       35.7448949,
       0.4874451
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5783655454",
-  "properties": {
-    "type": "node",
-    "id": "5783655454",
-    "tags": {
-      "amenity": "school",
-      "gender": "Mixed",
-      "government_registered": "MOE (Ministry of Education)",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531997691025.jpg",
-      "name": "Kimoso Primary School",
-      "operator_type": "Government",
-      "type": "Primary",
-      "wb_pb:id": "26186531"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-25T09:20:46Z",
-      "version": "1",
-      "changeset": "61049391",
-      "user": "kbizz",
-      "uid": "8556619"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.703845,
-      0.4975448
     ]
   }
 },
@@ -11598,34 +11398,6 @@
     "coordinates": [
       35.689208,
       0.51407
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5796071089",
-  "properties": {
-    "type": "node",
-    "id": "5796071089",
-    "tags": {
-      "man_made": "storage_tank",
-      "name": "Meleton Tank",
-      "wb_pb:id": "26237648"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-30T13:20:57Z",
-      "version": "1",
-      "changeset": "61195695",
-      "user": "Maigong",
-      "uid": "8556575"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.719538,
-      0.4884282
     ]
   }
 },
@@ -11979,16 +11751,15 @@
       "amenity": "community_centre",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596317324.jpg",
       "name": "Benonin Community Centre",
-      "type": "Community centre",
-      "wb_pb:id": "26661961"
+      "type": "Community centre"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-31T12:45:14Z",
-      "version": "1",
-      "changeset": "61228698",
-      "user": "joshuasang",
-      "uid": "8556574"
+      "timestamp": "2018-08-23T10:42:57Z",
+      "version": "2",
+      "changeset": "61917073",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -12234,16 +12005,15 @@
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597964304.jpg",
       "name": "AIC Benonin",
       "religion": "christian",
-      "type": "Christian",
-      "wb_pb:id": "26661993"
+      "type": "Christian"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-31T12:45:16Z",
-      "version": "1",
-      "changeset": "61228698",
-      "user": "joshuasang",
-      "uid": "8556574"
+      "timestamp": "2018-08-23T10:41:27Z",
+      "version": "2",
+      "changeset": "61917024",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -12382,18 +12152,18 @@
     "type": "node",
     "id": "5798782566",
     "tags": {
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682933869.jpg",
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682933869.jpg",
       "name": "Ravine CDF Offices",
       "office": "government",
       "wb_pb:id": "26728761"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-04T18:33:38Z",
-      "version": "2",
-      "changeset": "61359658",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:37:52Z",
+      "version": "3",
+      "changeset": "61916928",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -12412,16 +12182,15 @@
     "id": "5798782567",
     "tags": {
       "name": "Kenya Power and Lightning Company Offices",
-      "office": "government",
-      "wb_pb:id": "26728755"
+      "office": "government"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-18T13:55:18Z",
-      "version": "2",
-      "changeset": "61771146",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:37:52Z",
+      "version": "3",
+      "changeset": "61916928",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -12440,16 +12209,15 @@
     "id": "5798782568",
     "tags": {
       "amenity": "bank",
-      "name": "Boresha Sacco",
-      "wb_pb:id": "26728751"
+      "name": "Boresha Sacco"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-18T13:55:19Z",
-      "version": "2",
-      "changeset": "61771146",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:37:52Z",
+      "version": "3",
+      "changeset": "61916928",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -12468,17 +12236,16 @@
     "id": "5798782569",
     "tags": {
       "amenity": "library",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532681348447.jpg",
-      "name": "Ravine Community Library",
-      "wb_pb:id": "26729853"
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532681348447.jpg",
+      "name": "Ravine Community Library"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-04T18:33:38Z",
-      "version": "2",
-      "changeset": "61359658",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:37:52Z",
+      "version": "3",
+      "changeset": "61916928",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -12499,7 +12266,7 @@
       "amenity": "school",
       "gender": "Mixed",
       "government_registered": "MOE (Ministry of Education)",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680306484.jpg",
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680306484.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680805309.jpg",
       "name": "St. Patrics Shimoni Intergrated Primary School",
       "operator": "Government",
@@ -12507,11 +12274,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-04T18:33:38Z",
-      "version": "2",
-      "changeset": "61359658",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:25:49Z",
+      "version": "3",
+      "changeset": "61916632",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -12532,18 +12299,17 @@
       "amenity": "school",
       "gender": "Mixed",
       "government_registered": "MOE (Ministry of Education)",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532679787352.jpg",
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532679787352.jpg",
       "name": "The Immaculate Mother Parochial School Mixed Day and Boarding",
-      "operator": "School",
-      "wb_pb:id": "26728741"
+      "operator": "School"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-04T18:33:38Z",
-      "version": "2",
-      "changeset": "61359658",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:25:50Z",
+      "version": "3",
+      "changeset": "61916632",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -12599,15 +12365,15 @@
       "amenity": "school",
       "gender": "Female",
       "government_registered": "MOE (Ministry of Education)",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532678666013.jpg",
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532678666013.jpg",
       "name": "Eldama Ravine Girls High School",
       "operator": "Private"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T10:46:24Z",
-      "version": "3",
-      "changeset": "61818931",
+      "timestamp": "2018-08-23T10:25:50Z",
+      "version": "4",
+      "changeset": "61916632",
       "user": "kenboi",
       "uid": "8556957"
     }
@@ -12686,18 +12452,17 @@
     "tags": {
       "amenity": "place_of_worship",
       "denomination": "evangelical",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532676662869.jpg",
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532676662869.jpg",
       "name": "New Apostolic Church",
-      "religion": "christian",
-      "wb_pb:id": "26727864"
+      "religion": "christian"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-04T18:33:39Z",
-      "version": "2",
-      "changeset": "61359658",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:20:54Z",
+      "version": "3",
+      "changeset": "61916498",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -13413,7 +13178,7 @@
     "id": "5798803054",
     "tags": {
       "funded_by": "National Government",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532676807829.jpg",
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532676807829.jpg",
       "man_made": "storage_tank",
       "name": "Kabiyet Tabare Storage Tank",
       "operational_status": "Non-operational",
@@ -13421,9 +13186,9 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T12:06:30Z",
-      "version": "3",
-      "changeset": "61821079",
+      "timestamp": "2018-08-23T10:51:05Z",
+      "version": "4",
+      "changeset": "61917299",
       "user": "kenboi",
       "uid": "8556957"
     }
@@ -13509,14 +13274,13 @@
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
       "name": "Eldama Ravine Sub-County Referral Hospital",
-      "referral": "Eldoret Referral Hospital",
-      "wb_pb:id": "26663642"
+      "referral": "Eldoret Referral Hospital"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T12:55:00Z",
-      "version": "4",
-      "changeset": "61822559",
+      "timestamp": "2018-08-23T10:37:52Z",
+      "version": "5",
+      "changeset": "61916928",
       "user": "kenboi",
       "uid": "8556957"
     }
@@ -13733,16 +13497,15 @@
       "name": "Ebenezer Church",
       "religion": "christian",
       "service_times": "10:00",
-      "type": "Ebenezar Church",
-      "wb_pb:id": "26663294"
+      "type": "Ebenezar Church"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-02T16:58:50Z",
-      "version": "2",
-      "changeset": "61304724",
-      "user": "user_5359",
-      "uid": "5359"
+      "timestamp": "2018-08-23T10:20:54Z",
+      "version": "3",
+      "changeset": "61916498",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -13897,16 +13660,15 @@
       "amenity": "agriculture",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532599483523.jpg",
       "name": "Shauri cattle dip",
-      "type": "Cattle dip",
-      "wb_pb:id": "26663217"
+      "type": "Cattle dip"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-31T13:19:02Z",
-      "version": "1",
-      "changeset": "61229814",
-      "user": "vintech",
-      "uid": "8556553"
+      "timestamp": "2018-08-23T10:20:54Z",
+      "version": "2",
+      "changeset": "61916498",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -14321,16 +14083,15 @@
       "amenity": "fuel",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532953042716.jpg",
       "name": "Kobil",
-      "type": "Petrol Station",
-      "wb_pb:id": "26922516"
+      "type": "Petrol Station"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-01T08:43:20Z",
-      "version": "1",
-      "changeset": "61254599",
-      "user": "vintech",
-      "uid": "8556553"
+      "timestamp": "2018-08-23T10:37:52Z",
+      "version": "2",
+      "changeset": "61916928",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -14525,14 +14286,13 @@
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532941096340.jpg",
       "name": "Full Gospel Church",
       "religion": "christian",
-      "type": "Christian",
-      "wb_pb:id": "26922223"
+      "type": "Christian"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-09T08:51:25Z",
-      "version": "2",
-      "changeset": "61493061",
+      "timestamp": "2018-08-23T10:20:54Z",
+      "version": "3",
+      "changeset": "61916498",
       "user": "kenboi",
       "uid": "8556957"
     }
@@ -14556,14 +14316,13 @@
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532940970643.jpg",
       "name": "Eldama Ravine Mosque",
       "religion": "muslim",
-      "type": "Islam",
-      "wb_pb:id": "26922209"
+      "type": "Islam"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-09T08:51:25Z",
-      "version": "2",
-      "changeset": "61493061",
+      "timestamp": "2018-08-23T10:20:54Z",
+      "version": "3",
+      "changeset": "61916498",
       "user": "kenboi",
       "uid": "8556957"
     }
@@ -14808,16 +14567,15 @@
       "name": "Shauri ECDE",
       "operator": "Government",
       "operator_type": "County Government of Baringo",
-      "type": "Pre_primary",
-      "wb_pb:id": "26920974"
+      "type": "Pre_primary"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-01T08:43:22Z",
-      "version": "1",
-      "changeset": "61254599",
-      "user": "vintech",
-      "uid": "8556553"
+      "timestamp": "2018-08-23T10:25:50Z",
+      "version": "2",
+      "changeset": "61916632",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -15728,16 +15486,15 @@
     "id": "5801831220",
     "tags": {
       "name": "Baringo County Government Offices",
-      "office": "government",
-      "wb_pb:id": "26964606"
+      "office": "government"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-04T18:33:40Z",
-      "version": "2",
-      "changeset": "61359658",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:37:52Z",
+      "version": "3",
+      "changeset": "61916928",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -15755,18 +15512,17 @@
     "type": "node",
     "id": "5801831221",
     "tags": {
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533016304059.jpg",
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533016304059.jpg",
       "name": "Eldama Ravine Sub County Offices",
-      "office": "government",
-      "wb_pb:id": "26961147"
+      "office": "government"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-04T18:33:40Z",
-      "version": "2",
-      "changeset": "61359658",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:37:52Z",
+      "version": "3",
+      "changeset": "61916928",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -15934,14 +15690,13 @@
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532944425936.jpg",
       "industrial": "factory",
       "name": "Mavazi Textile Industry",
-      "type": "Textile Industry",
-      "wb_pb:id": "26921154"
+      "type": "Textile Industry"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-08T09:12:48Z",
-      "version": "1",
-      "changeset": "61460574",
+      "timestamp": "2018-08-23T10:37:52Z",
+      "version": "2",
+      "changeset": "61916928",
       "user": "kenboi",
       "uid": "8556957"
     }
@@ -15964,14 +15719,13 @@
       "amenity": "restaurant",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532944274944.jpg",
       "name": "Sobak Hotel",
-      "type": "Restaurant",
-      "wb_pb:id": "26921125"
+      "type": "Restaurant"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-08T09:12:48Z",
-      "version": "1",
-      "changeset": "61460574",
+      "timestamp": "2018-08-23T10:37:52Z",
+      "version": "2",
+      "changeset": "61916928",
       "user": "kenboi",
       "uid": "8556957"
     }
@@ -15996,14 +15750,13 @@
       "denomination": "evangelical",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532943389542.jpg",
       "name": "Town Church",
-      "religion": "christian",
-      "wb_pb:id": "26921108"
+      "religion": "christian"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-08T09:12:48Z",
-      "version": "1",
-      "changeset": "61460574",
+      "timestamp": "2018-08-23T10:20:54Z",
+      "version": "2",
+      "changeset": "61916498",
       "user": "kenboi",
       "uid": "8556957"
     }
@@ -16088,14 +15841,13 @@
       "name": "AIC Church",
       "religion": "christian",
       "service_times": "08:00",
-      "type": "Religious",
-      "wb_pb:id": "26921052"
+      "type": "Religious"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-08T09:12:48Z",
-      "version": "1",
-      "changeset": "61460574",
+      "timestamp": "2018-08-23T10:20:54Z",
+      "version": "2",
+      "changeset": "61916498",
       "user": "kenboi",
       "uid": "8556957"
     }
@@ -16215,14 +15967,13 @@
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603339000.jpg",
       "name": "Kamelilo ECDE",
       "operator_type": "Government",
-      "type": "Pre_primary",
-      "wb_pb:id": "26669299"
+      "type": "Pre_primary"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-08T09:43:02Z",
-      "version": "1",
-      "changeset": "61461531",
+      "timestamp": "2018-08-23T10:25:50Z",
+      "version": "2",
+      "changeset": "61916632",
       "user": "kenboi",
       "uid": "8556957"
     }
@@ -16248,14 +15999,13 @@
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532602969150.jpg",
       "name": "Kamelilo Primary School",
       "operator_type": "Government",
-      "type": "Primary",
-      "wb_pb:id": "26669292"
+      "type": "Primary"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-08T09:43:02Z",
-      "version": "1",
-      "changeset": "61461531",
+      "timestamp": "2018-08-23T10:25:50Z",
+      "version": "2",
+      "changeset": "61916632",
       "user": "kenboi",
       "uid": "8556957"
     }
@@ -16277,20 +16027,19 @@
     "tags": {
       "amenity": "place_of_worship",
       "denomination": "sunni",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532601162576.jpg",
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532601162576.jpg",
       "name": "Al Aqsa Mosque",
       "religion": "muslim",
       "service_times": "05:00",
-      "type": "Islam",
-      "wb_pb:id": "26669286"
+      "type": "Islam"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-10T07:47:09Z",
-      "version": "2",
-      "changeset": "61524597",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2018-08-23T10:20:55Z",
+      "version": "3",
+      "changeset": "61916498",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -16314,14 +16063,13 @@
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532600094140.jpg",
       "name": "Inland Talent Academy",
       "operator_type": "Private",
-      "type": "Pre_primary",
-      "wb_pb:id": "26669281"
+      "type": "Pre_primary"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-08T09:43:03Z",
-      "version": "1",
-      "changeset": "61461531",
+      "timestamp": "2018-08-23T10:25:50Z",
+      "version": "2",
+      "changeset": "61916632",
       "user": "kenboi",
       "uid": "8556957"
     }
@@ -16344,14 +16092,13 @@
       "amenity": "cattle dip",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532599057816.jpg",
       "name": "Kamelilo Cattle Dip",
-      "type": "Cattle Dip",
-      "wb_pb:id": "26669277"
+      "type": "Cattle Dip"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-08T09:43:03Z",
-      "version": "1",
-      "changeset": "61461531",
+      "timestamp": "2018-08-23T10:37:53Z",
+      "version": "2",
+      "changeset": "61916928",
       "user": "kenboi",
       "uid": "8556957"
     }
@@ -16627,7 +16374,7 @@
       "gender": "mixed",
       "government_registered": "MOE (Ministry of Education)",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686099757.jpg",
-      "image:project": "1532686350800.jpg",
+      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686350800.jpg",
       "name": "Koibatek Primary School",
       "operational_status": "Government",
       "school": "primary",
@@ -16635,11 +16382,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-18T13:55:19Z",
-      "version": "3",
-      "changeset": "61771146",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:25:50Z",
+      "version": "4",
+      "changeset": "61916632",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -16663,16 +16410,15 @@
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532685115259.jpg",
       "name": "Mlimani ECDE",
       "operational_status": "Private",
-      "school": "Pre_primary",
-      "wb_pb:id": "26733020"
+      "school": "Pre_primary"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-18T13:55:19Z",
-      "version": "3",
-      "changeset": "61771146",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:25:50Z",
+      "version": "4",
+      "changeset": "61916632",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -16696,16 +16442,15 @@
       "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532684935493.jpg",
       "name": "Al Aqsa Mosque",
       "religion": "muslim",
-      "service_times": "05:00",
-      "wb_pb:id": "26733010"
+      "service_times": "05:00"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-18T13:55:19Z",
-      "version": "3",
-      "changeset": "61771146",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:20:55Z",
+      "version": "4",
+      "changeset": "61916498",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -16879,16 +16624,15 @@
     "tags": {
       "amenity": "cafe",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532679424445.jpg",
-      "name": "Umoja Hotel",
-      "wb_pb:id": "26732968"
+      "name": "Umoja Hotel"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-18T13:55:20Z",
-      "version": "3",
-      "changeset": "61771146",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:37:53Z",
+      "version": "4",
+      "changeset": "61916928",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -16908,16 +16652,15 @@
     "tags": {
       "craft": "blacksmith",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532679289873.jpg",
-      "name": "Umoja Engineering Welding Workshop",
-      "wb_pb:id": "26732959"
+      "name": "Umoja Engineering Welding Workshop"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-18T13:55:20Z",
-      "version": "3",
-      "changeset": "61771146",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:37:53Z",
+      "version": "4",
+      "changeset": "61916928",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -17054,19 +16797,18 @@
       "amenity": "place_of_worship",
       "building_type": "Church",
       "denomination": "evangelical",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532677717477.jpg",
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532677717477.jpg",
       "name": "River of Mercy Ministries",
       "religion": "christian",
-      "service_times": "08:50",
-      "wb_pb:id": "26732892"
+      "service_times": "08:50"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-18T13:55:20Z",
-      "version": "3",
-      "changeset": "61771146",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:20:55Z",
+      "version": "4",
+      "changeset": "61916498",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {

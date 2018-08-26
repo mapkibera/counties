@@ -3964,6 +3964,24 @@
     {
       "geometry": {
         "coordinates": [
+          35.7092468, 
+          0.0087804
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798751608", 
+      "properties": {
+        "amenity": "community_centre", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596317324.jpg", 
+        "name": "Benonin Community Centre", 
+        "osm:id": "5798751608", 
+        "type": "Community centre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.7206711, 
           0.0398972
         ], 
@@ -3978,6 +3996,27 @@
         "operational_status": "Non-operational", 
         "operator_type": "NGO", 
         "osm:id": "5798751610"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7135231, 
+          0.0115023
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798751616", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "building": "church", 
+        "denomination": "evangelical", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597964304.jpg", 
+        "name": "AIC Benonin", 
+        "osm:id": "5798751616", 
+        "religion": "christian", 
+        "type": "Christian"
       }, 
       "type": "Feature"
     }, 
@@ -4061,6 +4100,75 @@
     {
       "geometry": {
         "coordinates": [
+          35.728267, 
+          0.0521024
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798782567", 
+      "properties": {
+        "name": "Kenya Power and Lightning Company Offices", 
+        "office": "government", 
+        "osm:id": "5798782567"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7282271, 
+          0.0521259
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798782568", 
+      "properties": {
+        "amenity": "bank", 
+        "name": "Boresha Sacco", 
+        "osm:id": "5798782568"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7286697, 
+          0.0519184
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798782569", 
+      "properties": {
+        "amenity": "library", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532681348447.jpg", 
+        "name": "Ravine Community Library", 
+        "osm:id": "5798782569"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7276729, 
+          0.053169
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798782571", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532679787352.jpg", 
+        "name": "The Immaculate Mother Parochial School Mixed Day and Boarding", 
+        "operator": "School", 
+        "osm:id": "5798782571"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.7248738, 
           0.0539661
         ], 
@@ -4095,7 +4203,7 @@
         "amenity": "school", 
         "gender": "Female", 
         "government_registered": "MOE (Ministry of Education)", 
-        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532678666013.jpg", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532678666013.jpg", 
         "name": "Eldama Ravine Girls High School", 
         "operator": "Private", 
         "osm:id": "5798782573"
@@ -4134,6 +4242,25 @@
         "osm:id": "5798782575", 
         "power": "pole", 
         "transformer": "distribution"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.723202, 
+          0.0587915
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798782576", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "denomination": "evangelical", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532676662869.jpg", 
+        "name": "New Apostolic Church", 
+        "osm:id": "5798782576", 
+        "religion": "christian"
       }, 
       "type": "Feature"
     }, 
@@ -4282,7 +4409,7 @@
       "id": "5798803054", 
       "properties": {
         "funded_by": "National Government", 
-        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532676807829.jpg", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532676807829.jpg", 
         "man_made": "storage_tank", 
         "name": "Kabiyet Tabare Storage Tank", 
         "operational_status": "Non-operational", 
@@ -4310,6 +4437,52 @@
     {
       "geometry": {
         "coordinates": [
+          35.7245844, 
+          0.0466988
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859906", 
+      "properties": {
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608628789.jpg", 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Eldama Ravine Sub-County Referral Hospital", 
+        "osm:id": "5798859906", 
+        "referral": "Eldoret Referral Hospital"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7223702, 
+          0.0488961
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859912", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "building_type": "Church", 
+        "denomination": "evangelical", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532604436311.jpg", 
+        "name": "Ebenezer Church", 
+        "osm:id": "5798859912", 
+        "religion": "christian", 
+        "service_times": "10:00", 
+        "type": "Ebenezar Church"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.7218523, 
           0.050338
         ], 
@@ -4325,6 +4498,24 @@
         "operator_type": "Private", 
         "osm:id": "5798859913", 
         "type": "Primary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7200813, 
+          0.0586667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859917", 
+      "properties": {
+        "amenity": "agriculture", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532599483523.jpg", 
+        "name": "Shauri cattle dip", 
+        "osm:id": "5798859917", 
+        "type": "Cattle dip"
       }, 
       "type": "Feature"
     }, 
@@ -4397,6 +4588,24 @@
         "name": "Moi Parking", 
         "osm:id": "5800785523", 
         "type": "Parking Space"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7281942, 
+          0.0500833
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785524", 
+      "properties": {
+        "amenity": "fuel", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532953042716.jpg", 
+        "name": "Kobil", 
+        "osm:id": "5800785524", 
+        "type": "Petrol Station"
       }, 
       "type": "Feature"
     }, 
@@ -4509,6 +4718,45 @@
     {
       "geometry": {
         "coordinates": [
+          35.7254439, 
+          0.0505237
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785531", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "denomination": "evangelical", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532941096340.jpg", 
+        "name": "Full Gospel Church", 
+        "osm:id": "5800785531", 
+        "religion": "christian", 
+        "type": "Christian"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7248077, 
+          0.0501686
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785532", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532940970643.jpg", 
+        "name": "Eldama Ravine Mosque", 
+        "osm:id": "5800785532", 
+        "religion": "muslim", 
+        "type": "Islam"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.7251481, 
           0.0508076
         ], 
@@ -4578,6 +4826,28 @@
         "name": "Mwisho wa Lami Street light", 
         "osm:id": "5800785542", 
         "type": "Street Light"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.727079, 
+          0.0568051
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5800785543", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532935464454.jpg", 
+        "name": "Shauri ECDE", 
+        "operator": "Government", 
+        "operator_type": "County Government of Baringo", 
+        "osm:id": "5800785543", 
+        "type": "Pre_primary"
       }, 
       "type": "Feature"
     }, 
@@ -5102,6 +5372,39 @@
     {
       "geometry": {
         "coordinates": [
+          35.7261743, 
+          0.0512143
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5801831220", 
+      "properties": {
+        "name": "Baringo County Government Offices", 
+        "office": "government", 
+        "osm:id": "5801831220"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.72611, 
+          0.0513494
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5801831221", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533016304059.jpg", 
+        "name": "Eldama Ravine Sub County Offices", 
+        "office": "government", 
+        "osm:id": "5801831221"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.7244276, 
           0.0530407
         ], 
@@ -5156,6 +5459,62 @@
     {
       "geometry": {
         "coordinates": [
+          35.7349153, 
+          0.0559712
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817574916", 
+      "properties": {
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532944425936.jpg", 
+        "industrial": "factory", 
+        "name": "Mavazi Textile Industry", 
+        "osm:id": "5817574916", 
+        "type": "Textile Industry"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.73583, 
+          0.055678
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817574917", 
+      "properties": {
+        "amenity": "restaurant", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532944274944.jpg", 
+        "name": "Sobak Hotel", 
+        "osm:id": "5817574917", 
+        "type": "Restaurant"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7338851, 
+          0.0571972
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817574918", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "building_type": "Church", 
+        "denomination": "evangelical", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532943389542.jpg", 
+        "name": "Town Church", 
+        "osm:id": "5817574918", 
+        "religion": "christian"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.7273388, 
           0.0486512
         ], 
@@ -5168,6 +5527,27 @@
         "office": "government", 
         "osm:id": "5817574920", 
         "type": "Public"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7273282, 
+          0.0476788
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817574921", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "building_type": "Church", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532940118181.jpg", 
+        "name": "AIC Church", 
+        "osm:id": "5817574921", 
+        "religion": "christian", 
+        "service_times": "08:00", 
+        "type": "Religious"
       }, 
       "type": "Feature"
     }, 
@@ -5206,6 +5586,108 @@
         "operational_status": "Operational", 
         "operator_type": "Private", 
         "osm:id": "5817629652"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7409225, 
+          0.0536976
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817629953", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603339000.jpg", 
+        "name": "Kamelilo ECDE", 
+        "operator_type": "Government", 
+        "osm:id": "5817629953", 
+        "type": "Pre_primary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7400394, 
+          0.0536038
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817629954", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532602969150.jpg", 
+        "name": "Kamelilo Primary School", 
+        "operator_type": "Government", 
+        "osm:id": "5817629954", 
+        "type": "Primary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7398971, 
+          0.049762
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817629955", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "denomination": "sunni", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532601162576.jpg", 
+        "name": "Al Aqsa Mosque", 
+        "osm:id": "5817629955", 
+        "religion": "muslim", 
+        "service_times": "05:00", 
+        "type": "Islam"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7390975, 
+          0.0466462
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817629956", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532600094140.jpg", 
+        "name": "Inland Talent Academy", 
+        "operator_type": "Private", 
+        "osm:id": "5817629956", 
+        "type": "Pre_primary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7419602, 
+          0.0486163
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817629957", 
+      "properties": {
+        "amenity": "cattle dip", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532599057816.jpg", 
+        "name": "Kamelilo Cattle Dip", 
+        "osm:id": "5817629957", 
+        "type": "Cattle Dip"
       }, 
       "type": "Feature"
     }, 
@@ -5260,6 +5742,82 @@
         "name": "Eldma Ravine County Commisioner's Offices", 
         "office": "administrative", 
         "osm:id": "5817717020"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7331343, 
+          0.0505081
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817717022", 
+      "properties": {
+        "amenity": "school", 
+        "gender": "mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532685115259.jpg", 
+        "name": "Mlimani ECDE", 
+        "operational_status": "Private", 
+        "osm:id": "5817717022", 
+        "school": "Pre_primary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7333794, 
+          0.0498388
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817717023", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "building": "mosque", 
+        "denomination": "sunni", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532684935493.jpg", 
+        "name": "Al Aqsa Mosque", 
+        "osm:id": "5817717023", 
+        "religion": "muslim", 
+        "service_times": "05:00"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7326367, 
+          0.0574081
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817717029", 
+      "properties": {
+        "amenity": "cafe", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532679424445.jpg", 
+        "name": "Umoja Hotel", 
+        "osm:id": "5817717029"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7327638, 
+          0.0572592
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817717030", 
+      "properties": {
+        "craft": "blacksmith", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532679289873.jpg", 
+        "name": "Umoja Engineering Welding Workshop", 
+        "osm:id": "5817717030"
       }, 
       "type": "Feature"
     }, 
@@ -5332,6 +5890,27 @@
         "operator_type": "Private", 
         "osm:id": "5817717034", 
         "school": "Pre_primary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7358042, 
+          0.058845
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817717035", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "building_type": "Church", 
+        "denomination": "evangelical", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532677717477.jpg", 
+        "name": "River of Mercy Ministries", 
+        "osm:id": "5817717035", 
+        "religion": "christian", 
+        "service_times": "08:50"
       }, 
       "type": "Feature"
     }, 

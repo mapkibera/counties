@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.4 3079d8ea">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2018-08-20T15:51:03Z"/>
+<meta osm_base="2018-08-26T01:28:02Z"/>
 
   <bounds minlat="-0.0307000" minlon="35.6881000" maxlat="0.0852000" maxlon="35.7553000"/>
 
@@ -46,13 +46,6 @@
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Mission Hospital"/>
     <tag k="wb_pb:id" v="26724364"/>
-  </node>
-  <node id="5798751608" lat="0.0087804" lon="35.7092468" version="1" timestamp="2018-07-31T12:45:14Z" changeset="61228698" uid="8556574" user="joshuasang">
-    <tag k="amenity" v="community_centre"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596317324.jpg"/>
-    <tag k="name" v="Benonin Community Centre"/>
-    <tag k="type" v="Community centre"/>
-    <tag k="wb_pb:id" v="26661961"/>
   </node>
   <node id="5798751609" lat="0.0055506" lon="35.7035017" version="2" timestamp="2018-08-04T17:42:23Z" changeset="61358766" uid="616774" user="mueschel">
     <tag k="cost" v="0.0"/>
@@ -107,64 +100,21 @@
     <tag k="type" v="Cattle dip"/>
     <tag k="wb_pb:id" v="26662034"/>
   </node>
-  <node id="5798751616" lat="0.0115023" lon="35.7135231" version="1" timestamp="2018-07-31T12:45:16Z" changeset="61228698" uid="8556574" user="joshuasang">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="building" v="church"/>
-    <tag k="denomination" v="evangelical"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597964304.jpg"/>
-    <tag k="name" v="AIC Benonin"/>
-    <tag k="religion" v="christian"/>
-    <tag k="type" v="Christian"/>
-    <tag k="wb_pb:id" v="26661993"/>
-  </node>
-  <node id="5798782566" lat="0.0516207" lon="35.7285895" version="2" timestamp="2018-08-04T18:33:38Z" changeset="61359658" uid="616774" user="mueschel">
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682933869.jpg"/>
+  <node id="5798782566" lat="0.0516207" lon="35.7285895" version="3" timestamp="2018-08-23T10:37:52Z" changeset="61916928" uid="8556957" user="kenboi">
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682933869.jpg"/>
     <tag k="name" v="Ravine CDF Offices"/>
     <tag k="office" v="government"/>
     <tag k="wb_pb:id" v="26728761"/>
   </node>
-  <node id="5798782567" lat="0.0521024" lon="35.7282670" version="2" timestamp="2018-08-18T13:55:18Z" changeset="61771146" uid="616774" user="mueschel">
-    <tag k="name" v="Kenya Power and Lightning Company Offices"/>
-    <tag k="office" v="government"/>
-    <tag k="wb_pb:id" v="26728755"/>
-  </node>
-  <node id="5798782568" lat="0.0521259" lon="35.7282271" version="2" timestamp="2018-08-18T13:55:19Z" changeset="61771146" uid="616774" user="mueschel">
-    <tag k="amenity" v="bank"/>
-    <tag k="name" v="Boresha Sacco"/>
-    <tag k="wb_pb:id" v="26728751"/>
-  </node>
-  <node id="5798782569" lat="0.0519184" lon="35.7286697" version="2" timestamp="2018-08-04T18:33:38Z" changeset="61359658" uid="616774" user="mueschel">
-    <tag k="amenity" v="library"/>
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532681348447.jpg"/>
-    <tag k="name" v="Ravine Community Library"/>
-    <tag k="wb_pb:id" v="26729853"/>
-  </node>
-  <node id="5798782570" lat="0.0554136" lon="35.7282367" version="2" timestamp="2018-08-04T18:33:38Z" changeset="61359658" uid="616774" user="mueschel">
+  <node id="5798782570" lat="0.0554136" lon="35.7282367" version="3" timestamp="2018-08-23T10:25:49Z" changeset="61916632" uid="8556957" user="kenboi">
     <tag k="amenity" v="school"/>
     <tag k="gender" v="Mixed"/>
     <tag k="government_registered" v="MOE (Ministry of Education)"/>
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680306484.jpg"/>
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680306484.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680805309.jpg"/>
     <tag k="name" v="St. Patrics Shimoni Intergrated Primary School"/>
     <tag k="operator" v="Government"/>
     <tag k="wb_pb:id" v="26728748"/>
-  </node>
-  <node id="5798782571" lat="0.0531690" lon="35.7276729" version="2" timestamp="2018-08-04T18:33:38Z" changeset="61359658" uid="616774" user="mueschel">
-    <tag k="amenity" v="school"/>
-    <tag k="gender" v="Mixed"/>
-    <tag k="government_registered" v="MOE (Ministry of Education)"/>
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532679787352.jpg"/>
-    <tag k="name" v="The Immaculate Mother Parochial School Mixed Day and Boarding"/>
-    <tag k="operator" v="School"/>
-    <tag k="wb_pb:id" v="26728741"/>
-  </node>
-  <node id="5798782576" lat="0.0587915" lon="35.7232020" version="2" timestamp="2018-08-04T18:33:39Z" changeset="61359658" uid="616774" user="mueschel">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="denomination" v="evangelical"/>
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532676662869.jpg"/>
-    <tag k="name" v="New Apostolic Church"/>
-    <tag k="religion" v="christian"/>
-    <tag k="wb_pb:id" v="26727864"/>
   </node>
   <node id="5798782577" lat="0.0591971" lon="35.7260979" version="2" timestamp="2018-08-04T18:33:39Z" changeset="61359658" uid="616774" user="mueschel">
     <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674148381.jpg"/>
@@ -314,19 +264,6 @@
     <tag k="type" v="Garden Square"/>
     <tag k="wb_pb:id" v="26663654"/>
   </node>
-  <node id="5798859906" lat="0.0466988" lon="35.7245844" version="4" timestamp="2018-08-20T12:55:00Z" changeset="61822559" uid="8556957" user="kenboi">
-    <tag k="amenity" v="hospital"/>
-    <tag k="dispensing" v="yes"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608628789.jpg"/>
-    <tag k="medical_service:family_planning" v="yes"/>
-    <tag k="medical_service:general_medical_services" v="yes"/>
-    <tag k="medical_service:immunizations" v="yes"/>
-    <tag k="medical_service:malaria" v="yes"/>
-    <tag k="medical_service:pregnancy_test" v="yes"/>
-    <tag k="name" v="Eldama Ravine Sub-County Referral Hospital"/>
-    <tag k="referral" v="Eldoret Referral Hospital"/>
-    <tag k="wb_pb:id" v="26663642"/>
-  </node>
   <node id="5798859907" lat="0.0464489" lon="35.7244200" version="3" timestamp="2018-08-06T11:00:36Z" changeset="61399892" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
@@ -402,17 +339,6 @@
     <tag k="referral" v="Eldoret Referral Hospital"/>
     <tag k="wb_pb:id" v="26663306"/>
   </node>
-  <node id="5798859912" lat="0.0488961" lon="35.7223702" version="2" timestamp="2018-08-02T16:58:50Z" changeset="61304724" uid="5359" user="user_5359">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="building_type" v="Church"/>
-    <tag k="denomination" v="evangelical"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532604436311.jpg"/>
-    <tag k="name" v="Ebenezer Church"/>
-    <tag k="religion" v="christian"/>
-    <tag k="service_times" v="10:00"/>
-    <tag k="type" v="Ebenezar Church"/>
-    <tag k="wb_pb:id" v="26663294"/>
-  </node>
   <node id="5798859914" lat="0.0507183" lon="35.7219117" version="2" timestamp="2018-08-04T17:42:24Z" changeset="61358766" uid="616774" user="mueschel">
     <tag k="amenity" v="drinking_water"/>
     <tag k="cost" v="3.0"/>
@@ -445,13 +371,6 @@
     <tag k="operational_status" v="Operational"/>
     <tag k="operator_type" v="Private"/>
     <tag k="wb_pb:id" v="26663236"/>
-  </node>
-  <node id="5798859917" lat="0.0586667" lon="35.7200813" version="1" timestamp="2018-07-31T13:19:02Z" changeset="61229814" uid="8556553" user="vintech">
-    <tag k="amenity" v="agriculture"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532599483523.jpg"/>
-    <tag k="name" v="Shauri cattle dip"/>
-    <tag k="type" v="Cattle dip"/>
-    <tag k="wb_pb:id" v="26663217"/>
   </node>
   <node id="5798859918" lat="0.0595421" lon="35.7212654" version="1" timestamp="2018-07-31T13:19:02Z" changeset="61229814" uid="8556553" user="vintech">
     <tag k="amenity" v="waste_disposal"/>
@@ -509,30 +428,6 @@
     <tag k="type" v="Public Market"/>
     <tag k="wb_pb:id" v="27061423"/>
   </node>
-  <node id="5800785524" lat="0.0500833" lon="35.7281942" version="1" timestamp="2018-08-01T08:43:20Z" changeset="61254599" uid="8556553" user="vintech">
-    <tag k="amenity" v="fuel"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532953042716.jpg"/>
-    <tag k="name" v="Kobil"/>
-    <tag k="type" v="Petrol Station"/>
-    <tag k="wb_pb:id" v="26922516"/>
-  </node>
-  <node id="5800785531" lat="0.0505237" lon="35.7254439" version="2" timestamp="2018-08-09T08:51:25Z" changeset="61493061" uid="8556957" user="kenboi">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="denomination" v="evangelical"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532941096340.jpg"/>
-    <tag k="name" v="Full Gospel Church"/>
-    <tag k="religion" v="christian"/>
-    <tag k="type" v="Christian"/>
-    <tag k="wb_pb:id" v="26922223"/>
-  </node>
-  <node id="5800785532" lat="0.0501686" lon="35.7248077" version="2" timestamp="2018-08-09T08:51:25Z" changeset="61493061" uid="8556957" user="kenboi">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532940970643.jpg"/>
-    <tag k="name" v="Eldama Ravine Mosque"/>
-    <tag k="religion" v="muslim"/>
-    <tag k="type" v="Islam"/>
-    <tag k="wb_pb:id" v="26922209"/>
-  </node>
   <node id="5800785536" lat="0.0524096" lon="35.7236454" version="2" timestamp="2018-08-12T12:04:56Z" changeset="61586326" uid="616774" user="mueschel">
     <tag k="fee" v="2 KSH / 20 litres"/>
     <tag k="funded_by" v="Government"/>
@@ -563,28 +458,6 @@
     <tag k="operator" v="Government"/>
     <tag k="wb_pb:id" v="26921344"/>
   </node>
-  <node id="5800785543" lat="0.0568051" lon="35.7270790" version="1" timestamp="2018-08-01T08:43:22Z" changeset="61254599" uid="8556553" user="vintech">
-    <tag k="amenity" v="school"/>
-    <tag k="gender" v="Mixed"/>
-    <tag k="government_registered" v="MOE (Ministry of Education)"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532935464454.jpg"/>
-    <tag k="name" v="Shauri ECDE"/>
-    <tag k="operator" v="Government"/>
-    <tag k="operator_type" v="County Government of Baringo"/>
-    <tag k="type" v="Pre_primary"/>
-    <tag k="wb_pb:id" v="26920974"/>
-  </node>
-  <node id="5801831220" lat="0.0512143" lon="35.7261743" version="2" timestamp="2018-08-04T18:33:40Z" changeset="61359658" uid="616774" user="mueschel">
-    <tag k="name" v="Baringo County Government Offices"/>
-    <tag k="office" v="government"/>
-    <tag k="wb_pb:id" v="26964606"/>
-  </node>
-  <node id="5801831221" lat="0.0513494" lon="35.7261100" version="2" timestamp="2018-08-04T18:33:40Z" changeset="61359658" uid="616774" user="mueschel">
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533016304059.jpg"/>
-    <tag k="name" v="Eldama Ravine Sub County Offices"/>
-    <tag k="office" v="government"/>
-    <tag k="wb_pb:id" v="26961147"/>
-  </node>
   <node id="5817574911" lat="0.0532932" lon="35.7238595" version="1" timestamp="2018-08-08T09:12:47Z" changeset="61460574" uid="8556957" user="kenboi">
     <tag k="image:pointofinterest" v="1533021492010.jpg"/>
     <tag k="name" v="Ravine Market"/>
@@ -599,45 +472,12 @@
     <tag k="type" v="Hotel"/>
     <tag k="wb_pb:id" v="26921183"/>
   </node>
-  <node id="5817574916" lat="0.0559712" lon="35.7349153" version="1" timestamp="2018-08-08T09:12:48Z" changeset="61460574" uid="8556957" user="kenboi">
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532944425936.jpg"/>
-    <tag k="industrial" v="factory"/>
-    <tag k="name" v="Mavazi Textile Industry"/>
-    <tag k="type" v="Textile Industry"/>
-    <tag k="wb_pb:id" v="26921154"/>
-  </node>
-  <node id="5817574917" lat="0.0556780" lon="35.7358300" version="1" timestamp="2018-08-08T09:12:48Z" changeset="61460574" uid="8556957" user="kenboi">
-    <tag k="amenity" v="restaurant"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532944274944.jpg"/>
-    <tag k="name" v="Sobak Hotel"/>
-    <tag k="type" v="Restaurant"/>
-    <tag k="wb_pb:id" v="26921125"/>
-  </node>
-  <node id="5817574918" lat="0.0571972" lon="35.7338851" version="1" timestamp="2018-08-08T09:12:48Z" changeset="61460574" uid="8556957" user="kenboi">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="building_type" v="Church"/>
-    <tag k="denomination" v="evangelical"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532943389542.jpg"/>
-    <tag k="name" v="Town Church"/>
-    <tag k="religion" v="christian"/>
-    <tag k="wb_pb:id" v="26921108"/>
-  </node>
   <node id="5817574919" lat="0.0549995" lon="35.7315378" version="1" timestamp="2018-08-08T09:12:48Z" changeset="61460574" uid="8556957" user="kenboi">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532942730445.jpg"/>
     <tag k="name" v="Remo Bookshop"/>
     <tag k="shop" v="books"/>
     <tag k="type" v="bookshop"/>
     <tag k="wb_pb:id" v="26921091"/>
-  </node>
-  <node id="5817574921" lat="0.0476788" lon="35.7273282" version="1" timestamp="2018-08-08T09:12:48Z" changeset="61460574" uid="8556957" user="kenboi">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="building_type" v="Church"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532940118181.jpg"/>
-    <tag k="name" v="AIC Church"/>
-    <tag k="religion" v="christian"/>
-    <tag k="service_times" v="08:00"/>
-    <tag k="type" v="Religious"/>
-    <tag k="wb_pb:id" v="26921052"/>
   </node>
   <node id="5817629651" lat="0.0570641" lon="35.7385896" version="1" timestamp="2018-08-08T09:43:02Z" changeset="61461531" uid="8556957" user="kenboi">
     <tag k="amenity" v="school"/>
@@ -649,53 +489,6 @@
     <tag k="operator_type" v="Government"/>
     <tag k="type" v="Secondary"/>
     <tag k="wb_pb:id" v="26669317"/>
-  </node>
-  <node id="5817629953" lat="0.0536976" lon="35.7409225" version="1" timestamp="2018-08-08T09:43:02Z" changeset="61461531" uid="8556957" user="kenboi">
-    <tag k="amenity" v="school"/>
-    <tag k="gender" v="Mixed"/>
-    <tag k="government_registered" v="MOE (Ministry of Education)"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603339000.jpg"/>
-    <tag k="name" v="Kamelilo ECDE"/>
-    <tag k="operator_type" v="Government"/>
-    <tag k="type" v="Pre_primary"/>
-    <tag k="wb_pb:id" v="26669299"/>
-  </node>
-  <node id="5817629954" lat="0.0536038" lon="35.7400394" version="1" timestamp="2018-08-08T09:43:02Z" changeset="61461531" uid="8556957" user="kenboi">
-    <tag k="amenity" v="school"/>
-    <tag k="gender" v="Mixed"/>
-    <tag k="government_registered" v="MOE (Ministry of Education)"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532602969150.jpg"/>
-    <tag k="name" v="Kamelilo Primary School"/>
-    <tag k="operator_type" v="Government"/>
-    <tag k="type" v="Primary"/>
-    <tag k="wb_pb:id" v="26669292"/>
-  </node>
-  <node id="5817629955" lat="0.0497620" lon="35.7398971" version="2" timestamp="2018-08-10T07:47:09Z" changeset="61524597" uid="345975" user="VlIvYur">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="denomination" v="sunni"/>
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532601162576.jpg"/>
-    <tag k="name" v="Al Aqsa Mosque"/>
-    <tag k="religion" v="muslim"/>
-    <tag k="service_times" v="05:00"/>
-    <tag k="type" v="Islam"/>
-    <tag k="wb_pb:id" v="26669286"/>
-  </node>
-  <node id="5817629956" lat="0.0466462" lon="35.7390975" version="1" timestamp="2018-08-08T09:43:03Z" changeset="61461531" uid="8556957" user="kenboi">
-    <tag k="amenity" v="school"/>
-    <tag k="gender" v="Mixed"/>
-    <tag k="government_registered" v="MOE (Ministry of Education)"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532600094140.jpg"/>
-    <tag k="name" v="Inland Talent Academy"/>
-    <tag k="operator_type" v="Private"/>
-    <tag k="type" v="Pre_primary"/>
-    <tag k="wb_pb:id" v="26669281"/>
-  </node>
-  <node id="5817629957" lat="0.0486163" lon="35.7419602" version="1" timestamp="2018-08-08T09:43:03Z" changeset="61461531" uid="8556957" user="kenboi">
-    <tag k="amenity" v="cattle dip"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532599057816.jpg"/>
-    <tag k="name" v="Kamelilo Cattle Dip"/>
-    <tag k="type" v="Cattle Dip"/>
-    <tag k="wb_pb:id" v="26669277"/>
   </node>
   <node id="5817629958" lat="0.0444881" lon="35.7391740" version="1" timestamp="2018-08-08T09:43:03Z" changeset="61461531" uid="8556957" user="kenboi">
     <tag k="amenity" v="school"/>
@@ -747,36 +540,16 @@
     <tag k="type" v="quarrey"/>
     <tag k="wb_pb:id" v="26669228"/>
   </node>
-  <node id="5817717021" lat="0.0498800" lon="35.7317993" version="3" timestamp="2018-08-18T13:55:19Z" changeset="61771146" uid="616774" user="mueschel">
+  <node id="5817717021" lat="0.0498800" lon="35.7317993" version="4" timestamp="2018-08-23T10:25:50Z" changeset="61916632" uid="8556957" user="kenboi">
     <tag k="amenity" v="school"/>
     <tag k="gender" v="mixed"/>
     <tag k="government_registered" v="MOE (Ministry of Education)"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686099757.jpg"/>
-    <tag k="image:project" v="1532686350800.jpg"/>
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686350800.jpg"/>
     <tag k="name" v="Koibatek Primary School"/>
     <tag k="operational_status" v="Government"/>
     <tag k="school" v="primary"/>
     <tag k="wb_pb:id" v="26733025"/>
-  </node>
-  <node id="5817717022" lat="0.0505081" lon="35.7331343" version="3" timestamp="2018-08-18T13:55:19Z" changeset="61771146" uid="616774" user="mueschel">
-    <tag k="amenity" v="school"/>
-    <tag k="gender" v="mixed"/>
-    <tag k="government_registered" v="MOE (Ministry of Education)"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532685115259.jpg"/>
-    <tag k="name" v="Mlimani ECDE"/>
-    <tag k="operational_status" v="Private"/>
-    <tag k="school" v="Pre_primary"/>
-    <tag k="wb_pb:id" v="26733020"/>
-  </node>
-  <node id="5817717023" lat="0.0498388" lon="35.7333794" version="3" timestamp="2018-08-18T13:55:19Z" changeset="61771146" uid="616774" user="mueschel">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="building" v="mosque"/>
-    <tag k="denomination" v="sunni"/>
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532684935493.jpg"/>
-    <tag k="name" v="Al Aqsa Mosque"/>
-    <tag k="religion" v="muslim"/>
-    <tag k="service_times" v="05:00"/>
-    <tag k="wb_pb:id" v="26733010"/>
   </node>
   <node id="5817717024" lat="0.0513617" lon="35.7348903" version="4" timestamp="2018-08-18T13:55:19Z" changeset="61771146" uid="616774" user="mueschel">
     <tag k="funded_by" v="National Government"/>
@@ -816,28 +589,6 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="name" v="Taidy's Restaurant"/>
     <tag k="wb_pb:id" v="26732971"/>
-  </node>
-  <node id="5817717029" lat="0.0574081" lon="35.7326367" version="3" timestamp="2018-08-18T13:55:20Z" changeset="61771146" uid="616774" user="mueschel">
-    <tag k="amenity" v="cafe"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532679424445.jpg"/>
-    <tag k="name" v="Umoja Hotel"/>
-    <tag k="wb_pb:id" v="26732968"/>
-  </node>
-  <node id="5817717030" lat="0.0572592" lon="35.7327638" version="3" timestamp="2018-08-18T13:55:20Z" changeset="61771146" uid="616774" user="mueschel">
-    <tag k="craft" v="blacksmith"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532679289873.jpg"/>
-    <tag k="name" v="Umoja Engineering Welding Workshop"/>
-    <tag k="wb_pb:id" v="26732959"/>
-  </node>
-  <node id="5817717035" lat="0.0588450" lon="35.7358042" version="3" timestamp="2018-08-18T13:55:20Z" changeset="61771146" uid="616774" user="mueschel">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="building_type" v="Church"/>
-    <tag k="denomination" v="evangelical"/>
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532677717477.jpg"/>
-    <tag k="name" v="River of Mercy Ministries"/>
-    <tag k="religion" v="christian"/>
-    <tag k="service_times" v="08:50"/>
-    <tag k="wb_pb:id" v="26732892"/>
   </node>
   <node id="5817717037" lat="0.0549982" lon="35.7413959" version="4" timestamp="2018-08-18T13:55:20Z" changeset="61771146" uid="616774" user="mueschel">
     <tag k="funded_by" v="National Government"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.4 3079d8ea">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2018-08-20T15:51:03Z"/>
+<meta osm_base="2018-08-26T01:28:02Z"/>
 
   <bounds minlat="-1.8769500" minlon="37.3700000" maxlat="-1.5900700" maxlon="37.7359800"/>
 
@@ -82,8 +82,9 @@
   <node id="5587817801" lat="-1.7803239" lon="37.6208314" version="2" timestamp="2018-05-11T09:08:08Z" changeset="58872528" uid="4570042" user="Peter Agenga">
     <tag k="highway" v="street_lamp"/>
   </node>
-  <node id="5587817802" lat="-1.7797500" lon="37.6192685" version="2" timestamp="2018-05-11T09:08:09Z" changeset="58872528" uid="4570042" user="Peter Agenga">
-    <tag k="highway" v="street_lamp"/>
+  <node id="5587817802" lat="-1.7797500" lon="37.6192685" version="3" timestamp="2018-08-25T14:13:35Z" changeset="61986108" uid="5312684" user="Benson Mutinda Msafiri">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cafe' Bonjour"/>
   </node>
   <node id="5587817803" lat="-1.7799054" lon="37.6189792" version="2" timestamp="2018-05-11T09:08:09Z" changeset="58872528" uid="4570042" user="Peter Agenga">
     <tag k="highway" v="street_lamp"/>
@@ -594,7 +595,8 @@
     <tag k="village" v="Westlands"/>
     <tag k="wb_pb:id" v="21746565"/>
   </node>
-  <node id="5588098798" lat="-1.7829700" lon="37.6293908" version="3" timestamp="2018-08-20T12:07:42Z" changeset="61821121" uid="8556619" user="kbizz">
+  <node id="5588098798" lat="-1.7829700" lon="37.6293908" version="4" timestamp="2018-08-25T12:20:57Z" changeset="61983641" uid="316172" user="ricaji">
+    <tag k="building" v="public"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643506410.jpg"/>
     <tag k="name" v="Wote Ward Administrator's Office"/>
     <tag k="office" v="administrative"/>

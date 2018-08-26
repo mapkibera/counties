@@ -568,15 +568,16 @@
     "type": "node",
     "id": "5587817802",
     "tags": {
-      "highway": "street_lamp"
+      "amenity": "cafe",
+      "name": "Cafe' Bonjour"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-11T09:08:09Z",
-      "version": "2",
-      "changeset": "58872528",
-      "user": "Peter Agenga",
-      "uid": "4570042"
+      "timestamp": "2018-08-25T14:13:35Z",
+      "version": "3",
+      "changeset": "61986108",
+      "user": "Benson Mutinda Msafiri",
+      "uid": "5312684"
     }
   },
   "geometry": {
@@ -2299,6 +2300,7 @@
     "type": "node",
     "id": "5588098798",
     "tags": {
+      "building": "public",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643506410.jpg",
       "name": "Wote Ward Administrator's Office",
       "office": "administrative",
@@ -2309,11 +2311,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T12:07:42Z",
-      "version": "3",
-      "changeset": "61821121",
-      "user": "kbizz",
-      "uid": "8556619"
+      "timestamp": "2018-08-25T12:20:57Z",
+      "version": "4",
+      "changeset": "61983641",
+      "user": "ricaji",
+      "uid": "316172"
     }
   },
   "geometry": {

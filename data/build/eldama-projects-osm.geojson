@@ -137,36 +137,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5798751608",
-  "properties": {
-    "type": "node",
-    "id": "5798751608",
-    "tags": {
-      "amenity": "community_centre",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596317324.jpg",
-      "name": "Benonin Community Centre",
-      "type": "Community centre",
-      "wb_pb:id": "26661961"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-31T12:45:14Z",
-      "version": "1",
-      "changeset": "61228698",
-      "user": "joshuasang",
-      "uid": "8556574"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7092468,
-      0.0087804
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5798751609",
   "properties": {
     "type": "node",
@@ -358,56 +328,23 @@
 },
 {
   "type": "Feature",
-  "id": "node/5798751616",
-  "properties": {
-    "type": "node",
-    "id": "5798751616",
-    "tags": {
-      "amenity": "place_of_worship",
-      "building": "church",
-      "denomination": "evangelical",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597964304.jpg",
-      "name": "AIC Benonin",
-      "religion": "christian",
-      "type": "Christian",
-      "wb_pb:id": "26661993"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-31T12:45:16Z",
-      "version": "1",
-      "changeset": "61228698",
-      "user": "joshuasang",
-      "uid": "8556574"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7135231,
-      0.0115023
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5798782566",
   "properties": {
     "type": "node",
     "id": "5798782566",
     "tags": {
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682933869.jpg",
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682933869.jpg",
       "name": "Ravine CDF Offices",
       "office": "government",
       "wb_pb:id": "26728761"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-04T18:33:38Z",
-      "version": "2",
-      "changeset": "61359658",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:37:52Z",
+      "version": "3",
+      "changeset": "61916928",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -415,91 +352,6 @@
     "coordinates": [
       35.7285895,
       0.0516207
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5798782567",
-  "properties": {
-    "type": "node",
-    "id": "5798782567",
-    "tags": {
-      "name": "Kenya Power and Lightning Company Offices",
-      "office": "government",
-      "wb_pb:id": "26728755"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-18T13:55:18Z",
-      "version": "2",
-      "changeset": "61771146",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.728267,
-      0.0521024
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5798782568",
-  "properties": {
-    "type": "node",
-    "id": "5798782568",
-    "tags": {
-      "amenity": "bank",
-      "name": "Boresha Sacco",
-      "wb_pb:id": "26728751"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-18T13:55:19Z",
-      "version": "2",
-      "changeset": "61771146",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7282271,
-      0.0521259
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5798782569",
-  "properties": {
-    "type": "node",
-    "id": "5798782569",
-    "tags": {
-      "amenity": "library",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532681348447.jpg",
-      "name": "Ravine Community Library",
-      "wb_pb:id": "26729853"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-04T18:33:38Z",
-      "version": "2",
-      "changeset": "61359658",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7286697,
-      0.0519184
     ]
   }
 },
@@ -513,7 +365,7 @@
       "amenity": "school",
       "gender": "Mixed",
       "government_registered": "MOE (Ministry of Education)",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680306484.jpg",
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680306484.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680805309.jpg",
       "name": "St. Patrics Shimoni Intergrated Primary School",
       "operator": "Government",
@@ -521,11 +373,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-04T18:33:38Z",
-      "version": "2",
-      "changeset": "61359658",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:25:49Z",
+      "version": "3",
+      "changeset": "61916632",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -533,69 +385,6 @@
     "coordinates": [
       35.7282367,
       0.0554136
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5798782571",
-  "properties": {
-    "type": "node",
-    "id": "5798782571",
-    "tags": {
-      "amenity": "school",
-      "gender": "Mixed",
-      "government_registered": "MOE (Ministry of Education)",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532679787352.jpg",
-      "name": "The Immaculate Mother Parochial School Mixed Day and Boarding",
-      "operator": "School",
-      "wb_pb:id": "26728741"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-04T18:33:38Z",
-      "version": "2",
-      "changeset": "61359658",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7276729,
-      0.053169
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5798782576",
-  "properties": {
-    "type": "node",
-    "id": "5798782576",
-    "tags": {
-      "amenity": "place_of_worship",
-      "denomination": "evangelical",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532676662869.jpg",
-      "name": "New Apostolic Church",
-      "religion": "christian",
-      "wb_pb:id": "26727864"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-04T18:33:39Z",
-      "version": "2",
-      "changeset": "61359658",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.723202,
-      0.0587915
     ]
   }
 },
@@ -1117,42 +906,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5798859906",
-  "properties": {
-    "type": "node",
-    "id": "5798859906",
-    "tags": {
-      "amenity": "hospital",
-      "dispensing": "yes",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608628789.jpg",
-      "medical_service:family_planning": "yes",
-      "medical_service:general_medical_services": "yes",
-      "medical_service:immunizations": "yes",
-      "medical_service:malaria": "yes",
-      "medical_service:pregnancy_test": "yes",
-      "name": "Eldama Ravine Sub-County Referral Hospital",
-      "referral": "Eldoret Referral Hospital",
-      "wb_pb:id": "26663642"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-20T12:55:00Z",
-      "version": "4",
-      "changeset": "61822559",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7245844,
-      0.0466988
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5798859907",
   "properties": {
     "type": "node",
@@ -1343,40 +1096,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5798859912",
-  "properties": {
-    "type": "node",
-    "id": "5798859912",
-    "tags": {
-      "amenity": "place_of_worship",
-      "building_type": "Church",
-      "denomination": "evangelical",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532604436311.jpg",
-      "name": "Ebenezer Church",
-      "religion": "christian",
-      "service_times": "10:00",
-      "type": "Ebenezar Church",
-      "wb_pb:id": "26663294"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-02T16:58:50Z",
-      "version": "2",
-      "changeset": "61304724",
-      "user": "user_5359",
-      "uid": "5359"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7223702,
-      0.0488961
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5798859914",
   "properties": {
     "type": "node",
@@ -1474,36 +1193,6 @@
     "coordinates": [
       35.7224572,
       0.0531211
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5798859917",
-  "properties": {
-    "type": "node",
-    "id": "5798859917",
-    "tags": {
-      "amenity": "agriculture",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532599483523.jpg",
-      "name": "Shauri cattle dip",
-      "type": "Cattle dip",
-      "wb_pb:id": "26663217"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-31T13:19:02Z",
-      "version": "1",
-      "changeset": "61229814",
-      "user": "vintech",
-      "uid": "8556553"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7200813,
-      0.0586667
     ]
   }
 },
@@ -1703,99 +1392,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5800785524",
-  "properties": {
-    "type": "node",
-    "id": "5800785524",
-    "tags": {
-      "amenity": "fuel",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532953042716.jpg",
-      "name": "Kobil",
-      "type": "Petrol Station",
-      "wb_pb:id": "26922516"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-01T08:43:20Z",
-      "version": "1",
-      "changeset": "61254599",
-      "user": "vintech",
-      "uid": "8556553"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7281942,
-      0.0500833
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5800785531",
-  "properties": {
-    "type": "node",
-    "id": "5800785531",
-    "tags": {
-      "amenity": "place_of_worship",
-      "denomination": "evangelical",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532941096340.jpg",
-      "name": "Full Gospel Church",
-      "religion": "christian",
-      "type": "Christian",
-      "wb_pb:id": "26922223"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-09T08:51:25Z",
-      "version": "2",
-      "changeset": "61493061",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7254439,
-      0.0505237
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5800785532",
-  "properties": {
-    "type": "node",
-    "id": "5800785532",
-    "tags": {
-      "amenity": "place_of_worship",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532940970643.jpg",
-      "name": "Eldama Ravine Mosque",
-      "religion": "muslim",
-      "type": "Islam",
-      "wb_pb:id": "26922209"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-09T08:51:25Z",
-      "version": "2",
-      "changeset": "61493061",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7248077,
-      0.0501686
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5800785536",
   "properties": {
     "type": "node",
@@ -1895,97 +1491,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5800785543",
-  "properties": {
-    "type": "node",
-    "id": "5800785543",
-    "tags": {
-      "amenity": "school",
-      "gender": "Mixed",
-      "government_registered": "MOE (Ministry of Education)",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532935464454.jpg",
-      "name": "Shauri ECDE",
-      "operator": "Government",
-      "operator_type": "County Government of Baringo",
-      "type": "Pre_primary",
-      "wb_pb:id": "26920974"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-01T08:43:22Z",
-      "version": "1",
-      "changeset": "61254599",
-      "user": "vintech",
-      "uid": "8556553"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.727079,
-      0.0568051
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5801831220",
-  "properties": {
-    "type": "node",
-    "id": "5801831220",
-    "tags": {
-      "name": "Baringo County Government Offices",
-      "office": "government",
-      "wb_pb:id": "26964606"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-04T18:33:40Z",
-      "version": "2",
-      "changeset": "61359658",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7261743,
-      0.0512143
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5801831221",
-  "properties": {
-    "type": "node",
-    "id": "5801831221",
-    "tags": {
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533016304059.jpg",
-      "name": "Eldama Ravine Sub County Offices",
-      "office": "government",
-      "wb_pb:id": "26961147"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-04T18:33:40Z",
-      "version": "2",
-      "changeset": "61359658",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.72611,
-      0.0513494
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5817574911",
   "properties": {
     "type": "node",
@@ -2046,98 +1551,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5817574916",
-  "properties": {
-    "type": "node",
-    "id": "5817574916",
-    "tags": {
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532944425936.jpg",
-      "industrial": "factory",
-      "name": "Mavazi Textile Industry",
-      "type": "Textile Industry",
-      "wb_pb:id": "26921154"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-08T09:12:48Z",
-      "version": "1",
-      "changeset": "61460574",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7349153,
-      0.0559712
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5817574917",
-  "properties": {
-    "type": "node",
-    "id": "5817574917",
-    "tags": {
-      "amenity": "restaurant",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532944274944.jpg",
-      "name": "Sobak Hotel",
-      "type": "Restaurant",
-      "wb_pb:id": "26921125"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-08T09:12:48Z",
-      "version": "1",
-      "changeset": "61460574",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.73583,
-      0.055678
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5817574918",
-  "properties": {
-    "type": "node",
-    "id": "5817574918",
-    "tags": {
-      "amenity": "place_of_worship",
-      "building_type": "Church",
-      "denomination": "evangelical",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532943389542.jpg",
-      "name": "Town Church",
-      "religion": "christian",
-      "wb_pb:id": "26921108"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-08T09:12:48Z",
-      "version": "1",
-      "changeset": "61460574",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7338851,
-      0.0571972
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5817574919",
   "properties": {
     "type": "node",
@@ -2163,39 +1576,6 @@
     "coordinates": [
       35.7315378,
       0.0549995
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5817574921",
-  "properties": {
-    "type": "node",
-    "id": "5817574921",
-    "tags": {
-      "amenity": "place_of_worship",
-      "building_type": "Church",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532940118181.jpg",
-      "name": "AIC Church",
-      "religion": "christian",
-      "service_times": "08:00",
-      "type": "Religious",
-      "wb_pb:id": "26921052"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-08T09:12:48Z",
-      "version": "1",
-      "changeset": "61460574",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7273282,
-      0.0476788
     ]
   }
 },
@@ -2230,168 +1610,6 @@
     "coordinates": [
       35.7385896,
       0.0570641
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5817629953",
-  "properties": {
-    "type": "node",
-    "id": "5817629953",
-    "tags": {
-      "amenity": "school",
-      "gender": "Mixed",
-      "government_registered": "MOE (Ministry of Education)",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603339000.jpg",
-      "name": "Kamelilo ECDE",
-      "operator_type": "Government",
-      "type": "Pre_primary",
-      "wb_pb:id": "26669299"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-08T09:43:02Z",
-      "version": "1",
-      "changeset": "61461531",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7409225,
-      0.0536976
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5817629954",
-  "properties": {
-    "type": "node",
-    "id": "5817629954",
-    "tags": {
-      "amenity": "school",
-      "gender": "Mixed",
-      "government_registered": "MOE (Ministry of Education)",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532602969150.jpg",
-      "name": "Kamelilo Primary School",
-      "operator_type": "Government",
-      "type": "Primary",
-      "wb_pb:id": "26669292"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-08T09:43:02Z",
-      "version": "1",
-      "changeset": "61461531",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7400394,
-      0.0536038
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5817629955",
-  "properties": {
-    "type": "node",
-    "id": "5817629955",
-    "tags": {
-      "amenity": "place_of_worship",
-      "denomination": "sunni",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532601162576.jpg",
-      "name": "Al Aqsa Mosque",
-      "religion": "muslim",
-      "service_times": "05:00",
-      "type": "Islam",
-      "wb_pb:id": "26669286"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-10T07:47:09Z",
-      "version": "2",
-      "changeset": "61524597",
-      "user": "VlIvYur",
-      "uid": "345975"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7398971,
-      0.049762
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5817629956",
-  "properties": {
-    "type": "node",
-    "id": "5817629956",
-    "tags": {
-      "amenity": "school",
-      "gender": "Mixed",
-      "government_registered": "MOE (Ministry of Education)",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532600094140.jpg",
-      "name": "Inland Talent Academy",
-      "operator_type": "Private",
-      "type": "Pre_primary",
-      "wb_pb:id": "26669281"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-08T09:43:03Z",
-      "version": "1",
-      "changeset": "61461531",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7390975,
-      0.0466462
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5817629957",
-  "properties": {
-    "type": "node",
-    "id": "5817629957",
-    "tags": {
-      "amenity": "cattle dip",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532599057816.jpg",
-      "name": "Kamelilo Cattle Dip",
-      "type": "Cattle Dip",
-      "wb_pb:id": "26669277"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-08T09:43:03Z",
-      "version": "1",
-      "changeset": "61461531",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7419602,
-      0.0486163
     ]
   }
 },
@@ -2571,7 +1789,7 @@
       "gender": "mixed",
       "government_registered": "MOE (Ministry of Education)",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686099757.jpg",
-      "image:project": "1532686350800.jpg",
+      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686350800.jpg",
       "name": "Koibatek Primary School",
       "operational_status": "Government",
       "school": "primary",
@@ -2579,11 +1797,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-18T13:55:19Z",
-      "version": "3",
-      "changeset": "61771146",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-08-23T10:25:50Z",
+      "version": "4",
+      "changeset": "61916632",
+      "user": "kenboi",
+      "uid": "8556957"
     }
   },
   "geometry": {
@@ -2591,72 +1809,6 @@
     "coordinates": [
       35.7317993,
       0.04988
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5817717022",
-  "properties": {
-    "type": "node",
-    "id": "5817717022",
-    "tags": {
-      "amenity": "school",
-      "gender": "mixed",
-      "government_registered": "MOE (Ministry of Education)",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532685115259.jpg",
-      "name": "Mlimani ECDE",
-      "operational_status": "Private",
-      "school": "Pre_primary",
-      "wb_pb:id": "26733020"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-18T13:55:19Z",
-      "version": "3",
-      "changeset": "61771146",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7331343,
-      0.0505081
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5817717023",
-  "properties": {
-    "type": "node",
-    "id": "5817717023",
-    "tags": {
-      "amenity": "place_of_worship",
-      "building": "mosque",
-      "denomination": "sunni",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532684935493.jpg",
-      "name": "Al Aqsa Mosque",
-      "religion": "muslim",
-      "service_times": "05:00",
-      "wb_pb:id": "26733010"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-18T13:55:19Z",
-      "version": "3",
-      "changeset": "61771146",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7333794,
-      0.0498388
     ]
   }
 },
@@ -2811,97 +1963,6 @@
     "coordinates": [
       35.7315264,
       0.0555001
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5817717029",
-  "properties": {
-    "type": "node",
-    "id": "5817717029",
-    "tags": {
-      "amenity": "cafe",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532679424445.jpg",
-      "name": "Umoja Hotel",
-      "wb_pb:id": "26732968"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-18T13:55:20Z",
-      "version": "3",
-      "changeset": "61771146",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7326367,
-      0.0574081
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5817717030",
-  "properties": {
-    "type": "node",
-    "id": "5817717030",
-    "tags": {
-      "craft": "blacksmith",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532679289873.jpg",
-      "name": "Umoja Engineering Welding Workshop",
-      "wb_pb:id": "26732959"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-18T13:55:20Z",
-      "version": "3",
-      "changeset": "61771146",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7327638,
-      0.0572592
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5817717035",
-  "properties": {
-    "type": "node",
-    "id": "5817717035",
-    "tags": {
-      "amenity": "place_of_worship",
-      "building_type": "Church",
-      "denomination": "evangelical",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532677717477.jpg",
-      "name": "River of Mercy Ministries",
-      "religion": "christian",
-      "service_times": "08:50",
-      "wb_pb:id": "26732892"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-18T13:55:20Z",
-      "version": "3",
-      "changeset": "61771146",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7358042,
-      0.058845
     ]
   }
 },

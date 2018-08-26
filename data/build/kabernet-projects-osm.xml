@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.4 3079d8ea">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2018-08-20T15:51:03Z"/>
+<meta osm_base="2018-08-26T01:28:02Z"/>
 
   <bounds minlat="0.4353000" minlon="35.6147000" maxlat="0.5916000" maxlon="35.7990000"/>
 
@@ -420,16 +420,6 @@
     <tag k="type" v="Sales Yard"/>
     <tag k="wb_pb:id" v="26128939"/>
   </node>
-  <node id="5779318653" lat="0.4611636" lon="35.6827662" version="1" timestamp="2018-07-23T13:32:40Z" changeset="60987580" uid="8556496" user="Eryque">
-    <tag k="amenity" v="school"/>
-    <tag k="gender" v="Mixed"/>
-    <tag k="government_registered" v="MOE (Ministry of Education)"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916651894.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916818508.jpg"/>
-    <tag k="name" v="Kiboino Primary School"/>
-    <tag k="operator_type" v="Government"/>
-    <tag k="wb_pb:id" v="26127280"/>
-  </node>
   <node id="5779318654" lat="0.4581368" lon="35.6566103" version="1" timestamp="2018-07-23T13:32:40Z" changeset="60987580" uid="8556496" user="Eryque">
     <tag k="amenity" v="school"/>
     <tag k="funded_by" v="CDF"/>
@@ -808,16 +798,6 @@
     <tag k="name" v="Ketindui cattle dip"/>
     <tag k="type" v="Cattle dip"/>
     <tag k="wb_pb:id" v="26240441"/>
-  </node>
-  <node id="5781093177" lat="0.5119043" lon="35.6839133" version="1" timestamp="2018-07-24T07:39:29Z" changeset="61010537" uid="8556507" user="ronovincent32">
-    <tag k="amenity" v="school"/>
-    <tag k="gender" v="Mixed"/>
-    <tag k="government_registered" v="MOE (Ministry of Education)"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075987829.jpg"/>
-    <tag k="name" v="Magonoi Primary School"/>
-    <tag k="operator" v="Government"/>
-    <tag k="type" v="Primary"/>
-    <tag k="wb_pb:id" v="26240597"/>
   </node>
   <node id="5781093178" lat="0.5117187" lon="35.6820367" version="2" timestamp="2018-07-28T15:40:31Z" changeset="61145545" uid="616774" user="mueschel">
     <tag k="amenity" v="place_of_worship"/>
@@ -1408,17 +1388,6 @@
     <tag k="operator_type" v="Government"/>
     <tag k="wb_pb:id" v="26240526"/>
   </node>
-  <node id="5783571613" lat="0.5102592" lon="35.6826258" version="2" timestamp="2018-07-28T15:40:33Z" changeset="61145545" uid="616774" user="mueschel">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="building_type" v="Church"/>
-    <tag k="denomination" v="catholic"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076441912.jpg"/>
-    <tag k="name" v="Magonoi Catholic Church"/>
-    <tag k="religion" v="christian"/>
-    <tag k="service_times" v="10:00"/>
-    <tag k="type" v="Christian"/>
-    <tag k="wb_pb:id" v="26240626"/>
-  </node>
   <node id="5783571614" lat="0.5178750" lon="35.6931006" version="2" timestamp="2018-07-29T12:33:49Z" changeset="61163593" uid="616774" user="mueschel">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532073995654.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074062854.jpg"/>
@@ -1435,27 +1404,6 @@
     <tag k="name" v="Ketindui Cattle Dip"/>
     <tag k="type" v="Cattle dip"/>
     <tag k="wb_pb:id" v="26240441"/>
-  </node>
-  <node id="5783571616" lat="0.5119043" lon="35.6839133" version="1" timestamp="2018-07-25T08:49:44Z" changeset="61048025" uid="261050" user="muindre">
-    <tag k="amenity" v="school"/>
-    <tag k="gender" v="Mixed"/>
-    <tag k="government_registered" v="MOE (Ministry of Education)"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075987829.jpg"/>
-    <tag k="name" v="Magonoi Primary School"/>
-    <tag k="operator" v="Government"/>
-    <tag k="type" v="Primary"/>
-    <tag k="wb_pb:id" v="26240597"/>
-  </node>
-  <node id="5783571617" lat="0.5117187" lon="35.6820367" version="2" timestamp="2018-07-28T15:40:33Z" changeset="61145545" uid="616774" user="mueschel">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="building_type" v="Church"/>
-    <tag k="denomination" v="evangelical"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075577791.jpg"/>
-    <tag k="name" v="Magonoi A.I.C"/>
-    <tag k="religion" v="christian"/>
-    <tag k="service_times" v="10:00"/>
-    <tag k="type" v="Christian"/>
-    <tag k="wb_pb:id" v="26240583"/>
   </node>
   <node id="5783571618" lat="0.5185400" lon="35.7146917" version="1" timestamp="2018-07-25T08:49:44Z" changeset="61048025" uid="261050" user="muindre">
     <tag k="amenity" v="school"/>
@@ -1474,16 +1422,6 @@
     <tag k="operational_status" v="Operational"/>
     <tag k="operator_type" v="Government"/>
     <tag k="wb_pb:id" v="26240466"/>
-  </node>
-  <node id="5783655454" lat="0.4975448" lon="35.7038450" version="1" timestamp="2018-07-25T09:20:46Z" changeset="61049391" uid="8556619" user="kbizz">
-    <tag k="amenity" v="school"/>
-    <tag k="gender" v="Mixed"/>
-    <tag k="government_registered" v="MOE (Ministry of Education)"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531997691025.jpg"/>
-    <tag k="name" v="Kimoso Primary School"/>
-    <tag k="operator_type" v="Government"/>
-    <tag k="type" v="Primary"/>
-    <tag k="wb_pb:id" v="26186531"/>
   </node>
   <node id="5783655460" lat="0.4825496" lon="35.6763271" version="1" timestamp="2018-07-25T09:20:47Z" changeset="61049391" uid="8556619" user="kbizz">
     <tag k="amenity" v="school"/>
@@ -1522,11 +1460,6 @@
     <tag k="name" v="County Of Baringo Housing Project"/>
     <tag k="type" v="Fence"/>
     <tag k="wb_pb:id" v="26624174"/>
-  </node>
-  <node id="5796071089" lat="0.4884282" lon="35.7195380" version="1" timestamp="2018-07-30T13:20:57Z" changeset="61195695" uid="8556575" user="Maigong">
-    <tag k="man_made" v="storage_tank"/>
-    <tag k="name" v="Meleton Tank"/>
-    <tag k="wb_pb:id" v="26237648"/>
   </node>
   <node id="5799390884" lat="0.4884282" lon="35.7195380" version="1" timestamp="2018-07-31T17:07:02Z" changeset="61235957" uid="8556957" user="kenboi">
     <tag k="man_made" v="storage_tank"/>

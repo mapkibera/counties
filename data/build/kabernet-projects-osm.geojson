@@ -1407,39 +1407,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5779318653",
-  "properties": {
-    "type": "node",
-    "id": "5779318653",
-    "tags": {
-      "amenity": "school",
-      "gender": "Mixed",
-      "government_registered": "MOE (Ministry of Education)",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916651894.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916818508.jpg",
-      "name": "Kiboino Primary School",
-      "operator_type": "Government",
-      "wb_pb:id": "26127280"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-23T13:32:40Z",
-      "version": "1",
-      "changeset": "60987580",
-      "user": "Eryque",
-      "uid": "8556496"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6827662,
-      0.4611636
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5779318654",
   "properties": {
     "type": "node",
@@ -2757,39 +2724,6 @@
     "coordinates": [
       35.7185067,
       0.5211017
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5781093177",
-  "properties": {
-    "type": "node",
-    "id": "5781093177",
-    "tags": {
-      "amenity": "school",
-      "gender": "Mixed",
-      "government_registered": "MOE (Ministry of Education)",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075987829.jpg",
-      "name": "Magonoi Primary School",
-      "operator": "Government",
-      "type": "Primary",
-      "wb_pb:id": "26240597"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-24T07:39:29Z",
-      "version": "1",
-      "changeset": "61010537",
-      "user": "ronovincent32",
-      "uid": "8556507"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6839133,
-      0.5119043
     ]
   }
 },
@@ -4971,40 +4905,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5783571613",
-  "properties": {
-    "type": "node",
-    "id": "5783571613",
-    "tags": {
-      "amenity": "place_of_worship",
-      "building_type": "Church",
-      "denomination": "catholic",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076441912.jpg",
-      "name": "Magonoi Catholic Church",
-      "religion": "christian",
-      "service_times": "10:00",
-      "type": "Christian",
-      "wb_pb:id": "26240626"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-28T15:40:33Z",
-      "version": "2",
-      "changeset": "61145545",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6826258,
-      0.5102592
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5783571614",
   "properties": {
     "type": "node",
@@ -5063,73 +4963,6 @@
     "coordinates": [
       35.7185067,
       0.5211017
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5783571616",
-  "properties": {
-    "type": "node",
-    "id": "5783571616",
-    "tags": {
-      "amenity": "school",
-      "gender": "Mixed",
-      "government_registered": "MOE (Ministry of Education)",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075987829.jpg",
-      "name": "Magonoi Primary School",
-      "operator": "Government",
-      "type": "Primary",
-      "wb_pb:id": "26240597"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-25T08:49:44Z",
-      "version": "1",
-      "changeset": "61048025",
-      "user": "muindre",
-      "uid": "261050"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6839133,
-      0.5119043
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5783571617",
-  "properties": {
-    "type": "node",
-    "id": "5783571617",
-    "tags": {
-      "amenity": "place_of_worship",
-      "building_type": "Church",
-      "denomination": "evangelical",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075577791.jpg",
-      "name": "Magonoi A.I.C",
-      "religion": "christian",
-      "service_times": "10:00",
-      "type": "Christian",
-      "wb_pb:id": "26240583"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-28T15:40:33Z",
-      "version": "2",
-      "changeset": "61145545",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6820367,
-      0.5117187
     ]
   }
 },
@@ -5194,39 +5027,6 @@
     "coordinates": [
       35.7203892,
       0.5208833
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5783655454",
-  "properties": {
-    "type": "node",
-    "id": "5783655454",
-    "tags": {
-      "amenity": "school",
-      "gender": "Mixed",
-      "government_registered": "MOE (Ministry of Education)",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531997691025.jpg",
-      "name": "Kimoso Primary School",
-      "operator_type": "Government",
-      "type": "Primary",
-      "wb_pb:id": "26186531"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-25T09:20:46Z",
-      "version": "1",
-      "changeset": "61049391",
-      "user": "kbizz",
-      "uid": "8556619"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.703845,
-      0.4975448
     ]
   }
 },
@@ -5357,34 +5157,6 @@
     "coordinates": [
       35.7492937,
       0.464969
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5796071089",
-  "properties": {
-    "type": "node",
-    "id": "5796071089",
-    "tags": {
-      "man_made": "storage_tank",
-      "name": "Meleton Tank",
-      "wb_pb:id": "26237648"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-30T13:20:57Z",
-      "version": "1",
-      "changeset": "61195695",
-      "user": "Maigong",
-      "uid": "8556575"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.719538,
-      0.4884282
     ]
   }
 },

@@ -60,9 +60,13 @@ def sync_projects():
 
   os.system("cp build/baringo-projects.csv build/kabernet-projects.csv")
   os.system("cp build/baringo-projects.csv build/eldama-projects.csv")
+  os.system("cp build/makueni-projects.csv build/wote-projects.csv")
+  os.system("cp build/makueni-projects.csv build/mbooni-projects.csv")
 
 def convert_geojson():
-  os.system("osmtogeojson -e build/makueni-projects-osm.xml > build/makueni-projects-osm.geojson")
+  #os.system("osmtogeojson -e build/makueni-projects-osm.xml > build/makueni-projects-osm.geojson")
+  os.system("osmtogeojson -e build/wote-projects-osm.xml > build/wote-projects-osm.geojson")
+  os.system("osmtogeojson -e build/mbooni-projects-osm.xml > build/mbooni-projects-osm.geojson")
   os.system("osmtogeojson -e build/makueni-poi-osm.xml > build/makueni-poi-osm.geojson")
 #  os.system("osmtogeojson -e baringo-projects-osm.xml > baringo-projects-osm.geojson")
   os.system("osmtogeojson -e build/kabernet-projects-osm.xml > build/kabernet-projects-osm.geojson")
@@ -71,6 +75,8 @@ def convert_geojson():
 
 def merge_geojson():
   os.system("geojson-merge kabernet-projects-matched.geojson eldama-projects-matched.geojson > baringo-projects-matched-merged.geojson")
+  os.system("geojson-merge wote-projects-matched.geojson mbooni-projects-matched.geojson > makueni-projects-matched-merged.geojson")
+
 
 def match_projects(county):
   result = {}
@@ -152,17 +158,28 @@ def create_index(county):
 
    writefile(county + '-projects-listing.txt', result)
 
-#sync_osm()
-#sync_projects()
-#convert_geojson()
-match_projects('makueni')
-##match_projects('baringo')
+sync_osm()
+sync_projects()
+convert_geojson()
+
+#match_projects('makueni')
+match_projects('wote')
+match_projects('mbooni')
+#match_projects('baringo')
 match_projects('kabernet')
 match_projects('eldama')
+
 merge_geojson()
-#filter_poi('makueni')
-#filter_poi('baringo')
+
+filter_poi('makueni')
+filter_poi('baringo')
+
 number_projects('kabernet')
 number_projects('eldama')
+number_projects('wote')
+number_projects('mbooni')
+
 create_index('kabernet')
 create_index('eldama')
+create_index('wote')
+create_index('mbooni')
