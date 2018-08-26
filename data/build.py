@@ -132,9 +132,9 @@ def number_projects(county):
 
    i = 1
    osm = geojson.loads(readfile(county + '-projects-matched.geojson'))
-   completed = list(filter(lambda p: p.properties['What_is_the_project_s_apparent_status'] == 'Completed', osm.features))
-   in_progress = list(filter(lambda p: p.properties['What_is_the_project_s_apparent_status'] == 'In progress', osm.features))
-   not_yet_started = list(filter(lambda p: p.properties['What_is_the_project_s_apparent_status'] == 'Not yet started', osm.features))
+   completed = list(filter(lambda p: p.properties['What_is_the_project_s_apparent_status'] in ['Completed', 'completed'], osm.features))
+   in_progress = list(filter(lambda p: p.properties['What_is_the_project_s_apparent_status'] in ['In progress','in_progress'], osm.features))
+   not_yet_started = list(filter(lambda p: p.properties['What_is_the_project_s_apparent_status'] in ['Not yet started', 'not_yet_starte'], osm.features))
 
    for features in [completed, in_progress, not_yet_started]:
      for feature in sorted(features, key=lambda project: project.properties['Project_Name_or_Title'].strip().lower()):
@@ -158,21 +158,21 @@ def create_index(county):
 
    writefile(county + '-projects-listing.txt', result)
 
-sync_osm()
-sync_projects()
-convert_geojson()
+#sync_osm()
+#sync_projects()
+#convert_geojson()
 
-#match_projects('makueni')
-match_projects('wote')
-match_projects('mbooni')
+##match_projects('makueni')
+#match_projects('wote')
+#match_projects('mbooni')
 #match_projects('baringo')
-match_projects('kabernet')
-match_projects('eldama')
+#match_projects('kabernet')
+#match_projects('eldama')
 
-merge_geojson()
+#merge_geojson()
 
-filter_poi('makueni')
-filter_poi('baringo')
+#filter_poi('makueni')
+#filter_poi('baringo')
 
 number_projects('kabernet')
 number_projects('eldama')
