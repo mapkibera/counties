@@ -29,42 +29,45 @@ def url2file(url,file_name):
 
 def sync_osm():
   makueni = "37.37,-1.87695,37.73598,-1.59007"
-  baringo = "35.521,-0.215,36.495,1.680"
+  mbooni = "37.3803,-1.6894,37.4834,-1.614"
+  wote = "37.5188,-1.8581,37.6769,-1.7587"
 
+  baringo = "35.521,-0.215,36.495,1.680"
   eldama = "35.6881,-0.0307,35.7553,0.0852"
   kabernet = "35.6147,0.4353,35.7990,0.5916"
 
   url_base = "http://overpass-api.de/api/interpreter?data=[bbox];node['wb_pb:id'];out%20meta;&bbox="
-  url2file(url_base + makueni,"makueni-projects-osm.xml")
-#  url2file(url_base + baringo,"baringo-projects-osm.xml")
-  url2file(url_base + eldama,"eldama-projects-osm.xml")
-  url2file(url_base + kabernet,"kabernet-projects-osm.xml")
+  url2file(url_base + mbooni,"build/mbooni-projects-osm.xml")
+  url2file(url_base + wote,"build/wote-projects-osm.xml")
+
+  url2file(url_base + eldama,"build/eldama-projects-osm.xml")
+  url2file(url_base + kabernet,"build/kabernet-projects-osm.xml")
 
   url_base = "http://overpass-api.de/api/interpreter?data=[bbox];node[~'.'~'.'](newer:'2018-05-01T00:00:00Z');out%20meta;&bbox="
-  url2file(url_base + makueni,"makueni-poi-osm.xml")
-  url2file(url_base + baringo,"baringo-poi-osm.xml")
+  url2file(url_base + makueni,"build/makueni-poi-osm.xml")
+  url2file(url_base + baringo,"build/baringo-poi-osm.xml")
 
 
 def sync_projects():
-  url2file('https://docs.google.com/spreadsheets/u/1/d/1xFKs2JLuIqlsvUnORMwbSx_TOSiedI3ISL2HUPk475k/export?format=csv&id=1xFKs2JLuIqlsvUnORMwbSx_TOSiedI3ISL2HUPk475k&gid=1724788530', 'wote-projects-23.csv')
-  url2file('https://docs.google.com/spreadsheets/u/1/d/1xFKs2JLuIqlsvUnORMwbSx_TOSiedI3ISL2HUPk475k/export?format=csv&id=1xFKs2JLuIqlsvUnORMwbSx_TOSiedI3ISL2HUPk475k&gid=239806010', 'wote-projects-25.csv')
-  url2file('https://docs.google.com/spreadsheets/u/1/d/1xFKs2JLuIqlsvUnORMwbSx_TOSiedI3ISL2HUPk475k/export?format=csv&id=1xFKs2JLuIqlsvUnORMwbSx_TOSiedI3ISL2HUPk475k&gid=2140044208', 'mbooni.csv')
-  url2file('https://docs.google.com/spreadsheets/d/1j5lMG1G0yzk70ujdKK0O9IpjUbgkfB74I5bEjCw6E2s/export?format=csv&id=1j5lMG1G0yzk70ujdKK0O9IpjUbgkfB74I5bEjCw6E2s&gid=502215687', 'baringo-projects.csv')
+  url2file('https://docs.google.com/spreadsheets/u/1/d/1xFKs2JLuIqlsvUnORMwbSx_TOSiedI3ISL2HUPk475k/export?format=csv&id=1xFKs2JLuIqlsvUnORMwbSx_TOSiedI3ISL2HUPk475k&gid=1724788530', 'build/wote-projects-23.csv')
+  url2file('https://docs.google.com/spreadsheets/u/1/d/1xFKs2JLuIqlsvUnORMwbSx_TOSiedI3ISL2HUPk475k/export?format=csv&id=1xFKs2JLuIqlsvUnORMwbSx_TOSiedI3ISL2HUPk475k&gid=239806010', 'build/wote-projects-25.csv')
+  url2file('https://docs.google.com/spreadsheets/u/1/d/1xFKs2JLuIqlsvUnORMwbSx_TOSiedI3ISL2HUPk475k/export?format=csv&id=1xFKs2JLuIqlsvUnORMwbSx_TOSiedI3ISL2HUPk475k&gid=2140044208', 'build/mbooni.csv')
+  url2file('https://docs.google.com/spreadsheets/d/1j5lMG1G0yzk70ujdKK0O9IpjUbgkfB74I5bEjCw6E2s/export?format=csv&id=1j5lMG1G0yzk70ujdKK0O9IpjUbgkfB74I5bEjCw6E2s&gid=502215687', 'build/baringo-projects.csv')
 
-  os.system("tail -n +2 wote-projects-25.csv > wote-projects-25-clipped.csv")
-  os.system("tail -n +2 mbooni.csv > mbooni-clipped.csv")
-  os.system("cat wote-projects-23.csv wote-projects-25-clipped.csv mbooni-clipped.csv > makueni-projects.csv")
+  os.system("tail -n +2 build/wote-projects-25.csv > build/wote-projects-25-clipped.csv")
+  os.system("tail -n +2 build/mbooni.csv > build/mbooni-clipped.csv")
+  os.system("cat build/wote-projects-23.csv build/wote-projects-25-clipped.csv build/mbooni-clipped.csv > build/makueni-projects.csv")
 
-  os.system("cp baringo-projects.csv kabernet-projects.csv")
-  os.system("cp baringo-projects.csv eldama-projects.csv")
+  os.system("cp build/baringo-projects.csv build/kabernet-projects.csv")
+  os.system("cp build/baringo-projects.csv build/eldama-projects.csv")
 
 def convert_geojson():
-  os.system("osmtogeojson -e makueni-projects-osm.xml > makueni-projects-osm.geojson")
-  os.system("osmtogeojson -e makueni-poi-osm.xml > makueni-poi-osm.geojson")
+  os.system("osmtogeojson -e build/makueni-projects-osm.xml > build/makueni-projects-osm.geojson")
+  os.system("osmtogeojson -e build/makueni-poi-osm.xml > build/makueni-poi-osm.geojson")
 #  os.system("osmtogeojson -e baringo-projects-osm.xml > baringo-projects-osm.geojson")
-  os.system("osmtogeojson -e kabernet-projects-osm.xml > kabernet-projects-osm.geojson")
-  os.system("osmtogeojson -e eldama-projects-osm.xml > eldama-projects-osm.geojson")
-  os.system("osmtogeojson -e baringo-poi-osm.xml > baringo-poi-osm.geojson")
+  os.system("osmtogeojson -e build/kabernet-projects-osm.xml > build/kabernet-projects-osm.geojson")
+  os.system("osmtogeojson -e build/eldama-projects-osm.xml > build/eldama-projects-osm.geojson")
+  os.system("osmtogeojson -e build/baringo-poi-osm.xml > build/baringo-poi-osm.geojson")
 
 def merge_geojson():
   os.system("geojson-merge kabernet-projects-matched.geojson eldama-projects-matched.geojson > baringo-projects-matched-merged.geojson")
@@ -74,10 +77,10 @@ def match_projects(county):
   result['type'] = 'FeatureCollection'
   result['features'] = []
 
-  f = open(county + '-projects.csv')
+  f = open('build/' + county + '-projects.csv')
   reader = csv.DictReader(f)
 
-  osm = geojson.loads(readfile(county + '-projects-osm.geojson'))
+  osm = geojson.loads(readfile('build/' + county + '-projects-osm.geojson'))
 
   for row in reader:
     found_match = False
@@ -106,7 +109,7 @@ def filter_poi(county):
    result['type'] = 'FeatureCollection'
    result['features'] = []
 
-   osm = geojson.loads(readfile(county + '-poi-osm.geojson'))
+   osm = geojson.loads(readfile('build/' + county + '-poi-osm.geojson'))
    for feature in osm.features:
        if feature.properties['tags'].get('wb_pb:id', None) == None:
            feature.properties['tags']['osm:id'] = feature.properties['id']
