@@ -1,0 +1,1172 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.4091567, 
+          -1.666735
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5702426107", 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Not complete", 
+        "Project_Description": "Incomplete", 
+        "Project_Name_or_Title": "Ukala secondary", 
+        "What_is_the_project_s_apparent_status": "in_progress", 
+        "amenity": "school", 
+        "gender_type": "mixed", 
+        "government_registered": "moe", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526644906625.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526645102006.jpg", 
+        "name": "Ukala Secondary School", 
+        "operator": "Government", 
+        "operator:type": "government", 
+        "osm:id": "5702426107", 
+        "type": "secondary", 
+        "wb_pb:id": "22762087"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4092383, 
+          -1.6654567
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5702426108", 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Construction underway", 
+        "Project_Description": "Not yet started", 
+        "Project_Name_or_Title": "Ukala ccti", 
+        "What_is_the_project_s_apparent_status": "not_yet_starte", 
+        "amenity": "school", 
+        "gender_type": "mixed", 
+        "government_registered": "moe", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526645594217.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526645742645.jpg", 
+        "name": "Ukala CTTI", 
+        "operator": "Ukala ccti", 
+        "operator:type": "government", 
+        "osm:id": "5702426108", 
+        "type": "tertiary", 
+        "wb_pb:id": "22762180"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4402029, 
+          -1.6653302
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637383784", 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "Increased enrollment of children from the community", 
+        "Project_Description": "Construction of ecde", 
+        "Project_Name_or_Title": "St mary gorrete ecde", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "gender_type": "mixed", 
+        "government_registered": "moe", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526632124730.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526632354964.jpg", 
+        "name": "St Mary Gorrete Primary School", 
+        "operator": "County government", 
+        "operator:type": "government", 
+        "osm:id": "5637383784", 
+        "type": "primary", 
+        "wb_pb:id": "22843541"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4712647, 
+          -1.6395554
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637308472", 
+      "properties": {
+        "Category": "water_irrigati", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Supplys water to many people", 
+        "Project_Description": "Construction of storage tank", 
+        "Project_Name_or_Title": "Mutulu water project", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526631802227.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526634476826.jpg", 
+        "man_made": "storage_tank", 
+        "name": "Mutulu Water Tank(Mutulu Water Project)", 
+        "opening_hours": "24/7", 
+        "operational_status": "operational", 
+        "osm:id": "5637308472", 
+        "type": "Storage Tank", 
+        "wb_pb:id": "22843797"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4768567, 
+          -1.640087
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637308471", 
+      "properties": {
+        "Category": "water_irrigati", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "It's supplying water to a large area", 
+        "Project_Description": "Construction of water kiosk", 
+        "Project_Name_or_Title": "Mutulu water project", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "drinking_water", 
+        "cost_per_litre": "10.0", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526633086627.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526633267593.jpg", 
+        "name": "Mutulu Water Project", 
+        "opening_hours": "24/7", 
+        "operational_status": "operational", 
+        "osm:id": "5637308471", 
+        "type": "Water kiosk 2", 
+        "wb_pb:id": "22844141"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4723813, 
+          -1.6399129
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637308470", 
+      "properties": {
+        "Category": "water_irrigati", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "It's supplying water to the community", 
+        "Project_Description": "Construction of water kiosk", 
+        "Project_Name_or_Title": "Mutulu water project", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "drinking_water", 
+        "cost_per_litre": "10.0", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526633534000.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526633619060.jpg", 
+        "name": "Mutulu Water Project", 
+        "opening_hours": "24/7", 
+        "operational_status": "operational", 
+        "osm:id": "5637308470", 
+        "type": "Water kiosk 1", 
+        "wb_pb:id": "22844331"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4685647, 
+          -1.639327
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637308469", 
+      "properties": {
+        "Category": "water_irrigati", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Supplys water to many people", 
+        "Project_Description": "Construction of water kiosk", 
+        "Project_Name_or_Title": "Mutulu water project", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "drinking_water", 
+        "cost_per_litre": "10.0", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526635091711.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526635213276.jpg", 
+        "name": "Mutulu Water Project", 
+        "opening_hours": "24/7", 
+        "operational_status": "operational", 
+        "osm:id": "5637308469", 
+        "type": "Water Kiosk 3", 
+        "wb_pb:id": "22844663"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4671635, 
+          -1.643395
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637308468", 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "The project is progressing on well", 
+        "Project_Description": "Construction of mukaatini CTTI block", 
+        "Project_Name_or_Title": "Mukaatini CTTI", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "college", 
+        "gender_type": "mixed", 
+        "government_registered": "moe", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526637098460.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526637373368.jpg", 
+        "name": "Mukaatini CTTI", 
+        "operator": "County Government", 
+        "osm:id": "5637308468", 
+        "wb_pb:id": "22844871"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4767775, 
+          -1.6474842
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637308467", 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Site allocation has already done, construction to start soon", 
+        "Project_Description": "Construction of ecde", 
+        "Project_Name_or_Title": "Kusyethuku ecde", 
+        "What_is_the_project_s_apparent_status": "not_yet_starte", 
+        "amenity": "school", 
+        "gender_type": "mixed", 
+        "government_registered": "moe", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526641171077.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526641546802.jpg", 
+        "name": "Kusyethuku Ecde", 
+        "operator": "Government Of Kenya", 
+        "osm:id": "5637308467", 
+        "type": "pre_primary", 
+        "wb_pb:id": "22844998"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4575582, 
+          -1.6560402
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637308466", 
+      "properties": {
+        "Category": "water_irrigati", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "It's supplying water to a large area in the society", 
+        "Project_Description": "Construction of storage tank", 
+        "Project_Name_or_Title": "Kikima/kivandini water project", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "cost_per_litre": "0.0", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526891266715.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526891452444.jpg", 
+        "man_made": "storage_tank", 
+        "name": "Kikima/Kivandini Water Project", 
+        "opening_hours": "24/7", 
+        "operational_status": "operational", 
+        "osm:id": "5637308466", 
+        "type": "Storage Tank", 
+        "wb_pb:id": "22942478"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4500899, 
+          -1.6532518
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637308465", 
+      "properties": {
+        "Category": "water_irrigati", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "The project is complete and efficient as it serves water to a larger area.", 
+        "Project_Description": "The project is excellent since it provides adequate water for irrigation.", 
+        "Project_Name_or_Title": "Mutondo irrigation project", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526984056329.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526984338928.jpg", 
+        "name": "Mutondo Iirrigation Project/Earth Dam", 
+        "opening_hours": "24/7", 
+        "operational_status": "operational", 
+        "osm:id": "5637308465", 
+        "type": "Earth Dam", 
+        "wb_pb:id": "22946341"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.40648, 
+          -1.6693599
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5702426109", 
+      "properties": {
+        "Category": "water_irrigati", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "It's helping the villages in domestic use", 
+        "Project_Description": "In good condition", 
+        "Project_Name_or_Title": "Kyumbuni earthdam", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526893088780.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526893286009.jpg", 
+        "name": "Kyumbuni Earthdam", 
+        "opening_hours": "24/7", 
+        "operational_status": "operational", 
+        "osm:id": "5702426109", 
+        "type": "earth_dam", 
+        "wb_pb:id": "22946694"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.409875, 
+          -1.6844067
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5702426110", 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Needs another ecdeteacher for the population is high", 
+        "Project_Description": "Finished and equipped", 
+        "Project_Name_or_Title": "Miuusini ecde", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "gender_type": "mixed", 
+        "government_registered": "moe", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526895488397.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526896030669.jpg", 
+        "name": "Miuusini ECDE", 
+        "operator": "Government", 
+        "operator:type": "government", 
+        "osm:id": "5702426110", 
+        "type": "pre_primary", 
+        "wb_pb:id": "22946839"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4214933, 
+          -1.6710017
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5702426111", 
+      "properties": {
+        "Category": "agriculture", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "The concerned department should sensitize the community about the project.", 
+        "Project_Description": "Complete", 
+        "Project_Name_or_Title": "Kyuu fruit storage structure", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "toilets", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526899881025.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526900164789.jpg", 
+        "name": "Fruit storage structure", 
+        "opening_hours": "mo-fr 7:00", 
+        "osm:id": "5702426111", 
+        "type": "Public toilet", 
+        "wb_pb:id": "22947198", 
+        "wheelchair": "yes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.421425, 
+          -1.67146
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5702426112", 
+      "properties": {
+        "Category": "agriculture", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Helping the community during produce seasons.", 
+        "Project_Description": "Complete", 
+        "Project_Name_or_Title": "Kyuu fruit storage structure (toilet)", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526900446479.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526900667538.jpg", 
+        "name": "Kyuu fruit storage structure toilet", 
+        "opening_hours": "mo-fr 7:00", 
+        "osm:id": "5702426112", 
+        "type": "Fruit storage", 
+        "wb_pb:id": "22947305", 
+        "wheelchair": "no"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.427395, 
+          -1.6666217
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5702426113", 
+      "properties": {
+        "Category": "health", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "It's free no charges and no long distance", 
+        "Project_Description": "Need for electricity for laboratory services", 
+        "Project_Name_or_Title": "Katilini dispensary", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979060966.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979252615.jpg", 
+        "medical_service:family_planning": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Katilini Dispensary Mbooni", 
+        "opening_hours": "mo-fr 7:00-7:00", 
+        "osm:id": "5702426113", 
+        "wb_pb:id": "22947667"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4275183, 
+          -1.666555
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5702426114", 
+      "properties": {
+        "Category": "health", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "There is need for a toilet for the staffs quarters", 
+        "Project_Description": "Not complete", 
+        "Project_Name_or_Title": "Katilini staffs quarters", 
+        "What_is_the_project_s_apparent_status": "not_yet_starte", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "none", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979412203.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979616729.jpg", 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Katilini dispensary (staffs guarter)", 
+        "opening_hours": "mo-fr 7:00-7:0", 
+        "osm:id": "5702426114", 
+        "wb_pb:id": "22947695"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.3865283, 
+          -1.6335388
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637244512", 
+      "properties": {
+        "Category": "health", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Serving people around Kali and kikiini area", 
+        "Project_Description": "Construction of Kali dispensary", 
+        "Project_Name_or_Title": "Kali dispensary", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "sometime", 
+        "health_facility:referals": "Makueni and Machakos", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526635616970.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526635845734.jpg", 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "no", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Kali Dispensary", 
+        "opening_hours": "mo-fr 7:00-7:00", 
+        "osm:id": "5637244512", 
+        "wb_pb:id": "22948127"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4036627, 
+          -1.637552
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637244509", 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "The pupil around syiluni kikiini village are eligible of accecing the Effects rather than moving up to syiluni primary which is a far way hence making it excellent", 
+        "Project_Description": "Construction of Syiluni ecde", 
+        "Project_Name_or_Title": "Syiluni ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "gender_type": "mixed", 
+        "government_registered": "moe", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526891252374.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526891636905.jpg", 
+        "name": "Syiluni ECDE", 
+        "operator": "Syiluni ECDE", 
+        "operator:type": "government", 
+        "osm:id": "5637244509", 
+        "type": "pre_primary", 
+        "wb_pb:id": "22948619"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4133308, 
+          -1.6443617
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637244507", 
+      "properties": {
+        "Category": "water_irrigati", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Alternative source of water to the community", 
+        "Project_Description": "Construction of mulima water tank", 
+        "Project_Name_or_Title": "Mulima water tank", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526894580786.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526894764884.jpg", 
+        "man_made": "storage_tank", 
+        "name": "Mulima Water Tank(kwa kiinga)", 
+        "opening_hours_2": "24/7", 
+        "operational_status": "operational", 
+        "osm:id": "5637244507", 
+        "type": "water_tank", 
+        "wb_pb:id": "22948885"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4151073, 
+          -1.64919
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637244506", 
+      "properties": {
+        "Category": "water_irrigati", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Supplies water to people of nthungoni market and it's environment", 
+        "Project_Description": "Construction of yoani water tap", 
+        "Project_Name_or_Title": "Yoani water protection", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "drinking_water", 
+        "cost_per_litre": "0.25", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526895914134.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526896118709.jpg", 
+        "name": "Yoani WaterTank", 
+        "opening_hours": "24/7", 
+        "operational_status": "operational", 
+        "osm:id": "5637244506", 
+        "type": "Water tap", 
+        "wb_pb:id": "22949185"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4203559, 
+          -1.6508612
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637244504", 
+      "properties": {
+        "Category": "water_irrigati", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "Serving 300 households in ndueni nzeveni and uvaa villages", 
+        "Project_Description": "Construction of ndueni earth dam", 
+        "Project_Name_or_Title": "Ndueni earth dam", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526898033188.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526898180474.jpg", 
+        "landuse": "basin", 
+        "name": "Ndueni earth dam", 
+        "operational_status": "operational", 
+        "osm:id": "5637244504", 
+        "wb_pb:id": "22949880"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4370456, 
+          -1.6557083
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637244503", 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Gave security to the pupil of Kyangoma special school", 
+        "Project_Description": "Fencing Process completed", 
+        "Project_Name_or_Title": "Fencing of children's home", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "gender_type": "mixed", 
+        "government_registered": "moe", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526972488894.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973113543.jpg", 
+        "name": "Kyangoma special school", 
+        "operator": "Kyangoma Special School for the Physically challaged", 
+        "operator:type": "government", 
+        "osm:id": "5637244503", 
+        "type": "primary", 
+        "wb_pb:id": "22950192"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.43708, 
+          -1.6554475
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637244500", 
+      "properties": {
+        "Category": "gender", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Good", 
+        "Project_Description": "Provision of water tank", 
+        "Project_Name_or_Title": "Kyangoma water tank", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "drinking_water", 
+        "cost_per_litre": "0.0", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973607038.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973713555.jpg", 
+        "name": "Water tank", 
+        "opening_hours": "24/7", 
+        "operational_status": "operational", 
+        "osm:id": "5637244500", 
+        "type": "Water tank", 
+        "wb_pb:id": "22950222"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4564176, 
+          -1.6228298
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637519166", 
+      "properties": {
+        "Category": "water_irrigati", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "The water serves locals for domestic purposes", 
+        "Project_Description": "Construction of water well for domestic use", 
+        "Project_Name_or_Title": "Kikokani water well", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "drinking_water", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526641317196.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526641462304.jpg", 
+        "name": "Kikokani Pumphouse", 
+        "operational_status": "operational", 
+        "osm:id": "5637519166", 
+        "wb_pb:id": "22950945"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4582694, 
+          -1.62068
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637519165", 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Poor", 
+        "Please_add_any_details_about_y": "The construction has stalled", 
+        "Project_Description": "Construction of a college institution", 
+        "Project_Name_or_Title": "AIC Mutanda College", 
+        "What_is_the_project_s_apparent_status": "in_progress", 
+        "amenity": "place_of_worship", 
+        "building_type": "church", 
+        "denomination": "protestant", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526643147168.jpg", 
+        "name": "AIC Mutanda", 
+        "osm:id": "5637519165", 
+        "religion": "christian", 
+        "wb_pb:id": "22951113"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.469849, 
+          -1.6273474
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637519164", 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "The field serves the entire community to accommodate football and sports in general", 
+        "Project_Description": "Levelling of playing field and erection of goal posts", 
+        "Project_Name_or_Title": "Yambae sports field", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "gender_type": "mixed", 
+        "government_registered": "moe", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526901001289.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526901296822.jpg", 
+        "name": "Yambae Primary", 
+        "operator": "Government of Kenya", 
+        "operator:type": "government", 
+        "osm:id": "5637519164", 
+        "wb_pb:id": "22951536"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.47765, 
+          -1.6195063
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637519163", 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Poor", 
+        "Please_add_any_details_about_y": "The building is dilapidated and poorly maintained", 
+        "Project_Description": "Construction of an ECDE center", 
+        "Project_Name_or_Title": "Uvi ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526908270770.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526908603781.jpg", 
+        "name": "Uvi sand dam", 
+        "opening_hours": "24/7", 
+        "operational_status": "non operational", 
+        "osm:id": "5637519163", 
+        "type": "sand dam", 
+        "wb_pb:id": "22951547"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4684729, 
+          -1.6306172
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5637519162", 
+      "properties": {
+        "Category": "health", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Electricity it's not reliable and there is no backup", 
+        "Project_Description": "Electrification of Ebenezer dispensary", 
+        "Project_Name_or_Title": "Ebenezer dispensary electrification", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "sometime", 
+        "health_facility:referals": "Mbooni", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983431363.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983765499.jpg", 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Ebenezer", 
+        "opening_hours": "Mo-Fr 07:00-19:00", 
+        "osm:id": "5637519162", 
+        "wb_pb:id": "22951661"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4582663, 
+          -1.6207012
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5702426116", 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "The project has promoted early childhood education in the region", 
+        "Project_Description": "Construction of ECDE centre", 
+        "Project_Name_or_Title": "AIC mutanda ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "place_of_worship", 
+        "building_type": "church", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526642677569.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526642893477.jpg", 
+        "name": "AIC Mutanda", 
+        "osm:id": "5702426116", 
+        "religion": "christian", 
+        "service_times": "7:30", 
+        "wb_pb:id": "22952267"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4468673, 
+          -1.6625843
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5641420363", 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "It has equipped the community with computer skills I. e the kikima youth residents.", 
+        "Project_Description": "Construction of cic", 
+        "Project_Name_or_Title": "Establishment of cic", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526980891879.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526981132494.jpg", 
+        "name": "Kikima Market", 
+        "opening_hours": "Mo- Fr 6:00-10:00", 
+        "osm:id": "5641420363", 
+        "type": "public_market", 
+        "wb_pb:id": "22956649", 
+        "wheelchair": "yes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4467283, 
+          -1.6623517
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5641420362", 
+      "properties": {
+        "Category": "trade", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "It is well equipped with all facilitators of a business opportunity eg it has been equipped with lights improving bussiness under it after sunset.", 
+        "Project_Description": "Construction of a market shade", 
+        "Project_Name_or_Title": "Kikima market shade", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526981513718.jpg", 
+        "name": "Kikima Market", 
+        "osm:id": "5641420362", 
+        "type": "public_market", 
+        "wb_pb:id": "22956651"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4445859, 
+          -1.6556145
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5641420361", 
+      "properties": {
+        "Category": "water_irrigati", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Well constructed to serve the community", 
+        "Project_Description": "Construction of kyanguluviti sanddam", 
+        "Project_Name_or_Title": "Kyanguluviti sanddam", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526987574873.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526987778338.jpg", 
+        "name": "Kyanguluvuti Earthdam", 
+        "operational_status": "non_operational", 
+        "osm:id": "5641420361", 
+        "type": "earthdam", 
+        "wb_pb:id": "22956741"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4545954, 
+          -1.6590352
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5641420360", 
+      "properties": {
+        "Category": "health", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "The project is in good condition. It has helped the community to access paedtric services easily and reduced the distance of getting those services.", 
+        "Project_Description": "Construction and equipping of paedtric ward", 
+        "Project_Name_or_Title": "Paediatric ward", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "health_facility:referals": "Machakos Referral hospital", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526898625144.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526899020838.jpg", 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Bosnia Sub-County Hospital", 
+        "opening_hours": "24/7", 
+        "osm:id": "5641420360", 
+        "wb_pb:id": "22958288"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4543836, 
+          -1.6589376
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5641420359", 
+      "properties": {
+        "Category": "health", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "It is in good conditions improving the quality of maternal services.", 
+        "Project_Description": "Construction of Maternity wing", 
+        "Project_Name_or_Title": "Maternity Wing", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "hospital", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526899406961.jpg", 
+        "name_5": "Mbooni Sub County Hospital", 
+        "osm:id": "5641420359", 
+        "wb_pb:id": "22958290"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4543496, 
+          -1.6589659
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5641420358", 
+      "properties": {
+        "Category": "health", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "It has been well equipped to serve in all x_ray and dental related disorders.", 
+        "Project_Description": "Construction and equipping of the X-ray and dental unit", 
+        "Project_Name_or_Title": "X-ray and dental unit", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "hospital", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526899832588.jpg", 
+        "name": "Mbooni Sub-County Hospital", 
+        "osm:id": "5641420358", 
+        "wb_pb:id": "22958292"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4540214, 
+          -1.6588283
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5641420357", 
+      "properties": {
+        "Category": "health", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "It has improved health service in the community", 
+        "Project_Description": "Construction and equipping of the laboratory", 
+        "Project_Name_or_Title": "Laboratory", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "hospital", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526900181251.jpg", 
+        "name": "Mbooni Sub-County Hospital", 
+        "osm:id": "5641420357", 
+        "wb_pb:id": "22958293"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4468657, 
+          -1.6621937
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5641420356", 
+      "properties": {
+        "Category": "Construction", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "Fuctional", 
+        "Project_Description": "Installation of floodlight", 
+        "Project_Name_or_Title": "Floodlight light", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526974193147.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526974321060.jpg", 
+        "name": "Kikima market", 
+        "opening_hours": "24/7", 
+        "osm:id": "5641420356", 
+        "type": "public_market", 
+        "wb_pb:id": "22958615", 
+        "wheelchair": "yes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4481096, 
+          -1.660783
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5641420355", 
+      "properties": {
+        "Category": "agriculture", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "The washrooms are in good constructional and health state though they are not operational at the moment.", 
+        "Project_Description": "Construction of kikima dairy washrooms", 
+        "Project_Name_or_Title": "Kikuyu dairy washrooms", 
+        "What_is_the_project_s_apparent_status": "in_progress", 
+        "amenity": "agriculture", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526975499178.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526975924954.jpg", 
+        "name": "Kikima Dairy", 
+        "osm:id": "5641420355", 
+        "shop": "dairy", 
+        "type": "dairy_plant", 
+        "wb_pb:id": "22958684"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4479903, 
+          -1.6606763
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5641420354", 
+      "properties": {
+        "Category": "agriculture", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "The cooler is in its proper functional state thus improving milk time before selling.", 
+        "Project_Description": "Equipping of the milk cooler", 
+        "Project_Name_or_Title": "Milk cooler", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "agriculture", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526976265520.jpg", 
+        "name": "Kikima Dairy Plant", 
+        "osm:id": "5641420354", 
+        "shop": "dairy", 
+        "type": "dairy_plant", 
+        "wb_pb:id": "22958689"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4479902, 
+          -1.6607043
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5641420353", 
+      "properties": {
+        "Category": "agriculture", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "The selling of the milk products especially the yoghurts has improved the makueni economical growth.", 
+        "Project_Description": "Construction of Kikima dairy", 
+        "Project_Name_or_Title": "Kikima dairy", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "agriculture", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526974975004.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526975216991.jpg", 
+        "name": "Kikima Dairy", 
+        "osm:id": "5641420353", 
+        "shop": "dairy", 
+        "type": "dairy_plant", 
+        "wb_pb:id": "22959318"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "type": "FeatureCollection"
+}
