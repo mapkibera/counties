@@ -1701,7 +1701,7 @@
         "In_your_opinion_is_the_project_quality": "Excellent", 
         "Please_add_any_details_about_y": "Provided accessible service to the community", 
         "Project_Description": "Construction and equipping of a maternity block", 
-        "Project_Name_for_Print": "Nziu Health Centre21636957", 
+        "Project_Name_for_Print": "Nziu Health Centre", 
         "Project_Name_or_Title": "Maternity block-Nziu health centre", 
         "What_is_the_project_s_apparent_status": "completed", 
         "amenity": "hospital", 
@@ -1711,6 +1711,37 @@
         "type": "Maternity wing", 
         "village": "Nziu", 
         "wb_pb:id": "21748359"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.6027411, 
+          -1.8218645
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5592140052", 
+      "properties": {
+        "Category": "education", 
+        "In_your_opinion_is_the_project_quality": "Poor", 
+        "Please_add_any_details_about_y": "Needs construction ", 
+        "Project_Description": "One classroom", 
+        "Project_Name_for_Print": "Nduenguu ECDE ", 
+        "Project_Name_or_Title": "Nduenguu ECDE ", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "kindergarten", 
+        "gender_type": "mixed", 
+        "governement_registered": "moe", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524488716696.jpg", 
+        "name": "Nduenguu ECDE centre", 
+        "operator": "Government of Makueni County", 
+        "operator:type": "government", 
+        "osm:id": "5592140052", 
+        "type": "pre_primary", 
+        "village": "Katoloni", 
+        "wb_pb:id": "21636957"
       }, 
       "type": "Feature"
     }, 

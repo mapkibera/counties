@@ -56,7 +56,7 @@ def sync_projects():
 
   os.system("tail -n +2 build/wote-projects-25.csv > build/wote-projects-25-clipped.csv")
   os.system("tail -n +2 build/mbooni.csv > build/mbooni-clipped.csv")
-  os.system("cat build/wote-projects-23.csv build/wote-projects-25-clipped.csv build/mbooni-clipped.csv > build/makueni-projects.csv")
+  os.system("cat build/wote-projects-23.csv newline.txt build/wote-projects-25-clipped.csv newline.txt build/mbooni-clipped.csv > build/makueni-projects.csv")
 
   os.system("cp build/baringo-projects.csv build/kabernet-projects.csv")
   os.system("cp build/baringo-projects.csv build/eldama-projects.csv")
@@ -164,9 +164,9 @@ def create_index(county):
 
    writefile(county + '-projects-listing.txt', result)
 
-sync_osm()
+#sync_osm()
 sync_projects()
-convert_geojson()
+#convert_geojson()
 
 #match_projects('makueni')
 match_projects('wote')
