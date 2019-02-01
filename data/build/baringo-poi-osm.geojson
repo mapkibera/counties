@@ -3,6 +3,65 @@
 "features": [
 {
   "type": "Feature",
+  "id": "node/473447883",
+  "properties": {
+    "type": "node",
+    "id": "473447883",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "kml:guid": "{6d2a0739-59bc-4316-af94-f1a544a3138b}",
+      "name": "Thompson Falls Lodge",
+      "tourism": "hotel"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:47Z",
+      "version": "3",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3683019,
+      0.0447332
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/653576218",
+  "properties": {
+    "type": "node",
+    "id": "653576218",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "fuel",
+      "name": "Oilibya"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:21Z",
+      "version": "2",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3634096,
+      0.0382731
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/974605958",
   "properties": {
     "type": "node",
@@ -94,6 +153,33 @@
 },
 {
   "type": "Feature",
+  "id": "node/1555338174",
+  "properties": {
+    "type": "node",
+    "id": "1555338174",
+    "tags": {
+      "name": "Timboroa",
+      "railway": "station"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-06T16:00:35Z",
+      "version": "3",
+      "changeset": "66073393",
+      "user": "Ido Marom",
+      "uid": "2778924"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.5414674,
+      0.0636947
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2139440828",
   "properties": {
     "type": "node",
@@ -115,6 +201,390 @@
     "coordinates": [
       35.7237576,
       -0.01256
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2461346616",
+  "properties": {
+    "type": "node",
+    "id": "2461346616",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "school",
+      "name": "Kisima Mixed Secondary School",
+      "operator": "Kisima Trust",
+      "operator:type": "private"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:21Z",
+      "version": "2",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3647501,
+      0.0046472
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2475303318",
+  "properties": {
+    "type": "node",
+    "id": "2475303318",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "place_of_worship",
+      "building": "yes",
+      "denomination": "catholic",
+      "name": "Nyahururu Catholic Church",
+      "religion": "christian"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:47Z",
+      "version": "2",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.363378,
+      0.0411743
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2475305013",
+  "properties": {
+    "type": "node",
+    "id": "2475305013",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "townhall",
+      "name": "Nyahururu Municipal Council"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:21Z",
+      "version": "2",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3634638,
+      0.037623
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2475315038",
+  "properties": {
+    "type": "node",
+    "id": "2475315038",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "bank",
+      "name": "Equity Bank Nyahururu"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:21Z",
+      "version": "2",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3642973,
+      0.0384861
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2475354501",
+  "properties": {
+    "type": "node",
+    "id": "2475354501",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "school",
+      "name": "Ndurururi Secondary School"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:21Z",
+      "version": "2",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3611993,
+      0.0264417
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2475359621",
+  "properties": {
+    "type": "node",
+    "id": "2475359621",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Sharpe Road",
+      "amenity": "fuel",
+      "building": "yes",
+      "name": "Total Gas Station"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:22Z",
+      "version": "2",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3656243,
+      0.0352954
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2475369873",
+  "properties": {
+    "type": "node",
+    "id": "2475369873",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Koinange Road",
+      "name": "Spears Supermarket",
+      "shop": "supermarket"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:47Z",
+      "version": "2",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3627323,
+      0.03422
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2475373617",
+  "properties": {
+    "type": "node",
+    "id": "2475373617",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "fuel",
+      "building": "yes",
+      "name": "Kenol Kobil"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:22Z",
+      "version": "2",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3642082,
+      0.0336407
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2475373987",
+  "properties": {
+    "type": "node",
+    "id": "2475373987",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "bank",
+      "name": "Family Bank"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:21Z",
+      "version": "2",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3645697,
+      0.0337612
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2475374370",
+  "properties": {
+    "type": "node",
+    "id": "2475374370",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "bank",
+      "name": "Equity Bank"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:21Z",
+      "version": "2",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3645274,
+      0.0340543
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2475398908",
+  "properties": {
+    "type": "node",
+    "id": "2475398908",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "name": "Nyaki Hotel",
+      "tourism": "hotel"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:22Z",
+      "version": "2",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3631671,
+      0.0395254
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2475402441",
+  "properties": {
+    "type": "node",
+    "id": "2475402441",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "hospital",
+      "name": "Nyahururu General Hospital"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:22Z",
+      "version": "2",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3623272,
+      0.0385371
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2606228506",
+  "properties": {
+    "type": "node",
+    "id": "2606228506",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "fuel",
+      "name": "Kobil Nyahururu"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:21Z",
+      "version": "2",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3658666,
+      0.027933
     ]
   }
 },
@@ -143,6 +613,59 @@
     "coordinates": [
       35.7429557,
       0.4725015
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3228330263",
+  "properties": {
+    "type": "node",
+    "id": "3228330263",
+    "tags": {
+      "railway": "level_crossing"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-12-26T15:26:22Z",
+      "version": "2",
+      "changeset": "65787763",
+      "user": "Ido Marom",
+      "uid": "2778924"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.5270964,
+      0.1302829
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3989712388",
+  "properties": {
+    "type": "node",
+    "id": "3989712388",
+    "tags": {
+      "name": "Security Office",
+      "office": "yes"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-11-15T19:37:20Z",
+      "version": "2",
+      "changeset": "64541812",
+      "user": "Anildahiya",
+      "uid": "9077438"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9668384,
+      -0.1669243
     ]
   }
 },
@@ -1369,6 +1892,7 @@
       "amenity": "hospital",
       "dispensing": "no",
       "electricity": "always",
+      "health_facility:referals": "Kabarnet County Referal Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919674688.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919889855.jpg",
       "medical_service:family_planning": "no",
@@ -1377,14 +1901,13 @@
       "medical_service:malaria": "no",
       "medical_service:pregnancy_test": "no",
       "name": "Kiboino Health Center Staff House",
-      "referral": "Kabarnet County Referal Hospital",
       "wb_pb:id": "26127327"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:31Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:04Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -1407,6 +1930,7 @@
       "amenity": "hospital",
       "dispensing": "yes",
       "electricity": "always",
+      "health_facility:referals": "Kabarnet Referral Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919240170.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919411323.jpg",
       "medical_service:family_planning": "yes",
@@ -1415,14 +1939,13 @@
       "medical_service:malaria": "no",
       "medical_service:pregnancy_test": "no",
       "name": "Kiboino Health Center",
-      "referral": "Kabarnet Referral Hospital",
       "wb_pb:id": "26127322"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:31Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:04Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -2332,6 +2855,7 @@
       "amenity": "clinic",
       "dispensing": "yes",
       "electricity": "sometime",
+      "health_facility:referals": "Baringo Referral Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919717751.jpg",
       "medical_service:family_planning": "no",
       "medical_service:general_medical_services": "yes",
@@ -2339,14 +2863,13 @@
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
       "name": "Salawa Catholic Private Health Clinic",
-      "referral": "Baringo Referral Hospital",
       "wb_pb:id": "26128746"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:31Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:04Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -2431,6 +2954,7 @@
       "amenity": "clinic",
       "dispensing": "yes",
       "electricity": "often",
+      "health_facility:referals": "Kabarnet Referral Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907158978.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907624084.jpg",
       "medical_service:family_planning": "yes",
@@ -2441,16 +2965,15 @@
       "name": "Chesongo Dispensary",
       "operational_status": "Operational",
       "operator": "County Government Of Baringo",
-      "referral": "Kabarnet Referral Hospital",
       "wb_pb:id": "26128775"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T11:21:27Z",
-      "version": "5",
-      "changeset": "61819712",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2018-09-01T17:28:04Z",
+      "version": "6",
+      "changeset": "62203030",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -3270,6 +3793,7 @@
       "amenity": "clinic",
       "dispensing": "no",
       "electricity": "none",
+      "health_facility:referals": "None",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532000361156.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532000408866.jpg",
       "medical_service:family_planning": "no",
@@ -3278,14 +3802,13 @@
       "medical_service:malaria": "no",
       "medical_service:pregnancy_test": "no",
       "name": "Chepturet Dispensary",
-      "referral": "None",
       "wb_pb:id": "26186565"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:32Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:04Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -3534,6 +4057,7 @@
       "amenity": "clinic",
       "dispensing": "yes",
       "electricity": "always",
+      "health_facility:referals": "Baringo county refferal",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916081101.jpg",
       "medical_service:family_planning": "yes",
       "medical_service:general_medical_services": "yes",
@@ -3542,14 +4066,13 @@
       "medical_service:pregnancy_test": "yes",
       "name": "Kapkole dispensary",
       "operator": "County Goverment Of Baringo",
-      "referral": "Baringo county refferal",
       "wb_pb:id": "26126421"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:33Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:05Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -3636,6 +4159,7 @@
       "amenity": "clinic",
       "dispensing": "yes",
       "electricity": "none",
+      "health_facility:referals": "Baringo county teaching and referal hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531911311392.jpg",
       "medical_service:family_planning": "yes",
       "medical_service:general_medical_services": "no",
@@ -3644,14 +4168,13 @@
       "medical_service:pregnancy_test": "yes",
       "name": "Kapkokwon Dispensary",
       "operator": "County Goverment Of Baringo",
-      "referral": "Baringo county teaching and referal hospital",
       "wb_pb:id": "26126344"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:33Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:05Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -4553,16 +5076,15 @@
     "id": "5781093181",
     "tags": {
       "highway": "street_lamp",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532082579348.jpg",
-      "type": "Flood light"
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532082579348.jpg"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:45Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:51Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -4583,6 +5105,7 @@
       "amenity": "clinic",
       "dispensing": "yes",
       "electricity": "always",
+      "health_facility:referals": "Kabarnet general hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532081042362.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532081081315.jpg",
       "medical_service:family_planning": "yes",
@@ -4591,14 +5114,13 @@
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
       "name": "Magonoi Dispensary",
-      "referral": "Kabarnet general hospital",
       "wb_pb:id": "26240541"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:33Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:05Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -5054,36 +5576,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5781399399",
-  "properties": {
-    "type": "node",
-    "id": "5781399399",
-    "tags": {
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531996227726.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531996434762.jpg",
-      "name": "Muslim cemetry",
-      "type": "Cemetery",
-      "wb_pb:id": "26192164"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-25T08:41:56Z",
-      "version": "2",
-      "changeset": "61047706",
-      "user": "muindre",
-      "uid": "261050"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7384556,
-      0.4930698
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5781399422",
   "properties": {
     "type": "node",
@@ -5344,35 +5836,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5781399430",
-  "properties": {
-    "type": "node",
-    "id": "5781399430",
-    "tags": {
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982660930.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982824122.jpg",
-      "type": "Stadium",
-      "wb_pb:id": "26191876"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-24T09:39:32Z",
-      "version": "1",
-      "changeset": "61015284",
-      "user": "zubeda",
-      "uid": "8556533"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7430937,
-      0.4963076
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5781399431",
   "properties": {
     "type": "node",
@@ -5411,24 +5874,23 @@
       "amenity": "hospital",
       "dispensing": "yes",
       "electricity": "always",
-      "family_planning": "yes",
-      "general_medical_services": "yes",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531991784796.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992030036.jpg",
-      "immunization": "yes",
-      "malaria": "yes",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
       "name": "Kaptimbor Dispensary",
-      "pregancy_test": "yes",
-      "type": "Dispensary",
       "wb_pb:id": "26192082"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-24T09:39:33Z",
-      "version": "1",
-      "changeset": "61015284",
-      "user": "zubeda",
-      "uid": "8556533"
+      "timestamp": "2018-09-08T17:08:14Z",
+      "version": "3",
+      "changeset": "62407281",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -5880,22 +6342,22 @@
       "amenity": "hospital",
       "dispensing": "yes",
       "electricity": "always",
+      "health_facility:referals": "Moi Refferal Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531901814836.jpg",
       "medical_service:family_planning": "Yes",
       "medical_service:general_medical_services": "yes",
       "medical_service:immunizations": "yes",
       "medical_service:malaria": "Yes",
       "medical_service:pregnancy_test": "yes",
-      "name": "Baringo County referral hospital",
-      "referral": "Moi Refferal Hospital"
+      "name": "Baringo County referral hospital"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:46Z",
-      "version": "5",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2018-09-01T17:28:05Z",
+      "version": "6",
+      "changeset": "62203030",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -5931,36 +6393,6 @@
     "coordinates": [
       35.7416117,
       0.4920976
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5781471262",
-  "properties": {
-    "type": "node",
-    "id": "5781471262",
-    "tags": {
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531920312708.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531920516358.jpg",
-      "name": "Kabarnet Public Market",
-      "social_facility": "shelter",
-      "wb_pb:id": "26126170"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-08T10:31:45Z",
-      "version": "2",
-      "changeset": "61462929",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7407854,
-      0.4933178
     ]
   }
 },
@@ -6183,16 +6615,15 @@
     "id": "5781492698",
     "tags": {
       "highway": "street_lamp",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075400180.jpg",
-      "type": "Street Light"
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075400180.jpg"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:51Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -6240,16 +6671,15 @@
     "id": "5781492700",
     "tags": {
       "highway": "street_lamp",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075168448.jpg",
-      "type": "Street Light"
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075168448.jpg"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:51Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -6268,16 +6698,15 @@
     "id": "5781492701",
     "tags": {
       "highway": "street_lamp",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075022655.jpg",
-      "type": "Street Light"
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075022655.jpg"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:51Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -6298,22 +6727,22 @@
       "amenity": "clinic",
       "dispensing": "yes",
       "electricity": "always",
+      "health_facility:referals": "Baringo County Referra Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074693891.jpg",
       "medical_service:family_planning": "yes",
       "medical_service:general_medical_services": "yes",
       "medical_service:immunizations": "yes",
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
-      "name": "Tionybei Health Clinic",
-      "referral": "Baringo County Referra Hospital"
+      "name": "Tionybei Health Clinic"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:46Z",
-      "version": "4",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2018-09-01T17:28:05Z",
+      "version": "5",
+      "changeset": "62203030",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -6331,16 +6760,15 @@
     "type": "node",
     "id": "5781492703",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:51Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -6388,16 +6816,15 @@
     "id": "5781492705",
     "tags": {
       "highway": "street_lamp",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074369337.jpg",
-      "type": "street_light"
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074369337.jpg"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:51Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -6446,22 +6873,22 @@
     "tags": {
       "amenity": "pharmacy",
       "electricity": "always",
+      "health_facility:referals": "Baringo County Referal Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074032975.jpg",
       "medical_service:family_planning": "yes",
       "medical_service:general_medical_services": "no",
       "medical_service:immunizations": "no",
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
-      "name": "Sochigaa Chemist",
-      "referral": "Baringo County Referal Hospital"
+      "name": "Sochigaa Chemist"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:47Z",
-      "version": "4",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2018-09-01T17:28:06Z",
+      "version": "5",
+      "changeset": "62203030",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -6480,16 +6907,15 @@
     "id": "5781492708",
     "tags": {
       "highway": "street_lamp",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532078293058.jpg",
-      "type": "street_light"
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532078293058.jpg"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "3",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:51Z",
+      "version": "4",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -6508,16 +6934,15 @@
     "id": "5781492709",
     "tags": {
       "highway": "street_lamp",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532073596283.jpg",
-      "type": "Street Light"
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532073596283.jpg"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:51Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -6565,16 +6990,15 @@
     "id": "5781492711",
     "tags": {
       "highway": "street_lamp",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532073480947.jpg",
-      "type": "Street Light"
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532073480947.jpg"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:51Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -6595,22 +7019,22 @@
       "amenity": "pharmacy",
       "dispensing": "yes",
       "electricity": "always",
+      "health_facility:referals": "Baringo County referral hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532078159242.jpg",
       "medical_service:family_planning": "yes",
       "medical_service:general_medical_services": "no",
       "medical_service:immunizations": "no",
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
-      "name": "Riwo Chemist",
-      "referral": "Baringo County referral hospital"
+      "name": "Riwo Chemist"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:47Z",
-      "version": "4",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2018-09-01T17:28:06Z",
+      "version": "5",
+      "changeset": "62203030",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -6629,16 +7053,15 @@
     "id": "5781492713",
     "tags": {
       "highway": "street_lamp",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532072966446.jpg",
-      "type": "Street Light"
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532072966446.jpg"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:51Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -7683,16 +8106,15 @@
     "type": "node",
     "id": "5781632972",
     "tags": {
-      "highway": "street_lamp",
-      "type": "Flood_Light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:51Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -7710,16 +8132,15 @@
     "type": "node",
     "id": "5781632973",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -7737,16 +8158,15 @@
     "type": "node",
     "id": "5781632974",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -7853,16 +8273,15 @@
     "type": "node",
     "id": "5781632978",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -7912,16 +8331,15 @@
     "type": "node",
     "id": "5781632980",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -7968,16 +8386,15 @@
     "type": "node",
     "id": "5781632982",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -7995,16 +8412,15 @@
     "type": "node",
     "id": "5781632983",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -8569,16 +8985,15 @@
     "type": "node",
     "id": "5781667668",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -8596,16 +9011,15 @@
     "type": "node",
     "id": "5781667669",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -8623,16 +9037,15 @@
     "type": "node",
     "id": "5781667670",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:49Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -8680,16 +9093,15 @@
     "type": "node",
     "id": "5781667672",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:38Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -8707,16 +9119,15 @@
     "type": "node",
     "id": "5781667673",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -8734,16 +9145,15 @@
     "type": "node",
     "id": "5781667674",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -8761,16 +9171,15 @@
     "type": "node",
     "id": "5781667675",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -8788,16 +9197,15 @@
     "type": "node",
     "id": "5781667676",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -8815,16 +9223,15 @@
     "type": "node",
     "id": "5781667677",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -8842,16 +9249,15 @@
     "type": "node",
     "id": "5781667678",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -8869,16 +9275,15 @@
     "type": "node",
     "id": "5781667679",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -8896,16 +9301,15 @@
     "type": "node",
     "id": "5781667680",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -8923,16 +9327,15 @@
     "type": "node",
     "id": "5781667681",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -8950,16 +9353,15 @@
     "type": "node",
     "id": "5781667682",
     "tags": {
-      "highway": "street_lamp",
-      "type": "Street Lights"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -8977,16 +9379,15 @@
     "type": "node",
     "id": "5781667683",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -9004,16 +9405,15 @@
     "type": "node",
     "id": "5781667684",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -9031,16 +9431,15 @@
     "type": "node",
     "id": "5781667685",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -9058,16 +9457,15 @@
     "type": "node",
     "id": "5781667686",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -9085,16 +9483,15 @@
     "type": "node",
     "id": "5781667687",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -9112,16 +9509,15 @@
     "type": "node",
     "id": "5781667688",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -9139,16 +9535,15 @@
     "type": "node",
     "id": "5781667689",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -9166,16 +9561,15 @@
     "type": "node",
     "id": "5781667690",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -9193,16 +9587,15 @@
     "type": "node",
     "id": "5781667691",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -9220,16 +9613,15 @@
     "type": "node",
     "id": "5781667692",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -9247,16 +9639,15 @@
     "type": "node",
     "id": "5781667693",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -9274,16 +9665,15 @@
     "type": "node",
     "id": "5781667694",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -9301,16 +9691,15 @@
     "type": "node",
     "id": "5781667695",
     "tags": {
-      "highway": "street_lamp",
-      "type": "Street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -9356,16 +9745,15 @@
     "type": "node",
     "id": "5781797205",
     "tags": {
-      "highway": "street_lamp",
-      "type": "Street Light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:52Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -9841,16 +10229,15 @@
     "type": "node",
     "id": "5781797222",
     "tags": {
-      "highway": "street_lamp",
-      "type": "Street Light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:53Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -9896,16 +10283,15 @@
     "type": "node",
     "id": "5781797224",
     "tags": {
-      "highway": "street_lamp",
-      "type": "Street Light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:39Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:53Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -9923,16 +10309,15 @@
     "type": "node",
     "id": "5781797225",
     "tags": {
-      "highway": "street_lamp",
-      "type": "Street Light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:40Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:53Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -10006,16 +10391,15 @@
     "type": "node",
     "id": "5781797228",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:40Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:53Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -10033,16 +10417,15 @@
     "type": "node",
     "id": "5781797229",
     "tags": {
-      "highway": "street_lamp",
-      "type": "Street Light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:40Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:53Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -10060,16 +10443,15 @@
     "type": "node",
     "id": "5781797230",
     "tags": {
-      "highway": "street_lamp",
-      "type": "Street Light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:40Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:53Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -10087,16 +10469,15 @@
     "type": "node",
     "id": "5781797231",
     "tags": {
-      "highway": "street_lamp",
-      "type": "Street Light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:40Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:53Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -10170,16 +10551,15 @@
     "type": "node",
     "id": "5781797234",
     "tags": {
-      "highway": "street_lamp",
-      "type": "street_light"
+      "highway": "street_lamp"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:40Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:53Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -10534,16 +10914,15 @@
     "id": "5783508722",
     "tags": {
       "highway": "street_lamp",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531914654945.jpg",
-      "type": "Street light"
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531914654945.jpg"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T12:38:29Z",
-      "version": "2",
-      "changeset": "61822054",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:37:42Z",
+      "version": "3",
+      "changeset": "66360018",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -11144,16 +11523,15 @@
     "id": "5783571620",
     "tags": {
       "highway": "street_lamp",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531987299846.jpg1532082579348.jpg",
-      "type": "Flood light"
+      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531987299846.jpg1532082579348.jpg"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T08:19:40Z",
-      "version": "2",
-      "changeset": "61814695",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-01-16T11:42:53Z",
+      "version": "3",
+      "changeset": "66360215",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -12703,22 +13081,22 @@
       "amenity": "hospital",
       "dispensing": "no",
       "electricity": "always",
+      "health_facility:referals": "Eldama Ravine District Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231050323067.jpg",
       "medical_service:family_planning": "no",
       "medical_service:general_medical_services": "no",
       "medical_service:immunizations": "no",
       "medical_service:malaria": "no",
       "medical_service:pregnancy_test": "no",
-      "name": "Kabiyet Dispensary",
-      "referral": "Eldama Ravine District Hospital"
+      "name": "Kabiyet Dispensary"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T12:06:30Z",
-      "version": "4",
-      "changeset": "61821079",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2018-09-01T17:28:06Z",
+      "version": "5",
+      "changeset": "62203030",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -13267,22 +13645,22 @@
     "tags": {
       "amenity": "hospital",
       "dispensing": "yes",
+      "health_facility:referals": "Eldoret Referral Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608628789.jpg",
       "medical_service:family_planning": "yes",
       "medical_service:general_medical_services": "yes",
       "medical_service:immunizations": "yes",
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
-      "name": "Eldama Ravine Sub-County Referral Hospital",
-      "referral": "Eldoret Referral Hospital"
+      "name": "Eldama Ravine Sub-County Referral Hospital"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-23T10:37:52Z",
-      "version": "5",
-      "changeset": "61916928",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2018-09-01T17:28:06Z",
+      "version": "6",
+      "changeset": "62203030",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -13303,6 +13681,7 @@
       "amenity": "hospital",
       "dispensing": "yes",
       "electricity": "always",
+      "health_facility:referals": "Eldoret Referral Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608064458.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608196635.jpg",
       "medical_service:family_planning": "yes",
@@ -13311,14 +13690,13 @@
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
       "name": "Eldama Ravine Sub-County Referral Hospital- Opd Block",
-      "referral": "Eldoret Referral Hospital",
       "wb_pb:id": "26663862"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:36Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:06Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -13341,6 +13719,7 @@
       "amenity": "hospital",
       "dispensing": "yes",
       "electricity": "always",
+      "health_facility:referals": "Eldoret",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607807515.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607913062.jpg",
       "medical_service:family_planning": "yes",
@@ -13349,14 +13728,13 @@
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
       "name": "Eldama Ravine Sub-County Referral Hospital",
-      "referral": "Eldoret",
       "wb_pb:id": "26663361"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:36Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:06Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -13379,6 +13757,7 @@
       "amenity": "hospital",
       "dispensing": "yes",
       "electricity": "always",
+      "health_facility:referals": "Eldoret Referral Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607352984.jpg",
       "medical_service:family_planning": "yes",
@@ -13387,16 +13766,15 @@
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
       "name": "Eldama Ravine Sub-County Referral Hospital-Mortuary",
-      "referral": "Eldoret Referral Hospital",
       "wb_pb:id": "26663338"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-09T12:32:54Z",
-      "version": "4",
-      "changeset": "61499873",
-      "user": "kbizz",
-      "uid": "8556619"
+      "timestamp": "2018-09-01T17:28:07Z",
+      "version": "5",
+      "changeset": "62203030",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -13417,6 +13795,7 @@
       "amenity": "hospital",
       "dispensing": "yes",
       "electricity": "sometime",
+      "health_facility:referals": "Eldoret Referal Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606676419.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606762137.jpg",
       "medical_service:family_planning": "yes",
@@ -13425,14 +13804,13 @@
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
       "name": "Eldama Ravine Sub-County Refferal Hospital- Orthopedic Ward",
-      "referral": "Eldoret Referal Hospital",
       "wb_pb:id": "26663312"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:36Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:07Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -13455,6 +13833,7 @@
       "amenity": "hospital",
       "dispensing": "yes",
       "electricity": "sometime",
+      "health_facility:referals": "Eldoret Referral Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606346905.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606491571.jpg",
       "medical_service:family_planning": "yes",
@@ -13463,14 +13842,13 @@
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
       "name": "Eldama Ravine Sub-County Referral Hospital-Laundry",
-      "referral": "Eldoret Referral Hospital",
       "wb_pb:id": "26663306"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:37Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:07Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -17185,22 +17563,21 @@
       "amenity": "hospital",
       "dispensing": "yes",
       "electricity": "always",
-      "family_planning": "yes",
-      "general_medical_services": "yes",
+      "health_facility:referals": "Baringo Refferal Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074195088.jpg",
-      "immunization": "yes",
-      "malaria": "yes",
-      "pregancy_test": "yes",
-      "referral": "Baringo Refferal Hospital",
-      "type": "Hospital"
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:50Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2018-09-01T17:28:07Z",
+      "version": "3",
+      "changeset": "62203030",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -17501,34 +17878,6 @@
     "coordinates": [
       35.7411655,
       0.4926429
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5817722221",
-  "properties": {
-    "type": "node",
-    "id": "5817722221",
-    "tags": {
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070076102.jpg",
-      "type": "Public market",
-      "wb_pb:id": "26235610"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-08T10:31:43Z",
-      "version": "1",
-      "changeset": "61462929",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7407029,
-      0.4929184
     ]
   }
 },
@@ -18017,15 +18366,15 @@
     "id": "5820105410",
     "tags": {
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532593055894.jpg",
-      "type": "Forest"
+      "note": "forest"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T12:06:30Z",
-      "version": "2",
-      "changeset": "61821079",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2018-09-21T21:09:33Z",
+      "version": "3",
+      "changeset": "62810727",
+      "user": "Aleks-Berlin",
+      "uid": "85218"
     }
   },
   "geometry": {
@@ -19375,6 +19724,2228 @@
     "coordinates": [
       35.7290076,
       0.0011916
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5912193886",
+  "properties": {
+    "type": "node",
+    "id": "5912193886",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Koinange Road",
+      "name": "Bettan Hotel & Conference Hall",
+      "tourism": "hotel"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:47Z",
+      "version": "2",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3630562,
+      0.0342522
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6017307088",
+  "properties": {
+    "type": "node",
+    "id": "6017307088",
+    "tags": {
+      "name": "Ronella Cottages",
+      "tourism": "hotel"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-10-27T08:29:15Z",
+      "version": "1",
+      "changeset": "63921946",
+      "user": "WendyCuijpers",
+      "uid": "3623546"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9660842,
+      0.4501646
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6064437375",
+  "properties": {
+    "type": "node",
+    "id": "6064437375",
+    "tags": {
+      "name": "Kabarak Guest House",
+      "tourism": "guest_house"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-11-15T19:20:54Z",
+      "version": "1",
+      "changeset": "64541345",
+      "user": "Anildahiya",
+      "uid": "9077438"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9689042,
+      -0.17235
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6064441824",
+  "properties": {
+    "type": "node",
+    "id": "6064441824",
+    "tags": {
+      "name": "Boys Hostel Block 1",
+      "tourism": "hostel"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-11-15T19:25:20Z",
+      "version": "1",
+      "changeset": "64541472",
+      "user": "Anildahiya",
+      "uid": "9077438"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9649958,
+      -0.1670627
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6064441825",
+  "properties": {
+    "type": "node",
+    "id": "6064441825",
+    "tags": {
+      "name": "Boys Hostel Block 2",
+      "tourism": "hostel"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-11-15T19:25:20Z",
+      "version": "1",
+      "changeset": "64541472",
+      "user": "Anildahiya",
+      "uid": "9077438"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9645765,
+      -0.1667054
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6064441826",
+  "properties": {
+    "type": "node",
+    "id": "6064441826",
+    "tags": {
+      "name": "Boys Hostel Block 3",
+      "tourism": "hostel"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-11-15T19:25:20Z",
+      "version": "1",
+      "changeset": "64541472",
+      "user": "Anildahiya",
+      "uid": "9077438"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9641278,
+      -0.166323
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6064441827",
+  "properties": {
+    "type": "node",
+    "id": "6064441827",
+    "tags": {
+      "name": "Boys Hostel Block 4",
+      "tourism": "hostel"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-11-15T19:25:20Z",
+      "version": "1",
+      "changeset": "64541472",
+      "user": "Anildahiya",
+      "uid": "9077438"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9642493,
+      -0.1659613
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6064444984",
+  "properties": {
+    "type": "node",
+    "id": "6064444984",
+    "tags": {
+      "building": "yes",
+      "name": "Kabu Online"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-11-15T19:26:36Z",
+      "version": "1",
+      "changeset": "64541502",
+      "user": "Anildahiya",
+      "uid": "9077438"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9653012,
+      -0.1657978
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6064451891",
+  "properties": {
+    "type": "node",
+    "id": "6064451891",
+    "tags": {
+      "amenity": "bank",
+      "atm": "yes",
+      "drive_through": "yes",
+      "name": "TNB Bank, Kenya"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-11-15T19:28:40Z",
+      "version": "1",
+      "changeset": "64541561",
+      "user": "Anildahiya",
+      "uid": "9077438"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9626823,
+      -0.1670583
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6064457029",
+  "properties": {
+    "type": "node",
+    "id": "6064457029",
+    "tags": {
+      "amenity": "post_office",
+      "name": "Kenya Posta"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-11-15T19:29:15Z",
+      "version": "1",
+      "changeset": "64541576",
+      "user": "Anildahiya",
+      "uid": "9077438"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.962599,
+      -0.1671069
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6064457206",
+  "properties": {
+    "type": "node",
+    "id": "6064457206",
+    "tags": {
+      "name": "Saloon",
+      "payment:cash": "yes",
+      "shop": "hairdresser"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-11-15T19:30:24Z",
+      "version": "1",
+      "changeset": "64541600",
+      "user": "Anildahiya",
+      "uid": "9077438"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9625644,
+      -0.1667811
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6064471321",
+  "properties": {
+    "type": "node",
+    "id": "6064471321",
+    "tags": {
+      "name": "School of Science",
+      "office": "yes"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-11-15T19:31:33Z",
+      "version": "1",
+      "changeset": "64541627",
+      "user": "Anildahiya",
+      "uid": "9077438"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9654483,
+      -0.1671918
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6064479923",
+  "properties": {
+    "type": "node",
+    "id": "6064479923",
+    "tags": {
+      "name": "School of Theology",
+      "office": "yes"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-11-15T19:34:15Z",
+      "version": "1",
+      "changeset": "64541714",
+      "user": "Anildahiya",
+      "uid": "9077438"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9656751,
+      -0.1669105
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6064483391",
+  "properties": {
+    "type": "node",
+    "id": "6064483391",
+    "tags": {
+      "name": "Busubess School",
+      "office": "yes"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-11-15T19:33:40Z",
+      "version": "1",
+      "changeset": "64541698",
+      "user": "Anildahiya",
+      "uid": "9077438"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9661973,
+      -0.1676382
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6064486532",
+  "properties": {
+    "type": "node",
+    "id": "6064486532",
+    "tags": {
+      "name": "ICT Office",
+      "office": "yes"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-11-15T19:34:45Z",
+      "version": "1",
+      "changeset": "64541732",
+      "user": "Anildahiya",
+      "uid": "9077438"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9653333,
+      -0.1675069
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6064506243",
+  "properties": {
+    "type": "node",
+    "id": "6064506243",
+    "tags": {
+      "amenity": "school",
+      "name": "Moi High School"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2018-11-15T19:39:02Z",
+      "version": "1",
+      "changeset": "64541870",
+      "user": "Anildahiya",
+      "uid": "9077438"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9613167,
+      -0.1712183
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6188008106",
+  "properties": {
+    "type": "node",
+    "id": "6188008106",
+    "tags": {
+      "railway": "level_crossing"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-06T16:00:33Z",
+      "version": "1",
+      "changeset": "66073393",
+      "user": "Ido Marom",
+      "uid": "2778924"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.5429637,
+      0.0653156
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6230910932",
+  "properties": {
+    "type": "node",
+    "id": "6230910932",
+    "tags": {
+      "power": "tower"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-23T18:28:24Z",
+      "version": "1",
+      "changeset": "66578494",
+      "user": "GCA",
+      "uid": "338627"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4677005,
+      -0.2149532
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6230910933",
+  "properties": {
+    "type": "node",
+    "id": "6230910933",
+    "tags": {
+      "power": "tower"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-23T18:28:24Z",
+      "version": "1",
+      "changeset": "66578494",
+      "user": "GCA",
+      "uid": "338627"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4690341,
+      -0.210975
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6230910934",
+  "properties": {
+    "type": "node",
+    "id": "6230910934",
+    "tags": {
+      "power": "tower"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-23T18:28:25Z",
+      "version": "1",
+      "changeset": "66578494",
+      "user": "GCA",
+      "uid": "338627"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4717842,
+      -0.2026042
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6230910935",
+  "properties": {
+    "type": "node",
+    "id": "6230910935",
+    "tags": {
+      "power": "tower"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-23T18:28:25Z",
+      "version": "1",
+      "changeset": "66578494",
+      "user": "GCA",
+      "uid": "338627"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.47305,
+      -0.1986712
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6230910936",
+  "properties": {
+    "type": "node",
+    "id": "6230910936",
+    "tags": {
+      "power": "tower"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-23T18:28:25Z",
+      "version": "1",
+      "changeset": "66578494",
+      "user": "GCA",
+      "uid": "338627"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4743083,
+      -0.1946251
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6230910937",
+  "properties": {
+    "type": "node",
+    "id": "6230910937",
+    "tags": {
+      "power": "tower"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-23T18:28:25Z",
+      "version": "1",
+      "changeset": "66578494",
+      "user": "GCA",
+      "uid": "338627"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4755515,
+      -0.1906997
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6230910938",
+  "properties": {
+    "type": "node",
+    "id": "6230910938",
+    "tags": {
+      "power": "tower"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-23T18:28:25Z",
+      "version": "1",
+      "changeset": "66578494",
+      "user": "GCA",
+      "uid": "338627"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4770862,
+      -0.1861679
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6230910939",
+  "properties": {
+    "type": "node",
+    "id": "6230910939",
+    "tags": {
+      "power": "tower"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-23T18:28:25Z",
+      "version": "1",
+      "changeset": "66578494",
+      "user": "GCA",
+      "uid": "338627"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4791182,
+      -0.1803229
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6230910940",
+  "properties": {
+    "type": "node",
+    "id": "6230910940",
+    "tags": {
+      "power": "tower"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-23T18:28:25Z",
+      "version": "1",
+      "changeset": "66578494",
+      "user": "GCA",
+      "uid": "338627"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4794987,
+      -0.1786067
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6230910941",
+  "properties": {
+    "type": "node",
+    "id": "6230910941",
+    "tags": {
+      "power": "tower"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-23T18:28:25Z",
+      "version": "1",
+      "changeset": "66578494",
+      "user": "GCA",
+      "uid": "338627"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4790291,
+      -0.1762468
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6230910942",
+  "properties": {
+    "type": "node",
+    "id": "6230910942",
+    "tags": {
+      "power": "tower"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-23T18:28:25Z",
+      "version": "1",
+      "changeset": "66578494",
+      "user": "GCA",
+      "uid": "338627"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4784301,
+      -0.1729722
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6230910943",
+  "properties": {
+    "type": "node",
+    "id": "6230910943",
+    "tags": {
+      "power": "tower"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-23T18:28:25Z",
+      "version": "1",
+      "changeset": "66578494",
+      "user": "GCA",
+      "uid": "338627"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4775153,
+      -0.1707216
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6230910944",
+  "properties": {
+    "type": "node",
+    "id": "6230910944",
+    "tags": {
+      "power": "tower"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-23T18:28:25Z",
+      "version": "1",
+      "changeset": "66578494",
+      "user": "GCA",
+      "uid": "338627"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4763416,
+      -0.1671442
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6230910945",
+  "properties": {
+    "type": "node",
+    "id": "6230910945",
+    "tags": {
+      "power": "tower"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-23T18:28:25Z",
+      "version": "1",
+      "changeset": "66578494",
+      "user": "GCA",
+      "uid": "338627"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4704092,
+      -0.2069152
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664233",
+  "properties": {
+    "type": "node",
+    "id": "6241664233",
+    "tags": {
+      "addr:city": "Matura",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "school",
+      "name": "Rurii Primary School"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:15Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3810059,
+      -0.1880325
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664234",
+  "properties": {
+    "type": "node",
+    "id": "6241664234",
+    "tags": {
+      "addr:city": "Kasuku",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "school",
+      "name": "Weru Secondary School"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:15Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3832146,
+      -0.1449016
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664235",
+  "properties": {
+    "type": "node",
+    "id": "6241664235",
+    "tags": {
+      "addr:city": "Kasuku",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "school",
+      "name": "Weru Primary School"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:16Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3823061,
+      -0.1313064
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664236",
+  "properties": {
+    "type": "node",
+    "id": "6241664236",
+    "tags": {
+      "addr:city": "Kasuku",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "place_of_worship",
+      "name": "St John Baptist Catholic Church-Kasuku Parish",
+      "religion": "catholic"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:16Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3819748,
+      -0.1314026
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664237",
+  "properties": {
+    "type": "node",
+    "id": "6241664237",
+    "tags": {
+      "addr:city": "Kasuku",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "restaurant",
+      "name": "Nyandarua Hippo Resort"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:16Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3805853,
+      -0.1292864
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664238",
+  "properties": {
+    "type": "node",
+    "id": "6241664238",
+    "tags": {
+      "addr:city": "Joro Orok",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "school",
+      "name": "Chaka Reli Primary School"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:16Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.375821,
+      -0.0940533
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664239",
+  "properties": {
+    "type": "node",
+    "id": "6241664239",
+    "tags": {
+      "addr:city": "Joro Orok",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "name": "LAKE OLBOLOSAT RESORT PARK LODGE",
+      "tourism": "hotel"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:16Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3666354,
+      -0.0855091
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664240",
+  "properties": {
+    "type": "node",
+    "id": "6241664240",
+    "tags": {
+      "addr:city": "Joro Orok",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "name": "Bridgeway Shopping Center",
+      "shop": "mall"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:16Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3659334,
+      -0.0781994
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664241",
+  "properties": {
+    "type": "node",
+    "id": "6241664241",
+    "tags": {
+      "addr:city": "Joro Orok",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "school",
+      "name": "Ol Joro Orok Primary School"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:16Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3645296,
+      -0.0769407
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664242",
+  "properties": {
+    "type": "node",
+    "id": "6241664242",
+    "tags": {
+      "addr:city": "Joro Orok",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "police",
+      "name": "Ol joro orok Police post"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:16Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3609836,
+      -0.0767592
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664243",
+  "properties": {
+    "type": "node",
+    "id": "6241664243",
+    "tags": {
+      "addr:city": "Ol Joro Orok",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "name": "Thompson Falls sport camp, camping",
+      "tourism": "hostel"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:16Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3650621,
+      -0.0739636
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664250",
+  "properties": {
+    "type": "node",
+    "id": "6241664250",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "restaurant",
+      "name": "Suera Star Point Restaurant"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:16Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3636276,
+      -0.0137386
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664251",
+  "properties": {
+    "type": "node",
+    "id": "6241664251",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "fuel",
+      "name": "Caltex"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:16Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3635316,
+      -0.0132042
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664252",
+  "properties": {
+    "type": "node",
+    "id": "6241664252",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "name": "Sandton Guest House",
+      "tourism": "guest_house"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:16Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3621613,
+      0.0221099
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664253",
+  "properties": {
+    "type": "node",
+    "id": "6241664253",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "fuel",
+      "name": "Gulf Energy - Nyahururu"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:16Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3650938,
+      0.0247273
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664254",
+  "properties": {
+    "type": "node",
+    "id": "6241664254",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Koinange Road",
+      "name": "Eastward Gardens Hotel",
+      "tourism": "hotel"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:47Z",
+      "version": "2",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.355378,
+      0.0249191
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664255",
+  "properties": {
+    "type": "node",
+    "id": "6241664255",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "name": "Nyandarua County Council A.I Centre",
+      "office": "government"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:17Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3653699,
+      0.0391113
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664256",
+  "properties": {
+    "type": "node",
+    "id": "6241664256",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "fuel",
+      "name": "Shell Filling Station"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:17Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3644116,
+      0.0350001
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664257",
+  "properties": {
+    "type": "node",
+    "id": "6241664257",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "bank",
+      "name": "KCB Nyahururu"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:17Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3639189,
+      0.03513
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664258",
+  "properties": {
+    "type": "node",
+    "id": "6241664258",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "name": "Cleanshelf Supermarket",
+      "shop": "supermarket"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:17Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3647385,
+      0.0346284
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241664259",
+  "properties": {
+    "type": "node",
+    "id": "6241664259",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "name": "Spanish lodge",
+      "tourism": "motel"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T12:42:17Z",
+      "version": "1",
+      "changeset": "66704643",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3641115,
+      0.0342299
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778031",
+  "properties": {
+    "type": "node",
+    "id": "6241778031",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "name": "Kawa Falls Hotel and Lodging",
+      "tourism": "hotel"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:44Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3658148,
+      0.029725
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778032",
+  "properties": {
+    "type": "node",
+    "id": "6241778032",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Koinange Road",
+      "amenity": "marketplace",
+      "name": "Nyahururu Market"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:44Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3606277,
+      0.03407
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778033",
+  "properties": {
+    "type": "node",
+    "id": "6241778033",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Koinange Road",
+      "amenity": "marketplace",
+      "name": "Market Stalls"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:44Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3598062,
+      0.0341461
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778034",
+  "properties": {
+    "type": "node",
+    "id": "6241778034",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Koinange Road",
+      "amenity": "fuel",
+      "name": "National Oil Corporation-Nyahururu"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:44Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3601815,
+      0.0330102
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778035",
+  "properties": {
+    "type": "node",
+    "id": "6241778035",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Koinange Road",
+      "amenity": "townhall",
+      "name": "Nyahururu Social Hall"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:44Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3586704,
+      0.0326806
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778036",
+  "properties": {
+    "type": "node",
+    "id": "6241778036",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Koinange Road",
+      "name": "Olympia Hotel",
+      "tourism": "hotel"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:44Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3586197,
+      0.0315701
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778037",
+  "properties": {
+    "type": "node",
+    "id": "6241778037",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Koinange Road",
+      "amenity": "place_of_worship",
+      "name": "Deliverance Church"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:44Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3556785,
+      0.0274271
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778038",
+  "properties": {
+    "type": "node",
+    "id": "6241778038",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Gilgil-Nyahururu Road",
+      "amenity": "fuel",
+      "name": "Petrol Pump"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:44Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3639898,
+      0.0348814
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778039",
+  "properties": {
+    "type": "node",
+    "id": "6241778039",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Sharpe Road",
+      "name": "Samburu Lodge",
+      "tourism": "motel"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:44Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.366079,
+      0.034638
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778040",
+  "properties": {
+    "type": "node",
+    "id": "6241778040",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Sharpe Road",
+      "amenity": "fuel",
+      "name": "Kirurumo Filling Station"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:44Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3664796,
+      0.0359209
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778045",
+  "properties": {
+    "type": "node",
+    "id": "6241778045",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "school",
+      "name": "Nyahururu Elite Schools"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:44Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3670577,
+      0.0445922
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778046",
+  "properties": {
+    "type": "node",
+    "id": "6241778046",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "leisure": "resort",
+      "name": "Thomson Falls Resort"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:44Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3699126,
+      0.0438164
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778047",
+  "properties": {
+    "type": "node",
+    "id": "6241778047",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "restaurant",
+      "name": "Water Falls Resort"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:45Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3705363,
+      0.0429645
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778053",
+  "properties": {
+    "type": "node",
+    "id": "6241778053",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "restaurant",
+      "name": "Hippo Point Nyahururu"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:45Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3764896,
+      0.0405203
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778055",
+  "properties": {
+    "type": "node",
+    "id": "6241778055",
+    "tags": {
+      "man_made": "surveillance",
+      "surveillance": "Hippopotamus_Watching_Point",
+      "surveillance:type": "camera"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:45Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3762006,
+      0.0385781
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778056",
+  "properties": {
+    "type": "node",
+    "id": "6241778056",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "fuel",
+      "name": "Njepa Petrol Station"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:45Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3810129,
+      0.040003
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778057",
+  "properties": {
+    "type": "node",
+    "id": "6241778057",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "school",
+      "name": "St. Francis Manguo"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:45Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3809673,
+      0.0405304
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778058",
+  "properties": {
+    "type": "node",
+    "id": "6241778058",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "school",
+      "name": "Graceland Girls Senior Secondary School"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:45Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3811498,
+      0.0418235
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778059",
+  "properties": {
+    "type": "node",
+    "id": "6241778059",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "place_of_worship",
+      "name": "P.C.E.A Church",
+      "religion": "christian"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:45Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3872096,
+      0.0365548
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778060",
+  "properties": {
+    "type": "node",
+    "id": "6241778060",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "place_of_worship",
+      "name": "Saint Philips Manguo Church",
+      "religion": "catholic"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:45Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3870321,
+      0.0359108
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778065",
+  "properties": {
+    "type": "node",
+    "id": "6241778065",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "school",
+      "name": "Ziwani Boys Hostel"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:45Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.393244,
+      0.0337658
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778066",
+  "properties": {
+    "type": "node",
+    "id": "6241778066",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "school",
+      "name": "St. Cecilia Girls Secondary School"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:45Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3929549,
+      0.0266411
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778070",
+  "properties": {
+    "type": "node",
+    "id": "6241778070",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "fuel",
+      "name": "Samax Filling Station"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:45Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4083452,
+      0.0249322
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778073",
+  "properties": {
+    "type": "node",
+    "id": "6241778073",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "fuel",
+      "name": "Gulf Petrol Station - Mairo Inya"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:45Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4118137,
+      0.0250235
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778074",
+  "properties": {
+    "type": "node",
+    "id": "6241778074",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "police",
+      "name": "Mairo-inya Police Station"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:45Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4128939,
+      0.0257892
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778083",
+  "properties": {
+    "type": "node",
+    "id": "6241778083",
+    "tags": {
+      "addr:city": "Ndogoni",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "amenity": "place_of_worship",
+      "name": "St. Martin Catholic Church- Mutanga Parish",
+      "religion": "catholic"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:46Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.460633,
+      0.0203273
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6241778084",
+  "properties": {
+    "type": "node",
+    "id": "6241778084",
+    "tags": {
+      "addr:city": "Nyahururu",
+      "addr:street": "Nyeri-Nyahururu Road",
+      "name": "Gwa Kung'u Shopping Centre",
+      "shop": "mall"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-28T13:53:46Z",
+      "version": "1",
+      "changeset": "66707020",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4917158,
+      0.014022
     ]
   }
 }

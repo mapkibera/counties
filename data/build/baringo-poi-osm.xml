@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.4 3079d8ea">
+<osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2018-08-26T01:28:02Z"/>
+<meta osm_base="2019-02-01T03:33:03Z"/>
 
   <bounds minlat="-0.2150000" minlon="35.5210000" maxlat="1.6800000" maxlon="36.4950000"/>
 
+  <node id="473447883" lat="0.0447332" lon="36.3683019" version="3" timestamp="2019-01-28T13:53:47Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="kml:guid" v="{6d2a0739-59bc-4316-af94-f1a544a3138b}"/>
+    <tag k="name" v="Thompson Falls Lodge"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="653576218" lat="0.0382731" lon="36.3634096" version="2" timestamp="2019-01-28T12:42:21Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="name" v="Oilibya"/>
+  </node>
   <node id="974605958" lat="1.1638610" lon="36.0841675" version="2" timestamp="2018-05-05T15:06:35Z" changeset="58709279" uid="186592" user="Johnwhelan">
     <tag k="aeroway" v="aerodrome"/>
     <tag k="is_in" v="Kapedo"/>
@@ -27,13 +40,109 @@
     <tag k="name" v="Lomolo Airport"/>
     <tag k="source" v="http://www.ourairports.com/data/ (Public Domain)"/>
   </node>
+  <node id="1555338174" lat="0.0636947" lon="35.5414674" version="3" timestamp="2019-01-06T16:00:35Z" changeset="66073393" uid="2778924" user="Ido Marom">
+    <tag k="name" v="Timboroa"/>
+    <tag k="railway" v="station"/>
+  </node>
   <node id="2139440828" lat="-0.0125600" lon="35.7237576" version="2" timestamp="2018-06-14T23:15:52Z" changeset="59853539" uid="893327" user="mcheckimport">
     <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="2461346616" lat="0.0046472" lon="36.3647501" version="2" timestamp="2019-01-28T12:42:21Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Kisima Mixed Secondary School"/>
+    <tag k="operator" v="Kisima Trust"/>
+    <tag k="operator:type" v="private"/>
+  </node>
+  <node id="2475303318" lat="0.0411743" lon="36.3633780" version="2" timestamp="2019-01-28T13:53:47Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="name" v="Nyahururu Catholic Church"/>
+    <tag k="religion" v="christian"/>
+  </node>
+  <node id="2475305013" lat="0.0376230" lon="36.3634638" version="2" timestamp="2019-01-28T12:42:21Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="townhall"/>
+    <tag k="name" v="Nyahururu Municipal Council"/>
+  </node>
+  <node id="2475315038" lat="0.0384861" lon="36.3642973" version="2" timestamp="2019-01-28T12:42:21Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="Equity Bank Nyahururu"/>
+  </node>
+  <node id="2475354501" lat="0.0264417" lon="36.3611993" version="2" timestamp="2019-01-28T12:42:21Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Ndurururi Secondary School"/>
+  </node>
+  <node id="2475359621" lat="0.0352954" lon="36.3656243" version="2" timestamp="2019-01-28T12:42:22Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Sharpe Road"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Total Gas Station"/>
+  </node>
+  <node id="2475369873" lat="0.0342200" lon="36.3627323" version="2" timestamp="2019-01-28T13:53:47Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Koinange Road"/>
+    <tag k="name" v="Spears Supermarket"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2475373617" lat="0.0336407" lon="36.3642082" version="2" timestamp="2019-01-28T12:42:22Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Kenol Kobil"/>
+  </node>
+  <node id="2475373987" lat="0.0337612" lon="36.3645697" version="2" timestamp="2019-01-28T12:42:21Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="Family Bank"/>
+  </node>
+  <node id="2475374370" lat="0.0340543" lon="36.3645274" version="2" timestamp="2019-01-28T12:42:21Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="Equity Bank"/>
+  </node>
+  <node id="2475398908" lat="0.0395254" lon="36.3631671" version="2" timestamp="2019-01-28T12:42:22Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="name" v="Nyaki Hotel"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="2475402441" lat="0.0385371" lon="36.3623272" version="2" timestamp="2019-01-28T12:42:22Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name" v="Nyahururu General Hospital"/>
+  </node>
+  <node id="2606228506" lat="0.0279330" lon="36.3658666" version="2" timestamp="2019-01-28T12:42:21Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="name" v="Kobil Nyahururu"/>
   </node>
   <node id="2712707952" lat="0.4725015" lon="35.7429557" version="2" timestamp="2018-06-08T10:12:25Z" changeset="59664039" uid="265690" user="fondolucy">
     <tag k="amenity" v="place_of_worship"/>
     <tag k="name" v="AIC KAPKUT"/>
     <tag k="religion" v="christian"/>
+  </node>
+  <node id="3228330263" lat="0.1302829" lon="35.5270964" version="2" timestamp="2018-12-26T15:26:22Z" changeset="65787763" uid="2778924" user="Ido Marom">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="3989712388" lat="-0.1669243" lon="35.9668384" version="2" timestamp="2018-11-15T19:37:20Z" changeset="64541812" uid="9077438" user="Anildahiya">
+    <tag k="name" v="Security Office"/>
+    <tag k="office" v="yes"/>
   </node>
   <node id="5476713723" lat="0.0150673" lon="35.7415419" version="3" timestamp="2018-05-18T15:48:31Z" changeset="59083366" uid="74746" user="vogelfreier">
     <tag k="noexit" v="yes"/>
@@ -213,10 +322,11 @@
     <tag k="operator" v="Government"/>
     <tag k="wb_pb:id" v="26186264"/>
   </node>
-  <node id="5779173626" lat="0.4608194" lon="35.6882937" version="3" timestamp="2018-08-06T11:00:31Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5779173626" lat="0.4608194" lon="35.6882937" version="4" timestamp="2018-09-01T17:28:04Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="no"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Kabarnet County Referal Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919674688.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919889855.jpg"/>
     <tag k="medical_service:family_planning" v="no"/>
@@ -225,13 +335,13 @@
     <tag k="medical_service:malaria" v="no"/>
     <tag k="medical_service:pregnancy_test" v="no"/>
     <tag k="name" v="Kiboino Health Center Staff House"/>
-    <tag k="referral" v="Kabarnet County Referal Hospital"/>
     <tag k="wb_pb:id" v="26127327"/>
   </node>
-  <node id="5779173627" lat="0.4600914" lon="35.6882700" version="3" timestamp="2018-08-06T11:00:31Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5779173627" lat="0.4600914" lon="35.6882700" version="4" timestamp="2018-09-01T17:28:04Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Kabarnet Referral Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919240170.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919411323.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -240,7 +350,6 @@
     <tag k="medical_service:malaria" v="no"/>
     <tag k="medical_service:pregnancy_test" v="no"/>
     <tag k="name" v="Kiboino Health Center"/>
-    <tag k="referral" v="Kabarnet Referral Hospital"/>
     <tag k="wb_pb:id" v="26127322"/>
   </node>
   <node id="5779173628" lat="0.4531136" lon="35.6493035" version="2" timestamp="2018-08-04T17:42:19Z" changeset="61358766" uid="616774" user="mueschel">
@@ -486,10 +595,11 @@
     <tag k="type" v="Cotton Factory(Warehouses)"/>
     <tag k="wb_pb:id" v="26128594"/>
   </node>
-  <node id="5779197183" lat="0.4913171" lon="35.6644704" version="3" timestamp="2018-08-06T11:00:31Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5779197183" lat="0.4913171" lon="35.6644704" version="4" timestamp="2018-09-01T17:28:04Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="sometime"/>
+    <tag k="health_facility:referals" v="Baringo Referral Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919717751.jpg"/>
     <tag k="medical_service:family_planning" v="no"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -497,7 +607,6 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Salawa Catholic Private Health Clinic"/>
-    <tag k="referral" v="Baringo Referral Hospital"/>
     <tag k="wb_pb:id" v="26128746"/>
   </node>
   <node id="5779197184" lat="0.4950332" lon="35.6555617" version="1" timestamp="2018-07-23T12:07:18Z" changeset="60984340" uid="8556507" user="ronovincent32">
@@ -516,10 +625,11 @@
     <tag k="operator_type" v="Government"/>
     <tag k="wb_pb:id" v="26237638"/>
   </node>
-  <node id="5779268901" lat="0.5469838" lon="35.6794434" version="5" timestamp="2018-08-20T11:21:27Z" changeset="61819712" uid="8556957" user="kenboi">
+  <node id="5779268901" lat="0.5469838" lon="35.6794434" version="6" timestamp="2018-09-01T17:28:04Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="often"/>
+    <tag k="health_facility:referals" v="Kabarnet Referral Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907158978.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907624084.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -530,7 +640,6 @@
     <tag k="name" v="Chesongo Dispensary"/>
     <tag k="operational_status" v="Operational"/>
     <tag k="operator" v="County Government Of Baringo"/>
-    <tag k="referral" v="Kabarnet Referral Hospital"/>
     <tag k="wb_pb:id" v="26128775"/>
   </node>
   <node id="5779268902" lat="0.5403200" lon="35.6772733" version="2" timestamp="2018-08-04T17:42:20Z" changeset="61358766" uid="616774" user="mueschel">
@@ -757,10 +866,11 @@
     <tag k="waterway" v="dam"/>
     <tag k="wb_pb:id" v="26186417"/>
   </node>
-  <node id="5779324092" lat="0.4932663" lon="35.6890038" version="3" timestamp="2018-08-06T11:00:32Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5779324092" lat="0.4932663" lon="35.6890038" version="4" timestamp="2018-09-01T17:28:04Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="no"/>
     <tag k="electricity" v="none"/>
+    <tag k="health_facility:referals" v="None"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532000361156.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532000408866.jpg"/>
     <tag k="medical_service:family_planning" v="no"/>
@@ -769,7 +879,6 @@
     <tag k="medical_service:malaria" v="no"/>
     <tag k="medical_service:pregnancy_test" v="no"/>
     <tag k="name" v="Chepturet Dispensary"/>
-    <tag k="referral" v="None"/>
     <tag k="wb_pb:id" v="26186565"/>
   </node>
   <node id="5779324093" lat="0.4881550" lon="35.6719722" version="2" timestamp="2018-08-04T17:42:22Z" changeset="61358766" uid="616774" user="mueschel">
@@ -837,10 +946,11 @@
     <tag k="type" v="Cattle Dip"/>
     <tag k="wb_pb:id" v="26126359"/>
   </node>
-  <node id="5779623112" lat="0.5328883" lon="35.7362042" version="3" timestamp="2018-08-06T11:00:33Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5779623112" lat="0.5328883" lon="35.7362042" version="4" timestamp="2018-09-01T17:28:05Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Baringo county refferal"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916081101.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -849,7 +959,6 @@
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Kapkole dispensary"/>
     <tag k="operator" v="County Goverment Of Baringo"/>
-    <tag k="referral" v="Baringo county refferal"/>
     <tag k="wb_pb:id" v="26126421"/>
   </node>
   <node id="5779623113" lat="0.5333653" lon="35.7352466" version="2" timestamp="2018-08-04T17:42:22Z" changeset="61358766" uid="616774" user="mueschel">
@@ -870,10 +979,11 @@
     <tag k="type" v="Cattle Dip"/>
     <tag k="wb_pb:id" v="26126309"/>
   </node>
-  <node id="5779623115" lat="0.5464468" lon="35.7161572" version="3" timestamp="2018-08-06T11:00:33Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5779623115" lat="0.5464468" lon="35.7161572" version="4" timestamp="2018-09-01T17:28:05Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="none"/>
+    <tag k="health_facility:referals" v="Baringo county teaching and referal hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531911311392.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="no"/>
@@ -882,7 +992,6 @@
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Kapkokwon Dispensary"/>
     <tag k="operator" v="County Goverment Of Baringo"/>
-    <tag k="referral" v="Baringo county teaching and referal hospital"/>
     <tag k="wb_pb:id" v="26126344"/>
   </node>
   <node id="5779623116" lat="0.5343437" lon="35.7280567" version="1" timestamp="2018-07-23T16:56:33Z" changeset="60993577" uid="8556575" user="Maigong">
@@ -1122,15 +1231,15 @@
     <tag k="waterway" v="dam"/>
     <tag k="wb_pb:id" v="26240466"/>
   </node>
-  <node id="5781093181" lat="0.4875978" lon="35.7447422" version="2" timestamp="2018-08-20T09:44:45Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5781093181" lat="0.4875978" lon="35.7447422" version="3" timestamp="2019-01-16T11:42:51Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532082579348.jpg"/>
-    <tag k="type" v="Flood light"/>
   </node>
-  <node id="5781093182" lat="0.5135886" lon="35.6832942" version="3" timestamp="2018-08-06T11:00:33Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5781093182" lat="0.5135886" lon="35.6832942" version="4" timestamp="2018-09-01T17:28:05Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Kabarnet general hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532081042362.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532081081315.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -1139,7 +1248,6 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Magonoi Dispensary"/>
-    <tag k="referral" v="Kabarnet general hospital"/>
     <tag k="wb_pb:id" v="26240541"/>
   </node>
   <node id="5781138884" lat="0.5110565" lon="35.6506129" version="4" timestamp="2018-08-20T12:27:50Z" changeset="61821713" uid="8556957" user="kenboi">
@@ -1261,13 +1369,6 @@
     <tag k="name" v="Kibunder Bridge"/>
     <tag k="wb_pb:id" v="26186713"/>
   </node>
-  <node id="5781399399" lat="0.4930698" lon="35.7384556" version="2" timestamp="2018-07-25T08:41:56Z" changeset="61047706" uid="261050" user="muindre">
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531996227726.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531996434762.jpg"/>
-    <tag k="name" v="Muslim cemetry"/>
-    <tag k="type" v="Cemetery"/>
-    <tag k="wb_pb:id" v="26192164"/>
-  </node>
   <node id="5781399422" lat="0.4945057" lon="35.7435717" version="3" timestamp="2018-07-29T12:15:02Z" changeset="61163160" uid="616774" user="mueschel">
     <tag k="access" v="customers"/>
     <tag k="amenity" v="toilets"/>
@@ -1344,12 +1445,6 @@
     <tag k="type" v="Pre_primary"/>
     <tag k="wb_pb:id" v="26192110"/>
   </node>
-  <node id="5781399430" lat="0.4963076" lon="35.7430937" version="1" timestamp="2018-07-24T09:39:32Z" changeset="61015284" uid="8556533" user="zubeda">
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982660930.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982824122.jpg"/>
-    <tag k="type" v="Stadium"/>
-    <tag k="wb_pb:id" v="26191876"/>
-  </node>
   <node id="5781399431" lat="0.4960681" lon="35.7440361" version="1" timestamp="2018-07-24T09:39:33Z" changeset="61015284" uid="8556533" user="zubeda">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531981808166.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982100266.jpg"/>
@@ -1357,19 +1452,18 @@
     <tag k="type" v="Perimeter wall"/>
     <tag k="wb_pb:id" v="26191806"/>
   </node>
-  <node id="5781399432" lat="0.4966050" lon="35.7338442" version="1" timestamp="2018-07-24T09:39:33Z" changeset="61015284" uid="8556533" user="zubeda">
+  <node id="5781399432" lat="0.4966050" lon="35.7338442" version="3" timestamp="2018-09-08T17:08:14Z" changeset="62407281" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
-    <tag k="family_planning" v="yes"/>
-    <tag k="general_medical_services" v="yes"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531991784796.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992030036.jpg"/>
-    <tag k="immunization" v="yes"/>
-    <tag k="malaria" v="yes"/>
+    <tag k="medical_service:family_planning" v="yes"/>
+    <tag k="medical_service:general_medical_services" v="yes"/>
+    <tag k="medical_service:immunizations" v="yes"/>
+    <tag k="medical_service:malaria" v="yes"/>
+    <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Kaptimbor Dispensary"/>
-    <tag k="pregancy_test" v="yes"/>
-    <tag k="type" v="Dispensary"/>
     <tag k="wb_pb:id" v="26192082"/>
   </node>
   <node id="5781399433" lat="0.4956112" lon="35.7450770" version="1" timestamp="2018-07-24T09:39:33Z" changeset="61015284" uid="8556533" user="zubeda">
@@ -1481,10 +1575,11 @@
     <tag k="type" v="Fire station"/>
     <tag k="wb_pb:id" v="26126149"/>
   </node>
-  <node id="5781471260" lat="0.4849538" lon="35.7423587" version="5" timestamp="2018-08-20T09:44:46Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5781471260" lat="0.4849538" lon="35.7423587" version="6" timestamp="2018-09-01T17:28:05Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Moi Refferal Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531901814836.jpg"/>
     <tag k="medical_service:family_planning" v="Yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -1492,19 +1587,11 @@
     <tag k="medical_service:malaria" v="Yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Baringo County referral hospital"/>
-    <tag k="referral" v="Moi Refferal Hospital"/>
   </node>
   <node id="5781471261" lat="0.4920976" lon="35.7416117" version="2" timestamp="2018-08-20T09:44:46Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="amenity" v="theatre"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531917588607.jpg"/>
     <tag k="name" v="Kabarnet Youth Empowerment centre"/>
-  </node>
-  <node id="5781471262" lat="0.4933178" lon="35.7407854" version="2" timestamp="2018-08-08T10:31:45Z" changeset="61462929" uid="8556957" user="kenboi">
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531920312708.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531920516358.jpg"/>
-    <tag k="name" v="Kabarnet Public Market"/>
-    <tag k="social_facility" v="shelter"/>
-    <tag k="wb_pb:id" v="26126170"/>
   </node>
   <node id="5781492691" lat="0.4943937" lon="35.7424469" version="2" timestamp="2018-08-20T09:44:46Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075710738.jpg"/>
@@ -1556,10 +1643,9 @@
     <tag k="tourism" v="hotel"/>
     <tag k="type" v="Hotel"/>
   </node>
-  <node id="5781492698" lat="0.4909336" lon="35.7409729" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781492698" lat="0.4909336" lon="35.7409729" version="3" timestamp="2019-01-16T11:42:51Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075400180.jpg"/>
-    <tag k="type" v="Street Light"/>
   </node>
   <node id="5781492699" lat="0.4929844" lon="35.7431281" version="2" timestamp="2018-08-20T09:44:46Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077915340.jpg"/>
@@ -1567,20 +1653,19 @@
     <tag k="shop" v="supermarket"/>
     <tag k="type" v="supermarket"/>
   </node>
-  <node id="5781492700" lat="0.4914233" lon="35.7404403" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781492700" lat="0.4914233" lon="35.7404403" version="3" timestamp="2019-01-16T11:42:51Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075168448.jpg"/>
-    <tag k="type" v="Street Light"/>
   </node>
-  <node id="5781492701" lat="0.4914602" lon="35.7409067" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781492701" lat="0.4914602" lon="35.7409067" version="3" timestamp="2019-01-16T11:42:51Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075022655.jpg"/>
-    <tag k="type" v="Street Light"/>
   </node>
-  <node id="5781492702" lat="0.4915461" lon="35.7430535" version="4" timestamp="2018-08-20T09:44:46Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5781492702" lat="0.4915461" lon="35.7430535" version="5" timestamp="2018-09-01T17:28:05Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Baringo County Referra Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074693891.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -1588,11 +1673,9 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Tionybei Health Clinic"/>
-    <tag k="referral" v="Baringo County Referra Hospital"/>
   </node>
-  <node id="5781492703" lat="0.4914259" lon="35.7430091" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781492703" lat="0.4914259" lon="35.7430091" version="3" timestamp="2019-01-16T11:42:51Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
   <node id="5781492704" lat="0.4932480" lon="35.7430484" version="2" timestamp="2018-08-20T09:44:46Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077522628.jpg"/>
@@ -1600,10 +1683,9 @@
     <tag k="shop" v="supermarket"/>
     <tag k="type" v="Supermarket"/>
   </node>
-  <node id="5781492705" lat="0.4914299" lon="35.7429027" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781492705" lat="0.4914299" lon="35.7429027" version="3" timestamp="2019-01-16T11:42:51Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074369337.jpg"/>
-    <tag k="type" v="street_light"/>
   </node>
   <node id="5781492706" lat="0.4914963" lon="35.7425719" version="2" timestamp="2018-08-20T09:44:47Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074182845.jpg"/>
@@ -1611,9 +1693,10 @@
     <tag k="tourism" v="hotel"/>
     <tag k="type" v="Hotel"/>
   </node>
-  <node id="5781492707" lat="0.4914678" lon="35.7424965" version="4" timestamp="2018-08-20T09:44:47Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5781492707" lat="0.4914678" lon="35.7424965" version="5" timestamp="2018-09-01T17:28:06Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="pharmacy"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Baringo County Referal Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074032975.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="no"/>
@@ -1621,17 +1704,14 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Sochigaa Chemist"/>
-    <tag k="referral" v="Baringo County Referal Hospital"/>
   </node>
-  <node id="5781492708" lat="0.4916456" lon="35.7434430" version="3" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781492708" lat="0.4916456" lon="35.7434430" version="4" timestamp="2019-01-16T11:42:51Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532078293058.jpg"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781492709" lat="0.4913001" lon="35.7414688" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781492709" lat="0.4913001" lon="35.7414688" version="3" timestamp="2019-01-16T11:42:51Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532073596283.jpg"/>
-    <tag k="type" v="Street Light"/>
   </node>
   <node id="5781492710" lat="0.4935477" lon="35.7428625" version="2" timestamp="2018-08-20T09:44:47Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="amenity" v="bank"/>
@@ -1639,15 +1719,15 @@
     <tag k="name" v="Transnational Bank"/>
     <tag k="type" v="Bank"/>
   </node>
-  <node id="5781492711" lat="0.4914305" lon="35.7415021" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781492711" lat="0.4914305" lon="35.7415021" version="3" timestamp="2019-01-16T11:42:51Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532073480947.jpg"/>
-    <tag k="type" v="Street Light"/>
   </node>
-  <node id="5781492712" lat="0.4915245" lon="35.7431684" version="4" timestamp="2018-08-20T09:44:47Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5781492712" lat="0.4915245" lon="35.7431684" version="5" timestamp="2018-09-01T17:28:06Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Baringo County referral hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532078159242.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="no"/>
@@ -1655,12 +1735,10 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Riwo Chemist"/>
-    <tag k="referral" v="Baringo County referral hospital"/>
   </node>
-  <node id="5781492713" lat="0.4928218" lon="35.7395977" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781492713" lat="0.4928218" lon="35.7395977" version="3" timestamp="2019-01-16T11:42:51Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532072966446.jpg"/>
-    <tag k="type" v="Street Light"/>
   </node>
   <node id="5781492714" lat="0.4916971" lon="35.7394996" version="2" timestamp="2018-08-20T08:52:15Z" changeset="61815724" uid="8556957" user="kenboi">
     <tag k="amenity" v="school"/>
@@ -1930,17 +2008,14 @@
     <tag k="toilets:type" v="Flushing"/>
     <tag k="unisex" v="yes"/>
   </node>
-  <node id="5781632972" lat="0.4945817" lon="35.7435707" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781632972" lat="0.4945817" lon="35.7435707" version="3" timestamp="2019-01-16T11:42:51Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="Flood_Light"/>
   </node>
-  <node id="5781632973" lat="0.4946416" lon="35.7436169" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781632973" lat="0.4946416" lon="35.7436169" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781632974" lat="0.4943142" lon="35.7436538" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781632974" lat="0.4943142" lon="35.7436538" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
   <node id="5781632975" lat="0.4949418" lon="35.7439969" version="1" timestamp="2018-07-24T11:27:26Z" changeset="61019298" uid="8556507" user="ronovincent32">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532085733642.jpg"/>
@@ -1962,9 +2037,8 @@
     <tag k="religion" v="christian"/>
     <tag k="type" v="Christian"/>
   </node>
-  <node id="5781632978" lat="0.4951706" lon="35.7442738" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781632978" lat="0.4951706" lon="35.7442738" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
   <node id="5781632979" lat="0.4953140" lon="35.7443109" version="3" timestamp="2018-08-20T09:03:44Z" changeset="61816069" uid="8556957" user="kenboi">
     <tag k="amenity" v="place_of_worship"/>
@@ -1975,9 +2049,8 @@
     <tag k="service_times" v="08:00"/>
     <tag k="type" v="Church"/>
   </node>
-  <node id="5781632980" lat="0.4951253" lon="35.7446673" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781632980" lat="0.4951253" lon="35.7446673" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
   <node id="5781632981" lat="0.4978955" lon="35.7499556" version="2" timestamp="2018-08-20T09:44:47Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="amenity" v="waste_basket"/>
@@ -1985,13 +2058,11 @@
     <tag k="type" v="Trash can"/>
     <tag k="waste" v="trash"/>
   </node>
-  <node id="5781632982" lat="0.4950309" lon="35.7450072" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781632982" lat="0.4950309" lon="35.7450072" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781632983" lat="0.4948890" lon="35.7454644" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781632983" lat="0.4948890" lon="35.7454644" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
   <node id="5781632984" lat="0.4952455" lon="35.7450188" version="2" timestamp="2018-08-20T09:03:44Z" changeset="61816069" uid="8556957" user="kenboi">
     <tag k="amenity" v="place_of_worship"/>
@@ -2103,17 +2174,14 @@
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532082449093.jpg"/>
     <tag k="type" v="Trash can"/>
   </node>
-  <node id="5781667668" lat="0.4970343" lon="35.7500857" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667668" lat="0.4970343" lon="35.7500857" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667669" lat="0.4973659" lon="35.7500969" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667669" lat="0.4973659" lon="35.7500969" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667670" lat="0.4975132" lon="35.7501746" version="2" timestamp="2018-08-20T09:44:49Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5781667670" lat="0.4975132" lon="35.7501746" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
   <node id="5781667671" lat="0.4975151" lon="35.7501496" version="2" timestamp="2018-08-20T09:44:49Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="amenity" v="college"/>
@@ -2122,110 +2190,85 @@
     <tag k="operator" v="Government"/>
     <tag k="type" v="Tertiary"/>
   </node>
-  <node id="5781667672" lat="0.4947244" lon="35.7457887" version="2" timestamp="2018-08-20T08:19:38Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667672" lat="0.4947244" lon="35.7457887" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667673" lat="0.4977822" lon="35.7501642" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667673" lat="0.4977822" lon="35.7501642" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667674" lat="0.4945040" lon="35.7459215" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667674" lat="0.4945040" lon="35.7459215" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667675" lat="0.4982399" lon="35.7500387" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667675" lat="0.4982399" lon="35.7500387" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667676" lat="0.4945922" lon="35.7460052" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667676" lat="0.4945922" lon="35.7460052" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667677" lat="0.4985239" lon="35.7498616" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667677" lat="0.4985239" lon="35.7498616" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667678" lat="0.4947153" lon="35.7463445" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667678" lat="0.4947153" lon="35.7463445" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667679" lat="0.4948583" lon="35.7466251" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667679" lat="0.4948583" lon="35.7466251" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667680" lat="0.4988558" lon="35.7499129" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667680" lat="0.4988558" lon="35.7499129" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667681" lat="0.4992264" lon="35.7498274" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667681" lat="0.4992264" lon="35.7498274" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667682" lat="0.4996111" lon="35.7497405" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667682" lat="0.4996111" lon="35.7497405" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="Street Lights"/>
   </node>
-  <node id="5781667683" lat="0.4948869" lon="35.7469235" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667683" lat="0.4948869" lon="35.7469235" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667684" lat="0.4949492" lon="35.7473248" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667684" lat="0.4949492" lon="35.7473248" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667685" lat="0.4949904" lon="35.7476085" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667685" lat="0.4949904" lon="35.7476085" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667686" lat="0.4999482" lon="35.7497948" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667686" lat="0.4999482" lon="35.7497948" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667687" lat="0.4950601" lon="35.7478633" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667687" lat="0.4950601" lon="35.7478633" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667688" lat="0.5002795" lon="35.7498997" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667688" lat="0.5002795" lon="35.7498997" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667689" lat="0.4951847" lon="35.7482976" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667689" lat="0.4951847" lon="35.7482976" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667690" lat="0.4951813" lon="35.7485719" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667690" lat="0.4951813" lon="35.7485719" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667691" lat="0.4953602" lon="35.7489262" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667691" lat="0.4953602" lon="35.7489262" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667692" lat="0.4955874" lon="35.7492100" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667692" lat="0.4955874" lon="35.7492100" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667693" lat="0.4957579" lon="35.7495166" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667693" lat="0.4957579" lon="35.7495166" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667694" lat="0.4961052" lon="35.7498018" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667694" lat="0.4961052" lon="35.7498018" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781667695" lat="0.4963982" lon="35.7499100" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781667695" lat="0.4963982" lon="35.7499100" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="Street_light"/>
   </node>
   <node id="5781797204" lat="0.4917084" lon="35.7445437" version="3" timestamp="2018-08-20T08:52:17Z" changeset="61815724" uid="8556957" user="kenboi">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532080017881.jpg"/>
     <tag k="name" v="Kabarnet Huduma Centre"/>
     <tag k="office" v="government"/>
   </node>
-  <node id="5781797205" lat="0.5023851" lon="35.7486806" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781797205" lat="0.5023851" lon="35.7486806" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="Street Light"/>
   </node>
   <node id="5781797206" lat="0.4927945" lon="35.7435326" version="3" timestamp="2018-08-20T09:44:49Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076146406.jpg"/>
@@ -2317,22 +2360,19 @@
     <tag k="name" v="Superior Hardware"/>
     <tag k="shop" v="hardware"/>
   </node>
-  <node id="5781797222" lat="0.5006291" lon="35.7499229" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781797222" lat="0.5006291" lon="35.7499229" version="3" timestamp="2019-01-16T11:42:53Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="Street Light"/>
   </node>
   <node id="5781797223" lat="0.4928252" lon="35.7446044" version="3" timestamp="2018-08-20T09:44:49Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="amenity" v="post_office"/>
     <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077029706.jpg"/>
     <tag k="name" v="Kabarnet Post Office"/>
   </node>
-  <node id="5781797224" lat="0.5009858" lon="35.7498785" version="2" timestamp="2018-08-20T08:19:39Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781797224" lat="0.5009858" lon="35.7498785" version="3" timestamp="2019-01-16T11:42:53Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="Street Light"/>
   </node>
-  <node id="5781797225" lat="0.5012913" lon="35.7497540" version="2" timestamp="2018-08-20T08:19:40Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781797225" lat="0.5012913" lon="35.7497540" version="3" timestamp="2019-01-16T11:42:53Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="Street Light"/>
   </node>
   <node id="5781797226" lat="0.4925298" lon="35.7448835" version="3" timestamp="2018-08-20T08:52:17Z" changeset="61815724" uid="8556957" user="kenboi">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532080703089.jpg"/>
@@ -2344,21 +2384,17 @@
     <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069522612.jpg"/>
     <tag k="name" v="Skyline Sacco"/>
   </node>
-  <node id="5781797228" lat="0.4927379" lon="35.7443431" version="2" timestamp="2018-08-20T08:19:40Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781797228" lat="0.4927379" lon="35.7443431" version="3" timestamp="2019-01-16T11:42:53Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
-  <node id="5781797229" lat="0.5015638" lon="35.7495485" version="2" timestamp="2018-08-20T08:19:40Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781797229" lat="0.5015638" lon="35.7495485" version="3" timestamp="2019-01-16T11:42:53Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="Street Light"/>
   </node>
-  <node id="5781797230" lat="0.5018433" lon="35.7493682" version="2" timestamp="2018-08-20T08:19:40Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781797230" lat="0.5018433" lon="35.7493682" version="3" timestamp="2019-01-16T11:42:53Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="Street Light"/>
   </node>
-  <node id="5781797231" lat="0.5020267" lon="35.7491359" version="2" timestamp="2018-08-20T08:19:40Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781797231" lat="0.5020267" lon="35.7491359" version="3" timestamp="2019-01-16T11:42:53Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="Street Light"/>
   </node>
   <node id="5781797232" lat="0.4927169" lon="35.7416410" version="3" timestamp="2018-08-20T09:44:49Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069369553.jpg"/>
@@ -2370,9 +2406,8 @@
     <tag k="name" v="County Commissioner Officer"/>
     <tag k="office" v="government"/>
   </node>
-  <node id="5781797234" lat="0.5022871" lon="35.7488600" version="2" timestamp="2018-08-20T08:19:40Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5781797234" lat="0.5022871" lon="35.7488600" version="3" timestamp="2019-01-16T11:42:53Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-    <tag k="type" v="street_light"/>
   </node>
   <node id="5783441491" lat="0.4527117" lon="35.6895939" version="1" timestamp="2018-07-25T08:16:06Z" changeset="61046533" uid="261050" user="muindre">
     <tag k="amenity" v="school"/>
@@ -2457,10 +2492,9 @@
     <tag k="name" v="Kalyet Hotel"/>
     <tag k="wb_pb:id" v="26128628"/>
   </node>
-  <node id="5783508722" lat="0.4949390" lon="35.6634906" version="2" timestamp="2018-08-20T12:38:29Z" changeset="61822054" uid="8556957" user="kenboi">
+  <node id="5783508722" lat="0.4949390" lon="35.6634906" version="3" timestamp="2019-01-16T11:37:42Z" changeset="66360018" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531914654945.jpg"/>
-    <tag k="type" v="Street light"/>
   </node>
   <node id="5783508723" lat="0.4968816" lon="35.6608974" version="1" timestamp="2018-07-25T08:31:38Z" changeset="61047187" uid="8556619" user="kbizz">
     <tag k="amenity" v="toilets"/>
@@ -2607,10 +2641,9 @@
     <tag k="operator_type" v="Government"/>
     <tag k="wb_pb:id" v="26240466"/>
   </node>
-  <node id="5783571620" lat="0.4874451" lon="35.7448949" version="2" timestamp="2018-08-20T08:19:40Z" changeset="61814695" uid="8556957" user="kenboi">
+  <node id="5783571620" lat="0.4874451" lon="35.7448949" version="3" timestamp="2019-01-16T11:42:53Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531987299846.jpg1532082579348.jpg"/>
-    <tag k="type" v="Flood light"/>
   </node>
   <node id="5783655460" lat="0.4825496" lon="35.6763271" version="1" timestamp="2018-07-25T09:20:47Z" changeset="61049391" uid="8556619" user="kbizz">
     <tag k="amenity" v="school"/>
@@ -2991,10 +3024,11 @@
     <tag k="service_times" v="10:00"/>
     <tag k="wb_pb:id" v="26664139"/>
   </node>
-  <node id="5798788037" lat="0.0022488" lon="35.7306464" version="4" timestamp="2018-08-20T12:06:30Z" changeset="61821079" uid="8556957" user="kenboi">
+  <node id="5798788037" lat="0.0022488" lon="35.7306464" version="5" timestamp="2018-09-01T17:28:06Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="no"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Eldama Ravine District Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231050323067.jpg"/>
     <tag k="medical_service:family_planning" v="no"/>
     <tag k="medical_service:general_medical_services" v="no"/>
@@ -3002,7 +3036,6 @@
     <tag k="medical_service:malaria" v="no"/>
     <tag k="medical_service:pregnancy_test" v="no"/>
     <tag k="name" v="Kabiyet Dispensary"/>
-    <tag k="referral" v="Eldama Ravine District Hospital"/>
   </node>
   <node id="5798788038" lat="0.0015461" lon="35.7318659" version="2" timestamp="2018-08-20T12:06:30Z" changeset="61821079" uid="8556957" user="kenboi">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231048785508.jpg"/>
@@ -3142,9 +3175,10 @@
     <tag k="type" v="Garden Square"/>
     <tag k="wb_pb:id" v="26663654"/>
   </node>
-  <node id="5798859906" lat="0.0466988" lon="35.7245844" version="5" timestamp="2018-08-23T10:37:52Z" changeset="61916928" uid="8556957" user="kenboi">
+  <node id="5798859906" lat="0.0466988" lon="35.7245844" version="6" timestamp="2018-09-01T17:28:06Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
+    <tag k="health_facility:referals" v="Eldoret Referral Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608628789.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -3152,12 +3186,12 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital"/>
-    <tag k="referral" v="Eldoret Referral Hospital"/>
   </node>
-  <node id="5798859907" lat="0.0464489" lon="35.7244200" version="3" timestamp="2018-08-06T11:00:36Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5798859907" lat="0.0464489" lon="35.7244200" version="4" timestamp="2018-09-01T17:28:06Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Eldoret Referral Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608064458.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608196635.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -3166,13 +3200,13 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital- Opd Block"/>
-    <tag k="referral" v="Eldoret Referral Hospital"/>
     <tag k="wb_pb:id" v="26663862"/>
   </node>
-  <node id="5798859908" lat="0.0463533" lon="35.7246667" version="3" timestamp="2018-08-06T11:00:36Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5798859908" lat="0.0463533" lon="35.7246667" version="4" timestamp="2018-09-01T17:28:06Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Eldoret"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607807515.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607913062.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -3181,13 +3215,13 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital"/>
-    <tag k="referral" v="Eldoret"/>
     <tag k="wb_pb:id" v="26663361"/>
   </node>
-  <node id="5798859909" lat="0.0451609" lon="35.7251989" version="4" timestamp="2018-08-09T12:32:54Z" changeset="61499873" uid="8556619" user="kbizz">
+  <node id="5798859909" lat="0.0451609" lon="35.7251989" version="5" timestamp="2018-09-01T17:28:07Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Eldoret Referral Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607352984.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -3196,13 +3230,13 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital-Mortuary"/>
-    <tag k="referral" v="Eldoret Referral Hospital"/>
     <tag k="wb_pb:id" v="26663338"/>
   </node>
-  <node id="5798859910" lat="0.0458721" lon="35.7246483" version="3" timestamp="2018-08-06T11:00:36Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5798859910" lat="0.0458721" lon="35.7246483" version="4" timestamp="2018-09-01T17:28:07Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="sometime"/>
+    <tag k="health_facility:referals" v="Eldoret Referal Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606676419.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606762137.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -3211,13 +3245,13 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Eldama Ravine Sub-County Refferal Hospital- Orthopedic Ward"/>
-    <tag k="referral" v="Eldoret Referal Hospital"/>
     <tag k="wb_pb:id" v="26663312"/>
   </node>
-  <node id="5798859911" lat="0.0457900" lon="35.7247244" version="3" timestamp="2018-08-06T11:00:37Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5798859911" lat="0.0457900" lon="35.7247244" version="4" timestamp="2018-09-01T17:28:07Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="sometime"/>
+    <tag k="health_facility:referals" v="Eldoret Referral Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606346905.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606491571.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -3226,7 +3260,6 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital-Laundry"/>
-    <tag k="referral" v="Eldoret Referral Hospital"/>
     <tag k="wb_pb:id" v="26663306"/>
   </node>
   <node id="5798859912" lat="0.0488961" lon="35.7223702" version="3" timestamp="2018-08-23T10:20:54Z" changeset="61916498" uid="8556957" user="kenboi">
@@ -4023,18 +4056,17 @@
     <tag k="name" v="Garage"/>
     <tag k="shop" v="car_repair"/>
   </node>
-  <node id="5817722210" lat="0.4931914" lon="35.7429240" version="2" timestamp="2018-08-20T09:44:50Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5817722210" lat="0.4931914" lon="35.7429240" version="3" timestamp="2018-09-01T17:28:07Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
-    <tag k="family_planning" v="yes"/>
-    <tag k="general_medical_services" v="yes"/>
+    <tag k="health_facility:referals" v="Baringo Refferal Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074195088.jpg"/>
-    <tag k="immunization" v="yes"/>
-    <tag k="malaria" v="yes"/>
-    <tag k="pregancy_test" v="yes"/>
-    <tag k="referral" v="Baringo Refferal Hospital"/>
-    <tag k="type" v="Hospital"/>
+    <tag k="medical_service:family_planning" v="yes"/>
+    <tag k="medical_service:general_medical_services" v="yes"/>
+    <tag k="medical_service:immunizations" v="yes"/>
+    <tag k="medical_service:malaria" v="yes"/>
+    <tag k="medical_service:pregnancy_test" v="yes"/>
   </node>
   <node id="5817722211" lat="0.4935371" lon="35.7399233" version="2" timestamp="2018-08-20T09:44:50Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="amenity" v="car_wash"/>
@@ -4098,11 +4130,6 @@
     <tag k="name" v="Kabarnet View Point Hotel"/>
     <tag k="tourism" v="hotel"/>
     <tag k="type" v="Hotel"/>
-  </node>
-  <node id="5817722221" lat="0.4929184" lon="35.7407029" version="1" timestamp="2018-08-08T10:31:43Z" changeset="61462929" uid="8556957" user="kenboi">
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070076102.jpg"/>
-    <tag k="type" v="Public market"/>
-    <tag k="wb_pb:id" v="26235610"/>
   </node>
   <node id="5817722222" lat="0.4926208" lon="35.7413324" version="1" timestamp="2018-08-08T10:31:44Z" changeset="61462929" uid="8556957" user="kenboi">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070728588.jpg"/>
@@ -4213,9 +4240,9 @@
     <tag k="operator:type" v="Government"/>
     <tag k="wb_pb:id" v="26661920"/>
   </node>
-  <node id="5820105410" lat="-0.0017975" lon="35.7039002" version="2" timestamp="2018-08-20T12:06:30Z" changeset="61821079" uid="8556957" user="kenboi">
+  <node id="5820105410" lat="-0.0017975" lon="35.7039002" version="3" timestamp="2018-09-21T21:09:33Z" changeset="62810727" uid="85218" user="Aleks-Berlin">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532593055894.jpg"/>
-    <tag k="type" v="Forest"/>
+    <tag k="note" v="forest"/>
   </node>
   <node id="5820105411" lat="0.0398972" lon="35.7206711" version="1" timestamp="2018-08-09T09:55:13Z" changeset="61494926" uid="8556957" user="kenboi">
     <tag k="amenity" v="drinking_water"/>
@@ -4477,6 +4504,411 @@
   <node id="5829352270" lat="0.0011916" lon="35.7290076" version="1" timestamp="2018-08-13T11:43:59Z" changeset="61623710" uid="8556957" user="kenboi">
     <tag k="power" v="pole"/>
     <tag k="transformer" v="distribution"/>
+  </node>
+  <node id="5912193886" lat="0.0342522" lon="36.3630562" version="2" timestamp="2019-01-28T13:53:47Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Koinange Road"/>
+    <tag k="name" v="Bettan Hotel &amp; Conference Hall"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="6017307088" lat="0.4501646" lon="35.9660842" version="1" timestamp="2018-10-27T08:29:15Z" changeset="63921946" uid="3623546" user="WendyCuijpers">
+    <tag k="name" v="Ronella Cottages"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="6064437375" lat="-0.1723500" lon="35.9689042" version="1" timestamp="2018-11-15T19:20:54Z" changeset="64541345" uid="9077438" user="Anildahiya">
+    <tag k="name" v="Kabarak Guest House"/>
+    <tag k="tourism" v="guest_house"/>
+  </node>
+  <node id="6064441824" lat="-0.1670627" lon="35.9649958" version="1" timestamp="2018-11-15T19:25:20Z" changeset="64541472" uid="9077438" user="Anildahiya">
+    <tag k="name" v="Boys Hostel Block 1"/>
+    <tag k="tourism" v="hostel"/>
+  </node>
+  <node id="6064441825" lat="-0.1667054" lon="35.9645765" version="1" timestamp="2018-11-15T19:25:20Z" changeset="64541472" uid="9077438" user="Anildahiya">
+    <tag k="name" v="Boys Hostel Block 2"/>
+    <tag k="tourism" v="hostel"/>
+  </node>
+  <node id="6064441826" lat="-0.1663230" lon="35.9641278" version="1" timestamp="2018-11-15T19:25:20Z" changeset="64541472" uid="9077438" user="Anildahiya">
+    <tag k="name" v="Boys Hostel Block 3"/>
+    <tag k="tourism" v="hostel"/>
+  </node>
+  <node id="6064441827" lat="-0.1659613" lon="35.9642493" version="1" timestamp="2018-11-15T19:25:20Z" changeset="64541472" uid="9077438" user="Anildahiya">
+    <tag k="name" v="Boys Hostel Block 4"/>
+    <tag k="tourism" v="hostel"/>
+  </node>
+  <node id="6064444984" lat="-0.1657978" lon="35.9653012" version="1" timestamp="2018-11-15T19:26:36Z" changeset="64541502" uid="9077438" user="Anildahiya">
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Kabu Online"/>
+  </node>
+  <node id="6064451891" lat="-0.1670583" lon="35.9626823" version="1" timestamp="2018-11-15T19:28:40Z" changeset="64541561" uid="9077438" user="Anildahiya">
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="drive_through" v="yes"/>
+    <tag k="name" v="TNB Bank, Kenya"/>
+  </node>
+  <node id="6064457029" lat="-0.1671069" lon="35.9625990" version="1" timestamp="2018-11-15T19:29:15Z" changeset="64541576" uid="9077438" user="Anildahiya">
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="Kenya Posta"/>
+  </node>
+  <node id="6064457206" lat="-0.1667811" lon="35.9625644" version="1" timestamp="2018-11-15T19:30:24Z" changeset="64541600" uid="9077438" user="Anildahiya">
+    <tag k="name" v="Saloon"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="6064471321" lat="-0.1671918" lon="35.9654483" version="1" timestamp="2018-11-15T19:31:33Z" changeset="64541627" uid="9077438" user="Anildahiya">
+    <tag k="name" v="School of Science"/>
+    <tag k="office" v="yes"/>
+  </node>
+  <node id="6064479923" lat="-0.1669105" lon="35.9656751" version="1" timestamp="2018-11-15T19:34:15Z" changeset="64541714" uid="9077438" user="Anildahiya">
+    <tag k="name" v="School of Theology"/>
+    <tag k="office" v="yes"/>
+  </node>
+  <node id="6064483391" lat="-0.1676382" lon="35.9661973" version="1" timestamp="2018-11-15T19:33:40Z" changeset="64541698" uid="9077438" user="Anildahiya">
+    <tag k="name" v="Busubess School"/>
+    <tag k="office" v="yes"/>
+  </node>
+  <node id="6064486532" lat="-0.1675069" lon="35.9653333" version="1" timestamp="2018-11-15T19:34:45Z" changeset="64541732" uid="9077438" user="Anildahiya">
+    <tag k="name" v="ICT Office"/>
+    <tag k="office" v="yes"/>
+  </node>
+  <node id="6064506243" lat="-0.1712183" lon="35.9613167" version="1" timestamp="2018-11-15T19:39:02Z" changeset="64541870" uid="9077438" user="Anildahiya">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Moi High School"/>
+  </node>
+  <node id="6188008106" lat="0.0653156" lon="35.5429637" version="1" timestamp="2019-01-06T16:00:33Z" changeset="66073393" uid="2778924" user="Ido Marom">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="6230910932" lat="-0.2149532" lon="36.4677005" version="1" timestamp="2019-01-23T18:28:24Z" changeset="66578494" uid="338627" user="GCA">
+    <tag k="power" v="tower"/>
+  </node>
+  <node id="6230910933" lat="-0.2109750" lon="36.4690341" version="1" timestamp="2019-01-23T18:28:24Z" changeset="66578494" uid="338627" user="GCA">
+    <tag k="power" v="tower"/>
+  </node>
+  <node id="6230910934" lat="-0.2026042" lon="36.4717842" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+    <tag k="power" v="tower"/>
+  </node>
+  <node id="6230910935" lat="-0.1986712" lon="36.4730500" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+    <tag k="power" v="tower"/>
+  </node>
+  <node id="6230910936" lat="-0.1946251" lon="36.4743083" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+    <tag k="power" v="tower"/>
+  </node>
+  <node id="6230910937" lat="-0.1906997" lon="36.4755515" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+    <tag k="power" v="tower"/>
+  </node>
+  <node id="6230910938" lat="-0.1861679" lon="36.4770862" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+    <tag k="power" v="tower"/>
+  </node>
+  <node id="6230910939" lat="-0.1803229" lon="36.4791182" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+    <tag k="power" v="tower"/>
+  </node>
+  <node id="6230910940" lat="-0.1786067" lon="36.4794987" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+    <tag k="power" v="tower"/>
+  </node>
+  <node id="6230910941" lat="-0.1762468" lon="36.4790291" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+    <tag k="power" v="tower"/>
+  </node>
+  <node id="6230910942" lat="-0.1729722" lon="36.4784301" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+    <tag k="power" v="tower"/>
+  </node>
+  <node id="6230910943" lat="-0.1707216" lon="36.4775153" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+    <tag k="power" v="tower"/>
+  </node>
+  <node id="6230910944" lat="-0.1671442" lon="36.4763416" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+    <tag k="power" v="tower"/>
+  </node>
+  <node id="6230910945" lat="-0.2069152" lon="36.4704092" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+    <tag k="power" v="tower"/>
+  </node>
+  <node id="6241664233" lat="-0.1880325" lon="36.3810059" version="1" timestamp="2019-01-28T12:42:15Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Matura"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Rurii Primary School"/>
+  </node>
+  <node id="6241664234" lat="-0.1449016" lon="36.3832146" version="1" timestamp="2019-01-28T12:42:15Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Kasuku"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Weru Secondary School"/>
+  </node>
+  <node id="6241664235" lat="-0.1313064" lon="36.3823061" version="1" timestamp="2019-01-28T12:42:16Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Kasuku"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Weru Primary School"/>
+  </node>
+  <node id="6241664236" lat="-0.1314026" lon="36.3819748" version="1" timestamp="2019-01-28T12:42:16Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Kasuku"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="St John Baptist Catholic Church-Kasuku Parish"/>
+    <tag k="religion" v="catholic"/>
+  </node>
+  <node id="6241664237" lat="-0.1292864" lon="36.3805853" version="1" timestamp="2019-01-28T12:42:16Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Kasuku"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Nyandarua Hippo Resort"/>
+  </node>
+  <node id="6241664238" lat="-0.0940533" lon="36.3758210" version="1" timestamp="2019-01-28T12:42:16Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Joro Orok"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Chaka Reli Primary School"/>
+  </node>
+  <node id="6241664239" lat="-0.0855091" lon="36.3666354" version="1" timestamp="2019-01-28T12:42:16Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Joro Orok"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="name" v="LAKE OLBOLOSAT RESORT PARK LODGE"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="6241664240" lat="-0.0781994" lon="36.3659334" version="1" timestamp="2019-01-28T12:42:16Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Joro Orok"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="name" v="Bridgeway Shopping Center"/>
+    <tag k="shop" v="mall"/>
+  </node>
+  <node id="6241664241" lat="-0.0769407" lon="36.3645296" version="1" timestamp="2019-01-28T12:42:16Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Joro Orok"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Ol Joro Orok Primary School"/>
+  </node>
+  <node id="6241664242" lat="-0.0767592" lon="36.3609836" version="1" timestamp="2019-01-28T12:42:16Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Joro Orok"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="Ol joro orok Police post"/>
+  </node>
+  <node id="6241664243" lat="-0.0739636" lon="36.3650621" version="1" timestamp="2019-01-28T12:42:16Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Ol Joro Orok"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="name" v="Thompson Falls sport camp, camping"/>
+    <tag k="tourism" v="hostel"/>
+  </node>
+  <node id="6241664250" lat="-0.0137386" lon="36.3636276" version="1" timestamp="2019-01-28T12:42:16Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Suera Star Point Restaurant"/>
+  </node>
+  <node id="6241664251" lat="-0.0132042" lon="36.3635316" version="1" timestamp="2019-01-28T12:42:16Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="name" v="Caltex"/>
+  </node>
+  <node id="6241664252" lat="0.0221099" lon="36.3621613" version="1" timestamp="2019-01-28T12:42:16Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="name" v="Sandton Guest House"/>
+    <tag k="tourism" v="guest_house"/>
+  </node>
+  <node id="6241664253" lat="0.0247273" lon="36.3650938" version="1" timestamp="2019-01-28T12:42:16Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="name" v="Gulf Energy - Nyahururu"/>
+  </node>
+  <node id="6241664254" lat="0.0249191" lon="36.3553780" version="2" timestamp="2019-01-28T13:53:47Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Koinange Road"/>
+    <tag k="name" v="Eastward Gardens Hotel"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="6241664255" lat="0.0391113" lon="36.3653699" version="1" timestamp="2019-01-28T12:42:17Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="name" v="Nyandarua County Council A.I Centre"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="6241664256" lat="0.0350001" lon="36.3644116" version="1" timestamp="2019-01-28T12:42:17Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="name" v="Shell Filling Station"/>
+  </node>
+  <node id="6241664257" lat="0.0351300" lon="36.3639189" version="1" timestamp="2019-01-28T12:42:17Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="KCB Nyahururu"/>
+  </node>
+  <node id="6241664258" lat="0.0346284" lon="36.3647385" version="1" timestamp="2019-01-28T12:42:17Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="name" v="Cleanshelf Supermarket"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6241664259" lat="0.0342299" lon="36.3641115" version="1" timestamp="2019-01-28T12:42:17Z" changeset="66704643" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="name" v="Spanish lodge"/>
+    <tag k="tourism" v="motel"/>
+  </node>
+  <node id="6241778031" lat="0.0297250" lon="36.3658148" version="1" timestamp="2019-01-28T13:53:44Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="name" v="Kawa Falls Hotel and Lodging"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="6241778032" lat="0.0340700" lon="36.3606277" version="1" timestamp="2019-01-28T13:53:44Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Koinange Road"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Nyahururu Market"/>
+  </node>
+  <node id="6241778033" lat="0.0341461" lon="36.3598062" version="1" timestamp="2019-01-28T13:53:44Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Koinange Road"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Market Stalls"/>
+  </node>
+  <node id="6241778034" lat="0.0330102" lon="36.3601815" version="1" timestamp="2019-01-28T13:53:44Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Koinange Road"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="name" v="National Oil Corporation-Nyahururu"/>
+  </node>
+  <node id="6241778035" lat="0.0326806" lon="36.3586704" version="1" timestamp="2019-01-28T13:53:44Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Koinange Road"/>
+    <tag k="amenity" v="townhall"/>
+    <tag k="name" v="Nyahururu Social Hall"/>
+  </node>
+  <node id="6241778036" lat="0.0315701" lon="36.3586197" version="1" timestamp="2019-01-28T13:53:44Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Koinange Road"/>
+    <tag k="name" v="Olympia Hotel"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="6241778037" lat="0.0274271" lon="36.3556785" version="1" timestamp="2019-01-28T13:53:44Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Koinange Road"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="Deliverance Church"/>
+  </node>
+  <node id="6241778038" lat="0.0348814" lon="36.3639898" version="1" timestamp="2019-01-28T13:53:44Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="name" v="Petrol Pump"/>
+  </node>
+  <node id="6241778039" lat="0.0346380" lon="36.3660790" version="1" timestamp="2019-01-28T13:53:44Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Sharpe Road"/>
+    <tag k="name" v="Samburu Lodge"/>
+    <tag k="tourism" v="motel"/>
+  </node>
+  <node id="6241778040" lat="0.0359209" lon="36.3664796" version="1" timestamp="2019-01-28T13:53:44Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Sharpe Road"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="name" v="Kirurumo Filling Station"/>
+  </node>
+  <node id="6241778045" lat="0.0445922" lon="36.3670577" version="1" timestamp="2019-01-28T13:53:44Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Nyahururu Elite Schools"/>
+  </node>
+  <node id="6241778046" lat="0.0438164" lon="36.3699126" version="1" timestamp="2019-01-28T13:53:44Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="leisure" v="resort"/>
+    <tag k="name" v="Thomson Falls Resort"/>
+  </node>
+  <node id="6241778047" lat="0.0429645" lon="36.3705363" version="1" timestamp="2019-01-28T13:53:45Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Water Falls Resort"/>
+  </node>
+  <node id="6241778053" lat="0.0405203" lon="36.3764896" version="1" timestamp="2019-01-28T13:53:45Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Hippo Point Nyahururu"/>
+  </node>
+  <node id="6241778055" lat="0.0385781" lon="36.3762006" version="1" timestamp="2019-01-28T13:53:45Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="man_made" v="surveillance"/>
+    <tag k="surveillance" v="Hippopotamus_Watching_Point"/>
+    <tag k="surveillance:type" v="camera"/>
+  </node>
+  <node id="6241778056" lat="0.0400030" lon="36.3810129" version="1" timestamp="2019-01-28T13:53:45Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="name" v="Njepa Petrol Station"/>
+  </node>
+  <node id="6241778057" lat="0.0405304" lon="36.3809673" version="1" timestamp="2019-01-28T13:53:45Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="St. Francis Manguo"/>
+  </node>
+  <node id="6241778058" lat="0.0418235" lon="36.3811498" version="1" timestamp="2019-01-28T13:53:45Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Graceland Girls Senior Secondary School"/>
+  </node>
+  <node id="6241778059" lat="0.0365548" lon="36.3872096" version="1" timestamp="2019-01-28T13:53:45Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="P.C.E.A Church"/>
+    <tag k="religion" v="christian"/>
+  </node>
+  <node id="6241778060" lat="0.0359108" lon="36.3870321" version="1" timestamp="2019-01-28T13:53:45Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="Saint Philips Manguo Church"/>
+    <tag k="religion" v="catholic"/>
+  </node>
+  <node id="6241778065" lat="0.0337658" lon="36.3932440" version="1" timestamp="2019-01-28T13:53:45Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Ziwani Boys Hostel"/>
+  </node>
+  <node id="6241778066" lat="0.0266411" lon="36.3929549" version="1" timestamp="2019-01-28T13:53:45Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="St. Cecilia Girls Secondary School"/>
+  </node>
+  <node id="6241778070" lat="0.0249322" lon="36.4083452" version="1" timestamp="2019-01-28T13:53:45Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="name" v="Samax Filling Station"/>
+  </node>
+  <node id="6241778073" lat="0.0250235" lon="36.4118137" version="1" timestamp="2019-01-28T13:53:45Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="name" v="Gulf Petrol Station - Mairo Inya"/>
+  </node>
+  <node id="6241778074" lat="0.0257892" lon="36.4128939" version="1" timestamp="2019-01-28T13:53:45Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="Mairo-inya Police Station"/>
+  </node>
+  <node id="6241778083" lat="0.0203273" lon="36.4606330" version="1" timestamp="2019-01-28T13:53:46Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Ndogoni"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="St. Martin Catholic Church- Mutanga Parish"/>
+    <tag k="religion" v="catholic"/>
+  </node>
+  <node id="6241778084" lat="0.0140220" lon="36.4917158" version="1" timestamp="2019-01-28T13:53:46Z" changeset="66707020" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Nyahururu"/>
+    <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
+    <tag k="name" v="Gwa Kung'u Shopping Centre"/>
+    <tag k="shop" v="mall"/>
   </node>
 
 </osm>

@@ -8,24 +8,24 @@
     "type": "node",
     "id": "5588006373",
     "tags": {
-      "Village": "Unoa Urban",
       "amenity": "school",
-      "gender_type": "female",
-      "governement_registered": "moe",
+      "gender": "female",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524489982203.jpg",
+      "is_in:village": "Unoa Urban",
       "name": "Makueni Girls",
       "operator": "Government of Kenya",
       "operator:type": "government",
-      "type": "secondary",
+      "school": "secondary",
       "wb_pb:id": "21641613"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-10T12:00:24Z",
-      "version": "2",
-      "changeset": "58848349",
-      "user": "Peter Agenga",
-      "uid": "4570042"
+      "timestamp": "2018-09-23T13:16:12Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -361,38 +361,6 @@
     "coordinates": [
       37.6233787,
       -1.7817163
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5588006384",
-  "properties": {
-    "type": "node",
-    "id": "5588006384",
-    "tags": {
-      "amenity": "fuel",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524477685473.jpg",
-      "name": "Kenol Petrol Station",
-      "opening_hours": "24/7",
-      "village": "Westlands",
-      "wb_pb:id": "21641054",
-      "wheelchair": "yes"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-05-10T12:00:26Z",
-      "version": "2",
-      "changeset": "58848349",
-      "user": "Peter Agenga",
-      "uid": "4570042"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6236569,
-      -1.7815263
     ]
   }
 },
@@ -1174,38 +1142,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5588006410",
-  "properties": {
-    "type": "node",
-    "id": "5588006410",
-    "tags": {
-      "amenity": "fuel",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524473834493.jpg",
-      "name": "Total Petrol Station",
-      "opening_hours": "24/7",
-      "village": "Westlands",
-      "wb_pb:id": "21640758",
-      "wheelchair": "yes"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-05-10T12:00:30Z",
-      "version": "2",
-      "changeset": "58848349",
-      "user": "Peter Agenga",
-      "uid": "4570042"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.61935,
-      -1.7795275
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5588098785",
   "properties": {
     "type": "node",
@@ -1442,9 +1378,9 @@
     "type": "node",
     "id": "5588098792",
     "tags": {
-      "Village": "Kasarani",
       "amenity": "social_facility",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524641436372.jpg",
+      "is_in:village": "Kasarani",
       "name": "Kiuukuni Boda boda Shed Opposite Bus Stage",
       "opening_hours": "24/7",
       "social_facility": "shelter",
@@ -1453,11 +1389,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-11T07:35:56Z",
-      "version": "2",
-      "changeset": "58870002",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T13:16:13Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -1609,25 +1545,24 @@
     "type": "node",
     "id": "5588098797",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Government of Kenya",
-      "Operator_type": "government",
-      "Photo": "1524651263534.jpg",
-      "Type": "secondary",
-      "Village": "Iviani",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651263534.jpg",
+      "is_in:village": "Iviani",
       "name": "St John Secondary School",
+      "operator": "Government of Kenya",
+      "operator_type": "government",
+      "school": "secondary",
       "wb_pb:id": "21741509"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-04-30T10:34:02Z",
-      "version": "1",
-      "changeset": "58550664",
-      "user": "Peter Agenga",
-      "uid": "4570042"
+      "timestamp": "2018-09-23T12:05:08Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -1838,9 +1773,9 @@
     "type": "node",
     "id": "5588098804",
     "tags": {
-      "Village": "Westlands",
       "government": "ministry",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524650547160.jpg",
+      "is_in:village": "Westlands",
       "name": "Kenya Forest Service",
       "office": "government",
       "wb_pb:id": "21746703",
@@ -1848,11 +1783,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-11T08:49:51Z",
-      "version": "2",
-      "changeset": "58872036",
-      "user": "Peter Agenga",
-      "uid": "4570042"
+      "timestamp": "2018-09-23T13:16:13Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -2271,25 +2206,24 @@
     "type": "node",
     "id": "5588128982",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Government of Makueni County",
-      "Operator_type": "government",
-      "Photo": "1524476726756.jpg",
-      "Village": "Nziu",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524476726756.jpg",
+      "is_in:village": "Nziu",
       "name": "Nziu CTTI",
-      "type": "tertiary",
+      "operator": "Government of Makueni County",
+      "operator_type": "government",
+      "school": "tertiary",
       "wb_pb:id": "21642011"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-04-30T10:49:58Z",
-      "version": "1",
-      "changeset": "58551014",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2018-09-23T12:05:08Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -2421,7 +2355,7 @@
       "timestamp": "2018-06-10T18:27:02Z",
       "version": "3",
       "changeset": "59718827",
-      "user": "observer",
+      "user": "goedegazelle",
       "uid": "192467"
     }
   },
@@ -2569,22 +2503,21 @@
     "type": "node",
     "id": "5588163879",
     "tags": {
-      "Type": "fruit_farm",
-      "Village": "Nguvuna",
-      "amenity": "agriculture",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524490630342.jpg",
+      "is_in:village": "Nguvuna",
       "name": "Kwa Mulinge Farm Forest",
       "opening_hours": "24/7",
       "place": "farm",
+      "produce": "fruit",
       "wb_pb:id": "21683588"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-30T10:28:51Z",
-      "version": "2",
-      "changeset": "59393902",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2018-09-23T13:16:13Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -2698,19 +2631,21 @@
     "type": "node",
     "id": "5588163884",
     "tags": {
-      "Village": "Town center",
+      "addr:city": "Wote",
+      "addr:street": "Wote-Makindu Road",
       "amenity": "hospital",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524484637590.jpg",
+      "is_in:village": "Town center",
       "name": "Makueni County Referral Hospital",
       "wb_pb:id": "21641954"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-11T08:49:51Z",
-      "version": "2",
-      "changeset": "58872036",
-      "user": "Peter Agenga",
-      "uid": "4570042"
+      "timestamp": "2019-01-24T10:04:14Z",
+      "version": "4",
+      "changeset": "66596133",
+      "user": "DingoKG",
+      "uid": "6318104"
     }
   },
   "geometry": {
@@ -2858,20 +2793,20 @@
     "type": "node",
     "id": "5588163889",
     "tags": {
-      "Village": "Town Center",
       "amenity": "hospital",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524485297562.jpg",
+      "is_in:village": "Town Center",
       "name": "Makueni County Referall Hospital Modern Maternity",
       "operator": "County Government",
       "wb_pb:id": "21642006"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-11T08:49:52Z",
-      "version": "2",
-      "changeset": "58872036",
-      "user": "Peter Agenga",
-      "uid": "4570042"
+      "timestamp": "2018-09-23T13:16:13Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -2919,24 +2854,22 @@
     "type": "node",
     "id": "5588163892",
     "tags": {
-      "Building_type": "church",
-      "Denomination": "evangelical",
-      "Photo": "1524489846694.jpg",
-      "Village": "Nguvuna",
       "amenity": "place_of_worship",
-      "deviceid": "355938094610849",
+      "building": "church",
+      "denomination": "evangelical",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524489846694.jpg",
+      "is_in:village": "Nguvuna",
       "name": "AIC Bethiel",
       "religion": "christian",
       "wb_pb:id": "21683558"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-04-30T11:06:31Z",
-      "version": "1",
-      "changeset": "58551366",
-      "user": "Peter Agenga",
-      "uid": "4570042"
+      "timestamp": "2018-09-23T12:05:08Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -3248,20 +3181,19 @@
     "type": "node",
     "id": "5588170692",
     "tags": {
-      "Photo": "1524643716312.jpg",
-      "Village": "Nziu",
       "amenity": "hospital",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643716312.jpg",
+      "is_in:village": "Nziu",
       "name": "Nziu Health Centre",
       "wb_pb:id": "21748436"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-04-30T11:09:41Z",
-      "version": "1",
-      "changeset": "58551465",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2018-09-23T12:05:08Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -4064,64 +3996,27 @@
 },
 {
   "type": "Feature",
-  "id": "node/5591966634",
-  "properties": {
-    "type": "node",
-    "id": "5591966634",
-    "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Government of kenya",
-      "Operator_type": "government",
-      "Photo": "1524643698029.jpg",
-      "Village": "Kivandini",
-      "amenity": "school",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643698029.jpg",
-      "name": "Kivandini Primary",
-      "type": "primary",
-      "wb_pb:id": "21775666"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-05-02T09:46:49Z",
-      "version": "1",
-      "changeset": "58609200",
-      "user": "Peter Agenga",
-      "uid": "4570042"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6192786,
-      -1.8113934
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5591966635",
   "properties": {
     "type": "node",
     "id": "5591966635",
     "tags": {
-      "Operational_status": "non_operational",
-      "Village": "Unoa",
       "amenity": "drinking_water",
       "fee": "no",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524657410656.jpg",
+      "is_in:village": "Unoa",
       "name": "Leaving Nguluwe Extension Line",
       "opening_hours": "Mo-Su 06:30-21:00",
-      "type_of_facility": "Extension line",
+      "operational_status": "non_operational",
       "wb_pb:id": "21774436"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-30T10:28:51Z",
-      "version": "2",
-      "changeset": "59393902",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2018-09-23T13:16:13Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -4169,23 +4064,23 @@
     "type": "node",
     "id": "5591966637",
     "tags": {
-      "Operational_status": "operational",
-      "Type": "water_tank",
-      "Village": "Kivandini",
       "amenity": "drinking_water",
+      "description": "water_tank",
       "fee": "no",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643805025.jpg",
+      "is_in:village": "Kivandini",
       "name": "Kivandini Primary Water Tank",
       "opening_hours": "24/7",
+      "operational_status": "operational",
       "wb_pb:id": "21753491"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-30T10:28:51Z",
-      "version": "2",
-      "changeset": "59393902",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2018-09-23T13:16:13Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -4203,22 +4098,21 @@
     "type": "node",
     "id": "5591966639",
     "tags": {
-      "Building_type": "church",
-      "Denomination": "anglican",
-      "Photo": "1524644030093.jpg",
-      "Village": "Kivandini",
       "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "anglican",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524644030093.jpg",
+      "is_in:village": "Kivandini",
       "religion": "christian",
       "wb_pb:id": "21774616"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-02T09:46:51Z",
-      "version": "1",
-      "changeset": "58609200",
-      "user": "Peter Agenga",
-      "uid": "4570042"
+      "timestamp": "2018-09-23T12:05:08Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -4331,27 +4225,24 @@
     "type": "node",
     "id": "5591972207",
     "tags": {
-      "Coordinate": "-1.8113934057971017 37.61927862318841 1258.4565217391305 4.5",
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Government of kenya",
-      "Operator_type": "government",
-      "Photo": "1524643698029.jpg",
-      "Type_001": "primary",
-      "Village": "Kivandini",
-      "What_is_your_name": "Group 2",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643698029.jpg",
-      "name_001": "Kivandini primary",
+      "is_in:village": "Kivandini",
+      "name": "Kivandini primary",
+      "operator": "Government of kenya",
+      "operator_type": "government",
+      "school": "primary",
       "wb_pb:id": "21775666"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-02T09:58:59Z",
-      "version": "1",
-      "changeset": "58609511",
-      "user": "Peter Agenga",
-      "uid": "4570042"
+      "timestamp": "2018-09-23T11:50:21Z",
+      "version": "3",
+      "changeset": "62848269",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -4432,24 +4323,22 @@
     "type": "node",
     "id": "5591972212",
     "tags": {
-      "Building_type": "church",
-      "Coordinate": "-1.8121739285714287 37.61831535714286 1250.8999999999999 3.799999952316284",
-      "Denomination": "anglican",
-      "Photo": "1524644030093.jpg",
-      "Village": "Kivandini",
       "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "anglican",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524644030093.jpg",
+      "is_in:village": "Kivandini",
       "name": "AIC Kivandini",
       "religion": "christian",
       "wb_pb:id": "21774616"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-02T09:59:00Z",
-      "version": "1",
-      "changeset": "58609511",
-      "user": "Peter Agenga",
-      "uid": "4570042"
+      "timestamp": "2018-09-23T12:05:08Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -4467,24 +4356,21 @@
     "type": "node",
     "id": "5592105447",
     "tags": {
-      "Cost_Per_Liter": "2",
-      "Operational_status": "operational",
-      "Photo": "1524479049139.jpg",
-      "Type": "borehole",
-      "Village": "Kyamusoi",
-      "amenity": "water_or_irrigation",
+      "fee": "2 / liter",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524479049139.jpg",
+      "is_in:village": "Kyamusoi",
       "man_made": "water_well",
       "name": "Kyamusio Borehole",
+      "operational_status": "operational",
       "wb_pb:id": "21638777"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-02T11:05:24Z",
-      "version": "1",
-      "changeset": "58611620",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:08Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -4564,8 +4450,8 @@
     "type": "node",
     "id": "5592105451",
     "tags": {
-      "Village": "Kyamusoi",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524475165250.jpg",
+      "is_in:village": "Kyamusoi",
       "name": "Maurisam Complex",
       "opening_hours": "Mo-Su 06:30-21:00",
       "shop": "kiosk",
@@ -4573,11 +4459,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-30T10:28:51Z",
-      "version": "2",
-      "changeset": "59393902",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2018-09-23T13:16:13Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -4660,21 +4546,20 @@
     "type": "node",
     "id": "5592105454",
     "tags": {
-      "Village": "Kyamusoi",
       "amenity": "public_facility",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524484876440.jpg",
+      "is_in:village": "Kyamusoi",
       "man_made": "livestock_dip",
       "name": "Catle Dip",
-      "type": "Cattle dip",
       "wb_pb:id": "21648656"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-09T07:53:36Z",
-      "version": "2",
-      "changeset": "58810466",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T13:16:14Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -4692,23 +4577,20 @@
     "type": "node",
     "id": "5592105455",
     "tags": {
-      "Operational_status": "operational",
-      "Photo": "1524483026332.jpg",
-      "Type": "earth_dam",
-      "Village": "Kyamusoi",
-      "amenity": "water_or_irrigation",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524483026332.jpg",
+      "is_in:village": "Kyamusoi",
       "landuse": "reservoir",
       "name": "Muthitu Earth Dam",
+      "operational_status": "operational",
       "wb_pb:id": "21648626"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-02T11:05:25Z",
-      "version": "1",
-      "changeset": "58611620",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:08Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -4726,11 +4608,9 @@
     "type": "node",
     "id": "5592105456",
     "tags": {
-      "Photo": "1524486615652.jpg",
-      "Type": "earth_dam",
-      "Village": "Kyamusoi",
-      "amenity": "water_or_irrigation",
+      "description": "earth_dam",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524486615652.jpg",
+      "is_in:village": "Kyamusoi",
       "landuse": "reservoir",
       "name": "Kauani Earth Dam",
       "reservoir_type": "water_storage",
@@ -4738,11 +4618,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-02T11:05:26Z",
-      "version": "1",
-      "changeset": "58611620",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:09Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -5194,25 +5074,24 @@
     "type": "node",
     "id": "5592138029",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Government of Kenya",
-      "Operator_type": "government",
-      "Photo": "1524642843772.jpg",
-      "Type": "secondary",
-      "Village": "Malawi",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524642843772.jpg",
+      "is_in:village": "Malawi",
       "name": "Muambani Mixed Day Secondary School",
+      "operator": "Government of Kenya",
+      "operator_type": "government",
+      "school": "secondary",
       "wb_pb:id": "21735928"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-02T11:27:37Z",
-      "version": "1",
-      "changeset": "58612187",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:09Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -5230,25 +5109,24 @@
     "type": "node",
     "id": "5592138030",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Government of Kenya",
-      "Operator_type": "government",
-      "Photo": "1524643102064.jpg",
-      "Type": "pre_primary",
-      "Village": "Muambani",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643102064.jpg",
+      "is_in:village": "Muambani",
       "name": "Muambani ECDE",
+      "operator": "Government of Kenya",
+      "operator_type": "government",
+      "school": "pre_primary",
       "wb_pb:id": "21735962"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-02T11:27:37Z",
-      "version": "1",
-      "changeset": "58612187",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:09Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -5298,24 +5176,23 @@
     "type": "node",
     "id": "5592138032",
     "tags": {
-      "Cost_Per_Liter": "5.0",
-      "Operational_status": "operational",
-      "Village": "Muambani",
       "amenity": "drinking_water",
-      "fee": "yes",
+      "fee": "5.0 / liter",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643975972.jpg",
+      "is_in:village": "Muambani",
       "man_made": "water_tap",
       "name": "Muambani Kiosk Mwaani Borehole",
       "opening_hours": "Mo-Su 06:00-20:00",
+      "operational_status": "operational",
       "wb_pb:id": "21736056"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-30T10:28:51Z",
-      "version": "2",
-      "changeset": "59393902",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2018-09-23T13:16:14Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -5333,22 +5210,22 @@
     "type": "node",
     "id": "5592138033",
     "tags": {
-      "Operational_status": "operational",
-      "Village": "Muambani",
       "amenity": "drinking_water",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524644309140.jpg",
+      "is_in:village": "Muambani",
       "man_made": "water_tap",
       "name": "Kwa Mwenga Borehole Kiosk at Muambani",
       "opening_hours": "Mo-Su 06:00-20:00",
+      "operational_status": "operational",
       "wb_pb:id": "21742891"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-30T10:28:52Z",
-      "version": "2",
-      "changeset": "59393902",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2018-09-23T13:16:14Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -5400,22 +5277,21 @@
     "type": "node",
     "id": "5592138035",
     "tags": {
-      "Photo": "1524651292107.jpg",
-      "Village": "Unoa",
       "amenity": "place_of_worship",
       "denomination": "evangelical",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651292107.jpg",
+      "is_in:village": "Unoa",
       "name": "AIC Wote",
       "religion": "christian",
       "wb_pb:id": "21744521"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-02T11:27:38Z",
-      "version": "1",
-      "changeset": "58612187",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:09Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -5433,22 +5309,22 @@
     "type": "node",
     "id": "5592138036",
     "tags": {
-      "Village": "Unoa",
       "amenity": "social_facility",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651387443.jpg",
+      "is_in:village": "Unoa",
       "name": "Wote Cereal Board",
       "opening_hours": "Mo-Fr 08:00-17:00",
+      "operator": "National cereal board",
       "social_facility": "food_bank",
-      "type of facility": "National cereal board",
       "wb_pb:id": "21744586"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-30T10:28:52Z",
-      "version": "2",
-      "changeset": "59393902",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2018-09-23T13:16:14Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -5832,22 +5708,21 @@
     "type": "node",
     "id": "5592138049",
     "tags": {
-      "Village": "Kunda kindu",
       "amenity": "public_facility",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524648405819.jpg",
+      "is_in:village": "Kunda kindu",
       "name": "Kunda Kindu Transformer",
       "power": "pole",
       "transformer": "distribution",
-      "type": "Kunda kinda transformer",
       "wb_pb:id": "21743785"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-09T12:19:24Z",
-      "version": "2",
-      "changeset": "58817917",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T13:16:14Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -6026,21 +5901,20 @@
     "type": "node",
     "id": "5592138056",
     "tags": {
-      "Village": "Malawi",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524640701462.jpg",
+      "is_in:village": "Malawi",
       "name": "Tana and Author Rivers Development Authority Office",
       "office": "administrative",
       "opening_hours": "Mo-Fr 8:00-5:00",
-      "type": "Tana and Athi Rivers development Authority offices",
       "wb_pb:id": "21735354"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-09T12:19:25Z",
-      "version": "2",
-      "changeset": "58817917",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T13:16:14Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -6192,25 +6066,24 @@
     "type": "node",
     "id": "5592138062",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "GOK",
-      "Operator_type": "government",
-      "Photo": "1524642950361.jpg",
-      "Type": "primary",
-      "Village": "Malawi",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524642950361.jpg",
+      "is_in:village": "Malawi",
       "name": "Muambani Primary School",
+      "operator": "GOK",
+      "operator_type": "government",
+      "school": "primary",
       "wb_pb:id": "21735944"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-02T11:27:43Z",
-      "version": "1",
-      "changeset": "58612187",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:09Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -6421,21 +6294,19 @@
     "type": "node",
     "id": "5592138069",
     "tags": {
-      "Photo": "1524652380303.jpg",
-      "Village": "Kunda kindu",
       "amenity": "sanitary_dump_station",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524652380303.jpg",
+      "is_in:village": "Kunda kindu",
       "name": "Wote Sewarage Pit",
-      "type of facility": "Wore sewerage pit",
       "wb_pb:id": "21745062"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-02T11:27:44Z",
-      "version": "1",
-      "changeset": "58612187",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:09Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -6453,22 +6324,21 @@
     "type": "node",
     "id": "5592138070",
     "tags": {
-      "Photo": "1524643739817.jpg",
-      "Village": "Muambani",
       "amenity": "place_of_worship",
       "denomination": "evangelical",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643739817.jpg",
+      "is_in:village": "Muambani",
       "name": "Muambani Redeemed Gospel Church",
       "religion": "christian",
       "wb_pb:id": "21736037"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-02T11:27:44Z",
-      "version": "1",
-      "changeset": "58612187",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:09Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -6476,39 +6346,6 @@
     "coordinates": [
       37.6460625,
       -1.8065225
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5592138073",
-  "properties": {
-    "type": "node",
-    "id": "5592138073",
-    "tags": {
-      "amenity": "public_facility",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524645830527.jpg",
-      "name": "Power Transformer",
-      "power": "pole",
-      "transformer": "distribution",
-      "type": "Power Transformer",
-      "village": "Kabati",
-      "wb_pb:id": "21743338"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-05-09T12:19:26Z",
-      "version": "2",
-      "changeset": "58817917",
-      "user": "fondolucy",
-      "uid": "265690"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6390608,
-      -1.7733817
     ]
   }
 },
@@ -7182,38 +7019,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5592178589",
-  "properties": {
-    "type": "node",
-    "id": "5592178589",
-    "tags": {
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524658495220.jpg",
-      "name": "Power Transformer",
-      "power": "pole",
-      "transformer": "distribution",
-      "type": "KPLC power Transformer",
-      "village": "Nthangu",
-      "wb_pb:id": "21747057"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-05-09T12:19:27Z",
-      "version": "3",
-      "changeset": "58817917",
-      "user": "fondolucy",
-      "uid": "265690"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.619107,
-      -1.7613195
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5592178590",
   "properties": {
     "type": "node",
@@ -7277,40 +7082,6 @@
     "coordinates": [
       37.6153797,
       -1.7598641
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5592178592",
-  "properties": {
-    "type": "node",
-    "id": "5592178592",
-    "tags": {
-      "amenity": "place_of_worship",
-      "building_type": "church",
-      "denomination": "catholic",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524659423940.jpg",
-      "name": "St. Theresia Nthangu Catholic Church",
-      "religion": "christian",
-      "service_times": "08:00",
-      "village": "Nthangu",
-      "wb_pb:id": "21747122"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-05-09T11:47:58Z",
-      "version": "2",
-      "changeset": "58817403",
-      "user": "muindre",
-      "uid": "261050"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.615866,
-      -1.7606358
     ]
   }
 },
@@ -7595,18 +7366,18 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-09T11:47:59Z",
-      "version": "2",
-      "changeset": "58817403",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-01-23T16:50:31Z",
+      "version": "3",
+      "changeset": "66575704",
+      "user": "DingoKG",
+      "uid": "6318104"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      37.5886319,
-      -1.7691431
+      37.5884028,
+      -1.7691864
     ]
   }
 },
@@ -7664,18 +7435,18 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-09T11:48:00Z",
-      "version": "2",
-      "changeset": "58817403",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-01-23T16:50:31Z",
+      "version": "3",
+      "changeset": "66575704",
+      "user": "DingoKG",
+      "uid": "6318104"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      37.5885948,
-      -1.7691869
+      37.5883533,
+      -1.7697254
     ]
   }
 },
@@ -7821,6 +7592,8 @@
     "type": "node",
     "id": "5592178610",
     "tags": {
+      "addr:city": "wOTE",
+      "addr:street": "Machakos-Wote Road",
       "amenity": "fuel",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524653590947.jpg",
       "name": "Ocal",
@@ -7831,11 +7604,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-05T14:07:49Z",
-      "version": "3",
-      "changeset": "60438483",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2019-01-24T09:56:07Z",
+      "version": "4",
+      "changeset": "66595934",
+      "user": "DingoKG",
+      "uid": "6318104"
     }
   },
   "geometry": {
@@ -7885,22 +7658,21 @@
     "type": "node",
     "id": "5592178612",
     "tags": {
-      "Village": "Nthangu",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524654314778.jpg",
+      "is_in:village": "Nthangu",
       "name": "Wote Power Sub station",
       "opening_hours": "24/7",
       "power": "substation",
-      "type": "Power Sub station",
       "wb_pb:id": "21746920",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-10T08:24:31Z",
-      "version": "2",
-      "changeset": "58841767",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T13:16:14Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -8045,42 +7817,6 @@
     "coordinates": [
       37.6449179,
       -1.7739308
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5592191386",
-  "properties": {
-    "type": "node",
-    "id": "5592191386",
-    "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "mgcsd",
-      "Name_of_operating_organization": "ACK Mwaani",
-      "Operator_type": "primary",
-      "Photo": "1524479930633.jpg",
-      "Type": "pre_primary",
-      "Village": "Mwaani",
-      "amenity": "school",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524479930633.jpg",
-      "name_001": "ACK mwaani ECDE",
-      "wb_pb:id": "21683552"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-05-02T12:06:00Z",
-      "version": "1",
-      "changeset": "58613136",
-      "user": "fondolucy",
-      "uid": "265690"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6573645,
-      -1.7651592
     ]
   }
 },
@@ -8497,24 +8233,22 @@
     "type": "node",
     "id": "5593942714",
     "tags": {
-      "Cost_Per_Liter": "0.0",
-      "Operational_status": "non_operationa",
-      "Photo": "1524640165366.jpg",
-      "Village": "Mwaani",
-      "amenity": "water_or_irrigation",
+      "description": "borehole",
+      "fee": "no",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524640165366.jpg",
+      "is_in:village": "Mwaani",
       "man_made": "water_well",
       "name": "Kituasi Borehole(s) 2-40metres apart",
-      "type": "borehole",
+      "operational_status": "non_operationa",
       "wb_pb:id": "21773261"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-03T07:57:43Z",
-      "version": "1",
-      "changeset": "58638796",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:09Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -8532,22 +8266,20 @@
     "type": "node",
     "id": "5593942715",
     "tags": {
-      "Village": "Mwaani",
-      "amenity": "agriculture",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524640945913.jpg",
-      "name": "Private farm",
+      "is_in:village": "Mwaani",
       "opening_hours": "24/7",
       "place": "farm",
-      "type": "fruit_farm",
+      "produce": "fruit",
       "wb_pb:id": "21774211"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-30T10:28:52Z",
-      "version": "2",
-      "changeset": "59393902",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2018-09-23T13:16:14Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -8634,24 +8366,21 @@
     "type": "node",
     "id": "5593942718",
     "tags": {
-      "Cost_Per_Liter": "0.0",
-      "Operational_status": "non_operational",
-      "Photo": "1524647171252.jpg",
-      "Village": "Malivani",
-      "amenity": "water_or_irrigation",
+      "fee": "no",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524647171252.jpg",
+      "is_in:village": "Malivani",
       "man_made": "water_well",
       "name": "Makolongo Borehole",
-      "type": "borehole",
+      "operational_status": "non_operational",
       "wb_pb:id": "21752918"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-03T07:57:44Z",
-      "version": "1",
-      "changeset": "58638796",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:10Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -8669,22 +8398,20 @@
     "type": "node",
     "id": "5593942719",
     "tags": {
-      "Photo": "1524648123705.jpg",
-      "Village": "Malivani",
       "amenity": "agriculture",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524648123705.jpg",
-      "name": "Private Farm",
+      "is_in:village": "Malivani",
       "place": "farm",
-      "type": "fruit_farm",
+      "produce": "fruit",
       "wb_pb:id": "21753005"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-03T07:57:44Z",
-      "version": "1",
-      "changeset": "58638796",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:10Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -8702,25 +8429,23 @@
     "type": "node",
     "id": "5593942720",
     "tags": {
-      "Cost_Per_Liter": "0.600000",
-      "Operational_status": "operational",
-      "Village": "Malivani",
-      "amenity": "water_or_irrigation",
-      "fee": "yes",
+      "description": "water_tank",
+      "fee": "0.6 / liter",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524649131241.jpg",
+      "is_in:village": "Malivani",
       "man_made": "storage_tank",
       "name": "Kwa Judah Pipeline",
       "opening_hours": "24/7",
-      "type": "water_tank",
+      "operational_status": "operational",
       "wb_pb:id": "21774298"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-30T10:28:52Z",
-      "version": "2",
-      "changeset": "59393902",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2018-09-23T13:16:14Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -8738,22 +8463,20 @@
     "type": "node",
     "id": "5593942821",
     "tags": {
-      "Photo": "1524650005564.jpg",
-      "Village": "Malivani",
       "amenity": "agriculture",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524650005564.jpg",
-      "name": "Private farm",
+      "is_in:village": "Malivani",
       "place": "farm",
-      "type": "fruit_farm",
+      "produce": "fruit",
       "wb_pb:id": "21775337"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-03T07:57:45Z",
-      "version": "1",
-      "changeset": "58638796",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:10Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -8771,22 +8494,21 @@
     "type": "node",
     "id": "5593942822",
     "tags": {
-      "Village": "Mwaani",
-      "amenity": "agriculture",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524642903146.jpg",
+      "is_in:village": "Mwaani",
       "name": "Fruit Fly IPM Learning Site",
       "opening_hours": "24/7",
       "place": "farm",
-      "type": "fruit_farm",
+      "produce": "fruit",
       "wb_pb:id": "21774261"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-30T10:28:52Z",
-      "version": "2",
-      "changeset": "59393902",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2018-09-23T13:16:14Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -8804,22 +8526,20 @@
     "type": "node",
     "id": "5593942823",
     "tags": {
-      "Village": "Malivani",
-      "amenity": "agriculture",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524650435704.jpg",
-      "name": "Private farm",
+      "is_in:village": "Malivani",
       "opening_hours": "24/7",
       "place": "farm",
-      "type": "fruit_farm",
+      "produce": "fruit",
       "wb_pb:id": "21775474"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-30T10:28:52Z",
-      "version": "2",
-      "changeset": "59393902",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2018-09-23T13:16:15Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -8837,25 +8557,24 @@
     "type": "node",
     "id": "5593942824",
     "tags": {
-      "Gender": "male",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Government of Kenya",
-      "Operator_type": "government",
-      "Photo": "1524638308141.jpg",
-      "Village": "Mwaani",
       "amenity": "school",
+      "gender": "male",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524638308141.jpg",
+      "is_in:village": "Mwaani",
       "name": "Mwaani Boys Secondary School",
-      "type": "secondary",
+      "operator": "Government of Kenya",
+      "operator_type": "government",
+      "school": "secondary",
       "wb_pb:id": "21775307"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-03T07:57:45Z",
-      "version": "1",
-      "changeset": "58638796",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:10Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -8873,22 +8592,20 @@
     "type": "node",
     "id": "5593942825",
     "tags": {
-      "Photo": "1524651283561.jpg",
-      "Village": "Malivani",
       "amenity": "agriculture",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651283561.jpg",
-      "name": "Private Farm",
+      "is_in:village": "Malivani",
       "place": "farm",
-      "type": "fruit_farm",
+      "produce": "fruit",
       "wb_pb:id": "21753629"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-03T07:57:45Z",
-      "version": "1",
-      "changeset": "58638796",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:10Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -8906,22 +8623,20 @@
     "type": "node",
     "id": "5593942826",
     "tags": {
-      "Photo": "1524651622117.jpg",
-      "Village": "Malivani",
       "amenity": "agriculture",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651622117.jpg",
-      "name": "Private Farm",
+      "is_in:village": "Malivani",
       "place": "farm",
-      "type": "fruit_farm",
+      "produce": "fruit",
       "wb_pb:id": "21753669"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-03T07:57:46Z",
-      "version": "1",
-      "changeset": "58638796",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:10Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -8934,50 +8649,13 @@
 },
 {
   "type": "Feature",
-  "id": "node/5593942827",
-  "properties": {
-    "type": "node",
-    "id": "5593942827",
-    "tags": {
-      "Gender": "male",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Government of Kenya",
-      "Operator_type": "government",
-      "Photo": "1524638750194.jpg",
-      "Village": "Mwaani",
-      "amenity": "school",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524638750194.jpg",
-      "name": "Mwaani Boys",
-      "type": "secondary",
-      "wb_pb:id": "21774158"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-05-03T07:57:46Z",
-      "version": "1",
-      "changeset": "58638796",
-      "user": "Kitone",
-      "uid": "8123824"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6673603,
-      -1.7695996
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5593942828",
   "properties": {
     "type": "node",
     "id": "5593942828",
     "tags": {
-      "Building_type": "church",
-      "Photo": "1524643542210.jpg",
       "amenity": "place_of_worship",
+      "building": "church",
       "denomination": "catholic",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643542210.jpg",
       "name": "St Francis of Assisi Catholic",
@@ -8986,11 +8664,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-03T07:57:46Z",
-      "version": "1",
-      "changeset": "58638796",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:10Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -9008,24 +8686,23 @@
     "type": "node",
     "id": "5593942829",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Operator_type": "government",
-      "Photo": "1524639415484.jpg",
-      "Village": "Mwaani",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524639415484.jpg",
+      "is_in:village": "Mwaani",
       "name": "Mwaani ECDE",
-      "type": "primary",
+      "operator_type": "government",
+      "school": "primary",
       "wb_pb:id": "21774588"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-06-26T09:48:25Z",
-      "version": "2",
-      "changeset": "60176205",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2018-09-23T12:05:10Z",
+      "version": "3",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -9043,22 +8720,20 @@
     "type": "node",
     "id": "5593942830",
     "tags": {
-      "Photo": "1524652073622.jpg",
-      "Village": "Malivani",
       "amenity": "agriculture",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524652073622.jpg",
-      "name": "Private farm",
+      "is_in:village": "Malivani",
       "place": "farm",
-      "type": "fruit_farm",
+      "produce": "fruit",
       "wb_pb:id": "21774417"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-03T07:57:46Z",
-      "version": "1",
-      "changeset": "58638796",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:10Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -9439,25 +9114,24 @@
     "type": "node",
     "id": "5596013646",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Catholic diocese of machakos",
-      "Operator_type": "government",
-      "Photo": "1524473690952.jpg",
-      "Village": "Kaseve",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524473690952.jpg",
+      "is_in:village": "Kaseve",
       "name": "St John's Malivani Secondary school",
-      "type": "secondary",
+      "operator": "Catholic diocese of machakos",
+      "operator_type": "government",
+      "school": "secondary",
       "wb_pb:id": "21639882"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-04T09:08:44Z",
-      "version": "1",
-      "changeset": "58672717",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:11Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -9465,42 +9139,6 @@
     "coordinates": [
       37.5978268,
       -1.7916198
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5596013647",
-  "properties": {
-    "type": "node",
-    "id": "5596013647",
-    "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Malivani aic",
-      "Operator_type": "government",
-      "Photo": "1524474666849.jpg",
-      "Village": "Unoa",
-      "amenity": "school",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524474666849.jpg",
-      "name": "Malivani AIC Boarding Primary",
-      "type": "primary",
-      "wb_pb:id": "21639928"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-05-04T09:08:44Z",
-      "version": "1",
-      "changeset": "58672717",
-      "user": "Kitone",
-      "uid": "8123824"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.5898774,
-      -1.8008844
     ]
   }
 },
@@ -9542,25 +9180,24 @@
     "type": "node",
     "id": "5596013650",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Government of Kenya",
-      "Operator_type": "government",
-      "Photo": "1524477385913.jpg",
-      "Type": "secondary",
-      "Village": "Yaumba",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524477385913.jpg",
+      "is_in:village": "Yaumba",
       "name": "Kitikyumu Secondary",
+      "operator": "Government of Kenya",
+      "operator_type": "government",
+      "school": "secondary",
       "wb_pb:id": "21640048"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-04T09:08:45Z",
-      "version": "1",
-      "changeset": "58672717",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:11Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -9578,25 +9215,24 @@
     "type": "node",
     "id": "5596013651",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Kitikyumu primary",
-      "Operator_type": "government",
-      "Photo": "1524478188310.jpg",
-      "Village": "Yaumba",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524478188310.jpg",
+      "is_in:village": "Yaumba",
       "name": "Kitukyumu ECDE",
-      "type": "pre_primary",
+      "operator": "Kitikyumu primary",
+      "operator_type": "government",
+      "school": "pre_primary",
       "wb_pb:id": "21640063"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-04T09:08:45Z",
-      "version": "1",
-      "changeset": "58672717",
-      "user": "Kitone",
-      "uid": "8123824"
+      "timestamp": "2018-09-23T12:05:11Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -9614,24 +9250,23 @@
     "type": "node",
     "id": "5596013653",
     "tags": {
-      "Cost_Per_Liter": "2",
-      "Operational_status": "operational",
-      "Village": "Kaseve",
       "amenity": "drinking_water",
-      "fee": "yes",
+      "fee": "2 / liter",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524473057691.jpg",
+      "is_in:village": "Kaseve",
       "man_made": "water_tap",
       "name": "Kaseve Water Kiosk-Tanathi",
       "opening_hours": "Mo-Su 06:00-19:30",
+      "operational_status": "operational",
       "wb_pb:id": "21639861"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-30T10:28:52Z",
-      "version": "2",
-      "changeset": "59393902",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2018-09-23T13:16:15Z",
+      "version": "3",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -9649,7 +9284,7 @@
     "type": "node",
     "id": "5736031233",
     "tags": {
-      "amenity": "place_of_worsh",
+      "amenity": "place_of_worship",
       "building": "church",
       "denomination": "anglican",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524480091967.jpg",
@@ -9660,11 +9295,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-08T11:08:56Z",
-      "version": "2",
-      "changeset": "60506759",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-22T13:34:34Z",
+      "version": "3",
+      "changeset": "64782752",
+      "user": "Aleks-Berlin",
+      "uid": "85218"
     }
   },
   "geometry": {
@@ -9715,25 +9350,23 @@
     "type": "node",
     "id": "5736031237",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "mgcsd",
-      "Name_of_operating_organization": "ACK mwaani",
-      "Operator_type": "primary",
-      "Photo": "1524479930633.jpg",
-      "Type_001": "pre_primary",
-      "Village": "Mwaani",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "mgcsd",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524479930633.jpg",
-      "name_001": "ACK mwaani ECDE",
+      "is_in:village": "Mwaani",
+      "name": "ACK mwaani ECDE",
+      "operator": "ACK mwaani",
+      "school": "pre_primary",
       "wb_pb:id": "21683552"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T09:17:26Z",
-      "version": "1",
-      "changeset": "60371514",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T11:50:22Z",
+      "version": "2",
+      "changeset": "62848269",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -9812,23 +9445,21 @@
     "type": "node",
     "id": "5736031247",
     "tags": {
-      "Cost_Per_Liter": "0",
-      "Operational_status": "operational",
-      "Photo": "1524475784211.jpg",
-      "Type": "borehole",
-      "amenity": "water_or_irrig",
+      "description": "borehole",
+      "fee": "no",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524475784211.jpg",
       "man_made": "water_well",
       "name": "Mwaani Public Borehole 1",
+      "operational_status": "operational",
       "wb_pb:id": "21636303"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T09:17:28Z",
-      "version": "1",
-      "changeset": "60371514",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:11Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -9879,26 +9510,24 @@
     "type": "node",
     "id": "5736031249",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Mwaani primary school",
-      "Operator_type": "government",
-      "Photo": "1524486682380.jpg",
-      "Type_001": "pre_primary",
-      "Village": "Bosnia",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524486682380.jpg",
+      "is_in:village": "Bosnia",
       "name": "Mwaani Primary School",
-      "name_001": "Kiuani ECDE",
+      "operator": "Mwaani primary school",
+      "operator_type": "government",
+      "school": "pre_primary",
       "wb_pb:id": "21683671"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T09:17:28Z",
-      "version": "1",
-      "changeset": "60371514",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T11:50:22Z",
+      "version": "2",
+      "changeset": "62848269",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -9982,25 +9611,24 @@
     "type": "node",
     "id": "5736031253",
     "tags": {
-      "Gender": "female",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "GOK",
-      "Operator_type": "government",
-      "Photo": "1524474728113.jpg",
-      "Type_001": "secondary",
-      "Village": "Kamunyolo",
       "amenity": "school",
+      "gender": "female",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524474728113.jpg",
+      "is_in:village": "Kamunyolo",
       "name": "Mwaani Girls High School",
+      "operator": "GOK",
+      "operator_type": "government",
+      "school": "secondary",
       "wb_pb:id": "21636295"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T09:17:29Z",
-      "version": "1",
-      "changeset": "60371514",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T11:50:22Z",
+      "version": "2",
+      "changeset": "62848269",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -10018,25 +9646,23 @@
     "type": "node",
     "id": "5736031254",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "mgcsd",
-      "Name_of_operating_organization": "ACK Mwaani",
-      "Operator_type": "primary",
-      "Photo": "1524479709273.jpg",
-      "Type_001": "pre_primary",
-      "Village": "Mwaani",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "mgcsd",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524479709273.jpg",
+      "is_in:village": "Mwaani",
       "name": "ACK Mwaani ECDE",
+      "operator": "ACK Mwaani",
+      "school": "pre_primary",
       "wb_pb:id": "21643078"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T09:17:29Z",
-      "version": "1",
-      "changeset": "60371514",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T11:50:22Z",
+      "version": "2",
+      "changeset": "62848269",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -10054,25 +9680,24 @@
     "type": "node",
     "id": "5736031268",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "mgcsd",
-      "Name_of_operating_organization": "Victorious Academy",
-      "Operator_type": "private",
-      "Photo": "1524651982217.jpg",
-      "Type": "pre_primary",
-      "Village": "Kasarani",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "mgcsd",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651982217.jpg",
+      "is_in:village": "Kasarani",
       "name": "The Victorious Academy",
+      "operator": "Victorious Academy",
+      "operator_type": "private",
+      "school": "pre_primary",
       "wb_pb:id": "21750651"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T09:17:56Z",
-      "version": "1",
-      "changeset": "60371525",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:11Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -10090,25 +9715,24 @@
     "type": "node",
     "id": "5736031269",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "mgcsd",
-      "Name_of_operating_organization": "Heshima Blessed Academy",
-      "Operator_type": "private",
-      "Photo": "1524650149169.jpg",
-      "Type": "pre_primary",
-      "Village": "Kasarani",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "mgcsd",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524650149169.jpg",
+      "is_in:village": "Kasarani",
       "name": "Heshima Blessed Academy",
+      "operator": "Heshima Blessed Academy",
+      "operator_type": "private",
+      "school": "pre_primary",
       "wb_pb:id": "21754005"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T09:17:56Z",
-      "version": "1",
-      "changeset": "60371525",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:11Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -10126,24 +9750,23 @@
     "type": "node",
     "id": "5736031271",
     "tags": {
-      "Governement_registered": "mgcsd",
-      "Name_of_operating_organization": "Mecetti",
-      "Operator_type": "private",
-      "Photo": "1524651037288.jpg",
-      "Type": "tertiary",
-      "Village": "Kasarani",
       "amenity": "college",
+      "government_registered": "mgcsd",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651037288.jpg",
+      "is_in:village": "Kasarani",
       "name": "Makueni Early Childhood Teacher's Training InstituteMe",
+      "operator": "Mecetti",
+      "operator_type": "private",
+      "school": "tertiary",
       "wb_pb:id": "21753393"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T09:17:56Z",
-      "version": "1",
-      "changeset": "60371525",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:11Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -10161,54 +9784,22 @@
     "type": "node",
     "id": "5736067221",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Government of Kenya",
-      "Operator_type": "government",
-      "Photo": "1524658326012.jpg",
-      "Type": "secondary",
-      "Village": "Nthangu",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524658326012.jpg",
+      "is_in:village": "Nthangu",
       "name": "Nthangu Secondary School",
+      "operator": "Government of Kenya",
+      "operator_type": "government",
+      "school": "secondary",
       "wb_pb:id": "21747045"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T09:32:34Z",
-      "version": "1",
-      "changeset": "60372030",
-      "user": "fondolucy",
-      "uid": "265690"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6190636,
-      -1.7612866
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5736067222",
-  "properties": {
-    "type": "node",
-    "id": "5736067222",
-    "tags": {
-      "description": "Power Transformer",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524658495220.jpg",
-      "opening_hours": "24/7",
-      "power": "pole",
-      "transformer": "distribution",
-      "wb_pb:id": "21747057"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-08T12:12:53Z",
+      "timestamp": "2018-09-23T12:05:12Z",
       "version": "2",
-      "changeset": "60507950",
+      "changeset": "62848596",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -10216,8 +9807,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      37.619107,
-      -1.7613195
+      37.6190636,
+      -1.7612866
     ]
   }
 },
@@ -10308,18 +9899,18 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-08T12:04:10Z",
-      "version": "2",
-      "changeset": "60507777",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2019-01-24T09:56:08Z",
+      "version": "3",
+      "changeset": "66595934",
+      "user": "DingoKG",
+      "uid": "6318104"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      37.615866,
-      -1.7606358
+      37.6155266,
+      -1.7607522
     ]
   }
 },
@@ -10333,18 +9924,18 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524659648546.jpg",
       "is_in:village": "Nthangu",
       "name": "Romer Homes LTD",
-      "opening_hours": "24_7",
+      "opening_hours": "24/7",
       "tourism": "apartment",
       "wb_pb:id": "21747129",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-12T09:42:37Z",
-      "version": "2",
-      "changeset": "60644498",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:25:13Z",
+      "version": "3",
+      "changeset": "64909312",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -10362,24 +9953,21 @@
     "type": "node",
     "id": "5736067227",
     "tags": {
-      "Photo": "1524659786552.jpg",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524659786552.jpg",
+      "is_in:village": "Nthangu",
       "name": "KPLC transformer - Romer Homes",
-      "opening_hours": "24_7",
+      "opening_hours": "24/7",
       "power": "pole",
       "transformer": "distribution",
-      "type_of_facility": "Power Transformer",
-      "village": "Nthangu",
-      "wb_pb:id": "21747136",
-      "wheelchair": "no"
+      "wb_pb:id": "21747136"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T09:32:36Z",
-      "version": "1",
-      "changeset": "60372030",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-11-26T19:25:13Z",
+      "version": "3",
+      "changeset": "64909312",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -10466,17 +10054,17 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524649741484.jpg",
       "is_in:village": "Kiatine",
       "name": "Kiatine - Kaumoni Drift",
-      "opening_hours": "24_7",
+      "opening_hours": "24/7",
       "wb_pb:id": "21746783",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-12T09:42:37Z",
-      "version": "2",
-      "changeset": "60644498",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:25:13Z",
+      "version": "3",
+      "changeset": "64909312",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -10527,32 +10115,31 @@
     "type": "node",
     "id": "5736067235",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Government of Makueni County",
-      "Operator_type": "government",
-      "Photo": "1524651755045.jpg",
-      "Type": "pre_primary",
-      "Village": "Kiatine",
       "amenity": "kindergarten",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651755045.jpg",
+      "is_in:village": "Kiatine",
       "name": "Kiatine ECDE Center",
+      "operator": "Government of Makueni County",
+      "operator_type": "government",
+      "school": "pre_primary",
       "wb_pb:id": "21746818"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T09:32:37Z",
-      "version": "1",
-      "changeset": "60372030",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2019-01-23T16:50:31Z",
+      "version": "3",
+      "changeset": "66575704",
+      "user": "DingoKG",
+      "uid": "6318104"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      37.5886319,
-      -1.7691431
+      37.5888053,
+      -1.7698797
     ]
   }
 },
@@ -10597,32 +10184,31 @@
     "type": "node",
     "id": "5736067237",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Government of Makueni County",
-      "Operator_type": "government",
-      "Photo": "1524651566055.jpg",
-      "Type": "primary",
-      "Village": "Kiatine",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651566055.jpg",
+      "is_in:village": "Kiatine",
       "name": "Kiatine Primary School",
+      "operator": "Government of Makueni County",
+      "operator_type": "government",
+      "school": "primary",
       "wb_pb:id": "21746808"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T09:32:37Z",
-      "version": "1",
-      "changeset": "60372030",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2019-01-23T16:50:31Z",
+      "version": "3",
+      "changeset": "66575704",
+      "user": "DingoKG",
+      "uid": "6318104"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      37.5885948,
-      -1.7691869
+      37.587864,
+      -1.7690879
     ]
   }
 },
@@ -10633,25 +10219,24 @@
     "type": "node",
     "id": "5736067240",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Paul Mulwa",
-      "Operator_type": "private",
-      "Photo": "1524653169968.jpg",
-      "Type": "primary",
-      "Village": "Nthangu",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524653169968.jpg",
+      "is_in:village": "Nthangu",
       "name": "St. Paul's Academy",
+      "operator": "Paul Mulwa",
+      "operator_type": "private",
+      "school": "primary",
       "wb_pb:id": "21746868"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T09:32:38Z",
-      "version": "1",
-      "changeset": "60372030",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:12Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -10769,25 +10354,24 @@
     "type": "node",
     "id": "5736067247",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Government of Kenya",
-      "Operator_type": "government",
-      "Photo": "1524658996621.jpg",
-      "Type": "primary",
-      "Village": "Nthangu",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524658996621.jpg",
+      "is_in:village": "Nthangu",
       "name": "Nthangu Primary School",
+      "operator": "Government of Kenya",
+      "operator_type": "government",
+      "school": "primary",
       "wb_pb:id": "21747101"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T09:32:39Z",
-      "version": "1",
-      "changeset": "60372030",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:12Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -10878,17 +10462,17 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524484700747.jpg",
       "is_in:village": "Katoloni",
       "name": "Nduenguu Water Kiosk",
-      "opening_hours": "24_7",
+      "opening_hours": "24/7",
       "operational_status": "non_operational",
       "wb_pb:id": "21636927"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-12T09:43:51Z",
-      "version": "2",
-      "changeset": "60644564",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:25:13Z",
+      "version": "3",
+      "changeset": "64909312",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -10941,25 +10525,24 @@
     "type": "node",
     "id": "5736081205",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Government of Kenya",
-      "Operator_type": "government",
-      "Photo": "1524480838010.jpg",
-      "Type": "primary",
-      "Village": "Malivani",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524480838010.jpg",
+      "is_in:village": "Malivani",
       "name": "Malivani A.I.C Boarding",
+      "operator": "Government of Kenya",
+      "operator_type": "government",
+      "school": "primary",
       "wb_pb:id": "21636853"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T09:43:07Z",
-      "version": "1",
-      "changeset": "60372383",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:13Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -10977,23 +10560,23 @@
     "type": "node",
     "id": "5736081207",
     "tags": {
-      "Cost_Per_Liter": "0",
-      "Operational_status": "operational",
-      "Village": "Katoloni",
       "amenity": "water_or_irrigation",
+      "fee": "no",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524487165008.jpg",
+      "is_in:village": "Katoloni",
       "man_made": "water_well",
       "name": "Kwa Maluva Well",
-      "opening_hours": "24_7",
+      "opening_hours": "24/7",
+      "operational_status": "operational",
       "wb_pb:id": "21636952"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T09:43:07Z",
-      "version": "1",
-      "changeset": "60372383",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-11-26T19:25:13Z",
+      "version": "3",
+      "changeset": "64909312",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -11078,25 +10661,24 @@
     "type": "node",
     "id": "5736081211",
     "tags": {
-      "Photo": "1524488716696.jpg",
-      "Village": "Katoloni",
       "amenity": "kindergarten",
       "gender": "mixed",
-      "governement_registered": "moe",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524488716696.jpg",
+      "is_in:village": "Katoloni",
       "name": "Nduenguu ECDE centre",
       "operator": "Government of Makueni County",
       "operator_type": "government",
-      "type": "pre_primary",
+      "school": "pre_primary",
       "wb_pb:id": "21636957"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T09:43:08Z",
-      "version": "1",
-      "changeset": "60372383",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:13Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -11114,25 +10696,24 @@
     "type": "node",
     "id": "5736159623",
     "tags": {
-      "Gender": "female",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "National government",
-      "Operator_type": "government",
-      "Photo": "1524489982203.jpg",
-      "Type": "secondary",
-      "Village": "Unoa urban",
       "amenity": "school",
+      "gender": "female",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524489982203.jpg",
-      "name": "Makueni girls",
+      "is_in:village": "Unoa urban",
+      "name": "Makueni Girls Secondary School",
+      "operator": "National government",
+      "operator_type": "government",
+      "school": "secondary",
       "wb_pb:id": "21641613"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T10:12:16Z",
-      "version": "1",
-      "changeset": "60373392",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2019-01-24T10:07:46Z",
+      "version": "3",
+      "changeset": "66596233",
+      "user": "DingoKG",
+      "uid": "6318104"
     }
   },
   "geometry": {
@@ -11150,25 +10731,24 @@
     "type": "node",
     "id": "5736159624",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Vision",
-      "Operator_type": "private",
-      "Photo": "1524474200127.jpg",
-      "Type": "primary",
-      "Village": "Westlands",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524474200127.jpg",
+      "is_in:village": "Westlands",
       "name": "Vision academy",
+      "operator": "Vision",
+      "operator_type": "private",
+      "school": "primary",
       "wb_pb:id": "21640774"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T10:12:16Z",
-      "version": "1",
-      "changeset": "60373392",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:13Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -11189,18 +10769,18 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524474599043.jpg",
       "is_in:village": "Westlands",
       "name": "Riverside guest house",
-      "opening_hours": "24_7",
+      "opening_hours": "24/7",
       "tourism": "guest_house",
       "wb_pb:id": "21640801",
       "wheelchair": "no"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-12T09:42:37Z",
-      "version": "2",
-      "changeset": "60644498",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:25:13Z",
+      "version": "3",
+      "changeset": "64909312",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -11250,25 +10830,24 @@
     "type": "node",
     "id": "5736159627",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "El shadai",
-      "Operator_type": "private",
-      "Photo": "1524475199868.jpg",
-      "Type_001": "primary",
-      "Village": "Westlands",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524475199868.jpg",
+      "is_in:village": "Westlands",
       "name": "Elshadai academy",
+      "operator": "El shadai",
+      "operator_type": "private",
+      "school": "primary",
       "wb_pb:id": "21640828"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T10:12:16Z",
-      "version": "1",
-      "changeset": "60373392",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T11:50:22Z",
+      "version": "2",
+      "changeset": "62848269",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -11471,38 +11050,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5736159634",
-  "properties": {
-    "type": "node",
-    "id": "5736159634",
-    "tags": {
-      "amenity": "fuel",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524477685473.jpg",
-      "is_in:village": "Westlands",
-      "name": "Kenol petrol station",
-      "opening_hours": "24/7",
-      "wb_pb:id": "21641054",
-      "wheelchair": "yes"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-08T12:12:54Z",
-      "version": "2",
-      "changeset": "60507950",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6236569,
-      -1.7815263
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5736159635",
   "properties": {
     "type": "node",
@@ -11583,18 +11130,18 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-08T12:12:54Z",
-      "version": "2",
-      "changeset": "60507950",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2019-01-24T09:56:07Z",
+      "version": "3",
+      "changeset": "66595934",
+      "user": "DingoKG",
+      "uid": "6318104"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      37.6243867,
-      -1.7811558
+      37.6277777,
+      -1.7851793
     ]
   }
 },
@@ -11702,24 +11249,24 @@
     "type": "node",
     "id": "5736159649",
     "tags": {
-      "Village": "Wote",
       "amenity": "school",
       "gender": "mixed",
-      "governement_registered": "moe",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524485999536.jpg",
+      "is_in:village": "Wote",
       "name": "Unoa ECDE",
       "operator": "National government",
-      "operator_type": "government",
-      "type": "Primary",
+      "operator:type": "government",
+      "school": "primary",
       "wb_pb:id": "21641429"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T10:12:21Z",
-      "version": "1",
-      "changeset": "60373392",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T13:16:15Z",
+      "version": "2",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -11870,25 +11417,24 @@
     "type": "node",
     "id": "5736159655",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Kambugi",
-      "Operator_type": "private",
-      "Photo": "1524472199137.jpg",
-      "Type_001": "primary",
-      "Village": "Westlands",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524472199137.jpg",
+      "is_in:village": "Westlands",
       "name": "Kambugi junior academy",
+      "operator": "Kambugi",
+      "operator_type": "private",
+      "school": "primary",
       "wb_pb:id": "21640709"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T10:12:22Z",
-      "version": "1",
-      "changeset": "60373392",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T11:50:22Z",
+      "version": "2",
+      "changeset": "62848269",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -11911,17 +11457,17 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524490428834.jpg",
       "is_in:village": "Unoa urban",
       "name": "Unoa water kiosk",
-      "opening_hours": "mon_fri__8_00am-6.00pm",
+      "opening_hours": "Mo-Fr 08:00-18:00",
       "operational_status": "operational",
       "wb_pb:id": "21641668"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-14T14:49:46Z",
-      "version": "2",
-      "changeset": "60713861",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:25:13Z",
+      "version": "3",
+      "changeset": "64909312",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -11939,19 +11485,19 @@
     "type": "node",
     "id": "5736159657",
     "tags": {
-      "Village": "Shimo",
       "amenity": "hospital",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524488989393.jpg",
+      "is_in:village": "Shimo",
       "name": "Ponya Nursing Home and Surgicals",
       "wb_pb:id": "21641566"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T10:12:22Z",
-      "version": "1",
-      "changeset": "60373392",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T13:16:15Z",
+      "version": "2",
+      "changeset": "62850381",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -12000,25 +11546,23 @@
     "type": "node",
     "id": "5736159659",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "National Government",
-      "Operator_type": "government",
-      "Photo": "1524489486779.jpg",
-      "Type": "primary",
-      "Village": "Unoa urban",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524489486779.jpg",
+      "is_in:village": "Unoa urban",
       "name": "Kivandini Primary school",
+      "operator": "Government of kenya",
+      "operator_type": "government",
       "wb_pb:id": "21641587"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T10:12:23Z",
-      "version": "1",
-      "changeset": "60373392",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:13Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -12036,28 +11580,30 @@
     "type": "node",
     "id": "5736159660",
     "tags": {
+      "addr:city": "Wote",
+      "addr:street": "Machakos-Wote Road",
       "amenity": "fuel",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524473834493.jpg",
       "is_in:village": "Westlands",
-      "name": "Total petrol station",
+      "name": "Total Wote Service Station",
       "opening_hours": "24/7",
       "wb_pb:id": "21640758",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-08T12:12:54Z",
-      "version": "2",
-      "changeset": "60507950",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2019-01-24T10:04:14Z",
+      "version": "3",
+      "changeset": "66596133",
+      "user": "DingoKG",
+      "uid": "6318104"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      37.61935,
-      -1.7795275
+      37.6191146,
+      -1.7794956
     ]
   }
 },
@@ -12101,7 +11647,6 @@
     "type": "node",
     "id": "5736301169",
     "tags": {
-      "Photo": "1524645679725.jpg",
       "amenity": "bar",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524645679725.jpg",
       "name": "Nyunzu highway bar",
@@ -12109,11 +11654,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T11:06:17Z",
-      "version": "1",
-      "changeset": "60375133",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:13Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -12131,23 +11676,22 @@
     "type": "node",
     "id": "5736301170",
     "tags": {
-      "Building_type": "church",
-      "Denomination": "evangelical",
-      "Photo": "1524656574092.jpg",
-      "Village": "Nyunzu",
       "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "evangelical",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524656574092.jpg",
+      "is_in:village": "Nyunzu",
       "name": "Nyunzu AIC church",
       "religion": "christian",
       "wb_pb:id": "21774187"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T11:06:17Z",
-      "version": "1",
-      "changeset": "60375133",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:13Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -12165,24 +11709,23 @@
     "type": "node",
     "id": "5736301171",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Private",
-      "Photo": "1524646078624.jpg",
-      "Type": "pre_primary",
-      "Village": "Nyunzu",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524646078624.jpg",
+      "is_in:village": "Nyunzu",
       "name": "Starlight makueni academy",
+      "operator": "Private",
+      "school": "pre_primary",
       "wb_pb:id": "21753678"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T11:06:17Z",
-      "version": "1",
-      "changeset": "60375133",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:13Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -12259,43 +11802,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5736301174",
-  "properties": {
-    "type": "node",
-    "id": "5736301174",
-    "tags": {
-      "Coordinate": "-1.8113934057971017 37.61927862318841 1258.4565217391305 4.5",
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Government of kenya",
-      "Operator_type": "government",
-      "Photo": "1524643698029.jpg",
-      "Type": "primary",
-      "Village": "Kivandini",
-      "amenity": "school",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643698029.jpg",
-      "name_001": "Kivandini primary",
-      "wb_pb:id": "21775666"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-03T11:06:18Z",
-      "version": "1",
-      "changeset": "60375133",
-      "user": "fondolucy",
-      "uid": "265690"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6192786,
-      -1.8113934
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5736301175",
   "properties": {
     "type": "node",
@@ -12338,17 +11844,17 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524652112048.jpg",
       "is_in:village": "Nyunzu",
       "name": "Extension of Kwakamende Borehole",
-      "opening_hours": "24_7",
+      "opening_hours": "24/7",
       "operational_status": "non_operational",
       "wb_pb:id": "21749041"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-12T09:43:51Z",
-      "version": "2",
-      "changeset": "60644564",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:25:14Z",
+      "version": "3",
+      "changeset": "64909312",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -12398,22 +11904,22 @@
     "type": "node",
     "id": "5736301178",
     "tags": {
-      "Operational_status": "operational",
-      "Village": "Nyunzu",
+      "description": "earth_dam",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524650560376.jpg",
+      "is_in:village": "Nyunzu",
       "landuse": "reservoir",
       "name": "Mwende earthdam",
-      "opening_hours": "24_7",
-      "type": "earth_dam",
+      "opening_hours": "24/7",
+      "operational_status": "operational",
       "wb_pb:id": "21754118"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T11:06:18Z",
-      "version": "1",
-      "changeset": "60375133",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-11-26T19:25:14Z",
+      "version": "3",
+      "changeset": "64909312",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -12431,23 +11937,22 @@
     "type": "node",
     "id": "5736301179",
     "tags": {
-      "Building_type": "church",
-      "Denomination": "anglican",
-      "Photo": "1524644030093.jpg",
-      "Village": "Kivandini",
       "amenity": "place_of_worship",
+      "building": "church",
+      "denomination": "anglican",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524644030093.jpg",
+      "is_in:village": "Kivandini",
       "name": "AIC Kivandini",
       "religion": "christian",
       "wb_pb:id": "21774616"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T11:06:18Z",
-      "version": "1",
-      "changeset": "60375133",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:14Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -12534,17 +12039,17 @@
       "is_in:village": "Malawi",
       "man_made": "wastewater_plant",
       "name": "Malawi sewarage",
-      "opening_hours": "24_7",
+      "opening_hours": "24/7",
       "wb_pb:id": "21733870",
       "wheelchair": "no"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-12T09:42:37Z",
-      "version": "2",
-      "changeset": "60644498",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:19:43Z",
+      "version": "3",
+      "changeset": "64909165",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -12552,80 +12057,6 @@
     "coordinates": [
       37.6344533,
       -1.7808408
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5736382412",
-  "properties": {
-    "type": "node",
-    "id": "5736382412",
-    "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "GOK",
-      "Operator_type": "government",
-      "Photo": "1524642843772.jpg",
-      "Type": "secondary",
-      "Village": "Malawi",
-      "What_is_your_name": "Group 3",
-      "amenity": "school",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524642843772.jpg",
-      "name": "Muambani mixed day sec sch",
-      "wb_pb:id": "21735928"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-03T11:42:22Z",
-      "version": "1",
-      "changeset": "60376214",
-      "user": "fondolucy",
-      "uid": "265690"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6435567,
-      -1.8105025
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5736382413",
-  "properties": {
-    "type": "node",
-    "id": "5736382413",
-    "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "GOK",
-      "Operator_type": "government",
-      "Photo": "1524643102064.jpg",
-      "Type": "pre_primary",
-      "Village": "Muambani",
-      "What_is_your_name": "Group 3",
-      "amenity": "school",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643102064.jpg",
-      "name": "Muambani ecde",
-      "wb_pb:id": "21735962"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-03T11:42:22Z",
-      "version": "1",
-      "changeset": "60376214",
-      "user": "fondolucy",
-      "uid": "265690"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6429467,
-      -1.8103442
     ]
   }
 },
@@ -12696,39 +12127,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5736382418",
-  "properties": {
-    "type": "node",
-    "id": "5736382418",
-    "tags": {
-      "Denomination": "evangelical",
-      "Photo": "1524651292107.jpg",
-      "Village": "Unoa",
-      "amenity": "place_of_worship",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651292107.jpg",
-      "name": "Aic wote",
-      "religion": "christian",
-      "wb_pb:id": "21744521"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-03T11:42:23Z",
-      "version": "1",
-      "changeset": "60376214",
-      "user": "fondolucy",
-      "uid": "265690"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6300696,
-      -1.7827025
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5736382419",
   "properties": {
     "type": "node",
@@ -12738,17 +12136,17 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651387443.jpg",
       "is_in:village": "Unoa",
       "name": "Wote cereal board",
-      "opening_hours": "sat_sun_8_00am - 5.00pm",
+      "opening_hours": "Sa-Su 08:00-17:00",
       "social_facility": "food_bank",
       "wb_pb:id": "21744586"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-12T09:42:37Z",
-      "version": "2",
-      "changeset": "60644498",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:21:25Z",
+      "version": "3",
+      "changeset": "64909210",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -12766,26 +12164,24 @@
     "type": "node",
     "id": "5736384021",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Wote aic",
-      "Operator_type": "pre_primary",
-      "Photo": "1524651516134.jpg",
-      "Type": "tertiary",
-      "Village": "Unoa",
-      "What_is_your_name": "Group 3",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651516134.jpg",
+      "is_in:village": "Unoa",
       "name": "Makueni multiplex bible college",
+      "operator": "Wote aic",
+      "operator_type": "pre_primary",
+      "school": "tertiary",
       "wb_pb:id": "21744676"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T11:42:23Z",
-      "version": "1",
-      "changeset": "60376214",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:14Z",
+      "version": "3",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -12834,25 +12230,24 @@
     "type": "node",
     "id": "5736384024",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Makueni sunrise academy",
-      "Operator_type": "private",
-      "Photo": "1524651605628.jpg",
-      "Type": "pre_primary",
-      "Village": "Unoa",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651605628.jpg",
+      "is_in:village": "Unoa",
       "name": "Makueni sunrise academy",
+      "operator": "Makueni sunrise academy",
+      "operator_type": "private",
+      "school": "pre_primary",
       "wb_pb:id": "21744807"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T11:42:24Z",
-      "version": "1",
-      "changeset": "60376214",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:14Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -12870,22 +12265,20 @@
     "type": "node",
     "id": "5736384025",
     "tags": {
-      "Photo": "1524638913939.jpg",
-      "Village": "Malawi",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524638913939.jpg",
+      "is_in:village": "Malawi",
       "name": "Kelvin hotel;Kelvin Hotel",
       "opening_hours": "24/7",
       "tourism": "hotel",
-      "village": "Malawi",
       "wb_pb:id": "21733759"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-06T07:56:09Z",
-      "version": "2",
-      "changeset": "60457928",
-      "user": "Aleks-Berlin",
-      "uid": "85218"
+      "timestamp": "2018-09-23T12:05:14Z",
+      "version": "3",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -12907,16 +12300,16 @@
       "is_in:village": "Wote town",
       "name": "Wote Iebc offices",
       "office": "administrative",
-      "opening_hours": "sat_sun_8_00am - 5.00pm",
+      "opening_hours": "Sa-Su 08:00-17:00",
       "wb_pb:id": "21744992"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-12T09:42:38Z",
-      "version": "2",
-      "changeset": "60644498",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:21:25Z",
+      "version": "3",
+      "changeset": "64909210",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -12937,18 +12330,18 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524639361025.jpg",
       "is_in:village": "Malawi",
       "name": "Mama Mish salon",
-      "opening_hours": "mon_fri__6_00am - 5.00pm",
+      "opening_hours": "Mo-Fr 06:00-17:00",
       "shop": "hairdresser",
       "wb_pb:id": "21733774",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-12T09:42:38Z",
-      "version": "2",
-      "changeset": "60644498",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:19:44Z",
+      "version": "3",
+      "changeset": "64909165",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -12969,16 +12362,16 @@
       "highway": "street_lamp",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524647933458.jpg",
       "is_in:village": "Malawi",
-      "opening_hours": "24_7",
+      "opening_hours": "24/7",
       "wb_pb:id": "21743683"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-12T09:42:38Z",
-      "version": "2",
-      "changeset": "60644498",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:19:44Z",
+      "version": "3",
+      "changeset": "64909165",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -12996,22 +12389,21 @@
     "type": "node",
     "id": "5736384029",
     "tags": {
-      "Denomination": "evangelical",
-      "Photo": "1524639465658.jpg",
-      "Village": "Malawi",
       "amenity": "place_of_worship",
+      "denomination": "evangelical",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524639465658.jpg",
+      "is_in:village": "Malawi",
       "name": "Maximum miracle centre",
       "religion": "christian",
       "wb_pb:id": "21733804"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T11:42:25Z",
-      "version": "1",
-      "changeset": "60376214",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:14Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -13034,17 +12426,17 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524648201880.jpg",
       "is_in:village": "Kunda kindu",
       "name": "Malawi water kiosk",
-      "opening_hours": "mon_fri__6_00am - 5.00pm",
+      "opening_hours": "Mo-Fr 06:00-17:00",
       "operational_status": "operational",
       "wb_pb:id": "21743734"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-14T14:49:47Z",
-      "version": "2",
-      "changeset": "60713861",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:19:44Z",
+      "version": "3",
+      "changeset": "64909165",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -13062,22 +12454,21 @@
     "type": "node",
     "id": "5736384031",
     "tags": {
-      "Denomination": "evangelical",
-      "Photo": "1524639589154.jpg",
-      "Village": "Malawi",
       "amenity": "place_of_worship",
+      "denomination": "evangelical",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524639589154.jpg",
+      "is_in:village": "Malawi",
       "name": "The Church of Christ",
       "religion": "christian",
       "wb_pb:id": "21733827"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T11:42:25Z",
-      "version": "1",
-      "changeset": "60376214",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:14Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -13098,17 +12489,17 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524648405819.jpg",
       "is_in:village": "Kunda kindu",
       "name": "Kunda kinduTransformer",
-      "opening_hours": "24_7",
+      "opening_hours": "24/7",
       "power": "transformer",
       "wb_pb:id": "21743785"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-12T09:42:38Z",
-      "version": "2",
-      "changeset": "60644498",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:19:44Z",
+      "version": "3",
+      "changeset": "64909165",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -13128,18 +12519,18 @@
     "tags": {
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524639731574.jpg",
       "is_in:village": "Malawi",
-      "opening_hours": "24_7",
+      "opening_hours": "24/7",
       "power": "transformer",
       "wb_pb:id": "21733837",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-12T09:42:38Z",
-      "version": "2",
-      "changeset": "60644498",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:19:44Z",
+      "version": "3",
+      "changeset": "64909165",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -13161,17 +12552,17 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524639819419.jpg",
       "is_in:village": "Malawi",
       "name": "Malawi bar and restaurant",
-      "opening_hours": "mon_fri__6_00am - 5.00pm",
+      "opening_hours": "Mo-Fr 06:00-17:00",
       "wb_pb:id": "21733851",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-12T09:42:38Z",
-      "version": "2",
-      "changeset": "60644498",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:19:44Z",
+      "version": "3",
+      "changeset": "64909165",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -13259,17 +12650,17 @@
       "is_in:village": "Malawi",
       "name": "Tana and Author Rivers development Authority office",
       "office": "administrative",
-      "opening_hours": "mon_fri__6_00am - 5.00pm",
+      "opening_hours": "Mo-Fr 06:00-17:00",
       "wb_pb:id": "21735354",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-12T09:42:38Z",
-      "version": "2",
-      "changeset": "60644498",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:19:44Z",
+      "version": "3",
+      "changeset": "64909165",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -13287,22 +12678,21 @@
     "type": "node",
     "id": "5736384042",
     "tags": {
-      "Denomination": "evangelical",
-      "Photo": "1524641072583.jpg",
-      "Village": "Malawi",
       "amenity": "place_of_worship",
+      "denomination": "evangelical",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524641072583.jpg",
+      "is_in:village": "Malawi",
       "name": "Jesus Christ Chapel Ministry Wote",
       "religion": "christian",
       "wb_pb:id": "21735397"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T11:42:27Z",
-      "version": "1",
-      "changeset": "60376214",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:14Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -13326,17 +12716,17 @@
       "is_in:village": "Malawi",
       "man_made": "water_tank",
       "name": "Wote water and sewarage company kiosk",
-      "opening_hours": "mon_fri__6_00am - 5.00pm",
+      "opening_hours": "Mo-Fr 06:00-17:00",
       "operational_status": "operational",
       "wb_pb:id": "21735901"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-14T14:49:48Z",
-      "version": "2",
-      "changeset": "60713861",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:19:44Z",
+      "version": "3",
+      "changeset": "64909165",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -13344,42 +12734,6 @@
     "coordinates": [
       37.6356317,
       -1.7784808
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5736384045",
-  "properties": {
-    "type": "node",
-    "id": "5736384045",
-    "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "GOK",
-      "Operator_type": "government",
-      "Photo": "1524642950361.jpg",
-      "Type": "primary",
-      "Village": "Malawi",
-      "amenity": "school",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524642950361.jpg",
-      "name": "Muambani primary school",
-      "wb_pb:id": "21735944"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-03T11:42:27Z",
-      "version": "1",
-      "changeset": "60376214",
-      "user": "fondolucy",
-      "uid": "265690"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6432022,
-      -1.8106589
     ]
   }
 },
@@ -13486,25 +12840,24 @@
     "type": "node",
     "id": "5736384051",
     "tags": {
-      "Gender": "mixed",
-      "Governement_registered": "moe",
-      "Name_of_operating_organization": "Gok",
-      "Operator_type": "government",
-      "Photo": "1524651760220.jpg",
-      "Type": "tertiary",
-      "Village": "Town",
       "amenity": "school",
+      "gender": "mixed",
+      "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651760220.jpg",
+      "is_in:village": "Town",
       "name": "Wote Kmtc",
+      "operator": "Gok",
+      "operator_type": "government",
+      "school": "tertiary",
       "wb_pb:id": "21744954"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T11:42:28Z",
-      "version": "1",
-      "changeset": "60376214",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:14Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -13526,16 +12879,16 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524652380303.jpg",
       "is_in:village": "Kunda kindu",
       "name": "Wote sewarage pit",
-      "opening_hours": "24_7",
+      "opening_hours": "24/7",
       "wb_pb:id": "21745062"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-12T09:42:39Z",
-      "version": "2",
-      "changeset": "60644498",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:19:44Z",
+      "version": "3",
+      "changeset": "64909165",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -13553,22 +12906,21 @@
     "type": "node",
     "id": "5736384053",
     "tags": {
-      "Denomination": "evangelical",
-      "Photo": "1524643739817.jpg",
-      "Village": "Muambani",
       "amenity": "place_of_worship",
+      "denomination": "evangelical",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643739817.jpg",
+      "is_in:village": "Muambani",
       "name": "Muambani Redeemed Gospel Church",
       "religion": "christian",
       "wb_pb:id": "21736037"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T11:42:29Z",
-      "version": "1",
-      "changeset": "60376214",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:15Z",
+      "version": "2",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -13620,23 +12972,21 @@
     "type": "node",
     "id": "5736384055",
     "tags": {
-      "Denomination": "catholic",
-      "Photo": "1524645750594.jpg",
-      "Village": "Kamunyolo",
-      "What_is_your_name": "Group 3",
       "amenity": "place_of_worship",
+      "denomination": "catholic",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524645750594.jpg",
+      "is_in:village": "Kamunyolo",
       "name": "Augustinian Recollection nuns",
       "religion": "christian",
       "wb_pb:id": "21743203"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-03T11:42:29Z",
-      "version": "1",
-      "changeset": "60376214",
-      "user": "fondolucy",
-      "uid": "265690"
+      "timestamp": "2018-09-23T12:05:15Z",
+      "version": "3",
+      "changeset": "62848596",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -13684,21 +13034,20 @@
     "type": "node",
     "id": "5736384057",
     "tags": {
-      "Photo": "1524646981410.jpg",
-      "Village": "Malawi",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524646981410.jpg",
+      "is_in:village": "Malawi",
       "name": "Hotel cross road",
-      "opening_hours": "mon_fri__6_00am - 5.00pm",
+      "opening_hours": "Mo-Fr 06:00-17:00",
       "tourism": "hotel",
       "wb_pb:id": "21743383"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-06T07:56:49Z",
-      "version": "3",
-      "changeset": "60457949",
-      "user": "Aleks-Berlin",
-      "uid": "85218"
+      "timestamp": "2018-11-26T19:21:25Z",
+      "version": "5",
+      "changeset": "64909210",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -13719,17 +13068,17 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524647091525.jpg",
       "is_in:village": "Malawi",
       "name": "Chase furniture",
-      "opening_hours": "mon_fri__6_00am - 5.00pm",
+      "opening_hours": "Mo-Fr 06:00-17:00",
       "shop": "furniture",
       "wb_pb:id": "21743455"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-14T14:49:48Z",
-      "version": "2",
-      "changeset": "60713861",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:21:25Z",
+      "version": "3",
+      "changeset": "64909210",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -13751,16 +13100,16 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524647238371.jpg",
       "is_in:village": "Malawi",
       "name": "Club Gaza",
-      "opening_hours": "mon_fri__6_00am - 5.00pm",
+      "opening_hours": "Mo-Fr 06:00-17:00",
       "wb_pb:id": "21743561"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-14T14:49:48Z",
-      "version": "2",
-      "changeset": "60713861",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:21:25Z",
+      "version": "3",
+      "changeset": "64909210",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -13782,16 +13131,16 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524647706092.jpg",
       "is_in:village": "Malawi",
       "name": "Timas Petrol station",
-      "opening_hours": "mon_fri__6_00am - 5.00pm",
+      "opening_hours": "Mo-Fr 06:00-17:00",
       "wb_pb:id": "21743638"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-12T09:42:39Z",
-      "version": "2",
-      "changeset": "60644498",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-11-26T19:19:44Z",
+      "version": "3",
+      "changeset": "64909165",
+      "user": "confusedbuffalo",
+      "uid": "242345"
     }
   },
   "geometry": {
@@ -13799,6 +13148,41 @@
     "coordinates": [
       37.6303383,
       -1.7783143
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6250837620",
+  "properties": {
+    "type": "node",
+    "id": "6250837620",
+    "tags": {
+      "amenity": "school",
+      "education:type": "secondary",
+      "gender": "male",
+      "government_registered": "moe",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524638750194.jpg",
+      "in:village": "Mwaani",
+      "name": "Mwaani Boys",
+      "operator": "Government of Kenya",
+      "operator_type": "government",
+      "wb_pb:id": "21774158"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-02-01T03:08:33Z",
+      "version": "1",
+      "changeset": "66820473",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.6664522,
+      -1.7695464
     ]
   }
 }

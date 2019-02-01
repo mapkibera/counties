@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.4 3079d8ea">
+<osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2018-08-26T01:28:02Z"/>
+<meta osm_base="2019-02-01T03:33:03Z"/>
 
   <bounds minlat="0.4353000" minlon="35.6147000" maxlat="0.5916000" maxlon="35.7990000"/>
 
@@ -30,10 +30,11 @@
     <tag k="operator" v="Government"/>
     <tag k="wb_pb:id" v="26186264"/>
   </node>
-  <node id="5779173626" lat="0.4608194" lon="35.6882937" version="3" timestamp="2018-08-06T11:00:31Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5779173626" lat="0.4608194" lon="35.6882937" version="4" timestamp="2018-09-01T17:28:04Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="no"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Kabarnet County Referal Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919674688.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919889855.jpg"/>
     <tag k="medical_service:family_planning" v="no"/>
@@ -42,13 +43,13 @@
     <tag k="medical_service:malaria" v="no"/>
     <tag k="medical_service:pregnancy_test" v="no"/>
     <tag k="name" v="Kiboino Health Center Staff House"/>
-    <tag k="referral" v="Kabarnet County Referal Hospital"/>
     <tag k="wb_pb:id" v="26127327"/>
   </node>
-  <node id="5779173627" lat="0.4600914" lon="35.6882700" version="3" timestamp="2018-08-06T11:00:31Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5779173627" lat="0.4600914" lon="35.6882700" version="4" timestamp="2018-09-01T17:28:04Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Kabarnet Referral Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919240170.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919411323.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -57,7 +58,6 @@
     <tag k="medical_service:malaria" v="no"/>
     <tag k="medical_service:pregnancy_test" v="no"/>
     <tag k="name" v="Kiboino Health Center"/>
-    <tag k="referral" v="Kabarnet Referral Hospital"/>
     <tag k="wb_pb:id" v="26127322"/>
   </node>
   <node id="5779173628" lat="0.4531136" lon="35.6493035" version="2" timestamp="2018-08-04T17:42:19Z" changeset="61358766" uid="616774" user="mueschel">
@@ -274,10 +274,11 @@
     <tag k="type" v="Cotton Factory(Warehouses)"/>
     <tag k="wb_pb:id" v="26128594"/>
   </node>
-  <node id="5779197183" lat="0.4913171" lon="35.6644704" version="3" timestamp="2018-08-06T11:00:31Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5779197183" lat="0.4913171" lon="35.6644704" version="4" timestamp="2018-09-01T17:28:04Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="sometime"/>
+    <tag k="health_facility:referals" v="Baringo Referral Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919717751.jpg"/>
     <tag k="medical_service:family_planning" v="no"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -285,7 +286,6 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Salawa Catholic Private Health Clinic"/>
-    <tag k="referral" v="Baringo Referral Hospital"/>
     <tag k="wb_pb:id" v="26128746"/>
   </node>
   <node id="5779197184" lat="0.4950332" lon="35.6555617" version="1" timestamp="2018-07-23T12:07:18Z" changeset="60984340" uid="8556507" user="ronovincent32">
@@ -304,10 +304,11 @@
     <tag k="operator_type" v="Government"/>
     <tag k="wb_pb:id" v="26237638"/>
   </node>
-  <node id="5779268901" lat="0.5469838" lon="35.6794434" version="5" timestamp="2018-08-20T11:21:27Z" changeset="61819712" uid="8556957" user="kenboi">
+  <node id="5779268901" lat="0.5469838" lon="35.6794434" version="6" timestamp="2018-09-01T17:28:04Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="often"/>
+    <tag k="health_facility:referals" v="Kabarnet Referral Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907158978.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907624084.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -318,7 +319,6 @@
     <tag k="name" v="Chesongo Dispensary"/>
     <tag k="operational_status" v="Operational"/>
     <tag k="operator" v="County Government Of Baringo"/>
-    <tag k="referral" v="Kabarnet Referral Hospital"/>
     <tag k="wb_pb:id" v="26128775"/>
   </node>
   <node id="5779268902" lat="0.5403200" lon="35.6772733" version="2" timestamp="2018-08-04T17:42:20Z" changeset="61358766" uid="616774" user="mueschel">
@@ -494,10 +494,11 @@
     <tag k="waterway" v="dam"/>
     <tag k="wb_pb:id" v="26186417"/>
   </node>
-  <node id="5779324092" lat="0.4932663" lon="35.6890038" version="3" timestamp="2018-08-06T11:00:32Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5779324092" lat="0.4932663" lon="35.6890038" version="4" timestamp="2018-09-01T17:28:04Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="no"/>
     <tag k="electricity" v="none"/>
+    <tag k="health_facility:referals" v="None"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532000361156.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532000408866.jpg"/>
     <tag k="medical_service:family_planning" v="no"/>
@@ -506,7 +507,6 @@
     <tag k="medical_service:malaria" v="no"/>
     <tag k="medical_service:pregnancy_test" v="no"/>
     <tag k="name" v="Chepturet Dispensary"/>
-    <tag k="referral" v="None"/>
     <tag k="wb_pb:id" v="26186565"/>
   </node>
   <node id="5779324093" lat="0.4881550" lon="35.6719722" version="2" timestamp="2018-08-04T17:42:22Z" changeset="61358766" uid="616774" user="mueschel">
@@ -565,10 +565,11 @@
     <tag k="type" v="Cattle Dip"/>
     <tag k="wb_pb:id" v="26126359"/>
   </node>
-  <node id="5779623112" lat="0.5328883" lon="35.7362042" version="3" timestamp="2018-08-06T11:00:33Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5779623112" lat="0.5328883" lon="35.7362042" version="4" timestamp="2018-09-01T17:28:05Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Baringo county refferal"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916081101.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -577,7 +578,6 @@
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Kapkole dispensary"/>
     <tag k="operator" v="County Goverment Of Baringo"/>
-    <tag k="referral" v="Baringo county refferal"/>
     <tag k="wb_pb:id" v="26126421"/>
   </node>
   <node id="5779623113" lat="0.5333653" lon="35.7352466" version="2" timestamp="2018-08-04T17:42:22Z" changeset="61358766" uid="616774" user="mueschel">
@@ -598,10 +598,11 @@
     <tag k="type" v="Cattle Dip"/>
     <tag k="wb_pb:id" v="26126309"/>
   </node>
-  <node id="5779623115" lat="0.5464468" lon="35.7161572" version="3" timestamp="2018-08-06T11:00:33Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5779623115" lat="0.5464468" lon="35.7161572" version="4" timestamp="2018-09-01T17:28:05Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="none"/>
+    <tag k="health_facility:referals" v="Baringo county teaching and referal hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531911311392.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="no"/>
@@ -610,7 +611,6 @@
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Kapkokwon Dispensary"/>
     <tag k="operator" v="County Goverment Of Baringo"/>
-    <tag k="referral" v="Baringo county teaching and referal hospital"/>
     <tag k="wb_pb:id" v="26126344"/>
   </node>
   <node id="5779623116" lat="0.5343437" lon="35.7280567" version="1" timestamp="2018-07-23T16:56:33Z" changeset="60993577" uid="8556575" user="Maigong">
@@ -830,10 +830,11 @@
     <tag k="waterway" v="dam"/>
     <tag k="wb_pb:id" v="26240466"/>
   </node>
-  <node id="5781093182" lat="0.5135886" lon="35.6832942" version="3" timestamp="2018-08-06T11:00:33Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5781093182" lat="0.5135886" lon="35.6832942" version="4" timestamp="2018-09-01T17:28:05Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Kabarnet general hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532081042362.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532081081315.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -842,7 +843,6 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Magonoi Dispensary"/>
-    <tag k="referral" v="Kabarnet general hospital"/>
     <tag k="wb_pb:id" v="26240541"/>
   </node>
   <node id="5781138884" lat="0.5110565" lon="35.6506129" version="4" timestamp="2018-08-20T12:27:50Z" changeset="61821713" uid="8556957" user="kenboi">
@@ -920,13 +920,6 @@
     <tag k="name" v="Kibunder Bridge"/>
     <tag k="wb_pb:id" v="26186713"/>
   </node>
-  <node id="5781399399" lat="0.4930698" lon="35.7384556" version="2" timestamp="2018-07-25T08:41:56Z" changeset="61047706" uid="261050" user="muindre">
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531996227726.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531996434762.jpg"/>
-    <tag k="name" v="Muslim cemetry"/>
-    <tag k="type" v="Cemetery"/>
-    <tag k="wb_pb:id" v="26192164"/>
-  </node>
   <node id="5781399422" lat="0.4945057" lon="35.7435717" version="3" timestamp="2018-07-29T12:15:02Z" changeset="61163160" uid="616774" user="mueschel">
     <tag k="access" v="customers"/>
     <tag k="amenity" v="toilets"/>
@@ -989,12 +982,6 @@
     <tag k="type" v="Pre_primary"/>
     <tag k="wb_pb:id" v="26192110"/>
   </node>
-  <node id="5781399430" lat="0.4963076" lon="35.7430937" version="1" timestamp="2018-07-24T09:39:32Z" changeset="61015284" uid="8556533" user="zubeda">
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982660930.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982824122.jpg"/>
-    <tag k="type" v="Stadium"/>
-    <tag k="wb_pb:id" v="26191876"/>
-  </node>
   <node id="5781399431" lat="0.4960681" lon="35.7440361" version="1" timestamp="2018-07-24T09:39:33Z" changeset="61015284" uid="8556533" user="zubeda">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531981808166.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982100266.jpg"/>
@@ -1002,19 +989,18 @@
     <tag k="type" v="Perimeter wall"/>
     <tag k="wb_pb:id" v="26191806"/>
   </node>
-  <node id="5781399432" lat="0.4966050" lon="35.7338442" version="1" timestamp="2018-07-24T09:39:33Z" changeset="61015284" uid="8556533" user="zubeda">
+  <node id="5781399432" lat="0.4966050" lon="35.7338442" version="3" timestamp="2018-09-08T17:08:14Z" changeset="62407281" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
-    <tag k="family_planning" v="yes"/>
-    <tag k="general_medical_services" v="yes"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531991784796.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992030036.jpg"/>
-    <tag k="immunization" v="yes"/>
-    <tag k="malaria" v="yes"/>
+    <tag k="medical_service:family_planning" v="yes"/>
+    <tag k="medical_service:general_medical_services" v="yes"/>
+    <tag k="medical_service:immunizations" v="yes"/>
+    <tag k="medical_service:malaria" v="yes"/>
+    <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Kaptimbor Dispensary"/>
-    <tag k="pregancy_test" v="yes"/>
-    <tag k="type" v="Dispensary"/>
     <tag k="wb_pb:id" v="26192082"/>
   </node>
   <node id="5781399433" lat="0.4956112" lon="35.7450770" version="1" timestamp="2018-07-24T09:39:33Z" changeset="61015284" uid="8556533" user="zubeda">
@@ -1097,13 +1083,6 @@
     <tag k="name" v="Kabarnet Fire Station"/>
     <tag k="type" v="Fire station"/>
     <tag k="wb_pb:id" v="26126149"/>
-  </node>
-  <node id="5781471262" lat="0.4933178" lon="35.7407854" version="2" timestamp="2018-08-08T10:31:45Z" changeset="61462929" uid="8556957" user="kenboi">
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531920312708.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531920516358.jpg"/>
-    <tag k="name" v="Kabarnet Public Market"/>
-    <tag k="social_facility" v="shelter"/>
-    <tag k="wb_pb:id" v="26126170"/>
   </node>
   <node id="5781492692" lat="0.4898707" lon="35.7381400" version="1" timestamp="2018-07-24T10:08:19Z" changeset="61016488" uid="8556507" user="ronovincent32">
     <tag k="amenity" v="college"/>
@@ -1483,11 +1462,6 @@
     <tag k="name" v="Kabarnet Vocational Training Center"/>
     <tag k="operator_type" v="Government"/>
     <tag k="wb_pb:id" v="26236032"/>
-  </node>
-  <node id="5817722221" lat="0.4929184" lon="35.7407029" version="1" timestamp="2018-08-08T10:31:43Z" changeset="61462929" uid="8556957" user="kenboi">
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070076102.jpg"/>
-    <tag k="type" v="Public market"/>
-    <tag k="wb_pb:id" v="26235610"/>
   </node>
   <node id="5817722222" lat="0.4926208" lon="35.7413324" version="1" timestamp="2018-08-08T10:31:44Z" changeset="61462929" uid="8556957" user="kenboi">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070728588.jpg"/>

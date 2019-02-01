@@ -3,6 +3,43 @@
     {
       "geometry": {
         "coordinates": [
+          36.3683019, 
+          0.0447332
+        ], 
+        "type": "Point"
+      }, 
+      "id": "473447883", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "kml:guid": "{6d2a0739-59bc-4316-af94-f1a544a3138b}", 
+        "name": "Thompson Falls Lodge", 
+        "osm:id": "473447883", 
+        "tourism": "hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3634096, 
+          0.0382731
+        ], 
+        "type": "Point"
+      }, 
+      "id": "653576218", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "fuel", 
+        "name": "Oilibya", 
+        "osm:id": "653576218"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           36.0841675, 
           1.163861
         ], 
@@ -61,6 +98,22 @@
     {
       "geometry": {
         "coordinates": [
+          35.5414674, 
+          0.0636947
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1555338174", 
+      "properties": {
+        "name": "Timboroa", 
+        "osm:id": "1555338174", 
+        "railway": "station"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.7237576, 
           -0.01256
         ], 
@@ -70,6 +123,247 @@
       "properties": {
         "osm:id": "2139440828", 
         "railway": "level_crossing"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3647501, 
+          0.0046472
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2461346616", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "school", 
+        "name": "Kisima Mixed Secondary School", 
+        "operator": "Kisima Trust", 
+        "operator:type": "private", 
+        "osm:id": "2461346616"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.363378, 
+          0.0411743
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2475303318", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "place_of_worship", 
+        "building": "yes", 
+        "denomination": "catholic", 
+        "name": "Nyahururu Catholic Church", 
+        "osm:id": "2475303318", 
+        "religion": "christian"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3634638, 
+          0.037623
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2475305013", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "townhall", 
+        "name": "Nyahururu Municipal Council", 
+        "osm:id": "2475305013"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3642973, 
+          0.0384861
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2475315038", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "bank", 
+        "name": "Equity Bank Nyahururu", 
+        "osm:id": "2475315038"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3611993, 
+          0.0264417
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2475354501", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "school", 
+        "name": "Ndurururi Secondary School", 
+        "osm:id": "2475354501"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3656243, 
+          0.0352954
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2475359621", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Sharpe Road", 
+        "amenity": "fuel", 
+        "building": "yes", 
+        "name": "Total Gas Station", 
+        "osm:id": "2475359621"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3627323, 
+          0.03422
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2475369873", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Koinange Road", 
+        "name": "Spears Supermarket", 
+        "osm:id": "2475369873", 
+        "shop": "supermarket"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3642082, 
+          0.0336407
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2475373617", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "fuel", 
+        "building": "yes", 
+        "name": "Kenol Kobil", 
+        "osm:id": "2475373617"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3645697, 
+          0.0337612
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2475373987", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "bank", 
+        "name": "Family Bank", 
+        "osm:id": "2475373987"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3645274, 
+          0.0340543
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2475374370", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "bank", 
+        "name": "Equity Bank", 
+        "osm:id": "2475374370"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3631671, 
+          0.0395254
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2475398908", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "name": "Nyaki Hotel", 
+        "osm:id": "2475398908", 
+        "tourism": "hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3623272, 
+          0.0385371
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2475402441", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "hospital", 
+        "name": "Nyahururu General Hospital", 
+        "osm:id": "2475402441"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3658666, 
+          0.027933
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2606228506", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "fuel", 
+        "name": "Kobil Nyahururu", 
+        "osm:id": "2606228506"
       }, 
       "type": "Feature"
     }, 
@@ -87,6 +381,37 @@
         "name": "AIC KAPKUT", 
         "osm:id": "2712707952", 
         "religion": "christian"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.5270964, 
+          0.1302829
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3228330263", 
+      "properties": {
+        "osm:id": "3228330263", 
+        "railway": "level_crossing"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9668384, 
+          -0.1669243
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3989712388", 
+      "properties": {
+        "name": "Security Office", 
+        "office": "yes", 
+        "osm:id": "3989712388"
       }, 
       "type": "Feature"
     }, 
@@ -1048,8 +1373,7 @@
       "properties": {
         "highway": "street_lamp", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532082579348.jpg", 
-        "osm:id": "5781093181", 
-        "type": "Flood light"
+        "osm:id": "5781093181"
       }, 
       "type": "Feature"
     }, 
@@ -1296,6 +1620,7 @@
         "amenity": "hospital", 
         "dispensing": "yes", 
         "electricity": "always", 
+        "health_facility:referals": "Moi Refferal Hospital", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531901814836.jpg", 
         "medical_service:family_planning": "Yes", 
         "medical_service:general_medical_services": "yes", 
@@ -1303,8 +1628,7 @@
         "medical_service:malaria": "Yes", 
         "medical_service:pregnancy_test": "yes", 
         "name": "Baringo County referral hospital", 
-        "osm:id": "5781471260", 
-        "referral": "Moi Refferal Hospital"
+        "osm:id": "5781471260"
       }, 
       "type": "Feature"
     }, 
@@ -1449,8 +1773,7 @@
       "properties": {
         "highway": "street_lamp", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075400180.jpg", 
-        "osm:id": "5781492698", 
-        "type": "Street Light"
+        "osm:id": "5781492698"
       }, 
       "type": "Feature"
     }, 
@@ -1484,8 +1807,7 @@
       "properties": {
         "highway": "street_lamp", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075168448.jpg", 
-        "osm:id": "5781492700", 
-        "type": "Street Light"
+        "osm:id": "5781492700"
       }, 
       "type": "Feature"
     }, 
@@ -1501,8 +1823,7 @@
       "properties": {
         "highway": "street_lamp", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075022655.jpg", 
-        "osm:id": "5781492701", 
-        "type": "Street Light"
+        "osm:id": "5781492701"
       }, 
       "type": "Feature"
     }, 
@@ -1519,6 +1840,7 @@
         "amenity": "clinic", 
         "dispensing": "yes", 
         "electricity": "always", 
+        "health_facility:referals": "Baringo County Referra Hospital", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074693891.jpg", 
         "medical_service:family_planning": "yes", 
         "medical_service:general_medical_services": "yes", 
@@ -1526,8 +1848,7 @@
         "medical_service:malaria": "yes", 
         "medical_service:pregnancy_test": "yes", 
         "name": "Tionybei Health Clinic", 
-        "osm:id": "5781492702", 
-        "referral": "Baringo County Referra Hospital"
+        "osm:id": "5781492702"
       }, 
       "type": "Feature"
     }, 
@@ -1542,8 +1863,7 @@
       "id": "5781492703", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781492703", 
-        "type": "street_light"
+        "osm:id": "5781492703"
       }, 
       "type": "Feature"
     }, 
@@ -1577,8 +1897,7 @@
       "properties": {
         "highway": "street_lamp", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074369337.jpg", 
-        "osm:id": "5781492705", 
-        "type": "street_light"
+        "osm:id": "5781492705"
       }, 
       "type": "Feature"
     }, 
@@ -1612,6 +1931,7 @@
       "properties": {
         "amenity": "pharmacy", 
         "electricity": "always", 
+        "health_facility:referals": "Baringo County Referal Hospital", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074032975.jpg", 
         "medical_service:family_planning": "yes", 
         "medical_service:general_medical_services": "no", 
@@ -1619,8 +1939,7 @@
         "medical_service:malaria": "yes", 
         "medical_service:pregnancy_test": "yes", 
         "name": "Sochigaa Chemist", 
-        "osm:id": "5781492707", 
-        "referral": "Baringo County Referal Hospital"
+        "osm:id": "5781492707"
       }, 
       "type": "Feature"
     }, 
@@ -1636,8 +1955,7 @@
       "properties": {
         "highway": "street_lamp", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532078293058.jpg", 
-        "osm:id": "5781492708", 
-        "type": "street_light"
+        "osm:id": "5781492708"
       }, 
       "type": "Feature"
     }, 
@@ -1653,8 +1971,7 @@
       "properties": {
         "highway": "street_lamp", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532073596283.jpg", 
-        "osm:id": "5781492709", 
-        "type": "Street Light"
+        "osm:id": "5781492709"
       }, 
       "type": "Feature"
     }, 
@@ -1688,8 +2005,7 @@
       "properties": {
         "highway": "street_lamp", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532073480947.jpg", 
-        "osm:id": "5781492711", 
-        "type": "Street Light"
+        "osm:id": "5781492711"
       }, 
       "type": "Feature"
     }, 
@@ -1706,6 +2022,7 @@
         "amenity": "pharmacy", 
         "dispensing": "yes", 
         "electricity": "always", 
+        "health_facility:referals": "Baringo County referral hospital", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532078159242.jpg", 
         "medical_service:family_planning": "yes", 
         "medical_service:general_medical_services": "no", 
@@ -1713,8 +2030,7 @@
         "medical_service:malaria": "yes", 
         "medical_service:pregnancy_test": "yes", 
         "name": "Riwo Chemist", 
-        "osm:id": "5781492712", 
-        "referral": "Baringo County referral hospital"
+        "osm:id": "5781492712"
       }, 
       "type": "Feature"
     }, 
@@ -1730,8 +2046,7 @@
       "properties": {
         "highway": "street_lamp", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532072966446.jpg", 
-        "osm:id": "5781492713", 
-        "type": "Street Light"
+        "osm:id": "5781492713"
       }, 
       "type": "Feature"
     }, 
@@ -2051,8 +2366,7 @@
       "id": "5781632972", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781632972", 
-        "type": "Flood_Light"
+        "osm:id": "5781632972"
       }, 
       "type": "Feature"
     }, 
@@ -2067,8 +2381,7 @@
       "id": "5781632973", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781632973", 
-        "type": "street_light"
+        "osm:id": "5781632973"
       }, 
       "type": "Feature"
     }, 
@@ -2083,8 +2396,7 @@
       "id": "5781632974", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781632974", 
-        "type": "street_light"
+        "osm:id": "5781632974"
       }, 
       "type": "Feature"
     }, 
@@ -2136,8 +2448,7 @@
       "id": "5781632978", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781632978", 
-        "type": "street_light"
+        "osm:id": "5781632978"
       }, 
       "type": "Feature"
     }, 
@@ -2173,8 +2484,7 @@
       "id": "5781632980", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781632980", 
-        "type": "street_light"
+        "osm:id": "5781632980"
       }, 
       "type": "Feature"
     }, 
@@ -2207,8 +2517,7 @@
       "id": "5781632982", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781632982", 
-        "type": "street_light"
+        "osm:id": "5781632982"
       }, 
       "type": "Feature"
     }, 
@@ -2223,8 +2532,7 @@
       "id": "5781632983", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781632983", 
-        "type": "street_light"
+        "osm:id": "5781632983"
       }, 
       "type": "Feature"
     }, 
@@ -2558,8 +2866,7 @@
       "id": "5781667668", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667668", 
-        "type": "street_light"
+        "osm:id": "5781667668"
       }, 
       "type": "Feature"
     }, 
@@ -2574,8 +2881,7 @@
       "id": "5781667669", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667669", 
-        "type": "street_light"
+        "osm:id": "5781667669"
       }, 
       "type": "Feature"
     }, 
@@ -2590,8 +2896,7 @@
       "id": "5781667670", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667670", 
-        "type": "street_light"
+        "osm:id": "5781667670"
       }, 
       "type": "Feature"
     }, 
@@ -2625,8 +2930,7 @@
       "id": "5781667672", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667672", 
-        "type": "street_light"
+        "osm:id": "5781667672"
       }, 
       "type": "Feature"
     }, 
@@ -2641,8 +2945,7 @@
       "id": "5781667673", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667673", 
-        "type": "street_light"
+        "osm:id": "5781667673"
       }, 
       "type": "Feature"
     }, 
@@ -2657,8 +2960,7 @@
       "id": "5781667674", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667674", 
-        "type": "street_light"
+        "osm:id": "5781667674"
       }, 
       "type": "Feature"
     }, 
@@ -2673,8 +2975,7 @@
       "id": "5781667675", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667675", 
-        "type": "street_light"
+        "osm:id": "5781667675"
       }, 
       "type": "Feature"
     }, 
@@ -2689,8 +2990,7 @@
       "id": "5781667676", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667676", 
-        "type": "street_light"
+        "osm:id": "5781667676"
       }, 
       "type": "Feature"
     }, 
@@ -2705,8 +3005,7 @@
       "id": "5781667677", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667677", 
-        "type": "street_light"
+        "osm:id": "5781667677"
       }, 
       "type": "Feature"
     }, 
@@ -2721,8 +3020,7 @@
       "id": "5781667678", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667678", 
-        "type": "street_light"
+        "osm:id": "5781667678"
       }, 
       "type": "Feature"
     }, 
@@ -2737,8 +3035,7 @@
       "id": "5781667679", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667679", 
-        "type": "street_light"
+        "osm:id": "5781667679"
       }, 
       "type": "Feature"
     }, 
@@ -2753,8 +3050,7 @@
       "id": "5781667680", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667680", 
-        "type": "street_light"
+        "osm:id": "5781667680"
       }, 
       "type": "Feature"
     }, 
@@ -2769,8 +3065,7 @@
       "id": "5781667681", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667681", 
-        "type": "street_light"
+        "osm:id": "5781667681"
       }, 
       "type": "Feature"
     }, 
@@ -2785,8 +3080,7 @@
       "id": "5781667682", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667682", 
-        "type": "Street Lights"
+        "osm:id": "5781667682"
       }, 
       "type": "Feature"
     }, 
@@ -2801,8 +3095,7 @@
       "id": "5781667683", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667683", 
-        "type": "street_light"
+        "osm:id": "5781667683"
       }, 
       "type": "Feature"
     }, 
@@ -2817,8 +3110,7 @@
       "id": "5781667684", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667684", 
-        "type": "street_light"
+        "osm:id": "5781667684"
       }, 
       "type": "Feature"
     }, 
@@ -2833,8 +3125,7 @@
       "id": "5781667685", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667685", 
-        "type": "street_light"
+        "osm:id": "5781667685"
       }, 
       "type": "Feature"
     }, 
@@ -2849,8 +3140,7 @@
       "id": "5781667686", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667686", 
-        "type": "street_light"
+        "osm:id": "5781667686"
       }, 
       "type": "Feature"
     }, 
@@ -2865,8 +3155,7 @@
       "id": "5781667687", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667687", 
-        "type": "street_light"
+        "osm:id": "5781667687"
       }, 
       "type": "Feature"
     }, 
@@ -2881,8 +3170,7 @@
       "id": "5781667688", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667688", 
-        "type": "street_light"
+        "osm:id": "5781667688"
       }, 
       "type": "Feature"
     }, 
@@ -2897,8 +3185,7 @@
       "id": "5781667689", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667689", 
-        "type": "street_light"
+        "osm:id": "5781667689"
       }, 
       "type": "Feature"
     }, 
@@ -2913,8 +3200,7 @@
       "id": "5781667690", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667690", 
-        "type": "street_light"
+        "osm:id": "5781667690"
       }, 
       "type": "Feature"
     }, 
@@ -2929,8 +3215,7 @@
       "id": "5781667691", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667691", 
-        "type": "street_light"
+        "osm:id": "5781667691"
       }, 
       "type": "Feature"
     }, 
@@ -2945,8 +3230,7 @@
       "id": "5781667692", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667692", 
-        "type": "street_light"
+        "osm:id": "5781667692"
       }, 
       "type": "Feature"
     }, 
@@ -2961,8 +3245,7 @@
       "id": "5781667693", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667693", 
-        "type": "street_light"
+        "osm:id": "5781667693"
       }, 
       "type": "Feature"
     }, 
@@ -2977,8 +3260,7 @@
       "id": "5781667694", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667694", 
-        "type": "street_light"
+        "osm:id": "5781667694"
       }, 
       "type": "Feature"
     }, 
@@ -2993,8 +3275,7 @@
       "id": "5781667695", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781667695", 
-        "type": "Street_light"
+        "osm:id": "5781667695"
       }, 
       "type": "Feature"
     }, 
@@ -3026,8 +3307,7 @@
       "id": "5781797205", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781797205", 
-        "type": "Street Light"
+        "osm:id": "5781797205"
       }, 
       "type": "Feature"
     }, 
@@ -3306,8 +3586,7 @@
       "id": "5781797222", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781797222", 
-        "type": "Street Light"
+        "osm:id": "5781797222"
       }, 
       "type": "Feature"
     }, 
@@ -3339,8 +3618,7 @@
       "id": "5781797224", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781797224", 
-        "type": "Street Light"
+        "osm:id": "5781797224"
       }, 
       "type": "Feature"
     }, 
@@ -3355,8 +3633,7 @@
       "id": "5781797225", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781797225", 
-        "type": "Street Light"
+        "osm:id": "5781797225"
       }, 
       "type": "Feature"
     }, 
@@ -3405,8 +3682,7 @@
       "id": "5781797228", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781797228", 
-        "type": "street_light"
+        "osm:id": "5781797228"
       }, 
       "type": "Feature"
     }, 
@@ -3421,8 +3697,7 @@
       "id": "5781797229", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781797229", 
-        "type": "Street Light"
+        "osm:id": "5781797229"
       }, 
       "type": "Feature"
     }, 
@@ -3437,8 +3712,7 @@
       "id": "5781797230", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781797230", 
-        "type": "Street Light"
+        "osm:id": "5781797230"
       }, 
       "type": "Feature"
     }, 
@@ -3453,8 +3727,7 @@
       "id": "5781797231", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781797231", 
-        "type": "Street Light"
+        "osm:id": "5781797231"
       }, 
       "type": "Feature"
     }, 
@@ -3503,8 +3776,7 @@
       "id": "5781797234", 
       "properties": {
         "highway": "street_lamp", 
-        "osm:id": "5781797234", 
-        "type": "street_light"
+        "osm:id": "5781797234"
       }, 
       "type": "Feature"
     }, 
@@ -3557,8 +3829,7 @@
       "properties": {
         "highway": "street_lamp", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531914654945.jpg", 
-        "osm:id": "5783508722", 
-        "type": "Street light"
+        "osm:id": "5783508722"
       }, 
       "type": "Feature"
     }, 
@@ -3764,8 +4035,7 @@
       "properties": {
         "highway": "street_lamp", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531987299846.jpg1532082579348.jpg", 
-        "osm:id": "5783571620", 
-        "type": "Flood light"
+        "osm:id": "5783571620"
       }, 
       "type": "Feature"
     }, 
@@ -4311,6 +4581,7 @@
         "amenity": "hospital", 
         "dispensing": "no", 
         "electricity": "always", 
+        "health_facility:referals": "Eldama Ravine District Hospital", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231050323067.jpg", 
         "medical_service:family_planning": "no", 
         "medical_service:general_medical_services": "no", 
@@ -4318,8 +4589,7 @@
         "medical_service:malaria": "no", 
         "medical_service:pregnancy_test": "no", 
         "name": "Kabiyet Dispensary", 
-        "osm:id": "5798788037", 
-        "referral": "Eldama Ravine District Hospital"
+        "osm:id": "5798788037"
       }, 
       "type": "Feature"
     }, 
@@ -4446,6 +4716,7 @@
       "properties": {
         "amenity": "hospital", 
         "dispensing": "yes", 
+        "health_facility:referals": "Eldoret Referral Hospital", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608628789.jpg", 
         "medical_service:family_planning": "yes", 
         "medical_service:general_medical_services": "yes", 
@@ -4453,8 +4724,7 @@
         "medical_service:malaria": "yes", 
         "medical_service:pregnancy_test": "yes", 
         "name": "Eldama Ravine Sub-County Referral Hospital", 
-        "osm:id": "5798859906", 
-        "referral": "Eldoret Referral Hospital"
+        "osm:id": "5798859906"
       }, 
       "type": "Feature"
     }, 
@@ -6109,15 +6379,14 @@
         "amenity": "hospital", 
         "dispensing": "yes", 
         "electricity": "always", 
-        "family_planning": "yes", 
-        "general_medical_services": "yes", 
+        "health_facility:referals": "Baringo Refferal Hospital", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074195088.jpg", 
-        "immunization": "yes", 
-        "malaria": "yes", 
-        "osm:id": "5817722210", 
-        "pregancy_test": "yes", 
-        "referral": "Baringo Refferal Hospital", 
-        "type": "Hospital"
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "osm:id": "5817722210"
       }, 
       "type": "Feature"
     }, 
@@ -6537,8 +6806,8 @@
       "id": "5820105410", 
       "properties": {
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532593055894.jpg", 
-        "osm:id": "5820105410", 
-        "type": "Forest"
+        "note": "forest", 
+        "osm:id": "5820105410"
       }, 
       "type": "Feature"
     }, 
@@ -7030,6 +7299,1359 @@
         "osm:id": "5829352270", 
         "power": "pole", 
         "transformer": "distribution"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3630562, 
+          0.0342522
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5912193886", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Koinange Road", 
+        "name": "Bettan Hotel & Conference Hall", 
+        "osm:id": "5912193886", 
+        "tourism": "hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9660842, 
+          0.4501646
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6017307088", 
+      "properties": {
+        "name": "Ronella Cottages", 
+        "osm:id": "6017307088", 
+        "tourism": "hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9689042, 
+          -0.17235
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6064437375", 
+      "properties": {
+        "name": "Kabarak Guest House", 
+        "osm:id": "6064437375", 
+        "tourism": "guest_house"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9649958, 
+          -0.1670627
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6064441824", 
+      "properties": {
+        "name": "Boys Hostel Block 1", 
+        "osm:id": "6064441824", 
+        "tourism": "hostel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9645765, 
+          -0.1667054
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6064441825", 
+      "properties": {
+        "name": "Boys Hostel Block 2", 
+        "osm:id": "6064441825", 
+        "tourism": "hostel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9641278, 
+          -0.166323
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6064441826", 
+      "properties": {
+        "name": "Boys Hostel Block 3", 
+        "osm:id": "6064441826", 
+        "tourism": "hostel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9642493, 
+          -0.1659613
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6064441827", 
+      "properties": {
+        "name": "Boys Hostel Block 4", 
+        "osm:id": "6064441827", 
+        "tourism": "hostel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9653012, 
+          -0.1657978
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6064444984", 
+      "properties": {
+        "building": "yes", 
+        "name": "Kabu Online", 
+        "osm:id": "6064444984"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9626823, 
+          -0.1670583
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6064451891", 
+      "properties": {
+        "amenity": "bank", 
+        "atm": "yes", 
+        "drive_through": "yes", 
+        "name": "TNB Bank, Kenya", 
+        "osm:id": "6064451891"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.962599, 
+          -0.1671069
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6064457029", 
+      "properties": {
+        "amenity": "post_office", 
+        "name": "Kenya Posta", 
+        "osm:id": "6064457029"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9625644, 
+          -0.1667811
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6064457206", 
+      "properties": {
+        "name": "Saloon", 
+        "osm:id": "6064457206", 
+        "payment:cash": "yes", 
+        "shop": "hairdresser"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9654483, 
+          -0.1671918
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6064471321", 
+      "properties": {
+        "name": "School of Science", 
+        "office": "yes", 
+        "osm:id": "6064471321"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9656751, 
+          -0.1669105
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6064479923", 
+      "properties": {
+        "name": "School of Theology", 
+        "office": "yes", 
+        "osm:id": "6064479923"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9661973, 
+          -0.1676382
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6064483391", 
+      "properties": {
+        "name": "Busubess School", 
+        "office": "yes", 
+        "osm:id": "6064483391"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9653333, 
+          -0.1675069
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6064486532", 
+      "properties": {
+        "name": "ICT Office", 
+        "office": "yes", 
+        "osm:id": "6064486532"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9613167, 
+          -0.1712183
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6064506243", 
+      "properties": {
+        "amenity": "school", 
+        "name": "Moi High School", 
+        "osm:id": "6064506243"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.5429637, 
+          0.0653156
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6188008106", 
+      "properties": {
+        "osm:id": "6188008106", 
+        "railway": "level_crossing"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.4677005, 
+          -0.2149532
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6230910932", 
+      "properties": {
+        "osm:id": "6230910932", 
+        "power": "tower"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.4690341, 
+          -0.210975
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6230910933", 
+      "properties": {
+        "osm:id": "6230910933", 
+        "power": "tower"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.4717842, 
+          -0.2026042
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6230910934", 
+      "properties": {
+        "osm:id": "6230910934", 
+        "power": "tower"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.47305, 
+          -0.1986712
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6230910935", 
+      "properties": {
+        "osm:id": "6230910935", 
+        "power": "tower"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.4743083, 
+          -0.1946251
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6230910936", 
+      "properties": {
+        "osm:id": "6230910936", 
+        "power": "tower"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.4755515, 
+          -0.1906997
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6230910937", 
+      "properties": {
+        "osm:id": "6230910937", 
+        "power": "tower"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.4770862, 
+          -0.1861679
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6230910938", 
+      "properties": {
+        "osm:id": "6230910938", 
+        "power": "tower"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.4791182, 
+          -0.1803229
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6230910939", 
+      "properties": {
+        "osm:id": "6230910939", 
+        "power": "tower"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.4794987, 
+          -0.1786067
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6230910940", 
+      "properties": {
+        "osm:id": "6230910940", 
+        "power": "tower"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.4790291, 
+          -0.1762468
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6230910941", 
+      "properties": {
+        "osm:id": "6230910941", 
+        "power": "tower"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.4784301, 
+          -0.1729722
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6230910942", 
+      "properties": {
+        "osm:id": "6230910942", 
+        "power": "tower"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.4775153, 
+          -0.1707216
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6230910943", 
+      "properties": {
+        "osm:id": "6230910943", 
+        "power": "tower"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.4763416, 
+          -0.1671442
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6230910944", 
+      "properties": {
+        "osm:id": "6230910944", 
+        "power": "tower"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.4704092, 
+          -0.2069152
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6230910945", 
+      "properties": {
+        "osm:id": "6230910945", 
+        "power": "tower"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3810059, 
+          -0.1880325
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664233", 
+      "properties": {
+        "addr:city": "Matura", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "school", 
+        "name": "Rurii Primary School", 
+        "osm:id": "6241664233"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3832146, 
+          -0.1449016
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664234", 
+      "properties": {
+        "addr:city": "Kasuku", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "school", 
+        "name": "Weru Secondary School", 
+        "osm:id": "6241664234"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3823061, 
+          -0.1313064
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664235", 
+      "properties": {
+        "addr:city": "Kasuku", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "school", 
+        "name": "Weru Primary School", 
+        "osm:id": "6241664235"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3819748, 
+          -0.1314026
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664236", 
+      "properties": {
+        "addr:city": "Kasuku", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "place_of_worship", 
+        "name": "St John Baptist Catholic Church-Kasuku Parish", 
+        "osm:id": "6241664236", 
+        "religion": "catholic"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3805853, 
+          -0.1292864
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664237", 
+      "properties": {
+        "addr:city": "Kasuku", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "restaurant", 
+        "name": "Nyandarua Hippo Resort", 
+        "osm:id": "6241664237"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.375821, 
+          -0.0940533
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664238", 
+      "properties": {
+        "addr:city": "Joro Orok", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "school", 
+        "name": "Chaka Reli Primary School", 
+        "osm:id": "6241664238"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3666354, 
+          -0.0855091
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664239", 
+      "properties": {
+        "addr:city": "Joro Orok", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "name": "LAKE OLBOLOSAT RESORT PARK LODGE", 
+        "osm:id": "6241664239", 
+        "tourism": "hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3659334, 
+          -0.0781994
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664240", 
+      "properties": {
+        "addr:city": "Joro Orok", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "name": "Bridgeway Shopping Center", 
+        "osm:id": "6241664240", 
+        "shop": "mall"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3645296, 
+          -0.0769407
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664241", 
+      "properties": {
+        "addr:city": "Joro Orok", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "school", 
+        "name": "Ol Joro Orok Primary School", 
+        "osm:id": "6241664241"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3609836, 
+          -0.0767592
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664242", 
+      "properties": {
+        "addr:city": "Joro Orok", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "police", 
+        "name": "Ol joro orok Police post", 
+        "osm:id": "6241664242"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3650621, 
+          -0.0739636
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664243", 
+      "properties": {
+        "addr:city": "Ol Joro Orok", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "name": "Thompson Falls sport camp, camping", 
+        "osm:id": "6241664243", 
+        "tourism": "hostel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3636276, 
+          -0.0137386
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664250", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "restaurant", 
+        "name": "Suera Star Point Restaurant", 
+        "osm:id": "6241664250"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3635316, 
+          -0.0132042
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664251", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "fuel", 
+        "name": "Caltex", 
+        "osm:id": "6241664251"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3621613, 
+          0.0221099
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664252", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "name": "Sandton Guest House", 
+        "osm:id": "6241664252", 
+        "tourism": "guest_house"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3650938, 
+          0.0247273
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664253", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "fuel", 
+        "name": "Gulf Energy - Nyahururu", 
+        "osm:id": "6241664253"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.355378, 
+          0.0249191
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664254", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Koinange Road", 
+        "name": "Eastward Gardens Hotel", 
+        "osm:id": "6241664254", 
+        "tourism": "hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3653699, 
+          0.0391113
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664255", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "name": "Nyandarua County Council A.I Centre", 
+        "office": "government", 
+        "osm:id": "6241664255"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3644116, 
+          0.0350001
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664256", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "fuel", 
+        "name": "Shell Filling Station", 
+        "osm:id": "6241664256"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3639189, 
+          0.03513
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664257", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "bank", 
+        "name": "KCB Nyahururu", 
+        "osm:id": "6241664257"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3647385, 
+          0.0346284
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664258", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "name": "Cleanshelf Supermarket", 
+        "osm:id": "6241664258", 
+        "shop": "supermarket"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3641115, 
+          0.0342299
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241664259", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "name": "Spanish lodge", 
+        "osm:id": "6241664259", 
+        "tourism": "motel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3658148, 
+          0.029725
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778031", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "name": "Kawa Falls Hotel and Lodging", 
+        "osm:id": "6241778031", 
+        "tourism": "hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3606277, 
+          0.03407
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778032", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Koinange Road", 
+        "amenity": "marketplace", 
+        "name": "Nyahururu Market", 
+        "osm:id": "6241778032"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3598062, 
+          0.0341461
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778033", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Koinange Road", 
+        "amenity": "marketplace", 
+        "name": "Market Stalls", 
+        "osm:id": "6241778033"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3601815, 
+          0.0330102
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778034", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Koinange Road", 
+        "amenity": "fuel", 
+        "name": "National Oil Corporation-Nyahururu", 
+        "osm:id": "6241778034"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3586704, 
+          0.0326806
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778035", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Koinange Road", 
+        "amenity": "townhall", 
+        "name": "Nyahururu Social Hall", 
+        "osm:id": "6241778035"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3586197, 
+          0.0315701
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778036", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Koinange Road", 
+        "name": "Olympia Hotel", 
+        "osm:id": "6241778036", 
+        "tourism": "hotel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3556785, 
+          0.0274271
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778037", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Koinange Road", 
+        "amenity": "place_of_worship", 
+        "name": "Deliverance Church", 
+        "osm:id": "6241778037"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3639898, 
+          0.0348814
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778038", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Gilgil-Nyahururu Road", 
+        "amenity": "fuel", 
+        "name": "Petrol Pump", 
+        "osm:id": "6241778038"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.366079, 
+          0.034638
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778039", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Sharpe Road", 
+        "name": "Samburu Lodge", 
+        "osm:id": "6241778039", 
+        "tourism": "motel"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3664796, 
+          0.0359209
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778040", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Sharpe Road", 
+        "amenity": "fuel", 
+        "name": "Kirurumo Filling Station", 
+        "osm:id": "6241778040"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3670577, 
+          0.0445922
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778045", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "school", 
+        "name": "Nyahururu Elite Schools", 
+        "osm:id": "6241778045"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3699126, 
+          0.0438164
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778046", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "leisure": "resort", 
+        "name": "Thomson Falls Resort", 
+        "osm:id": "6241778046"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3705363, 
+          0.0429645
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778047", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "restaurant", 
+        "name": "Water Falls Resort", 
+        "osm:id": "6241778047"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3764896, 
+          0.0405203
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778053", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "restaurant", 
+        "name": "Hippo Point Nyahururu", 
+        "osm:id": "6241778053"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3762006, 
+          0.0385781
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778055", 
+      "properties": {
+        "man_made": "surveillance", 
+        "osm:id": "6241778055", 
+        "surveillance": "Hippopotamus_Watching_Point", 
+        "surveillance:type": "camera"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3810129, 
+          0.040003
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778056", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "fuel", 
+        "name": "Njepa Petrol Station", 
+        "osm:id": "6241778056"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3809673, 
+          0.0405304
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778057", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "school", 
+        "name": "St. Francis Manguo", 
+        "osm:id": "6241778057"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3811498, 
+          0.0418235
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778058", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "school", 
+        "name": "Graceland Girls Senior Secondary School", 
+        "osm:id": "6241778058"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3872096, 
+          0.0365548
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778059", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "place_of_worship", 
+        "name": "P.C.E.A Church", 
+        "osm:id": "6241778059", 
+        "religion": "christian"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3870321, 
+          0.0359108
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778060", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "place_of_worship", 
+        "name": "Saint Philips Manguo Church", 
+        "osm:id": "6241778060", 
+        "religion": "catholic"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.393244, 
+          0.0337658
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778065", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "school", 
+        "name": "Ziwani Boys Hostel", 
+        "osm:id": "6241778065"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.3929549, 
+          0.0266411
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778066", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "school", 
+        "name": "St. Cecilia Girls Secondary School", 
+        "osm:id": "6241778066"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.4083452, 
+          0.0249322
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778070", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "fuel", 
+        "name": "Samax Filling Station", 
+        "osm:id": "6241778070"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.4118137, 
+          0.0250235
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778073", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "fuel", 
+        "name": "Gulf Petrol Station - Mairo Inya", 
+        "osm:id": "6241778073"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.4128939, 
+          0.0257892
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778074", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "police", 
+        "name": "Mairo-inya Police Station", 
+        "osm:id": "6241778074"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.460633, 
+          0.0203273
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778083", 
+      "properties": {
+        "addr:city": "Ndogoni", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "amenity": "place_of_worship", 
+        "name": "St. Martin Catholic Church- Mutanga Parish", 
+        "osm:id": "6241778083", 
+        "religion": "catholic"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.4917158, 
+          0.014022
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6241778084", 
+      "properties": {
+        "addr:city": "Nyahururu", 
+        "addr:street": "Nyeri-Nyahururu Road", 
+        "name": "Gwa Kung'u Shopping Centre", 
+        "osm:id": "6241778084", 
+        "shop": "mall"
       }, 
       "type": "Feature"
     }

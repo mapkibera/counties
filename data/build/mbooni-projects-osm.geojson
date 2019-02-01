@@ -367,40 +367,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5637244500",
-  "properties": {
-    "type": "node",
-    "id": "5637244500",
-    "tags": {
-      "amenity": "drinking_water",
-      "cost_per_litre": "0.0",
-      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973607038.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973713555.jpg",
-      "name": "Water tank",
-      "opening_hours": "24/7",
-      "operational_status": "operational",
-      "type": "Water tank",
-      "wb_pb:id": "22950222"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-05-23T12:00:29Z",
-      "version": "1",
-      "changeset": "59208834",
-      "user": "Ms Ruth",
-      "uid": "8123810"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.43708,
-      -1.6554475
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5637244501",
   "properties": {
     "type": "node",
@@ -575,19 +541,19 @@
       "cost_per_litre": "0.25",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526895914134.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526896118709.jpg",
-      "name": "Yoani WaterTank",
+      "name": "Yoani Water Tank",
       "opening_hours": "24/7",
       "operational_status": "operational",
-      "type": "Water tap",
+      "type": "water_tap",
       "wb_pb:id": "22949185"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T12:00:30Z",
-      "version": "1",
-      "changeset": "59208834",
-      "user": "Ms Ruth",
-      "uid": "8123810"
+      "timestamp": "2018-12-04T10:27:32Z",
+      "version": "2",
+      "changeset": "65154847",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
@@ -2195,16 +2161,17 @@
       "name": "Mutondo Iirrigation Project/Earth Dam",
       "opening_hours": "24/7",
       "operational_status": "operational",
-      "type": "Earth Dam",
+      "type": "earth_dam",
+      "waterway": "dam",
       "wb_pb:id": "22946341"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T12:34:45Z",
-      "version": "1",
-      "changeset": "59209919",
-      "user": "mwiks",
-      "uid": "8134626"
+      "timestamp": "2018-12-04T10:16:36Z",
+      "version": "2",
+      "changeset": "65154523",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
@@ -2229,16 +2196,16 @@
       "name": "Kikima/Kivandini Water Project",
       "opening_hours": "24/7",
       "operational_status": "operational",
-      "type": "Storage Tank",
+      "type": "storage_tank",
       "wb_pb:id": "22942478"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T12:34:45Z",
-      "version": "1",
-      "changeset": "59209919",
-      "user": "mwiks",
-      "uid": "8134626"
+      "timestamp": "2018-12-04T10:08:16Z",
+      "version": "2",
+      "changeset": "65154272",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
@@ -2330,16 +2297,16 @@
       "name": "Mutulu Water Project",
       "opening_hours": "24/7",
       "operational_status": "operational",
-      "type": "Water Kiosk 3",
+      "type": "water_kiosk3",
       "wb_pb:id": "22844663"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T12:34:45Z",
-      "version": "1",
-      "changeset": "59209919",
-      "user": "mwiks",
-      "uid": "8134626"
+      "timestamp": "2018-12-04T10:06:20Z",
+      "version": "2",
+      "changeset": "65154200",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
@@ -2364,16 +2331,16 @@
       "name": "Mutulu Water Project",
       "opening_hours": "24/7",
       "operational_status": "operational",
-      "type": "Water kiosk 1",
+      "type": "water_kiosk1",
       "wb_pb:id": "22844331"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T12:34:45Z",
-      "version": "1",
-      "changeset": "59209919",
-      "user": "mwiks",
-      "uid": "8134626"
+      "timestamp": "2018-12-04T10:05:17Z",
+      "version": "2",
+      "changeset": "65154159",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
@@ -2398,16 +2365,16 @@
       "name": "Mutulu Water Project",
       "opening_hours": "24/7",
       "operational_status": "operational",
-      "type": "Water kiosk 2",
+      "type": "water_kiosk2",
       "wb_pb:id": "22844141"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T12:34:46Z",
-      "version": "1",
-      "changeset": "59209919",
-      "user": "mwiks",
-      "uid": "8134626"
+      "timestamp": "2018-12-04T09:56:34Z",
+      "version": "3",
+      "changeset": "65153877",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
@@ -2431,16 +2398,16 @@
       "name": "Mutulu Water Tank(Mutulu Water Project)",
       "opening_hours": "24/7",
       "operational_status": "operational",
-      "type": "Storage Tank",
+      "type": "storage_tank",
       "wb_pb:id": "22843797"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T12:34:46Z",
-      "version": "1",
-      "changeset": "59209919",
-      "user": "mwiks",
-      "uid": "8134626"
+      "timestamp": "2018-12-04T10:04:16Z",
+      "version": "2",
+      "changeset": "65154128",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
@@ -3697,20 +3664,20 @@
     "type": "node",
     "id": "5637519126",
     "tags": {
-      "amenity": "Water or Irrigation",
       "cost_per_litre": "0.0",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526982200655.jpg",
-      "name": "Ivui dam",
+      "name": "Ivui Dam",
       "opening_hours": "24/7",
       "operational_status": "operational",
-      "type": "Ivui dam",
+      "type": "sand_dam",
+      "waterway": "dam",
       "wb_pb:id": "22951657"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T13:47:34Z",
-      "version": "1",
-      "changeset": "59212330",
+      "timestamp": "2018-12-04T10:43:18Z",
+      "version": "2",
+      "changeset": "65155344",
       "user": "muindre",
       "uid": "261050"
     }
@@ -4738,19 +4705,20 @@
     "type": "node",
     "id": "5637519163",
     "tags": {
+      "amenity": "school",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526908270770.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526908603781.jpg",
-      "name": "Uvi sand dam",
+      "name": "Uvi ECDE",
       "opening_hours": "24/7",
       "operational_status": "non operational",
-      "type": "sand dam",
+      "type": "pre_primary",
       "wb_pb:id": "22951547"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T13:47:39Z",
-      "version": "1",
-      "changeset": "59212330",
+      "timestamp": "2019-01-24T09:02:12Z",
+      "version": "2",
+      "changeset": "66594748",
       "user": "muindre",
       "uid": "261050"
     }
@@ -4840,15 +4808,15 @@
       "amenity": "drinking_water",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526641317196.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526641462304.jpg",
-      "name": "Kikokani Pumphouse",
+      "name": "Ikokani Pumphouse",
       "operational_status": "operational",
       "wb_pb:id": "22950945"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T13:47:40Z",
-      "version": "1",
-      "changeset": "59212330",
+      "timestamp": "2019-01-30T10:23:05Z",
+      "version": "2",
+      "changeset": "66765421",
       "user": "muindre",
       "uid": "261050"
     }
@@ -5093,7 +5061,7 @@
       "Electricity": "always",
       "amenity": "health",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526900722203.jpg",
-      "name": "Bosnia Sub-County Hospital ( Mortuary)",
+      "name": "Mbooni Sub-County Hospital ( Mortuary)",
       "opening_hours": "Mo-Fr 7:00-7:00",
       "shop": "funeral_directors",
       "type": "Mortuary",
@@ -5101,9 +5069,9 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T09:45:13Z",
-      "version": "1",
-      "changeset": "59265042",
+      "timestamp": "2018-12-04T10:55:51Z",
+      "version": "2",
+      "changeset": "65155795",
       "user": "muindre",
       "uid": "261050"
     }
@@ -5859,17 +5827,16 @@
       "highway": "street_lamp",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526893632015.jpg",
       "opening_hours": "24/7",
-      "type": "Street lamp",
       "wb_pb:id": "22958157",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T09:45:16Z",
-      "version": "1",
-      "changeset": "59265042",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-01-16T11:37:04Z",
+      "version": "2",
+      "changeset": "66360002",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -7809,6 +7776,7 @@
     "type": "node",
     "id": "5641420356",
     "tags": {
+      "amenity": "marketplace",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526974193147.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526974321060.jpg",
       "name": "Kikima market",
@@ -7819,9 +7787,9 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-29T07:45:37Z",
-      "version": "3",
-      "changeset": "59359687",
+      "timestamp": "2018-12-04T10:49:10Z",
+      "version": "4",
+      "changeset": "65155559",
       "user": "muindre",
       "uid": "261050"
     }
@@ -7904,14 +7872,14 @@
       "amenity": "hospital",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526899406961.jpg",
-      "name_5": "Mbooni Sub County Hospital",
+      "name": "Mbooni Sub County Hospital",
       "wb_pb:id": "22958290"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T09:45:24Z",
-      "version": "1",
-      "changeset": "59265042",
+      "timestamp": "2018-12-04T10:59:04Z",
+      "version": "2",
+      "changeset": "65155893",
       "user": "muindre",
       "uid": "261050"
     }
@@ -7942,17 +7910,17 @@
       "medical_service:immunizations": "yes",
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
-      "name": "Bosnia Sub-County Hospital",
+      "name": "Mbooni Sub-County Hospital",
       "opening_hours": "24/7",
       "wb_pb:id": "22958288"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-11T10:25:35Z",
-      "version": "3",
-      "changeset": "61562241",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2018-12-04T10:56:19Z",
+      "version": "4",
+      "changeset": "65155810",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
@@ -7972,16 +7940,17 @@
     "tags": {
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526987574873.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526987778338.jpg",
-      "name": "Kyanguluvuti Earthdam",
+      "name": "Kyanguluvuti Earth Dam",
       "operational_status": "non_operational",
-      "type": "earthdam",
+      "type": "earth_dam",
+      "waterway": "dam",
       "wb_pb:id": "22956741"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T10:17:21Z",
-      "version": "2",
-      "changeset": "59266141",
+      "timestamp": "2018-12-04T10:53:29Z",
+      "version": "3",
+      "changeset": "65155718",
       "user": "muindre",
       "uid": "261050"
     }
@@ -8139,15 +8108,16 @@
       "opening_hours": "24/7",
       "operational_status": "operational",
       "type": "earth_dam",
+      "waterway": "dam",
       "wb_pb:id": "22946694"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-06-22T08:14:42Z",
-      "version": "2",
-      "changeset": "60067373",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2018-12-04T10:21:23Z",
+      "version": "3",
+      "changeset": "65154682",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
@@ -8311,17 +8281,17 @@
       "medical_service:immunizations": "yes",
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
-      "name": "Katilini dispensary (staffs guarter)",
+      "name": "Katilini Dispensary Mbooni",
       "opening_hours": "mo-fr 7:00-7:0",
       "wb_pb:id": "22947695"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-04T18:35:56Z",
-      "version": "2",
-      "changeset": "61359703",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2019-01-24T09:17:45Z",
+      "version": "3",
+      "changeset": "66595143",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
@@ -8339,20 +8309,18 @@
     "type": "node",
     "id": "5702426116",
     "tags": {
-      "amenity": "place_of_worship",
-      "building_type": "church",
+      "amenity": "school",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526642677569.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526642893477.jpg",
-      "name": "AIC Mutanda",
-      "religion": "christian",
-      "service_times": "7:30",
+      "name": "AIC Mutanda ECDE",
+      "type": "pre_primary",
       "wb_pb:id": "22952267"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-06-19T13:02:03Z",
-      "version": "1",
-      "changeset": "59978573",
+      "timestamp": "2019-01-24T09:16:47Z",
+      "version": "2",
+      "changeset": "66595117",
       "user": "muindre",
       "uid": "261050"
     }
@@ -8362,6 +8330,41 @@
     "coordinates": [
       37.4582663,
       -1.6207012
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6235699268",
+  "properties": {
+    "type": "node",
+    "id": "6235699268",
+    "tags": {
+      "amenity": "school",
+      "gender_type": "mixed",
+      "government_registered": "moe",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973607038.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973713555.jpg",
+      "name": "Kyangoma special school",
+      "operator": "Kyangoma Special School for the Physically challaged",
+      "operator:type": "government",
+      "type": "primary",
+      "wb_pb:id": "22950192"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-01-25T09:47:36Z",
+      "version": "1",
+      "changeset": "66626188",
+      "user": "muindre",
+      "uid": "261050"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.4370572,
+      -1.6554379
     ]
   }
 }

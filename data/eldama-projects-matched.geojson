@@ -325,6 +325,7 @@
         "amenity": "hospital", 
         "dispensing": "yes", 
         "electricity": "sometime", 
+        "health_facility:referals": "Eldoret Referral Hospital", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606346905.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606491571.jpg", 
         "medical_service:family_planning": "yes", 
@@ -334,7 +335,6 @@
         "medical_service:pregnancy_test": "yes", 
         "name": "Eldama Ravine Sub-County Referral Hospital-Laundry", 
         "osm:id": "5798859911", 
-        "referral": "Eldoret Referral Hospital", 
         "wb_pb:id": "26663306"
       }, 
       "type": "Feature"
@@ -358,6 +358,7 @@
         "amenity": "hospital", 
         "dispensing": "yes", 
         "electricity": "sometime", 
+        "health_facility:referals": "Eldoret Referal Hospital", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606676419.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606762137.jpg", 
         "medical_service:family_planning": "yes", 
@@ -367,7 +368,6 @@
         "medical_service:pregnancy_test": "yes", 
         "name": "Eldama Ravine Sub-County Refferal Hospital- Orthopedic Ward", 
         "osm:id": "5798859910", 
-        "referral": "Eldoret Referal Hospital", 
         "wb_pb:id": "26663312"
       }, 
       "type": "Feature"
@@ -391,6 +391,7 @@
         "amenity": "hospital", 
         "dispensing": "yes", 
         "electricity": "always", 
+        "health_facility:referals": "Eldoret Referral Hospital", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607352984.jpg", 
         "medical_service:family_planning": "yes", 
@@ -400,7 +401,6 @@
         "medical_service:pregnancy_test": "yes", 
         "name": "Eldama Ravine Sub-County Referral Hospital-Mortuary", 
         "osm:id": "5798859909", 
-        "referral": "Eldoret Referral Hospital", 
         "wb_pb:id": "26663338"
       }, 
       "type": "Feature"
@@ -424,6 +424,7 @@
         "amenity": "hospital", 
         "dispensing": "yes", 
         "electricity": "always", 
+        "health_facility:referals": "Eldoret", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607807515.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607913062.jpg", 
         "medical_service:family_planning": "yes", 
@@ -433,7 +434,6 @@
         "medical_service:pregnancy_test": "yes", 
         "name": "Eldama Ravine Sub-County Referral Hospital", 
         "osm:id": "5798859908", 
-        "referral": "Eldoret", 
         "wb_pb:id": "26663361"
       }, 
       "type": "Feature"
@@ -508,6 +508,7 @@
         "amenity": "hospital", 
         "dispensing": "yes", 
         "electricity": "always", 
+        "health_facility:referals": "Eldoret Referral Hospital", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608064458.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608196635.jpg", 
         "medical_service:family_planning": "yes", 
@@ -517,7 +518,6 @@
         "medical_service:pregnancy_test": "yes", 
         "name": "Eldama Ravine Sub-County Referral Hospital- Opd Block", 
         "osm:id": "5798859907", 
-        "referral": "Eldoret Referral Hospital", 
         "wb_pb:id": "26663862"
       }, 
       "type": "Feature"

@@ -20,6 +20,73 @@
     {
       "geometry": {
         "coordinates": [
+          37.55, 
+          -1.7666
+        ], 
+        "type": "Point"
+      }, 
+      "id": "44992658", 
+      "properties": {
+        "addr:city": "Kilala", 
+        "addr:street": "Machakos-Wote Road", 
+        "is_in": "Makueni,Kenya", 
+        "name": "Kilala", 
+        "osm:id": "44992658", 
+        "place": "town"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.4602625, 
+          -1.7476684
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2129367798", 
+      "properties": {
+        "addr:street": "Machakos-Wote Road", 
+        "amenity": "fuel", 
+        "osm:id": "2129367798"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.6331565, 
+          -1.7842514
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5561357956", 
+      "properties": {
+        "leisure": "picnic_table", 
+        "osm:id": "5561357956"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.6330561, 
+          -1.7845214
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5561357980", 
+      "properties": {
+        "information": "office", 
+        "name": "Kusyombunguo Reception", 
+        "osm:id": "5561357980", 
+        "tourism": "information"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           37.6346876, 
           -1.7848421
         ], 
@@ -29,6 +96,96 @@
       "properties": {
         "highway": "street_lamp", 
         "osm:id": "5561375879"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.6329897, 
+          -1.7846584
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5561395383", 
+      "properties": {
+        "highway": "street_lamp", 
+        "opening_hours": "18:00-06:00", 
+        "osm:id": "5561395383"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.6332211, 
+          -1.7848782
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5561490164", 
+      "properties": {
+        "highway": "street_lamp", 
+        "opening_hours": "18:00-06:00", 
+        "osm:id": "5561490164"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.6243821, 
+          -1.8012281
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5587817772", 
+      "properties": {
+        "government": "County", 
+        "name": "Map offices", 
+        "office": "government", 
+        "opening_hours": "08:00-17:00", 
+        "osm:id": "5587817772", 
+        "wheelchair": "yes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.6232681, 
+          -1.804062
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5587817774", 
+      "properties": {
+        "government": "County", 
+        "name": "Makueni County Public Service Board", 
+        "office": "government", 
+        "opening_hours": "08:00-17:00", 
+        "osm:id": "5587817774", 
+        "wheelchair": "yes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.6300238, 
+          -1.7826706
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5587817779", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "denomination": "protestant", 
+        "name": "AIC Wote", 
+        "osm:id": "5587817779", 
+        "religion": "christian", 
+        "service_times": "Su 10:30-13:00", 
+        "wheelchair": "limited"
       }, 
       "type": "Feature"
     }, 
@@ -317,6 +474,22 @@
     {
       "geometry": {
         "coordinates": [
+          37.6210649, 
+          -1.7806119
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5587817800", 
+      "properties": {
+        "highway": "street_lamp", 
+        "opening_hours": "Mo-Su 17:00-06:00", 
+        "osm:id": "5587817800"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           37.6208314, 
           -1.7803239
         ], 
@@ -332,8 +505,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6192685, 
-          -1.77975
+          37.6189982, 
+          -1.779518
         ], 
         "type": "Point"
       }, 
@@ -1102,8 +1275,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6277315, 
-          -1.7808301
+          37.6278108, 
+          -1.7808125
         ], 
         "type": "Point"
       }, 
@@ -1150,8 +1323,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6280009, 
-          -1.7810706
+          37.6278804, 
+          -1.7811381
         ], 
         "type": "Point"
       }, 
@@ -1166,8 +1339,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6276998, 
-          -1.780791
+          37.6274442, 
+          -1.7808292
         ], 
         "type": "Point"
       }, 
@@ -1264,8 +1437,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6243171, 
-          -1.7798621
+          37.6240306, 
+          -1.7798159
         ], 
         "type": "Point"
       }, 
@@ -1280,8 +1453,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6239825, 
-          -1.7803131
+          37.6237637, 
+          -1.7801653
         ], 
         "type": "Point"
       }, 
@@ -1296,14 +1469,16 @@
     {
       "geometry": {
         "coordinates": [
-          37.6237636, 
-          -1.7805651
+          37.6237174, 
+          -1.780522
         ], 
         "type": "Point"
       }, 
       "id": "5608928796", 
       "properties": {
-        "amenity": "bar", 
+        "addr:city": "Wote", 
+        "addr:street": "Church Road", 
+        "amenity": "restaurant", 
         "name": "Geber Wines and Spirits", 
         "osm:id": "5608928796"
       }, 
@@ -1312,8 +1487,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6235116, 
-          -1.7807924
+          37.6233699, 
+          -1.7806507
         ], 
         "type": "Point"
       }, 
@@ -2512,6 +2687,91 @@
       "properties": {
         "osm:id": "5736386841", 
         "power": "portal"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.6258275, 
+          -1.7829091
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6123514263", 
+      "properties": {
+        "name": "Eden Mart Supermarket", 
+        "osm:id": "6123514263", 
+        "shop": "supermarket"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.6254424, 
+          -1.7829891
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6123521220", 
+      "properties": {
+        "name": "Junction Mall", 
+        "osm:id": "6123521220"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.6203696, 
+          -1.7805285
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6232565669", 
+      "properties": {
+        "addr:city": "Wote", 
+        "addr:street": "Machakos-Wote Road", 
+        "amenity": "fuel", 
+        "name": "Kenol Wote", 
+        "osm:id": "6232565669"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.6221729, 
+          -1.7942134
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6232588960", 
+      "properties": {
+        "addr:city": "Wote", 
+        "addr:street": "Wote-Makindu Road", 
+        "amenity": "school", 
+        "name": "Makueni General Hospital 4.7  \u00b7", 
+        "osm:id": "6232588960"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.6266274, 
+          -1.8070664
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6232588968", 
+      "properties": {
+        "addr:city": "Wote", 
+        "addr:street": "Wote-Makindu Road", 
+        "amenity": "bank", 
+        "name": "ATHIANI HOUSING CORPORATION SOCIETY LTD", 
+        "osm:id": "6232588968"
       }, 
       "type": "Feature"
     }

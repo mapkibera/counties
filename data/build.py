@@ -99,6 +99,8 @@ def match_projects(county):
          feature.properties['tags']['What_is_the_project_s_apparent_status'] = row['What_is_the_project_s_apparent_status']
          feature.properties['tags']['In_your_opinion_is_the_project_quality'] = row['In_your_opinion_is_the_project_quality']
          feature.properties['tags']['Please_add_any_details_about_y'] = row['Please_add_any_details_about_y']
+         if 'Project_Name_for_Print' in row and row['Project_Name_for_Print'] != '':
+           feature.properties['tags']['Project_Name_for_Print'] = row['Project_Name_for_Print']
 
          feature.properties['tags']['osm:id'] = feature.properties['id']
 
@@ -137,7 +139,7 @@ def number_projects(county):
    not_yet_started = list(filter(lambda p: p.properties['What_is_the_project_s_apparent_status'] in ['Not yet started', 'not_yet_starte'], osm.features))
 
    for features in [completed, in_progress, not_yet_started]:
-     for feature in sorted(features, key=lambda project: project.properties['Project_Name_or_Title'].strip().lower()):
+     for feature in sorted(features, key=lambda project: (project.properties['Project_Name_for_Print'] if 'Project_Name_for_Print' in project.properties else project.properties['Project_Name_or_Title']).strip().lower()):
        feature.properties["iterator"] = i
        result['features'].append(feature)
        i += 1
@@ -154,25 +156,29 @@ def create_index(county):
            status = feature.properties['What_is_the_project_s_apparent_status']
            result = result + status + "\n"
 
-       result = result + str(feature.properties["iterator"]) + ". " + feature.properties['Project_Name_or_Title'] + "\n"
+       if 'Project_Name_for_Print' in feature.properties:
+         name = feature.properties['Project_Name_for_Print']
+       else:
+         name = feature.properties['Project_Name_or_Title']
+       result = result + str(feature.properties["iterator"]) + ". " + name + "\n"
 
    writefile(county + '-projects-listing.txt', result)
 
-#sync_osm()
-#sync_projects()
-#convert_geojson()
+sync_osm()
+sync_projects()
+convert_geojson()
 
-##match_projects('makueni')
-#match_projects('wote')
-#match_projects('mbooni')
+#match_projects('makueni')
+match_projects('wote')
+match_projects('mbooni')
 #match_projects('baringo')
-#match_projects('kabernet')
-#match_projects('eldama')
+match_projects('kabernet')
+match_projects('eldama')
 
-#merge_geojson()
+merge_geojson()
 
-#filter_poi('makueni')
-#filter_poi('baringo')
+filter_poi('makueni')
+filter_poi('baringo')
 
 number_projects('kabernet')
 number_projects('eldama')

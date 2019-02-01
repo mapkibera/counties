@@ -162,31 +162,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.7407854,
-          0.4933178
-        ],
-        "type": "Point"
-      },
-      "id": "5781471262",
-      "properties": {
-        "Category": "Lands, Housing and Urban Development",
-        "In_your_opinion_is_the_project_quality": "Adequate",
-        "Please_add_any_details_about_y": "the project is complete .",
-        "Project_Description": "constructed market sheds",
-        "Project_Name_or_Title": "kabarnet market sheds",
-        "What_is_the_project_s_apparent_status": "Completed",
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531920312708.jpg",
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531920516358.jpg",
-        "name": "Kabarnet Public Market",
-        "osm:id": "5781471262",
-        "social_facility": "shelter",
-        "wb_pb:id": "26126170"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           35.6493035,
           0.4531136
         ],
@@ -411,6 +386,7 @@
         "amenity": "hospital",
         "dispensing": "yes",
         "electricity": "always",
+        "health_facility:referals": "Kabarnet Referral Hospital",
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919240170.jpg",
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919411323.jpg",
         "medical_service:family_planning": "yes",
@@ -420,7 +396,6 @@
         "medical_service:pregnancy_test": "no",
         "name": "Kiboino Health Center",
         "osm:id": "5779173627",
-        "referral": "Kabarnet Referral Hospital",
         "wb_pb:id": "26127322"
       },
       "type": "Feature"
@@ -444,6 +419,7 @@
         "amenity": "hospital",
         "dispensing": "no",
         "electricity": "always",
+        "health_facility:referals": "Kabarnet County Referal Hospital",
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919674688.jpg",
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919889855.jpg",
         "medical_service:family_planning": "no",
@@ -453,7 +429,6 @@
         "medical_service:pregnancy_test": "no",
         "name": "Kiboino Health Center Staff House",
         "osm:id": "5779173626",
-        "referral": "Kabarnet County Referal Hospital",
         "wb_pb:id": "26127327"
       },
       "type": "Feature"
@@ -610,6 +585,7 @@
         "amenity": "clinic",
         "dispensing": "yes",
         "electricity": "often",
+        "health_facility:referals": "Kabarnet Referral Hospital",
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907158978.jpg",
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907624084.jpg",
         "medical_service:family_planning": "yes",
@@ -621,7 +597,6 @@
         "operational_status": "Operational",
         "operator": "County Government Of Baringo",
         "osm:id": "5779268901",
-        "referral": "Kabarnet Referral Hospital",
         "wb_pb:id": "26128775"
       },
       "type": "Feature"
@@ -1095,6 +1070,7 @@
         "amenity": "clinic",
         "dispensing": "no",
         "electricity": "none",
+        "health_facility:referals": "None",
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532000361156.jpg",
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532000408866.jpg",
         "medical_service:family_planning": "no",
@@ -1104,7 +1080,6 @@
         "medical_service:pregnancy_test": "no",
         "name": "Chepturet Dispensary",
         "osm:id": "5779324092",
-        "referral": "None",
         "wb_pb:id": "26186565"
       },
       "type": "Feature"
@@ -1295,30 +1270,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.7430937,
-          0.4963076
-        ],
-        "type": "Point"
-      },
-      "id": "5781399430",
-      "properties": {
-        "Category": "Education, Sports, Culture and Social services",
-        "In_your_opinion_is_the_project_quality": "Poor",
-        "Please_add_any_details_about_y": "the project is incomplete.",
-        "Project_Description": "upgrading of kabarnet stadium",
-        "Project_Name_or_Title": "kabarnet stadium",
-        "What_is_the_project_s_apparent_status": "In progress",
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982660930.jpg",
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982824122.jpg",
-        "osm:id": "5781399430",
-        "type": "Stadium",
-        "wb_pb:id": "26191876"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           35.742053,
           0.4958576
         ],
@@ -1360,16 +1311,15 @@
         "amenity": "hospital",
         "dispensing": "yes",
         "electricity": "always",
-        "family_planning": "yes",
-        "general_medical_services": "yes",
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531991784796.jpg",
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992030036.jpg",
-        "immunization": "yes",
-        "malaria": "yes",
+        "medical_service:family_planning": "yes",
+        "medical_service:general_medical_services": "yes",
+        "medical_service:immunizations": "yes",
+        "medical_service:malaria": "yes",
+        "medical_service:pregnancy_test": "yes",
         "name": "Kaptimbor Dispensary",
         "osm:id": "5781399432",
-        "pregancy_test": "yes",
-        "type": "Dispensary",
         "wb_pb:id": "26192082"
       },
       "type": "Feature"
@@ -1400,31 +1350,6 @@
         "osm:id": "5781399429",
         "type": "Pre_primary",
         "wb_pb:id": "26192110"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          35.7384556,
-          0.4930698
-        ],
-        "type": "Point"
-      },
-      "id": "5781399399",
-      "properties": {
-        "Category": "Lands, Housing and Urban Development",
-        "In_your_opinion_is_the_project_quality": "Adequate",
-        "Please_add_any_details_about_y": "the fencing is complete and it requires shelter shades",
-        "Project_Description": "muslim cemetry",
-        "Project_Name_or_Title": "fencing of kabarnet muslim cemetry",
-        "What_is_the_project_s_apparent_status": "Completed",
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531996227726.jpg",
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531996434762.jpg",
-        "name": "Muslim cemetry",
-        "osm:id": "5781399399",
-        "type": "Cemetery",
-        "wb_pb:id": "26192164"
       },
       "type": "Feature"
     },
@@ -2013,6 +1938,7 @@
         "amenity": "clinic",
         "dispensing": "yes",
         "electricity": "always",
+        "health_facility:referals": "Kabarnet general hospital",
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532081042362.jpg",
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532081081315.jpg",
         "medical_service:family_planning": "yes",
@@ -2022,7 +1948,6 @@
         "medical_service:pregnancy_test": "yes",
         "name": "Magonoi Dispensary",
         "osm:id": "5781093182",
-        "referral": "Kabarnet general hospital",
         "wb_pb:id": "26240541"
       },
       "type": "Feature"
@@ -2665,6 +2590,7 @@
         "amenity": "hospital",
         "dispensing": "yes",
         "electricity": "sometime",
+        "health_facility:referals": "Eldoret Referral Hospital",
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606346905.jpg",
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606491571.jpg",
         "medical_service:family_planning": "yes",
@@ -2674,7 +2600,6 @@
         "medical_service:pregnancy_test": "yes",
         "name": "Eldama Ravine Sub-County Referral Hospital-Laundry",
         "osm:id": "5798859911",
-        "referral": "Eldoret Referral Hospital",
         "wb_pb:id": "26663306"
       },
       "type": "Feature"
@@ -2698,6 +2623,7 @@
         "amenity": "hospital",
         "dispensing": "yes",
         "electricity": "sometime",
+        "health_facility:referals": "Eldoret Referal Hospital",
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606676419.jpg",
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606762137.jpg",
         "medical_service:family_planning": "yes",
@@ -2707,7 +2633,6 @@
         "medical_service:pregnancy_test": "yes",
         "name": "Eldama Ravine Sub-County Refferal Hospital- Orthopedic Ward",
         "osm:id": "5798859910",
-        "referral": "Eldoret Referal Hospital",
         "wb_pb:id": "26663312"
       },
       "type": "Feature"
@@ -2731,6 +2656,7 @@
         "amenity": "hospital",
         "dispensing": "yes",
         "electricity": "always",
+        "health_facility:referals": "Eldoret Referral Hospital",
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg",
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607352984.jpg",
         "medical_service:family_planning": "yes",
@@ -2740,7 +2666,6 @@
         "medical_service:pregnancy_test": "yes",
         "name": "Eldama Ravine Sub-County Referral Hospital-Mortuary",
         "osm:id": "5798859909",
-        "referral": "Eldoret Referral Hospital",
         "wb_pb:id": "26663338"
       },
       "type": "Feature"
@@ -2764,6 +2689,7 @@
         "amenity": "hospital",
         "dispensing": "yes",
         "electricity": "always",
+        "health_facility:referals": "Eldoret",
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607807515.jpg",
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607913062.jpg",
         "medical_service:family_planning": "yes",
@@ -2773,7 +2699,6 @@
         "medical_service:pregnancy_test": "yes",
         "name": "Eldama Ravine Sub-County Referral Hospital",
         "osm:id": "5798859908",
-        "referral": "Eldoret",
         "wb_pb:id": "26663361"
       },
       "type": "Feature"
@@ -2848,6 +2773,7 @@
         "amenity": "hospital",
         "dispensing": "yes",
         "electricity": "always",
+        "health_facility:referals": "Eldoret Referral Hospital",
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608064458.jpg",
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608196635.jpg",
         "medical_service:family_planning": "yes",
@@ -2857,7 +2783,6 @@
         "medical_service:pregnancy_test": "yes",
         "name": "Eldama Ravine Sub-County Referral Hospital- Opd Block",
         "osm:id": "5798859907",
-        "referral": "Eldoret Referral Hospital",
         "wb_pb:id": "26663862"
       },
       "type": "Feature"

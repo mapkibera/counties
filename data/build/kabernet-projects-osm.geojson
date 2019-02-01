@@ -105,6 +105,7 @@
       "amenity": "hospital",
       "dispensing": "no",
       "electricity": "always",
+      "health_facility:referals": "Kabarnet County Referal Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919674688.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919889855.jpg",
       "medical_service:family_planning": "no",
@@ -113,14 +114,13 @@
       "medical_service:malaria": "no",
       "medical_service:pregnancy_test": "no",
       "name": "Kiboino Health Center Staff House",
-      "referral": "Kabarnet County Referal Hospital",
       "wb_pb:id": "26127327"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:31Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:04Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -143,6 +143,7 @@
       "amenity": "hospital",
       "dispensing": "yes",
       "electricity": "always",
+      "health_facility:referals": "Kabarnet Referral Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919240170.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919411323.jpg",
       "medical_service:family_planning": "yes",
@@ -151,14 +152,13 @@
       "medical_service:malaria": "no",
       "medical_service:pregnancy_test": "no",
       "name": "Kiboino Health Center",
-      "referral": "Kabarnet Referral Hospital",
       "wb_pb:id": "26127322"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:31Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:04Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -947,6 +947,7 @@
       "amenity": "clinic",
       "dispensing": "yes",
       "electricity": "sometime",
+      "health_facility:referals": "Baringo Referral Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919717751.jpg",
       "medical_service:family_planning": "no",
       "medical_service:general_medical_services": "yes",
@@ -954,14 +955,13 @@
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
       "name": "Salawa Catholic Private Health Clinic",
-      "referral": "Baringo Referral Hospital",
       "wb_pb:id": "26128746"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:31Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:04Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -1046,6 +1046,7 @@
       "amenity": "clinic",
       "dispensing": "yes",
       "electricity": "often",
+      "health_facility:referals": "Kabarnet Referral Hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907158978.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907624084.jpg",
       "medical_service:family_planning": "yes",
@@ -1056,16 +1057,15 @@
       "name": "Chesongo Dispensary",
       "operational_status": "Operational",
       "operator": "County Government Of Baringo",
-      "referral": "Kabarnet Referral Hospital",
       "wb_pb:id": "26128775"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T11:21:27Z",
-      "version": "5",
-      "changeset": "61819712",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2018-09-01T17:28:04Z",
+      "version": "6",
+      "changeset": "62203030",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -1673,6 +1673,7 @@
       "amenity": "clinic",
       "dispensing": "no",
       "electricity": "none",
+      "health_facility:referals": "None",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532000361156.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532000408866.jpg",
       "medical_service:family_planning": "no",
@@ -1681,14 +1682,13 @@
       "medical_service:malaria": "no",
       "medical_service:pregnancy_test": "no",
       "name": "Chepturet Dispensary",
-      "referral": "None",
       "wb_pb:id": "26186565"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:32Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:04Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -1905,6 +1905,7 @@
       "amenity": "clinic",
       "dispensing": "yes",
       "electricity": "always",
+      "health_facility:referals": "Baringo county refferal",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916081101.jpg",
       "medical_service:family_planning": "yes",
       "medical_service:general_medical_services": "yes",
@@ -1913,14 +1914,13 @@
       "medical_service:pregnancy_test": "yes",
       "name": "Kapkole dispensary",
       "operator": "County Goverment Of Baringo",
-      "referral": "Baringo county refferal",
       "wb_pb:id": "26126421"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:33Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:05Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -2007,6 +2007,7 @@
       "amenity": "clinic",
       "dispensing": "yes",
       "electricity": "none",
+      "health_facility:referals": "Baringo county teaching and referal hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531911311392.jpg",
       "medical_service:family_planning": "yes",
       "medical_service:general_medical_services": "no",
@@ -2015,14 +2016,13 @@
       "medical_service:pregnancy_test": "yes",
       "name": "Kapkokwon Dispensary",
       "operator": "County Goverment Of Baringo",
-      "referral": "Baringo county teaching and referal hospital",
       "wb_pb:id": "26126344"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:33Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:05Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -2837,6 +2837,7 @@
       "amenity": "clinic",
       "dispensing": "yes",
       "electricity": "always",
+      "health_facility:referals": "Kabarnet general hospital",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532081042362.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532081081315.jpg",
       "medical_service:family_planning": "yes",
@@ -2845,14 +2846,13 @@
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
       "name": "Magonoi Dispensary",
-      "referral": "Kabarnet general hospital",
       "wb_pb:id": "26240541"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-06T11:00:33Z",
-      "version": "3",
-      "changeset": "61399892",
+      "timestamp": "2018-09-01T17:28:05Z",
+      "version": "4",
+      "changeset": "62203030",
       "user": "mueschel",
       "uid": "616774"
     }
@@ -3126,36 +3126,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5781399399",
-  "properties": {
-    "type": "node",
-    "id": "5781399399",
-    "tags": {
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531996227726.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531996434762.jpg",
-      "name": "Muslim cemetry",
-      "type": "Cemetery",
-      "wb_pb:id": "26192164"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-25T08:41:56Z",
-      "version": "2",
-      "changeset": "61047706",
-      "user": "muindre",
-      "uid": "261050"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7384556,
-      0.4930698
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5781399422",
   "properties": {
     "type": "node",
@@ -3356,35 +3326,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5781399430",
-  "properties": {
-    "type": "node",
-    "id": "5781399430",
-    "tags": {
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982660930.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982824122.jpg",
-      "type": "Stadium",
-      "wb_pb:id": "26191876"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-24T09:39:32Z",
-      "version": "1",
-      "changeset": "61015284",
-      "user": "zubeda",
-      "uid": "8556533"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7430937,
-      0.4963076
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5781399431",
   "properties": {
     "type": "node",
@@ -3423,24 +3364,23 @@
       "amenity": "hospital",
       "dispensing": "yes",
       "electricity": "always",
-      "family_planning": "yes",
-      "general_medical_services": "yes",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531991784796.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992030036.jpg",
-      "immunization": "yes",
-      "malaria": "yes",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
       "name": "Kaptimbor Dispensary",
-      "pregancy_test": "yes",
-      "type": "Dispensary",
       "wb_pb:id": "26192082"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-24T09:39:33Z",
-      "version": "1",
-      "changeset": "61015284",
-      "user": "zubeda",
-      "uid": "8556533"
+      "timestamp": "2018-09-08T17:08:14Z",
+      "version": "3",
+      "changeset": "62407281",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -3759,36 +3699,6 @@
     "coordinates": [
       35.7415781,
       0.4921871
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5781471262",
-  "properties": {
-    "type": "node",
-    "id": "5781471262",
-    "tags": {
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531920312708.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531920516358.jpg",
-      "name": "Kabarnet Public Market",
-      "social_facility": "shelter",
-      "wb_pb:id": "26126170"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-08T10:31:45Z",
-      "version": "2",
-      "changeset": "61462929",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7407854,
-      0.4933178
     ]
   }
 },
@@ -5272,34 +5182,6 @@
     "coordinates": [
       35.7402843,
       0.4978909
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5817722221",
-  "properties": {
-    "type": "node",
-    "id": "5817722221",
-    "tags": {
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070076102.jpg",
-      "type": "Public market",
-      "wb_pb:id": "26235610"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-08T10:31:43Z",
-      "version": "1",
-      "changeset": "61462929",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7407029,
-      0.4929184
     ]
   }
 },

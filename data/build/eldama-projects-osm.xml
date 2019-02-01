@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.4 3079d8ea">
+<osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2018-08-26T01:28:02Z"/>
+<meta osm_base="2019-02-01T03:33:03Z"/>
 
   <bounds minlat="-0.0307000" minlon="35.6881000" maxlat="0.0852000" maxlon="35.7553000"/>
 
@@ -264,10 +264,11 @@
     <tag k="type" v="Garden Square"/>
     <tag k="wb_pb:id" v="26663654"/>
   </node>
-  <node id="5798859907" lat="0.0464489" lon="35.7244200" version="3" timestamp="2018-08-06T11:00:36Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5798859907" lat="0.0464489" lon="35.7244200" version="4" timestamp="2018-09-01T17:28:06Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Eldoret Referral Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608064458.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608196635.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -276,13 +277,13 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital- Opd Block"/>
-    <tag k="referral" v="Eldoret Referral Hospital"/>
     <tag k="wb_pb:id" v="26663862"/>
   </node>
-  <node id="5798859908" lat="0.0463533" lon="35.7246667" version="3" timestamp="2018-08-06T11:00:36Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5798859908" lat="0.0463533" lon="35.7246667" version="4" timestamp="2018-09-01T17:28:06Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Eldoret"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607807515.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607913062.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -291,13 +292,13 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital"/>
-    <tag k="referral" v="Eldoret"/>
     <tag k="wb_pb:id" v="26663361"/>
   </node>
-  <node id="5798859909" lat="0.0451609" lon="35.7251989" version="4" timestamp="2018-08-09T12:32:54Z" changeset="61499873" uid="8556619" user="kbizz">
+  <node id="5798859909" lat="0.0451609" lon="35.7251989" version="5" timestamp="2018-09-01T17:28:07Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
+    <tag k="health_facility:referals" v="Eldoret Referral Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607352984.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -306,13 +307,13 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital-Mortuary"/>
-    <tag k="referral" v="Eldoret Referral Hospital"/>
     <tag k="wb_pb:id" v="26663338"/>
   </node>
-  <node id="5798859910" lat="0.0458721" lon="35.7246483" version="3" timestamp="2018-08-06T11:00:36Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5798859910" lat="0.0458721" lon="35.7246483" version="4" timestamp="2018-09-01T17:28:07Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="sometime"/>
+    <tag k="health_facility:referals" v="Eldoret Referal Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606676419.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606762137.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -321,13 +322,13 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Eldama Ravine Sub-County Refferal Hospital- Orthopedic Ward"/>
-    <tag k="referral" v="Eldoret Referal Hospital"/>
     <tag k="wb_pb:id" v="26663312"/>
   </node>
-  <node id="5798859911" lat="0.0457900" lon="35.7247244" version="3" timestamp="2018-08-06T11:00:37Z" changeset="61399892" uid="616774" user="mueschel">
+  <node id="5798859911" lat="0.0457900" lon="35.7247244" version="4" timestamp="2018-09-01T17:28:07Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="sometime"/>
+    <tag k="health_facility:referals" v="Eldoret Referral Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606346905.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606491571.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
@@ -336,7 +337,6 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital-Laundry"/>
-    <tag k="referral" v="Eldoret Referral Hospital"/>
     <tag k="wb_pb:id" v="26663306"/>
   </node>
   <node id="5798859914" lat="0.0507183" lon="35.7219117" version="2" timestamp="2018-08-04T17:42:24Z" changeset="61358766" uid="616774" user="mueschel">
