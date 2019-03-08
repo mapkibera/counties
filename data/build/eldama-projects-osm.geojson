@@ -982,44 +982,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5798859909",
-  "properties": {
-    "type": "node",
-    "id": "5798859909",
-    "tags": {
-      "amenity": "hospital",
-      "dispensing": "yes",
-      "electricity": "always",
-      "health_facility:referals": "Eldoret Referral Hospital",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607352984.jpg",
-      "medical_service:family_planning": "yes",
-      "medical_service:general_medical_services": "yes",
-      "medical_service:immunizations": "yes",
-      "medical_service:malaria": "yes",
-      "medical_service:pregnancy_test": "yes",
-      "name": "Eldama Ravine Sub-County Referral Hospital-Mortuary",
-      "wb_pb:id": "26663338"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-09-01T17:28:07Z",
-      "version": "5",
-      "changeset": "62203030",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7251989,
-      0.0451609
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5798859910",
   "properties": {
     "type": "node",
@@ -1356,37 +1318,6 @@
     "coordinates": [
       35.7258241,
       0.0602013
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5800785522",
-  "properties": {
-    "type": "node",
-    "id": "5800785522",
-    "tags": {
-      "amenity": "marketplace",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124345492.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124583285.jpg",
-      "name": "Eldama Ravine Market",
-      "type": "Public Market",
-      "wb_pb:id": "27061423"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-01T12:25:13Z",
-      "version": "2",
-      "changeset": "61261924",
-      "user": "kbizz",
-      "uid": "8556619"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7239565,
-      0.0532994
     ]
   }
 },

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-02-01T03:33:03Z"/>
+<meta osm_base="2019-03-08T03:09:02Z"/>
 
   <bounds minlat="-1.8769500" minlon="37.3700000" maxlat="-1.5900700" maxlon="37.7359800"/>
 
@@ -2610,16 +2610,6 @@
     <tag k="village" v="Bosnia"/>
     <tag k="wb_pb:id" v="21683626"/>
   </node>
-  <node id="5592191395" lat="-1.7986181" lon="37.6578931" version="4" timestamp="2018-07-05T14:07:49Z" changeset="60438483" uid="345975" user="VlIvYur">
-    <tag k="amenity" v="drinking_water"/>
-    <tag k="fee" v="no"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524485080460.jpg"/>
-    <tag k="name" v="Kyamusoi Water Project"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operational_status" v="non_operational"/>
-    <tag k="village" v="Bosnia"/>
-    <tag k="wb_pb:id" v="21683661"/>
-  </node>
   <node id="5592191396" lat="-1.7621569" lon="37.6666084" version="3" timestamp="2018-05-09T09:33:54Z" changeset="58813568" uid="261050" user="muindre">
     <tag k="cost_per_litre" v="0"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524475784211.jpg"/>
@@ -2659,17 +2649,6 @@
     <tag k="type" v="borehole"/>
     <tag k="village" v="Mwaani"/>
     <tag k="wb_pb:id" v="21683532"/>
-  </node>
-  <node id="5592191400" lat="-1.7962161" lon="37.6589231" version="3" timestamp="2018-05-09T09:33:55Z" changeset="58813568" uid="261050" user="muindre">
-    <tag k="amenity" v="drinking_water"/>
-    <tag k="cost_per_litre" v="0"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524485080460.jpg"/>
-    <tag k="name" v="Kyamusoi Water Kiosk"/>
-    <tag k="opening_hours" v="Mo-Su 6:30-8:00"/>
-    <tag k="operational_status" v="non_operational"/>
-    <tag k="type" v="Water Kiosk"/>
-    <tag k="village" v="Bosnia"/>
-    <tag k="wb_pb:id" v="21683661"/>
   </node>
   <node id="5592191401" lat="-1.7874928" lon="37.6605745" version="7" timestamp="2018-07-04T10:38:27Z" changeset="60404750" uid="345975" user="VlIvYur">
     <tag k="amenity" v="toilets"/>
@@ -3005,7 +2984,7 @@
     <tag k="village" v="Kasemei"/>
     <tag k="wb_pb:id" v="21752301"/>
   </node>
-  <node id="5594339398" lat="-1.7833868" lon="37.6136005" version="2" timestamp="2018-05-08T12:17:12Z" changeset="58786942" uid="261050" user="muindre">
+  <node id="5594339398" lat="-1.7833729" lon="37.6136067" version="3" timestamp="2019-03-07T17:29:51Z" changeset="67892070" uid="9389044" user="JemaaElFna">
     <tag k="junction" v="yes"/>
     <tag k="name" v="Aic Malivani Junction"/>
   </node>
@@ -3023,9 +3002,6 @@
   </node>
   <node id="5594339751" lat="-1.8007631" lon="37.5606431" version="1" timestamp="2018-05-03T10:51:19Z" changeset="58643725" uid="261050" user="muindre">
     <tag k="power" v="portal"/>
-  </node>
-  <node id="5594351641" lat="-1.7994834" lon="37.5609456" version="1" timestamp="2018-05-03T11:00:46Z" changeset="58643977" uid="261050" user="muindre">
-    <tag k="name" v="Mikwani sand dam"/>
   </node>
   <node id="5595970357" lat="-1.7881660" lon="37.6167326" version="1" timestamp="2018-05-04T08:47:00Z" changeset="58672115" uid="8123824" user="Kitone">
     <tag k="leisure" v="stadium"/>
@@ -7041,7 +7017,7 @@
     <tag k="wb_pb:id" v="21733851"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5736384036" lat="-1.7808013" lon="37.6345189" version="2" timestamp="2018-07-14T14:49:47Z" changeset="60713861" uid="616774" user="mueschel">
+  <node id="5736384036" lat="-1.7808013" lon="37.6345189" version="3" timestamp="2019-03-06T18:57:06Z" changeset="67855205" uid="316172" user="ricaji">
     <tag k="description" v="earth_dam"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524640417047.jpg"/>
     <tag k="is_in:village" v="Malawi"/>
@@ -7049,7 +7025,7 @@
     <tag k="name" v="Kamunyolo earth dam"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="operational_status" v="operational"/>
-    <tag k="wb_pb:id" v="21733911"/>
+    <tag k="wb_pb:id" v="21683685"/>
   </node>
   <node id="5736384038" lat="-1.7809448" lon="37.6346760" version="2" timestamp="2018-07-14T14:49:47Z" changeset="60713861" uid="616774" user="mueschel">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524640550060.jpg"/>
@@ -7100,8 +7076,8 @@
     <tag k="wb_pb:id" v="21735969"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5736384049" lat="-1.8064944" lon="37.6463028" version="2" timestamp="2018-07-12T09:42:39Z" changeset="60644498" uid="616774" user="mueschel">
-    <tag k="amenity" v="public_facilit"/>
+  <node id="5736384049" lat="-1.8064944" lon="37.6463028" version="3" timestamp="2019-02-17T13:27:56Z" changeset="67279534" uid="24126" user="dforsi">
+    <tag k="amenity" v="public_facility"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643541185.jpg"/>
     <tag k="is_in:village" v="Maumbani"/>
     <tag k="name" v="Joy land guest house"/>
@@ -7205,10 +7181,6 @@
     <tag k="opening_hours" v="Mo-Fr 06:00-17:00"/>
     <tag k="wb_pb:id" v="21743638"/>
   </node>
-  <node id="5736386615" lat="-1.7996711" lon="37.5610690" version="1" timestamp="2018-07-03T11:42:57Z" changeset="60376229" uid="265690" user="fondolucy">
-    <tag k="name" v="Mikwani sand dam"/>
-    <tag k="waterway" v="dam"/>
-  </node>
   <node id="5736386826" lat="-1.8016420" lon="37.5613465" version="1" timestamp="2018-07-03T11:42:58Z" changeset="60376229" uid="265690" user="fondolucy">
     <tag k="power" v="transformer"/>
   </node>
@@ -7261,17 +7233,22 @@
     <tag k="type" v="primary"/>
     <tag k="wb_pb:id" v="22950192"/>
   </node>
-  <node id="6250837620" lat="-1.7695464" lon="37.6664522" version="1" timestamp="2019-02-01T03:08:33Z" changeset="66820473" uid="999" user="mikelmaron">
+  <node id="6250837620" lat="-1.7695464" lon="37.6664522" version="2" timestamp="2019-02-07T19:07:06Z" changeset="67004589" uid="616774" user="mueschel">
     <tag k="amenity" v="school"/>
     <tag k="education:type" v="secondary"/>
     <tag k="gender" v="male"/>
     <tag k="government_registered" v="moe"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524638750194.jpg"/>
-    <tag k="in:village" v="Mwaani"/>
+    <tag k="is_in:village" v="Mwaani"/>
     <tag k="name" v="Mwaani Boys"/>
     <tag k="operator" v="Government of Kenya"/>
     <tag k="operator_type" v="government"/>
     <tag k="wb_pb:id" v="21774158"/>
+  </node>
+  <node id="6324475182" lat="-1.7979787" lon="37.5663663" version="3" timestamp="2019-03-08T02:34:35Z" changeset="67907184" uid="316172" user="ricaji">
+    <tag k="man_made" v="water_well"/>
+    <tag k="name" v="Kitikyumu borehole"/>
+    <tag k="wb_pb:id" v="21640000"/>
   </node>
 
 </osm>

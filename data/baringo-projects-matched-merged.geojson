@@ -809,7 +809,7 @@
       "properties": {
         "Category": "Lands, Housing and Urban Development",
         "In_your_opinion_is_the_project_quality": "Adequate",
-        "Please_add_any_details_about_y": "1.It will assist in creating space for garbage disposal.\n2. The dumpsite will cause pollution to the nearby stream and pose health hazard to the locals.",
+        "Please_add_any_details_about_y": "1.It will assist in creating space for garbage disposal. 2. The dumpsite will cause pollution to the nearby stream and pose health hazard to the locals.",
         "Project_Description": "Land bank for dump site purpose",
         "Project_Name_or_Title": "Land bank for dump site purpose",
         "What_is_the_project_s_apparent_status": "In progress",
@@ -2640,39 +2640,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.7251989,
-          0.0451609
-        ],
-        "type": "Point"
-      },
-      "id": "5798859909",
-      "properties": {
-        "Category": "Health Services",
-        "In_your_opinion_is_the_project_quality": "Excellent",
-        "Please_add_any_details_about_y": "In good condition ",
-        "Project_Description": "Wall",
-        "Project_Name_or_Title": "Mojury equipment",
-        "What_is_the_project_s_apparent_status": "Completed",
-        "amenity": "hospital",
-        "dispensing": "yes",
-        "electricity": "always",
-        "health_facility:referals": "Eldoret Referral Hospital",
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg",
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607352984.jpg",
-        "medical_service:family_planning": "yes",
-        "medical_service:general_medical_services": "yes",
-        "medical_service:immunizations": "yes",
-        "medical_service:malaria": "yes",
-        "medical_service:pregnancy_test": "yes",
-        "name": "Eldama Ravine Sub-County Referral Hospital-Mortuary",
-        "osm:id": "5798859909",
-        "wb_pb:id": "26663338"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           35.7246667,
           0.0463533
         ],
@@ -2799,7 +2766,7 @@
       "properties": {
         "Category": "Education, Sports, Culture and Social services",
         "In_your_opinion_is_the_project_quality": "Poor",
-        "Please_add_any_details_about_y": "1. The classroom floors are already damaged due to poor construction.\n2. The project is stalling\n3. There are no toilets for the pupils.",
+        "Please_add_any_details_about_y": "1. The classroom floors are already damaged due to poor construction. 2. The project is stalling. 3. There are no toilets for the pupils.",
         "Project_Description": "Construction of ECDE classrooms",
         "Project_Name_or_Title": "Luita ECDE",
         "What_is_the_project_s_apparent_status": "In progress",
@@ -2828,7 +2795,7 @@
       "properties": {
         "Category": "Education, Sports, Culture and Social services",
         "In_your_opinion_is_the_project_quality": "Excellent",
-        "Please_add_any_details_about_y": "1.Good workmanship\n2.worked in good time",
+        "Please_add_any_details_about_y": "1.Good workmanship. 2.worked in good time",
         "Project_Description": "Construction of Adminstration Block, offices and classrooms",
         "Project_Name_or_Title": "Uhuru High School-Kabiyet",
         "What_is_the_project_s_apparent_status": "In progress",
@@ -2857,7 +2824,7 @@
       "properties": {
         "Category": "Education, Sports, Culture and Social services",
         "In_your_opinion_is_the_project_quality": "Adequate",
-        "Please_add_any_details_about_y": "1.poor drainage\n2.No gas system\n3.broken taps\n4.No sits\n5.inadequate fume chamber",
+        "Please_add_any_details_about_y": "1.poor drainage. 2.No gas system. 3.broken taps. 4.No sits. 5.inadequate fume chamber",
         "Project_Description": "Use for science practicals",
         "Project_Name_or_Title": "Uhuru kabiyet science labaratory",
         "What_is_the_project_s_apparent_status": "Completed",
@@ -2886,7 +2853,7 @@
       "properties": {
         "Category": "Education, Sports, Culture and Social services",
         "In_your_opinion_is_the_project_quality": "Adequate",
-        "Please_add_any_details_about_y": "1.incomplete erection of drawers\n2.No facilitation of playing kits\n3Need more space of classes\n4.Inadequate teachers\n5.cracking walls\n6 No ECDE toilets",
+        "Please_add_any_details_about_y": "1.incomplete erection of drawers. 2.No facilitation of playing kits. 3Need more space of classes.  4.Inadequate teachers. 5.cracking walls. 6 No ECDE toilets",
         "Project_Description": "",
         "Project_Name_or_Title": "Kabiyet ECDE",
         "What_is_the_project_s_apparent_status": "Completed",
@@ -3027,7 +2994,7 @@
       "properties": {
         "Category": "Education, Sports, Culture and Social services",
         "In_your_opinion_is_the_project_quality": "Adequate",
-        "Please_add_any_details_about_y": "1.Project has stopped for four years.\n2.poor workmanship.\n3.New project has overcomed old project.\n4.The building is small,congestion of pupils.",
+        "Please_add_any_details_about_y": "1.Project has stopped for four years. 2.poor workmanship. 3.New project has overcomed old project. 4.The building is small,congestion of pupils.",
         "Project_Description": "Construction of new classroom",
         "Project_Name_or_Title": "Tabare ECDE classroom",
         "What_is_the_project_s_apparent_status": "In progress",
@@ -3055,7 +3022,7 @@
       "properties": {
         "Category": "Education, Sports, Culture and Social services",
         "In_your_opinion_is_the_project_quality": "Poor",
-        "Please_add_any_details_about_y": "1.poor erection of pillars.\n2.No fisherboards.\n3 Cracking of walls and floors.\n4 Congestion of pupils.\n5.Poor location and texture of chalkboard.\n6. Inadequate chairs and tables.",
+        "Please_add_any_details_about_y": "1.poor erection of pillars. 2.No fisherboards. 3 Cracking of walls and floors. 4 Congestion of pupils. 5.Poor location and texture of chalkboard. 6. Inadequate chairs and tables.",
         "Project_Description": "Construction of ECDE classrooms",
         "Project_Name_or_Title": "Sogonin ECDE",
         "What_is_the_project_s_apparent_status": "In progress",
@@ -3237,32 +3204,6 @@
         "osm:id": "5800785538",
         "type": "Car wash",
         "wb_pb:id": "26922849"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          35.7239565,
-          0.0532994
-        ],
-        "type": "Point"
-      },
-      "id": "5800785522",
-      "properties": {
-        "Category": "Transport, Public Works and Infrasctructure",
-        "In_your_opinion_is_the_project_quality": "Adequate",
-        "Please_add_any_details_about_y": "Its need to be revanished not in good condition",
-        "Project_Description": "Proposed renovation and civil works at ravine market",
-        "Project_Name_or_Title": "Renovation of ravine market",
-        "What_is_the_project_s_apparent_status": "Completed",
-        "amenity": "marketplace",
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124345492.jpg",
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124583285.jpg",
-        "name": "Eldama Ravine Market",
-        "osm:id": "5800785522",
-        "type": "Public Market",
-        "wb_pb:id": "27061423"
       },
       "type": "Feature"
     }

@@ -418,6 +418,36 @@
     {
       "geometry": {
         "coordinates": [
+          35.7240939, 
+          0.0481025
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4941241888", 
+      "properties": {
+        "barrier": "gate", 
+        "osm:id": "4941241888"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7367061, 
+          0.0769266
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5474071367", 
+      "properties": {
+        "noexit": "yes", 
+        "osm:id": "5474071367"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.7415419, 
           0.0150673
         ], 
@@ -442,6 +472,66 @@
       "properties": {
         "noexit": "yes", 
         "osm:id": "5476713726"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7253209, 
+          0.0453562
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5489309302", 
+      "properties": {
+        "noexit": "yes", 
+        "osm:id": "5489309302"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7246168, 
+          0.0466651
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5491679119", 
+      "properties": {
+        "noexit": "yes", 
+        "osm:id": "5491679119"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7240026, 
+          0.0464706
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5491679120", 
+      "properties": {
+        "noexit": "yes", 
+        "osm:id": "5491679120"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7268123, 
+          0.0418344
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5491703590", 
+      "properties": {
+        "noexit": "yes", 
+        "osm:id": "5491703590"
       }, 
       "type": "Feature"
     }, 
@@ -517,6 +607,36 @@
       "properties": {
         "noexit": "yes", 
         "osm:id": "5529899506"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7116939, 
+          0.0189444
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5531243009", 
+      "properties": {
+        "noexit": "yes", 
+        "osm:id": "5531243009"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.710841, 
+          0.0208072
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5531243045", 
+      "properties": {
+        "noexit": "yes", 
+        "osm:id": "5531243045"
       }, 
       "type": "Feature"
     }, 
@@ -4707,30 +4827,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.7245844, 
-          0.0466988
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5798859906", 
-      "properties": {
-        "amenity": "hospital", 
-        "dispensing": "yes", 
-        "health_facility:referals": "Eldoret Referral Hospital", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608628789.jpg", 
-        "medical_service:family_planning": "yes", 
-        "medical_service:general_medical_services": "yes", 
-        "medical_service:immunizations": "yes", 
-        "medical_service:malaria": "yes", 
-        "medical_service:pregnancy_test": "yes", 
-        "name": "Eldama Ravine Sub-County Referral Hospital", 
-        "osm:id": "5798859906"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           35.7223702, 
           0.0488961
         ], 
@@ -5669,24 +5765,6 @@
         "name": "Eldama Ravine Sub County Offices", 
         "office": "government", 
         "osm:id": "5801831221"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7244276, 
-          0.0530407
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5817574912", 
-      "properties": {
-        "amenity": "marketplace", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533019833673.jpg", 
-        "name": "Ravine Market", 
-        "osm:id": "5817574912", 
-        "type": "Market"
       }, 
       "type": "Feature"
     }, 
@@ -8652,6 +8730,71 @@
         "name": "Gwa Kung'u Shopping Centre", 
         "osm:id": "6241778084", 
         "shop": "mall"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7078707, 
+          0.3139977
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6283189764", 
+      "properties": {
+        "crossing": "unmarked", 
+        "highway": "crossing", 
+        "osm:id": "6283189764"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.363452, 
+          0.0391671
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6299661258", 
+      "properties": {
+        "amenity": "restaurant", 
+        "cuisine": "local", 
+        "name": "Club Comfort", 
+        "osm:id": "6299661258", 
+        "outdoor_seating": "no"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7430959, 
+          0.0978094
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6315718906", 
+      "properties": {
+        "highway": "turning_circle", 
+        "noexit": "yes", 
+        "osm:id": "6315718906"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7300791, 
+          0.0931504
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6315718958", 
+      "properties": {
+        "noexit": "yes", 
+        "osm:id": "6315718958"
       }, 
       "type": "Feature"
     }

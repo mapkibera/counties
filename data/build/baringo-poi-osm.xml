@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-02-01T03:33:03Z"/>
+<meta osm_base="2019-03-08T03:09:02Z"/>
 
   <bounds minlat="-0.2150000" minlon="35.5210000" maxlat="1.6800000" maxlon="36.4950000"/>
 
@@ -144,10 +144,28 @@
     <tag k="name" v="Security Office"/>
     <tag k="office" v="yes"/>
   </node>
+  <node id="4941241888" lat="0.0481025" lon="35.7240939" version="4" timestamp="2019-03-04T09:12:17Z" changeset="67759409" uid="74746" user="vogelfreier">
+    <tag k="barrier" v="gate"/>
+  </node>
+  <node id="5474071367" lat="0.0769266" lon="35.7367061" version="3" timestamp="2019-03-04T09:45:15Z" changeset="67760307" uid="74746" user="vogelfreier">
+    <tag k="noexit" v="yes"/>
+  </node>
   <node id="5476713723" lat="0.0150673" lon="35.7415419" version="3" timestamp="2018-05-18T15:48:31Z" changeset="59083366" uid="74746" user="vogelfreier">
     <tag k="noexit" v="yes"/>
   </node>
   <node id="5476713726" lat="0.0144652" lon="35.7412881" version="2" timestamp="2018-05-18T15:48:31Z" changeset="59083366" uid="74746" user="vogelfreier">
+    <tag k="noexit" v="yes"/>
+  </node>
+  <node id="5489309302" lat="0.0453562" lon="35.7253209" version="2" timestamp="2019-03-04T09:12:17Z" changeset="67759409" uid="74746" user="vogelfreier">
+    <tag k="noexit" v="yes"/>
+  </node>
+  <node id="5491679119" lat="0.0466651" lon="35.7246168" version="2" timestamp="2019-03-04T09:12:17Z" changeset="67759409" uid="74746" user="vogelfreier">
+    <tag k="noexit" v="yes"/>
+  </node>
+  <node id="5491679120" lat="0.0464706" lon="35.7240026" version="2" timestamp="2019-03-04T09:12:17Z" changeset="67759409" uid="74746" user="vogelfreier">
+    <tag k="noexit" v="yes"/>
+  </node>
+  <node id="5491703590" lat="0.0418344" lon="35.7268123" version="3" timestamp="2019-02-14T14:46:25Z" changeset="67196336" uid="74746" user="vogelfreier">
     <tag k="noexit" v="yes"/>
   </node>
   <node id="5503760428" lat="0.0242914" lon="35.7218485" version="2" timestamp="2018-05-18T14:46:42Z" changeset="59082062" uid="74746" user="vogelfreier">
@@ -163,6 +181,12 @@
     <tag k="noexit" v="yes"/>
   </node>
   <node id="5529899506" lat="0.0222621" lon="35.7218041" version="2" timestamp="2018-05-18T14:46:43Z" changeset="59082062" uid="74746" user="vogelfreier">
+    <tag k="noexit" v="yes"/>
+  </node>
+  <node id="5531243009" lat="0.0189444" lon="35.7116939" version="2" timestamp="2019-03-04T09:45:15Z" changeset="67760307" uid="74746" user="vogelfreier">
+    <tag k="noexit" v="yes"/>
+  </node>
+  <node id="5531243045" lat="0.0208072" lon="35.7108410" version="2" timestamp="2019-03-04T09:45:15Z" changeset="67760307" uid="74746" user="vogelfreier">
     <tag k="noexit" v="yes"/>
   </node>
   <node id="5532288199" lat="0.0214625" lon="35.7395785" version="2" timestamp="2018-05-18T15:48:44Z" changeset="59083366" uid="74746" user="vogelfreier">
@@ -3175,18 +3199,6 @@
     <tag k="type" v="Garden Square"/>
     <tag k="wb_pb:id" v="26663654"/>
   </node>
-  <node id="5798859906" lat="0.0466988" lon="35.7245844" version="6" timestamp="2018-09-01T17:28:06Z" changeset="62203030" uid="616774" user="mueschel">
-    <tag k="amenity" v="hospital"/>
-    <tag k="dispensing" v="yes"/>
-    <tag k="health_facility:referals" v="Eldoret Referral Hospital"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608628789.jpg"/>
-    <tag k="medical_service:family_planning" v="yes"/>
-    <tag k="medical_service:general_medical_services" v="yes"/>
-    <tag k="medical_service:immunizations" v="yes"/>
-    <tag k="medical_service:malaria" v="yes"/>
-    <tag k="medical_service:pregnancy_test" v="yes"/>
-    <tag k="name" v="Eldama Ravine Sub-County Referral Hospital"/>
-  </node>
   <node id="5798859907" lat="0.0464489" lon="35.7244200" version="4" timestamp="2018-09-01T17:28:06Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
@@ -3216,21 +3228,6 @@
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital"/>
     <tag k="wb_pb:id" v="26663361"/>
-  </node>
-  <node id="5798859909" lat="0.0451609" lon="35.7251989" version="5" timestamp="2018-09-01T17:28:07Z" changeset="62203030" uid="616774" user="mueschel">
-    <tag k="amenity" v="hospital"/>
-    <tag k="dispensing" v="yes"/>
-    <tag k="electricity" v="always"/>
-    <tag k="health_facility:referals" v="Eldoret Referral Hospital"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607352984.jpg"/>
-    <tag k="medical_service:family_planning" v="yes"/>
-    <tag k="medical_service:general_medical_services" v="yes"/>
-    <tag k="medical_service:immunizations" v="yes"/>
-    <tag k="medical_service:malaria" v="yes"/>
-    <tag k="medical_service:pregnancy_test" v="yes"/>
-    <tag k="name" v="Eldama Ravine Sub-County Referral Hospital-Mortuary"/>
-    <tag k="wb_pb:id" v="26663338"/>
   </node>
   <node id="5798859910" lat="0.0458721" lon="35.7246483" version="4" timestamp="2018-09-01T17:28:07Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
@@ -3400,14 +3397,6 @@
     <tag k="name" v="Baringo County Government Offices"/>
     <tag k="office" v="administrative"/>
     <tag k="type" v="office"/>
-  </node>
-  <node id="5800785522" lat="0.0532994" lon="35.7239565" version="2" timestamp="2018-08-01T12:25:13Z" changeset="61261924" uid="8556619" user="kbizz">
-    <tag k="amenity" v="marketplace"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124345492.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124583285.jpg"/>
-    <tag k="name" v="Eldama Ravine Market"/>
-    <tag k="type" v="Public Market"/>
-    <tag k="wb_pb:id" v="27061423"/>
   </node>
   <node id="5800785523" lat="0.0496402" lon="35.7274223" version="2" timestamp="2018-08-20T10:00:37Z" changeset="61817742" uid="8556957" user="kenboi">
     <tag k="amenity" v="parking_space"/>
@@ -3662,12 +3651,6 @@
     <tag k="shop" v="clothes"/>
     <tag k="type" v="Public Market"/>
     <tag k="wb_pb:id" v="26965786"/>
-  </node>
-  <node id="5817574912" lat="0.0530407" lon="35.7244276" version="2" timestamp="2018-08-20T10:00:37Z" changeset="61817742" uid="8556957" user="kenboi">
-    <tag k="amenity" v="marketplace"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533019833673.jpg"/>
-    <tag k="name" v="Ravine Market"/>
-    <tag k="type" v="Market"/>
   </node>
   <node id="5817574913" lat="0.0486588" lon="35.7243895" version="2" timestamp="2018-08-20T10:00:37Z" changeset="61817742" uid="8556957" user="kenboi">
     <tag k="amenity" v="fast_food"/>
@@ -4577,46 +4560,46 @@
   <node id="6188008106" lat="0.0653156" lon="35.5429637" version="1" timestamp="2019-01-06T16:00:33Z" changeset="66073393" uid="2778924" user="Ido Marom">
     <tag k="railway" v="level_crossing"/>
   </node>
-  <node id="6230910932" lat="-0.2149532" lon="36.4677005" version="1" timestamp="2019-01-23T18:28:24Z" changeset="66578494" uid="338627" user="GCA">
+  <node id="6230910932" lat="-0.2149532" lon="36.4677005" version="1" timestamp="2019-01-23T18:28:24Z" changeset="66578494" uid="338627" user="cRaIgalLAn">
     <tag k="power" v="tower"/>
   </node>
-  <node id="6230910933" lat="-0.2109750" lon="36.4690341" version="1" timestamp="2019-01-23T18:28:24Z" changeset="66578494" uid="338627" user="GCA">
+  <node id="6230910933" lat="-0.2109750" lon="36.4690341" version="1" timestamp="2019-01-23T18:28:24Z" changeset="66578494" uid="338627" user="cRaIgalLAn">
     <tag k="power" v="tower"/>
   </node>
-  <node id="6230910934" lat="-0.2026042" lon="36.4717842" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+  <node id="6230910934" lat="-0.2026042" lon="36.4717842" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="cRaIgalLAn">
     <tag k="power" v="tower"/>
   </node>
-  <node id="6230910935" lat="-0.1986712" lon="36.4730500" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+  <node id="6230910935" lat="-0.1986712" lon="36.4730500" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="cRaIgalLAn">
     <tag k="power" v="tower"/>
   </node>
-  <node id="6230910936" lat="-0.1946251" lon="36.4743083" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+  <node id="6230910936" lat="-0.1946251" lon="36.4743083" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="cRaIgalLAn">
     <tag k="power" v="tower"/>
   </node>
-  <node id="6230910937" lat="-0.1906997" lon="36.4755515" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+  <node id="6230910937" lat="-0.1906997" lon="36.4755515" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="cRaIgalLAn">
     <tag k="power" v="tower"/>
   </node>
-  <node id="6230910938" lat="-0.1861679" lon="36.4770862" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+  <node id="6230910938" lat="-0.1861679" lon="36.4770862" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="cRaIgalLAn">
     <tag k="power" v="tower"/>
   </node>
-  <node id="6230910939" lat="-0.1803229" lon="36.4791182" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+  <node id="6230910939" lat="-0.1803229" lon="36.4791182" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="cRaIgalLAn">
     <tag k="power" v="tower"/>
   </node>
-  <node id="6230910940" lat="-0.1786067" lon="36.4794987" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+  <node id="6230910940" lat="-0.1786067" lon="36.4794987" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="cRaIgalLAn">
     <tag k="power" v="tower"/>
   </node>
-  <node id="6230910941" lat="-0.1762468" lon="36.4790291" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+  <node id="6230910941" lat="-0.1762468" lon="36.4790291" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="cRaIgalLAn">
     <tag k="power" v="tower"/>
   </node>
-  <node id="6230910942" lat="-0.1729722" lon="36.4784301" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+  <node id="6230910942" lat="-0.1729722" lon="36.4784301" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="cRaIgalLAn">
     <tag k="power" v="tower"/>
   </node>
-  <node id="6230910943" lat="-0.1707216" lon="36.4775153" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+  <node id="6230910943" lat="-0.1707216" lon="36.4775153" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="cRaIgalLAn">
     <tag k="power" v="tower"/>
   </node>
-  <node id="6230910944" lat="-0.1671442" lon="36.4763416" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+  <node id="6230910944" lat="-0.1671442" lon="36.4763416" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="cRaIgalLAn">
     <tag k="power" v="tower"/>
   </node>
-  <node id="6230910945" lat="-0.2069152" lon="36.4704092" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="GCA">
+  <node id="6230910945" lat="-0.2069152" lon="36.4704092" version="1" timestamp="2019-01-23T18:28:25Z" changeset="66578494" uid="338627" user="cRaIgalLAn">
     <tag k="power" v="tower"/>
   </node>
   <node id="6241664233" lat="-0.1880325" lon="36.3810059" version="1" timestamp="2019-01-28T12:42:15Z" changeset="66704643" uid="6318104" user="DingoKG">
@@ -4909,6 +4892,23 @@
     <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
     <tag k="name" v="Gwa Kung'u Shopping Centre"/>
     <tag k="shop" v="mall"/>
+  </node>
+  <node id="6283189764" lat="0.3139977" lon="35.7078707" version="1" timestamp="2019-02-16T18:11:14Z" changeset="67259485" uid="218571" user="Morani">
+    <tag k="crossing" v="unmarked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6299661258" lat="0.0391671" lon="36.3634520" version="1" timestamp="2019-02-24T19:18:59Z" changeset="67526012" uid="4953111" user="ballenato">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="local"/>
+    <tag k="name" v="Club Comfort"/>
+    <tag k="outdoor_seating" v="no"/>
+  </node>
+  <node id="6315718906" lat="0.0978094" lon="35.7430959" version="1" timestamp="2019-03-04T09:45:12Z" changeset="67760307" uid="74746" user="vogelfreier">
+    <tag k="highway" v="turning_circle"/>
+    <tag k="noexit" v="yes"/>
+  </node>
+  <node id="6315718958" lat="0.0931504" lon="35.7300791" version="1" timestamp="2019-03-04T09:45:13Z" changeset="67760307" uid="74746" user="vogelfreier">
+    <tag k="noexit" v="yes"/>
   </node>
 
 </osm>

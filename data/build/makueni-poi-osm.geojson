@@ -9140,39 +9140,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5592191395",
-  "properties": {
-    "type": "node",
-    "id": "5592191395",
-    "tags": {
-      "amenity": "drinking_water",
-      "fee": "no",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524485080460.jpg",
-      "name": "Kyamusoi Water Project",
-      "opening_hours": "24/7",
-      "operational_status": "non_operational",
-      "village": "Bosnia",
-      "wb_pb:id": "21683661"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-05T14:07:49Z",
-      "version": "4",
-      "changeset": "60438483",
-      "user": "VlIvYur",
-      "uid": "345975"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6578931,
-      -1.7986181
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5592191396",
   "properties": {
     "type": "node",
@@ -9300,40 +9267,6 @@
     "coordinates": [
       37.6671927,
       -1.7664292
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5592191400",
-  "properties": {
-    "type": "node",
-    "id": "5592191400",
-    "tags": {
-      "amenity": "drinking_water",
-      "cost_per_litre": "0",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524485080460.jpg",
-      "name": "Kyamusoi Water Kiosk",
-      "opening_hours": "Mo-Su 6:30-8:00",
-      "operational_status": "non_operational",
-      "type": "Water Kiosk",
-      "village": "Bosnia",
-      "wb_pb:id": "21683661"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-05-09T09:33:55Z",
-      "version": "3",
-      "changeset": "58813568",
-      "user": "muindre",
-      "uid": "261050"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6589231,
-      -1.7962161
     ]
   }
 },
@@ -10442,18 +10375,18 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-08T12:17:12Z",
-      "version": "2",
-      "changeset": "58786942",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-07T17:29:51Z",
+      "version": "3",
+      "changeset": "67892070",
+      "user": "JemaaElFna",
+      "uid": "9389044"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      37.6136005,
-      -1.7833868
+      37.6136067,
+      -1.7833729
     ]
   }
 },
@@ -10584,32 +10517,6 @@
     "coordinates": [
       37.5606431,
       -1.8007631
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5594351641",
-  "properties": {
-    "type": "node",
-    "id": "5594351641",
-    "tags": {
-      "name": "Mikwani sand dam"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-05-03T11:00:46Z",
-      "version": "1",
-      "changeset": "58643977",
-      "user": "muindre",
-      "uid": "261050"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.5609456,
-      -1.7994834
     ]
   }
 },
@@ -25750,15 +25657,15 @@
       "name": "Kamunyolo earth dam",
       "opening_hours": "24/7",
       "operational_status": "operational",
-      "wb_pb:id": "21733911"
+      "wb_pb:id": "21683685"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-14T14:49:47Z",
-      "version": "2",
-      "changeset": "60713861",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2019-03-06T18:57:06Z",
+      "version": "3",
+      "changeset": "67855205",
+      "user": "ricaji",
+      "uid": "316172"
     }
   },
   "geometry": {
@@ -25940,7 +25847,7 @@
     "type": "node",
     "id": "5736384049",
     "tags": {
-      "amenity": "public_facilit",
+      "amenity": "public_facility",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643541185.jpg",
       "is_in:village": "Maumbani",
       "name": "Joy land guest house",
@@ -25950,11 +25857,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-12T09:42:39Z",
-      "version": "2",
-      "changeset": "60644498",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2019-02-17T13:27:56Z",
+      "version": "3",
+      "changeset": "67279534",
+      "user": "dforsi",
+      "uid": "24126"
     }
   },
   "geometry": {
@@ -26316,33 +26223,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5736386615",
-  "properties": {
-    "type": "node",
-    "id": "5736386615",
-    "tags": {
-      "name": "Mikwani sand dam",
-      "waterway": "dam"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-03T11:42:57Z",
-      "version": "1",
-      "changeset": "60376229",
-      "user": "fondolucy",
-      "uid": "265690"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.561069,
-      -1.7996711
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5736386826",
   "properties": {
     "type": "node",
@@ -26658,7 +26538,7 @@
       "gender": "male",
       "government_registered": "moe",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524638750194.jpg",
-      "in:village": "Mwaani",
+      "is_in:village": "Mwaani",
       "name": "Mwaani Boys",
       "operator": "Government of Kenya",
       "operator_type": "government",
@@ -26666,11 +26546,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-02-01T03:08:33Z",
-      "version": "1",
-      "changeset": "66820473",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-02-07T19:07:06Z",
+      "version": "2",
+      "changeset": "67004589",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -26678,6 +26558,34 @@
     "coordinates": [
       37.6664522,
       -1.7695464
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6324475182",
+  "properties": {
+    "type": "node",
+    "id": "6324475182",
+    "tags": {
+      "man_made": "water_well",
+      "name": "Kitikyumu borehole",
+      "wb_pb:id": "21640000"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-03-08T02:34:35Z",
+      "version": "3",
+      "changeset": "67907184",
+      "user": "ricaji",
+      "uid": "316172"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.5663663,
+      -1.7979787
     ]
   }
 }

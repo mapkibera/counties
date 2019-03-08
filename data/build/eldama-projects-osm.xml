@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-02-01T03:33:03Z"/>
+<meta osm_base="2019-03-08T03:09:02Z"/>
 
   <bounds minlat="-0.0307000" minlon="35.6881000" maxlat="0.0852000" maxlon="35.7553000"/>
 
@@ -294,21 +294,6 @@
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital"/>
     <tag k="wb_pb:id" v="26663361"/>
   </node>
-  <node id="5798859909" lat="0.0451609" lon="35.7251989" version="5" timestamp="2018-09-01T17:28:07Z" changeset="62203030" uid="616774" user="mueschel">
-    <tag k="amenity" v="hospital"/>
-    <tag k="dispensing" v="yes"/>
-    <tag k="electricity" v="always"/>
-    <tag k="health_facility:referals" v="Eldoret Referral Hospital"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607352984.jpg"/>
-    <tag k="medical_service:family_planning" v="yes"/>
-    <tag k="medical_service:general_medical_services" v="yes"/>
-    <tag k="medical_service:immunizations" v="yes"/>
-    <tag k="medical_service:malaria" v="yes"/>
-    <tag k="medical_service:pregnancy_test" v="yes"/>
-    <tag k="name" v="Eldama Ravine Sub-County Referral Hospital-Mortuary"/>
-    <tag k="wb_pb:id" v="26663338"/>
-  </node>
   <node id="5798859910" lat="0.0458721" lon="35.7246483" version="4" timestamp="2018-09-01T17:28:07Z" changeset="62203030" uid="616774" user="mueschel">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
@@ -419,14 +404,6 @@
     <tag k="name" v="Eldama Ravine Stadium"/>
     <tag k="type" v="Stadium"/>
     <tag k="wb_pb:id" v="26662858"/>
-  </node>
-  <node id="5800785522" lat="0.0532994" lon="35.7239565" version="2" timestamp="2018-08-01T12:25:13Z" changeset="61261924" uid="8556619" user="kbizz">
-    <tag k="amenity" v="marketplace"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124345492.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124583285.jpg"/>
-    <tag k="name" v="Eldama Ravine Market"/>
-    <tag k="type" v="Public Market"/>
-    <tag k="wb_pb:id" v="27061423"/>
   </node>
   <node id="5800785536" lat="0.0524096" lon="35.7236454" version="2" timestamp="2018-08-12T12:04:56Z" changeset="61586326" uid="616774" user="mueschel">
     <tag k="fee" v="2 KSH / 20 litres"/>

@@ -1,156 +1,44 @@
-_id,Ward,Sub_ward,Cluster_Wote,Cluster_Nziu,Project_ID,Project_Name_or_Title,Project_Description,Category,Type_of_facility,What_type_of_facility_or_project_is_it,What_is_the_project_s_apparent_status,In_your_opinion_is_the_project_quality,Please_add_any_details_about_y,Project_Name_for_Print
-21743683,wote,wote,Wote_town,,12,Malawi flood light,Installation of flood light,trade,Other_1,Malawi flood light,completed,Excellent,Improved security,Malawi flood light
-21747351,wote,wote,Kivandini,,25,Governors residence,Construction of governers residence,transport,Other_1,Governors residence,in_progress,Adequate,Good,Governors residence
-21747235,wote,wote,Kivandini,,23,Recording studio,Construction of community studio,devolution,Other_1,Community radio station,completed,Adequate,Good,Community radio station
-21747152,wote,wote,Kivandini,,22,Prefab office,Construction of 2 prefab offices,finance,Other_1,Prefab offices- map,completed,Adequate,Good,Prefab offices- map
-21747113,wote,wote,Kivandini,,21,Makueni fitness centre,Construction of fitness centre,gender,Other_1,Fitness centre,completed,Adequate,Good,Makueni fitness centre
-21747034,wote,wote,Kivandini,,14,Construction of deputy Governor residence,Deputy governer residence,transport,Other_1,Deputy governor residence,in_progress,Adequate,Good,Deputy governor residence
-21741509,wote,wote,Malivani,,7,Playing field,Repairing and maintenance of playing field ,education,sports_ground,,in_progress,Adequate,The project is on its final touches ,St John secondary school
-21774187,wote,wote,Kivandini,,8,Extension of kwakamende borehole,The project is complete,water_irrigati,Other_1,Extension line,completed,Adequate,The project is complete  and in use,Kwakamende borehole
-21775666,wote,wote,Kivandini,,7,Kivandini ECDE,ECDE project ,education,ecde_centre,,completed,Excellent,The ECDE is complete and in  use,Kivandini ECDE
-21745062,wote,wote,Wote_town,,21,Wote sewerage pit ,Management  of wote sewarage,health,Other_1,Wote sewerage pit,completed,Adequate,Improved  sanitation ,Wote sewerage pit
-21744954,wote,wote,Wote_town,,20,Wore kmtc renovation,Wore kmtc renovation,education,Other_1,Wore kmtc renovation,completed,Adequate,Improved  literacy,Wote KMTC
-21744338,wote,wote,Wote_town,,19,Supply of playing kits at unpacking ecde,Supply of playing kits at unoa ecde,education,ecde_centre,,completed,Adequate,Improved  learning  environment,Unoa ECDE
-21744241,wote,wote,Wote_town,,18,Installation  of transformer,Installation  of transformer,transport,Other_1,Transformer installation,completed,Adequate,Improved business and electricity connectivity,Bus stop Transformer
-21744164,wote,wote,Wote_town,,17,Wote bus station cabro paving,Wore stage cabro paving,transport,Other_1,Wore bus stop,completed,Adequate,Eased transport,Wote bus station cabro paving
-21744106,wote,wote,Wote_town,,16,Unoa stadium public toilet,Construction,health,public_toilet,,completed,Adequate,Improved  sanitation,Unoa stadium public toilet
-21744084,wote,wote,Wote_town,,15,Unoa stadium,Leveling,gender,sports_ground,,in_progress,Adequate,Improved youth talent,Unoa stadium
-21744024,wote,wote,Wote_town,,15,Kasarani car wash ,Supply of water,gender,Other_1,Kasarani car wash water supply,completed,Adequate,Improved employed,Kasarani car wash 
-21743948,wote,wote,Wote_town,,14,Wore social  hall,Construction and operationalisation,gender,social_hall,,completed,Adequate,Improved social life,Wote social  hall
-21743785,wote,wote,Wote_town,,13,Kunda kinda transformer ,Installation  of transformer,transport,Other_1,Kunda kinda transformer,completed,Excellent,Improved access to power,Kunda kindu transformer 
-21743734,wote,wote,Wote_town,,12,Water kiosk kinda kindu,Oversight ,water_irrigati,Water_project,,completed,Adequate,Reduced distance  to water point ,Malawi water kiosk
-21742891,wote,wote,Wote_town,,10,Kwan mwenga borehole kiosk at muambani town,"Distribution  to muambani town and kivani, tank supply ",water_irrigati,borehole,,completed,Adequate,"Reduced distance to water,  Florine water",Kwa mwenga borehole kiosk at muambani town
-21736056,wote,wote,Wote_town,,9,Muambani water kiosk mwaani borehole,Distribution ,water_irrigati,Water_project,,completed,Adequate,Shortened  distance to water point,Muambani water kiosk mwaani borehole
-21735962,wote,wote,Wote_town,,8,Muambani ecde kids playing kits,Distribution,education,ecde_centre,,completed,Excellent,Easy access to P.E playing kits,Muambani ECDE
-21735928,wote,wote,Wote_town,,2,Bursary ,Issuing bursary to needy students,education,Other_1,Secondary school bursary,completed,Adequate,Help needy students,Muambani mixed day secondary school
-21733870,wote,wote,Wote_town,,7,Malawi sewarage,Maintenance and treatment,health,Other_1,Sewarage,completed,Adequate,Clean environment no exposure to environmental pollution,Malawi sewarage
-21775441,wote,wote,Wote_town,,14,Kaiti water tank and treatment plant,Construction complete,water_irrigati,Other_1,Water tank,completed,Excellent,Well constructed,Kaiti water tank and treatment plant
-21754198,wote,wote,Wote_town,,13,Kaiti sand dam,Construction complete,water_irrigati,Other_1,Sand dam,completed,Excellent,Well constructed and can serve many people,Kaiti sand dam
-21774298,wote,wote,Malivani,,12,Malivani borehole,Malivani Borehole/pipeline,water_irrigati,borehole,,completed,Excellent,It is fully functional,Malivani borehole
-21752918,wote,wote,Malivani,,11,Makongolo ecde,Stalled,water_irrigati,borehole,,in_progress,Poor,Stalled,Makongolo ECDE
-21774588,wote,wote,Mwaani,,10,Mwaani ecde,Competed,education,ecde_centre,,completed,Adequate,Well constructed,Mwaani ECDE
-21774158,wote,wote,Mwaani,,2,9,Dinning hall and modern kitchen,finance,Other_1,Dinning hall and modern kitchen,completed,Excellent,Well managed,Mwaani Boys Secondary School
-21775307,wote,wote,Mwaani,,8,Green house,Complete,agriculture,Other_1,Green house,completed,Poor,Its seems to be stalling,Mwaani Boys Secondary School
-21747101,wote,wote,Nthangu,,5,Nthangu ECDE Center,ECDE block,education,ecde_centre,,completed,Excellent,Excellent ,Nthangu ECDE Center
-21746987,wote,wote,Nthangu,,5,Kaiti Cattle Dip,Cattle Dip,agriculture,Other_1,Cattle Dip,completed,Adequate,Good,Kaiti Cattle Dip
-21746971,wote,wote,Nthangu,,4,Kaiti Sand dam -( Utooni),Sand dam,water_irrigati,Other_1,Sand dam,completed,Excellent,Excellent ,Kaiti Sand dam -( Utooni)
-21746818,wote,wote,Nthangu,,3,Kiatine ECDE Center,ECDE block,education,ecde_centre,,completed,Excellent,Excellent,Kiatine ECDE Center
-21752713,wote,wote,Wote_town,,4,Kasarani water kiosk ,Construction  of water kiosk ,water_irrigati,Other_1,Water kiosk ,completed,Excellent,Adequate water supply to kasarani residents ,Kasarani water kiosk 
-21752179,wote,wote,Nthangu,,3,Nthangu community water kiosk ,Water kiosk for constructed to supply water to the community ,water_irrigati,Other_1,Water kiosk ,completed,Excellent,Adequate water supply to the community ,Nthangu community water kiosk 
-21752069,wote,wote,Nthangu,,2,Nthangu community borehole,Borehole  drilling  and water supply  to the  community,water_irrigati,borehole,,completed,Adequate,Adequate  water  supply  to the  community,Nthangu community borehole
-21753702,wote,wote,Nthangu,,1,Kanaani borehole,Drilling  of kanaani borehole,water_irrigati,borehole,,in_progress,Adequate,Not yet completed,Kanaani borehole
-21741919,wote,wote,Malivani,,10,Ndue nguu drift,Construction of ndue nguu drift,transport,Other_1,Drift ,completed,Excellent,Enhance good transport ,Ndue nguu drift
-21741809,wote,wote,Malivani,,9,Prison dispensary ,Construction of prison dispensary ,health,dispensary,,completed,Excellent,Provided health services for prisoners ,Prison dispensary 
-21741648,wote,wote,Malivani,,8,Science labaratory,Construction of science labaratory,education,Other_1,Science laboratory ,completed,Adequate,Not yet equipped ,St John secondary school
-21741352,wote,wote,Malivani,,6,St Johns ecde center ,Provision of plastic chairs ,education,ecde_centre,,completed,Adequate,Suitable learning environment ,St Johns ECDE Center 
-21741293,wote,wote,Malivani,,5,Water tanks,Installation of two water tanks,education,Water_project,,completed,Excellent,Availability of adequate water for the school ,St Johns Primary School
-21741244,wote,wote,Malivani,,4,Malivani public toilet ,Construction of public toilet ,health,public_toilet,,completed,Adequate,"Improved sanitation, ",Malivani public toilet 
-21749150,wote,nziu,,Nziu,6,Nziu borehole ,Drilling and equipping of Nziu borehole,water_irrigati,borehole,,completed,Excellent,Easy access to clean drinking water and for domestic use. ,Nziu borehole 
-21748925,wote,nziu,,Nziu,6,Nziu bodaboda shed,Nziu bodaboda shed,gender,Other_1,Bodaboda shed,completed,Excellent,Provided shed for the motorcycle operators. ,Nziu bodaboda shed
-21748436,wote,nziu,,Nziu,5,Casualty block - Nziu health centre ,Construction of a casualty block,health,Other_1,Casualty block ,completed,Excellent,Provided accessible health services,Nziu health centre 
-21748410,wote,nziu,,Nziu,4,Staff quarters ,Construction of staff quarters ,health,Other_1,Staff quarters,completed,Excellent,Has provided house for the staff hence easy for the community to access their service any time of the day. ,Nziu health centre 
-21748233,wote,nziu,,Nziu,2,Yamuthinzi earth dam,Construction of an earth dam,water_irrigati,earth_dam,,completed,Excellent,Provided sufficient water for irrigation and domestic use,Yamuthinzi earth dam
-21748096,wote,nziu,,Nziu,1,Nziu social hall,Well maintained  hall serving people's purpose within the sub county,gender,social_hall,,completed,Excellent,It's of good quality.  Provided a room for community gathering. ,Nziu social hall
-21746955,wote,wote,Wote_town,,19,First ladys office,Renovations and furniture,devolution,Other_1,First ladys office,completed,Adequate,"Accessible to wananchi,the offices quality is good",First ladys office
-21746834,wote,wote,Wote_town,,18,KMTC makueni campus,Construction of blocks,education,Other_1,KMTC,completed,Poor,Small for the demand for education.,KMTC makueni campus
-21746644,wote,wote,Wote_town,,17,PWD centre,Construction of the PWD centre,gender,Other_1,PWD centre,in_progress,Adequate,The completed buildings are good but others are underway to cater for PWDs.,PWD centre
-21746207,wote,wote,Wote_town,,16,Boda boda shed,Construction,gender,Other_1,Boda boda shed,completed,Adequate,It is useful to atleast 10 operators.,Boda boda shed opposite kapeo petrol station
-21746173,wote,wote,Wote_town,,15,Boda boda shed,Construction,gender,Other_1,Construction the shed,completed,Adequate,Serving atleast 10 operators,Bods boda shed at the hospital gate
-21746120,wote,wote,Wote_town,,14,Motorbike,Purchase of motorbikes,water_irrigati,Other_1,Purchase of motorbikes,completed,Adequate,Help access areas that  were inaccessible earlier.,Wote water and sewerage company limited
-21745918,wote,wote,Wote_town,,13,Sub administrators,Purchase of office furniture,devolution,Other_1,Sub ward administrators,completed,Adequate,The office has good furniture to serve clients,Sub ward administrators office
-21745797,wote,wote,Wote_town,,12,County cic,Computer purchasing,education,Other_1,Community information centre,completed,Adequate,Has 5 computers that help collect information.,County Community information centre
-21745625,wote,wote,Wote_town,,11,Boda boda shed,Construction,gender,Other_1,Boda boda shed,completed,Adequate,It is serving atleast 10 bodaboda operators,Kiuukuni boda boda shed opposite bus stage
-21745593,wote,wote,Wote_town,,10,Bodaboda shed opposite jimeli supermarket,Construction,gender,Other_1,Bodaboda shed,completed,Adequate,It is serving atleast 10 bodaboda operators.,Bodaboda shed opposite jimeli supermarket
-21745569,wote,wote,Wote_town,,9,Kasarani boda boda shed,Construction,gender,Other_1,Bodaboda shed,completed,Adequate,Serving atleast 10 boda boda operators,Kasarani boda boda shed
-21748359,wote,nziu,,Nziu,3,Maternity block-Nziu health centre,Construction and equipping of a maternity block,health,maternity_ward,,completed,Excellent,Provided accessible service to the community,Nziu Health Centre
-
-21636957,wote,wote,Kivandini,,4,Nduenguu ECDE ,One classroom,education,ecde_centre,,completed,Poor,Needs construction ,Nduenguu ECDE 
-21636944,wote,wote,Kivandini,,3,Kwa Maluva Sand dam,Sand Dam along Nduenguu stream,water_irrigati,Other_1,Sand Dam,completed,Adequate,Good,Kwa Maluva Sand dam
-21647022,wote,wote,Mwaani,,7,Kauani earthdam,Construction complete,water_irrigati,earth_dam,,completed,Adequate,Earth dam needs to be expanded. It is overflowing already and community has devised mitigation measures.,Kauani earthdam
-21641668,wote,wote,Wote_town,,9,Unoa water kiosk,Construction and putting of taps,water_irrigati,Other_1,Water kiosk,completed,Adequate,Serves the people of unoa urban village,Unoa water kiosk
-21648626,wote,wote,Mwaani,,6,Muthithu Earth Dam,Earth Dam,water_irrigati,earth_dam,,completed,Excellent,The eathdam is well done. Outlet was working perfectly.,Muthithu Earth Dam
-21683558,wote,wote,Malivani,,3,ECDE,AIC bethiel ECDE,education,ecde_centre,,in_progress,Poor,The project is on process,AIC bethiel ECDE
-21636879,wote,wote,Malivani,,2,A.I.C Malivani ECDE Center,ECDE block,education,ecde_centre,,completed,Excellent,Good,A.I.C Malivani ECDE Center
-21640565,wote,nziu,,Kitheni,2,Ikomba water pipe,Ikomba water pipeline ,water_irrigati,Water_project,,completed,Adequate,Improved provision of water to the community ,Ikomba water pipe
-21642279,wote,nziu,,Muthyoi,4,Muthyoi ECDE,Construction of 2 class blocks and an office,education,ecde_centre,,completed,Excellent,Good work.  Has provided a condusive learning environment .,Muthyoi ECDE
-21683685,wote,wote,Mwaani,,11,Kamunyolo Earth Dam , Maintenance of Kamunyolo earth Dam ,water_irrigati,earth_dam,,completed,Adequate,Supplies water to wote town ,Kamunyolo Earth Dam 
-21641489,wote,wote,Wote_town,,10,Shimo water kiosk,Construction and installation,water_irrigati,Other_1,Water kiosk,completed,Adequate,Serves the community with water,Shimo water kiosk
-21652470,wote,wote,Mwaani,,4,Kyamusoi Water Kiosk,Water project,water_irrigati,Water_project,,completed,Poor,Project looks deserted. The tank has cracks.,Kyamusoi Water Kiosk
-21636836,wote,wote,Malivani,,1,Kwa Makau Water Tank,"10,000lt Water tank, not operational",water_irrigati,Water_project,,in_progress,Poor,"If operational, it will be beneficial to the local community ",Kwa Makau Water Tank
-21683671,wote,wote,Mwaani,,10,Kiuani ECDE centre,Suggested  location  for ECDE construction through  PB but it hasn't commenced ,education,ecde_centre,,not_yet_starte,Poor,Not yet started ,Kiuani ECDE centre
-21638777,wote,wote,Mwaani,,3,Kyamusoi Borehole,Kyamusoi Borehole,water_irrigati,borehole,,completed,Adequate,There exists a border dispute. Power yet to be connected: meter recently installed.,Kyamusoi Borehole
-21641390,wote,wote,Wote_town,,9,"Choo cha wananchi,clothes market",Construction,health,public_toilet,,completed,Adequate,Serves the community around that area,"Choo cha wananchi,clothes market"
-21683661,wote,wote,Mwaani,,9,Kyamusoi water kiosk,Not operation.closed,water_irrigati,Other_1,Water kiosk,completed,Adequate,Complete  but was closed,Kyamusoi water kiosk
-21640505,wote,nziu,,Kitheni,1,Water tank,Installation of water tank,education,Other_1,10000ltrs Water tank,completed,Excellent,Provided availability of water for the school,Kitheini primary school
-21641368,wote,wote,Wote_town,,8,Open air market water kiosk clothes market,"Constrction of the kiosk,installation of taps and tank",water_irrigati,Other_1,Water kiosk,completed,Adequate,Serving the people near the market,Open air market water kiosk clothes market
-21642223,wote,nziu,,Kitheni,3,Malik borehole,Drilling of borehole and distribution. ,water_irrigati,borehole,,in_progress,Excellent,Good work in progress ,Malik borehole
-21641347,wote,wote,Wote_town,,7,Open air timber market,"Construction of the market ,roofing.",trade,market_shed,,completed,Adequate,"It is working well,good arrangement,very clean and houses more people.",Open air timber market
-21641954,wote,wote,Wote_town,,11,Makueni county referral hospital,Oxygen plant,health,Other_1,Oxygen plant,completed,Excellent,Supplies oxygen to MCRH and all sub county  hospitals,Makueni county referral hospital
-21641307,wote,wote,Wote_town,,6,Boda boda shed opposite cooperative bank,Constryction of the shed,gender,Other_1,Boda boda shed,completed,Adequate,Shekters atleast 20 bodabodas,Boda boda shed opposite cooperative bank
-21641291,wote,wote,Wote_town,,5,Marikiti water kiosk,"Construction,installation of tank and pipes",water_irrigati,Other_1,Water kiosk,completed,Adequate,Supplies the people around marikiti with water.,Marikiti water kiosk
-21641281,wote,wote,Wote_town,,4,Marikiti open air market,Constuction of open air market sheds and roofing,trade,market_shed,,completed,Adequate,Good.,Marikiti open air market
-21683640,wote,wote,Mwaani,,8,Bosnia dispensary,Construction of public toilet in Bosnia dispensary,health,Other_1,Public toilet,completed,Adequate,It is serving the public and those who come to the dispensary,Bosnia dispensary-public toilet
-21641266,wote,wote,Wote_town,,3,Marikiti public toilet,Construction of the building.,health,public_toilet,,completed,Adequate,Serving majority of the people especially marikiti,Marikiti public toilet
-21647295,wote,wote,Mwaani,,2,Bosnia public toilet,Fully completed,health,public_toilet,,completed,Adequate,No water washing point,Bosnia public toilet
-21683594,wote,wote,Mwaani,,5,Ngwili earth dam-Caravat,Construction of Caravat at Ngwili earth dam,transport,Other_1,Caravat,completed,Adequate,It made accessibility easier ,Ngwili earth dam-Caravat
-21640194,wote,nziu,,Yaumba_A,9,Kitikyumu dispensary,"Construction , equiping , staffing",health,dispensary,,in_progress,Adequate,Shortened distance to health care. Construction $ equipping complete.  Not connected  to eletricity,Kitikyumu dispensary
-21652447,wote,wote,Mwaani,,1,Bosnia dispensary,"Funded by county government,completed and operational",health,dispensary,,completed,Adequate,Water harvesting is not sufficiently done,Bosnia dispensary
-21683552,wote,wote,Mwaani,,4,ACK mwaani ECDE,Construction of ECDE ,education,ecde_centre,,in_progress,Adequate,Still under construction ,ACK mwaani ECDE
-21643059,wote,wote,Mwaani,,3,Kwa Kaloki earth dam ,Complete ,water_irrigati,earth_dam,,completed,Adequate,Adequate water supply to residents ,Kwa Kaloki earth dam 
-21640063,wote,nziu,,Yaumba_A,8,"Kitikyumu ecde staffing, playing kits, plastic sits","staffing, playing kits, plastic sits",education,ecde_centre,,in_progress,Adequate,Improved learning environment ,Kitikyumu ECDE
-21641099,wote,wote,Wote_town,,2,Boda boda opposite ngooni,Construction,gender,Other_1,Boda boda shed,completed,Adequate,"Good,serving atkeast 20 bodaboda operators.",Boda boda opposite ngooni
-21636309,wote,wote,Mwaani,,2,Mwaani/Uwo wawo,Construction of borehole ,water_irrigati,borehole,,completed,Excellent,Supply of water to mwaani village  residents  and Wote town,Mwaani/Uwo wawo
-21640000,wote,nziu,,Yaumba_A,5,Kitikyumu bore drilling and tapping,"Drilling,  tanks tapping on site",water_irrigati,borehole,,in_progress,Adequate,Shortened distance to water point,Kitikyumu bore hole drilling and tapping
-21642011,wote,nziu,,Nziu,2,Nziu CTTI domitory,Girl's dormitory block,education,Other_1,CTTI domitory,completed,Excellent,Provided accommodation to the students hence condusive learning environment. ,Nziu CTTI domitory
-21639952,wote,wote,Malivani,,3,Malivani aicecde ,Staffing,education,ecde_centre,,completed,Adequate,Eased access to preschool education,Malivani AIC ECDE
-21636295,wote,,,,1,Mwaani Girls library,Construction  and equipping  of Mwaani Girls library ,education,libray,,in_progress,Excellent,It will be any additional library to the school  and the public after  its completion ,Mwaani Girls library
-21639928,wote,wote,Wote_town,,2,Supply 150 tree seedlings at Malivani aic boarding,Supply of 150 trees,environment,Other_1,Tree seedlings at malivani boarding,completed,Adequate,Environment improved ,Malivani aic boarding school
-21639882,wote,wote,Wote_town,,1,St John's secondary school,Leveling of play ground,gender,sports_ground,,in_progress,Adequate,Improve talent,St John's Malivani Secondary school
-21640723,wote,wote,Wote_town,,1,Westlands water tank,Installation of a tank,water_irrigati,Water_project,,completed,Adequate,Good,Westlands water tank
-21639729,wote,wote,Malivani,,1,Ndue Nguu stream drift,Construction,transport,Other_1,Drift,completed,Adequate,"Small drift,  eased transport",Ndue Nguu stream drift
-21683671,wote,wote,Mwaani,,10,Kiuani ECDE centre,Suggested  location  for ECDE construction through  PB but it hasn't commenced ,education,ecde_centre,,not_yet_starte,Poor,Not yet started ,Kiuani ECDE centre
-21683685,wote,wote,Mwaani,,11,Kamunyolo Earth Dam , Maintenance of Kamunyolo earth Dam ,water_irrigati,earth_dam,,completed,Adequate,Supplies water to wote town ,Kamunyolo Earth Dam 
-
-22761986,,,,,10.19,Matondoni borehole,Not yet started,water_irrigati,Water/Irrigation,Borehole,not_yet_starte,Adequate,Need to be drillled for the residents of matondoni.,PB,1526642648799.jpg,
-22762087,,,,,10.29,Ukala secondary,Incomplete,education,Education,Other,in_progress,Adequate,Not complete,PB,1526645102006.jpg,
-22762180,,,,,10.29,Ukala ccti,Not yet started,education,Education,Other,not_yet_starte,Adequate,Construction underway,PB,1526645742645.jpg,
-22843541,,,,,9.24,St mary gorrete ecde,Construction of ecde,education,Education,ECDE centre,completed,Excellent,Increased enrollment of children from the community,HQ,1526632354964.jpg,
-22843797,,,,,12.24,Mutulu water project,Construction of storage tank,water_irrigati,Water/Irrigation,Water project,completed,Adequate,Supplys water to many people,PB,1526634476826.jpg,5637308472
-22844141,,,,,12.24,Mutulu water project,Construction of water kiosk,water_irrigati,Water/Irrigation,Water project,completed,Adequate,It's supplying water to a large area,PB,1526633267593.jpg,5637308470
-22844331,,,,,12.24,Mutulu water project,Construction of water kiosk,water_irrigati,Water/Irrigation,Water project,completed,Adequate,It's supplying water to the community,PB,1526633619060.jpg,5637308471
-22844663,,,,,12.24,Mutulu water project,Construction of water kiosk,water_irrigati,Water/Irrigation,Water project,completed,Adequate,Supplys water to many people,PB,1526635213276.jpg,5637308469
-22844871,,,,,12.12,Mukaatini CTTI,Construction of mukaatini CTTI block,education,Education,Other,completed,Excellent,The project is progressing on well,PB,1526637373368.jpg,
-22844998,,,,,12.16,Kusyethuku ecde,Construction of ecde,education,Education,ECDE centre,not_yet_starte,Adequate,"Site allocation has already done, construction to start soon",PB,1526641546802.jpg,
-22942478,,,,,12.26,Kikima/kivandini water project,Construction of storage tank,water_irrigati,Water/Irrigation,Water project,completed,Excellent,It's supplying water to a large area in the society,PB,1526891452444.jpg,5637308466
-22946341,,,,,12.21,Mutondo irrigation project,The project is excellent since it provides adequate water for irrigation.,water_irrigati,Water/Irrigation,Earth_dam,completed,Excellent,The project is complete and efficient as it serves water to a larger area.,PB,1526984338928.jpg,5637308465
-22946694,,,,,10.24,Kyumbuni earthdam,In good condition,water_irrigati,Water/Irrigation,Earth_dam,completed,Excellent,It's helping the villages in domestic use,PB,1526893286009.jpg,5702426109
-22946839,,,,,10.27,Miuusini ecde,Finished and equipped,education,Education,ECDE centre,completed,Adequate,Needs another ecdeteacher for the population is high,PB,1526896030669.jpg,
-22947198,,,,,10.32,Kyuu fruit storage structure,Complete,agriculture,Public facilities,Other,completed,Adequate,The concerned department should sensitize the community about the project.,PB,1526900164789.jpg,
-22947305,,,,,10.32,Kyuu fruit storage structure (toilet),Complete,agriculture,Public facilities,Other,completed,Adequate,Helping the community during produce seasons.,PB,1526900667538.jpg,5702426111
-22947667,,,,,10.34,Katilini dispensary,Need for electricity for laboratory services,health,Health,Dispensary,completed,Adequate,It's free no charges and no long distance,PB,1526979252615.jpg,5702426113
-22947695,,,,,10.34,Katilini staffs quarters,Not complete,health,Health,Other,not_yet_starte,Adequate,There is need for a toilet for the staffs quarters,PB,1526979616729.jpg,5702426114
-22948127,,,,,11.32,Kali dispensary,Construction of Kali dispensary,health,Health,Dispensary,completed,Adequate,Serving people around Kali and kikiini area,PB,1526635845734.jpg,5637244512
-22948619,,,,,11.33,Syiluni ECDE,Construction of Syiluni ecde,education,Education,ECDE centre,completed,Excellent,The pupil around syiluni kikiini village are eligible of accecing the Effects rather than moving up to syiluni primary which is a far way hence making it excellent,PB,1526891636905.jpg,
-22948885,,,,,11.34,Mulima water tank,Construction of mulima water tank,water_irrigati,Water/Irrigation,Water project,completed,Adequate,Alternative source of water to the community,PB,1526894764884.jpg,5637244507
-22949185,,,,,11.35,Yoani water protection,Construction of yoani water tap,water_irrigati,Water/Irrigation,Water project,completed,Adequate,Supplies water to people of nthungoni market and it's environment,PB,1526896118709.jpg,5637244506
-22949880,,,,,11.28,Ndueni earth dam,Construction of ndueni earth dam,water_irrigati,Water/Irrigation,Earth_dam,completed,Excellent,Serving 300 households in ndueni nzeveni and uvaa villages,PB,1526898180474.jpg,5637244504
-22950192,,,,,11.15,Fencing of children's home,Fencing Process completed,education,Education,Other,completed,Adequate,Gave security to the pupil of Kyangoma special school,HQ,1526973113543.jpg,5637244503
-22950222,,,,,11.36,Kyangoma water tank,Provision of water tank,gender,Water/Irrigation,Water project,completed,Adequate,Good,HQ,1526973713555.jpg,
-22950945,,,,,14.19,Kikokani water well,Construction of water well for domestic use,water_irrigati,Water/Irrigation,Water project,completed,Adequate,The water serves locals for domestic purposes,PB,1526641462304.jpg,5637519166
-22951113,,,,,14,AIC Mutanda College,Construction of a college institution,education,Religious,Other,in_progress,Poor,The construction has stalled,Other,1526643147168.jpg,
-22951536,,,,,14.32,Yambae sports field,Levelling of playing field and erection of goal posts,education,Education,Sports ground,completed,Adequate,The field serves the entire community to accommodate football and sports in general,PB,1526901296822.jpg,
-22951547,,,,,14.26,Uvi ECDE,Construction of an ECDE center,education,Water/Irrigation,ECDE centre,completed,Poor,The building is dilapidated and poorly maintained,PB,1526908603781.jpg,
-22951661,,,,,14.3,Ebenezer dispensary electrification,Electrification of Ebenezer dispensary,health,Health,Dispensary,completed,Adequate,Electricity it's not reliable and there is no backup,PB,1526983765499.jpg,5637519162
-22951663,,,,,14.3,Ebenezer water tank,Ebenezer water tank,health,Health,Water project,completed,Excellent,It's functioning and provides the dispensary with water storage,PB,1526984129492.jpg,
-22952267,,,,,14.2,AIC mutanda ECDE,Construction of ECDE centre,education,Religious,ECDE centre,completed,Adequate,The project has promoted early childhood education in the region,Other,1526642893477.jpg,
-22956649,,,,,13.17,Establishment of cic,Construction of cic,education,Public facilities,Other,completed,Excellent,It has equipped the community with computer skills I. e the kikima youth residents.,HQ,1526981132494.jpg,
-22956651,,,,,13.2,Kikima market shade,Construction of a market shade,trade,Public facilities,Market shed/ Open air market,completed,Excellent,It is well equipped with all facilitators of a business opportunity eg it has been equipped with lights improving bussiness under it after sunset.,HQ,1526981513718.jpg,5641420362
-22956741,,,,,13.15,Kyanguluviti sanddam,Construction of kyanguluviti sanddam,water_irrigati,Water/Irrigation,Other,completed,Adequate,Well constructed to serve the community,PB,1526987778338.jpg,5641420361
-22958288,,,,,13.23,Paediatric ward,Construction and equipping of paedtric ward,health,Health,Hospital,completed,Excellent,The project is in good condition. It has helped the community to access paedtric services easily and reduced the distance of getting those services.,HQ,1526899020838.jpg,
-22958290,,,,,13.23,Maternity Wing,Construction of Maternity wing,health,Health,Hospital,completed,Excellent,It is in good conditions improving the quality of maternal services.,HQ,1526899406961.jpg,5641420359
-22958292,,,,,13.23,X-ray and dental unit,Construction and equipping of the X-ray and dental unit,health,Health,Hospital,completed,Excellent,It has been well equipped to serve in all x_ray and dental related disorders.,HQ,1526899832588.jpg,
-22958293,,,,,13.23,Laboratory,Construction and equipping of the laboratory,health,Health,Hospital,completed,Adequate,It has improved health service in the community,HQ,1526900181251.jpg,
-22958615,,,,,13.18,Floodlight light,Installation of floodlight,Construction,Public facilities,Other,completed,Excellent,Fuctional,HQ,1526974321060.jpg,
-22958684,,,,,13.19,Kikuyu dairy washrooms,Construction of kikima dairy washrooms,agriculture,Agriculture,Other,in_progress,Adequate,The washrooms are in good constructional and health state though they are not operational at the moment.,PB,1526975924954.jpg,5641420363
-22958689,,,,,13.19,Milk cooler,Equipping of the milk cooler,agriculture,Agriculture,Other,completed,Excellent,The cooler is in its proper functional state thus improving milk time before selling.,PB,1526976265520.jpg,
-22959318,,,,,13.19,Kikima dairy,Construction of Kikima dairy,agriculture,Agriculture,Other,completed,Excellent,The selling of the milk products especially the yoghurts has improved the makueni economical growth.,PB,1526975216991.jpg,5641420353
+_id,Ward,Sub_ward,Cluster_Wote,Cluster_Nziu,Project_ID,Project_Name_or_Title,Project_Description,Category,Type_of_facility,What_type_of_facility_or_project_is_it,What_is_the_project_s_apparent_status,In_your_opinion_is_the_project_quality,Please_add_any_details_about_y,,,Merge_OSM_ID,Project_Name_for_Print
+22761986,,,,,10.19,Matondoni borehole,Not yet started,water_irrigati,Water/Irrigation,Borehole,not_yet_starte,Adequate,Need to be drillled for the residents of matondoni.,PB,1526642648799.jpg,,
+22762087,,,,,10.29,Ukala secondary,Incomplete,education,Education,Other,in_progress,Adequate,Not complete,PB,1526645102006.jpg,,
+22762180,,,,,10.29,Ukala ccti,Not yet started,education,Education,Other,not_yet_starte,Adequate,Construction underway,PB,1526645742645.jpg,,
+22843541,,,,,9.24,St mary gorrete ecde,Construction of ecde,education,Education,ECDE centre,completed,Excellent,Increased enrollment of children from the community,HQ,1526632354964.jpg,,
+22843797,,,,,12.24,Mutulu water project,Construction of storage tank,water_irrigati,Water/Irrigation,Water project,completed,Adequate,Supplys water to many people,PB,1526634476826.jpg,5637308472,
+22844141,,,,,12.24,Mutulu water project,Construction of water kiosk,water_irrigati,Water/Irrigation,Water project,completed,Adequate,It's supplying water to a large area,PB,1526633267593.jpg,5637308470,
+22844331,,,,,12.24,Mutulu water project,Construction of water kiosk,water_irrigati,Water/Irrigation,Water project,completed,Adequate,It's supplying water to the community,PB,1526633619060.jpg,5637308471,
+22844663,,,,,12.24,Mutulu water project,Construction of water kiosk,water_irrigati,Water/Irrigation,Water project,completed,Adequate,Supplys water to many people,PB,1526635213276.jpg,5637308469,
+22844871,,,,,12.12,Mukaatini CTTI,Construction of mukaatini CTTI block,education,Education,Other,completed,Excellent,The project is progressing on well,PB,1526637373368.jpg,,
+22844998,,,,,12.16,Kusyethuku ecde,Construction of ecde,education,Education,ECDE centre,not_yet_starte,Adequate,"Site allocation has already done, construction to start soon",PB,1526641546802.jpg,,
+22942478,,,,,12.26,Kikima/kivandini water project,Construction of storage tank,water_irrigati,Water/Irrigation,Water project,completed,Excellent,It's supplying water to a large area in the society,PB,1526891452444.jpg,5637308466,
+22946341,,,,,12.21,Mutondo irrigation project,The project is excellent since it provides adequate water for irrigation.,water_irrigati,Water/Irrigation,Earth_dam,completed,Excellent,The project is complete and efficient as it serves water to a larger area.,PB,1526984338928.jpg,5637308465,
+22946694,,,,,10.24,Kyumbuni earthdam,In good condition,water_irrigati,Water/Irrigation,Earth_dam,completed,Excellent,It's helping the villages in domestic use,PB,1526893286009.jpg,5702426109,
+22946839,,,,,10.27,Miuusini ecde,Finished and equipped,education,Education,ECDE centre,completed,Adequate,Needs another ecdeteacher for the population is high,PB,1526896030669.jpg,,
+22947198,,,,,10.32,Kyuu fruit storage structure,Complete,agriculture,Public facilities,Other,completed,Adequate,The concerned department should sensitize the community about the project.,PB,1526900164789.jpg,,
+22947305,,,,,10.32,Kyuu fruit storage structure (toilet),Complete,agriculture,Public facilities,Other,completed,Adequate,Helping the community during produce seasons.,PB,1526900667538.jpg,5702426111,
+22947667,,,,,10.34,Katilini dispensary,Need for electricity for laboratory services,health,Health,Dispensary,completed,Adequate,It's free no charges and no long distance,PB,1526979252615.jpg,5702426113,
+22947695,,,,,10.34,Katilini staffs quarters,Not complete,health,Health,Other,not_yet_starte,Adequate,There is need for a toilet for the staffs quarters,PB,1526979616729.jpg,5702426114,
+22948127,,,,,11.32,Kali dispensary,Construction of Kali dispensary,health,Health,Dispensary,completed,Adequate,Serving people around Kali and kikiini area,PB,1526635845734.jpg,5637244512,
+22948619,,,,,11.33,Syiluni ECDE,Construction of Syiluni ecde,education,Education,ECDE centre,completed,Excellent,The pupil around syiluni kikiini village are eligible of accecing the Effects rather than moving up to syiluni primary which is a far way hence making it excellent,PB,1526891636905.jpg,,
+22948885,,,,,11.34,Mulima water tank,Construction of mulima water tank,water_irrigati,Water/Irrigation,Water project,completed,Adequate,Alternative source of water to the community,PB,1526894764884.jpg,5637244507,
+22949185,,,,,11.35,Yoani water protection,Construction of yoani water tap,water_irrigati,Water/Irrigation,Water project,completed,Adequate,Supplies water to people of nthungoni market and it's environment,PB,1526896118709.jpg,5637244506,
+22949880,,,,,11.28,Ndueni earth dam,Construction of ndueni earth dam,water_irrigati,Water/Irrigation,Earth_dam,completed,Excellent,Serving 300 households in ndueni nzeveni and uvaa villages,PB,1526898180474.jpg,5637244504,
+22950192,,,,,11.15,Fencing of children's home,Fencing Process completed,education,Education,Other,completed,Adequate,Gave security to the pupil of Kyangoma special school,HQ,1526973113543.jpg,5637244503,
+22950222,,,,,11.36,Kyangoma water tank,Provision of water tank,gender,Water/Irrigation,Water project,completed,Adequate,Good,HQ,1526973713555.jpg,,
+22950945,,,,,14.19,Kikokani water well,Construction of water well for domestic use,water_irrigati,Water/Irrigation,Water project,completed,Adequate,The water serves locals for domestic purposes,PB,1526641462304.jpg,5637519166,
+22951113,,,,,14,AIC Mutanda College,Construction of a college institution,education,Religious,Other,in_progress,Poor,The construction has stalled,Other,1526643147168.jpg,,
+22951536,,,,,14.32,Yambae sports field,Levelling of playing field and erection of goal posts,education,Education,Sports ground,completed,Adequate,The field serves the entire community to accommodate football and sports in general,PB,1526901296822.jpg,,
+22951547,,,,,14.26,Uvi ECDE,Construction of an ECDE center,education,Water/Irrigation,ECDE centre,completed,Poor,The building is dilapidated and poorly maintained,PB,1526908603781.jpg,,
+22951661,,,,,14.3,Ebenezer dispensary electrification,Electrification of Ebenezer dispensary,health,Health,Dispensary,completed,Adequate,Electricity it's not reliable and there is no backup,PB,1526983765499.jpg,5637519162,
+22951663,,,,,14.3,Ebenezer water tank,Ebenezer water tank,health,Health,Water project,completed,Excellent,It's functioning and provides the dispensary with water storage,PB,1526984129492.jpg,,
+22952267,,,,,14.2,AIC mutanda ECDE,Construction of ECDE centre,education,Religious,ECDE centre,completed,Adequate,The project has promoted early childhood education in the region,Other,1526642893477.jpg,,
+22956649,,,,,13.17,Establishment of cic,Construction of cic,education,Public facilities,Other,completed,Excellent,It has equipped the community with computer skills I. e the kikima youth residents.,HQ,1526981132494.jpg,,
+22956651,,,,,13.2,Kikima market shade,Construction of a market shade,trade,Public facilities,Market shed/ Open air market,completed,Excellent,It is well equipped with all facilitators of a business opportunity eg it has been equipped with lights improving bussiness under it after sunset.,HQ,1526981513718.jpg,5641420362,
+22956741,,,,,13.15,Kyanguluviti sanddam,Construction of kyanguluviti sanddam,water_irrigati,Water/Irrigation,Other,completed,Adequate,Well constructed to serve the community,PB,1526987778338.jpg,5641420361,
+22958288,,,,,13.23,Paediatric ward,Construction and equipping of paedtric ward,health,Health,Hospital,completed,Excellent,The project is in good condition. It has helped the community to access paedtric services easily and reduced the distance of getting those services.,HQ,1526899020838.jpg,,
+22958290,,,,,13.23,Maternity Wing,Construction of Maternity wing,health,Health,Hospital,completed,Excellent,It is in good conditions improving the quality of maternal services.,HQ,1526899406961.jpg,5641420359,
+22958292,,,,,13.23,X-ray and dental unit,Construction and equipping of the X-ray and dental unit,health,Health,Hospital,completed,Excellent,It has been well equipped to serve in all x_ray and dental related disorders.,HQ,1526899832588.jpg,,
+22958293,,,,,13.23,Laboratory,Construction and equipping of the laboratory,health,Health,Hospital,completed,Adequate,It has improved health service in the community,HQ,1526900181251.jpg,,
+22958615,,,,,13.18,Floodlight light,Installation of floodlight,Construction,Public facilities,Other,completed,Excellent,Fuctional,HQ,1526974321060.jpg,,
+22958684,,,,,13.19,Kikuyu dairy washrooms,Construction of kikima dairy washrooms,agriculture,Agriculture,Other,in_progress,Adequate,The washrooms are in good constructional and health state though they are not operational at the moment.,PB,1526975924954.jpg,5641420363,
+22958689,,,,,13.19,Milk cooler,Equipping of the milk cooler,agriculture,Agriculture,Other,completed,Excellent,The cooler is in its proper functional state thus improving milk time before selling.,PB,1526976265520.jpg,,
+22959318,,,,,13.19,Kikima dairy,Construction of Kikima dairy,agriculture,Agriculture,Other,completed,Excellent,The selling of the milk products especially the yoghurts has improved the makueni economical growth.,PB,1526975216991.jpg,5641420353,

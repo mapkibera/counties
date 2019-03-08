@@ -1,0 +1,205 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.62662213857003, 
+          -1.779768878222326
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/584611431", 
+      "properties": {
+        "id": "584611431", 
+        "meta": {
+          "changeset": "60404750", 
+          "timestamp": "2018-07-04T10:38:27Z", 
+          "uid": "345975", 
+          "user": "VlIvYur", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "amenity": "marketplace", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524483189637.jpg", 
+          "name": "Marikiti Open Air Market", 
+          "opening_hours": "Mo-Fr 06:00-18:00", 
+          "village": "Westlands", 
+          "wb_pb:id": "21641281", 
+          "wheelchair": "yes"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.628450832028, 
+          -1.7821072720554436
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/584611432", 
+      "properties": {
+        "id": "584611432", 
+        "meta": {
+          "changeset": "60404750", 
+          "timestamp": "2018-07-04T10:38:28Z", 
+          "uid": "345975", 
+          "user": "VlIvYur", 
+          "version": "3"
+        }, 
+        "relations": [], 
+        "tags": {
+          "amenity": "marketplace", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524484544921.jpg", 
+          "name": "Open Air Timber Market", 
+          "village": "Wote", 
+          "wb_pb:id": "21641347", 
+          "wheelchair": "yes"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.62837236441511, 
+          -1.7801661875052137
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/585121314", 
+      "properties": {
+        "id": "585121314", 
+        "meta": {
+          "changeset": "60404750", 
+          "timestamp": "2018-07-04T10:38:28Z", 
+          "uid": "345975", 
+          "user": "VlIvYur", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "amenity": "stadium", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524649919274.jpg", 
+          "leisure": "stadium", 
+          "name": "Unoa Stadium", 
+          "opening_hours": "Mo-Fr 06:00-17:00", 
+          "village": "Unoa", 
+          "wb_pb:id": "21744084"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.59946611392898, 
+          -1.820020845916316
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/585121611", 
+      "properties": {
+        "id": "585121611", 
+        "meta": {
+          "changeset": "60438483", 
+          "timestamp": "2018-07-05T14:07:52Z", 
+          "uid": "345975", 
+          "user": "VlIvYur", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "fee": "no", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524486777124.jpg", 
+          "landuse": "reservoir", 
+          "name": "Kwa Maluva Sand Dam", 
+          "opening_hours": "24/7", 
+          "operational_status": "operational", 
+          "reservoir_type": "water_storage", 
+          "start_date": "2018-04-23 15:24:40", 
+          "type": "sand_dam", 
+          "village": "Katoloni", 
+          "wb_pb:id": "21636944"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.59509575355077, 
+          -1.7636428077087958
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/585127505", 
+      "properties": {
+        "id": "585127505", 
+        "meta": {
+          "changeset": "60438483", 
+          "timestamp": "2018-07-05T14:07:52Z", 
+          "uid": "345975", 
+          "user": "VlIvYur", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "fee": "no", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524645904457.jpg", 
+          "landuse": "reservoir", 
+          "name": "Kamunyii sand Dam", 
+          "opening_hours": "24/7", 
+          "operational_status": "operational", 
+          "reservoir_type": "water_storage", 
+          "type": "sand_dam", 
+          "village": "Kiatine", 
+          "wb_pb:id": "21746730"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.65241176708386, 
+          -1.7631844089244806
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/585128919", 
+      "properties": {
+        "id": "585128919", 
+        "meta": {
+          "changeset": "60438483", 
+          "timestamp": "2018-07-05T14:07:52Z", 
+          "uid": "345975", 
+          "user": "VlIvYur", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524479204826.jpg", 
+          "landuse": "reservoir", 
+          "name": "Kwa Kaloki Earth Dam", 
+          "opening_hours": "24/7", 
+          "operational_status": "operational", 
+          "reservoir_type": "water_storage", 
+          "type": "earth_dam", 
+          "village": "Kaiti", 
+          "wb_pb:id": "21643059"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "type": "FeatureCollection"
+}

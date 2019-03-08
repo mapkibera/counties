@@ -695,8 +695,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6136005, 
-          -1.7833868
+          37.6136067, 
+          -1.7833729
         ], 
         "type": "Point"
       }, 
@@ -780,21 +780,6 @@
       "properties": {
         "osm:id": "5594339751", 
         "power": "portal"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          37.5609456, 
-          -1.7994834
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5594351641", 
-      "properties": {
-        "name": "Mikwani sand dam", 
-        "osm:id": "5594351641"
       }, 
       "type": "Feature"
     }, 
@@ -2596,22 +2581,6 @@
         "man_made": "water_well", 
         "name": "Kyamwengi Well", 
         "osm:id": "5733899063"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          37.561069, 
-          -1.7996711
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5736386615", 
-      "properties": {
-        "name": "Mikwani sand dam", 
-        "osm:id": "5736386615", 
-        "waterway": "dam"
       }, 
       "type": "Feature"
     }, 
