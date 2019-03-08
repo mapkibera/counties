@@ -68,6 +68,11 @@
 </div>
 
 <div id='sidebar' class='keyline-right'>
+    <div class='title'>{{page.title}}
+        <img style="float:right" height="20px" src="/print/mklogo-small-transparent.png"/>
+        <img style="float:right;padding-right:10px" height="20px" src="/print/worldbank.png"/>
+        <img style="float:right;padding-right:10px" height="30px" src="/print/makueni-seal.png"/>
+    </div>
     <div class='title fill-denim dark'>Filter by <span class='count' id="project-count"></span></div>
     <div class='forty keyline-bottom'>
         <div class='filters margin0'>
@@ -114,7 +119,6 @@ var map = new mapboxgl.Map({
     hash: true
 });
 map.addControl(new mapboxgl.NavigationControl());
-
 function switchLayer(layer) {
     var layerId = layer.target.id;
     if (layerId == "streets") {
@@ -482,6 +486,10 @@ function addProjectLayer() {
             "<em>" +  e.features[0].properties['Please_add_any_details_about_y'] + "</em>"
             + "<img src='" + image + "'/>";
         });
+
+      if (parent) {
+        parent.postMessage(e.features[0].properties['wb_pb:id'], "*");
+      }
     });
 }
 
