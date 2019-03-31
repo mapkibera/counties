@@ -13,7 +13,7 @@
         "Category": "Water and Irrigation", 
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "Not enough  water for community  at large ", 
-        "Project_Description": "Construction of chemususu water project ", 
+        "Project_Description": "Chemususu water project ", 
         "Project_Name_or_Title": "Chemususu water project ", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "amenity": "drinking_water", 
@@ -62,31 +62,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.7246198, 
-          0.0519926
-        ], 
-        "type": "Point"
-      }, 
-      "id": "612915037", 
-      "properties": {
-        "Category": "Transport, Public Works and Infrasctructure", 
-        "In_your_opinion_is_the_project_quality": "Adequate", 
-        "Please_add_any_details_about_y": "It is in good condition but required to be sealed", 
-        "Project_Description": "Improvement of project system", 
-        "Project_Name_or_Title": "drainage system", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124766318.jpg", 
-        "iterator": 3, 
-        "name": "Eldama Ravine Drainage system", 
-        "osm:id": "612915037", 
-        "waterway": "drain", 
-        "wb_pb:id": "27061427"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           35.725065, 
           0.0584222
         ], 
@@ -105,7 +80,7 @@
         "female": "yes", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596618749.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596770104.jpg", 
-        "iterator": 4, 
+        "iterator": 3, 
         "male": "yes", 
         "name": "Eco toilet", 
         "operator": "County government of baringo", 
@@ -115,6 +90,57 @@
         "toilets:num_chambers": "6", 
         "unisex": "no", 
         "wb_pb:id": "26662882"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7246198, 
+          0.0519926
+        ], 
+        "type": "Point"
+      }, 
+      "id": "612915037", 
+      "properties": {
+        "Category": "Transport, Public Works and Infrasctructure", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "It is in good condition but required to be sealed", 
+        "Project_Description": "Improvement of project system", 
+        "Project_Name_or_Title": "Elama Ravine drainage ", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124766318.jpg", 
+        "iterator": 4, 
+        "name": "Eldama Ravine Drainage system", 
+        "osm:id": "612915037", 
+        "waterway": "drain", 
+        "wb_pb:id": "27061427"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7227542, 
+          0.0589654
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859919", 
+      "properties": {
+        "Category": "Agriculture, Livestock and Fisheries", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Construction  of septic  tank  completed but its stich", 
+        "Project_Description": "Eldama Ravine slaughter house ", 
+        "Project_Name_or_Title": "Eldama Ravine slaughter house -Septic tanks ", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598145387.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598375724.jpg", 
+        "industrial": "slaughterhouse", 
+        "iterator": 5, 
+        "osm:id": "5798859919", 
+        "type": "Slaughter House", 
+        "wb_pb:id": "26662913"
       }, 
       "type": "Feature"
     }, 
@@ -132,15 +158,135 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "Needs renovations", 
         "Project_Description": "Rehabilitation of the running track,football pitch and fencing", 
-        "Project_Name_or_Title": "Eldama Ravine-rehabilitation of running track and football pitch and fencing", 
+        "Project_Name_or_Title": "Eldama Ravine Stadiume-rehabilitation of running track and football pitch and fencing", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674148381.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674503455.jpg", 
-        "iterator": 5, 
+        "iterator": 6, 
         "leisure": "stadium", 
         "name": "Eldama Ravine Stadium-Running Tracks and Football Pitch", 
         "osm:id": "5798782577", 
         "wb_pb:id": "26727827"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.72518699430879, 
+          0.04520197164587484
+        ], 
+        "type": "Point"
+      }, 
+      "id": "571404106", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "In good condition ", 
+        "Project_Description": "Wall", 
+        "Project_Name_or_Title": "Eldama Ravine Sub-County Referral Hospital-Mortuary equipment", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "hospital", 
+        "building": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "health_facility:referals": "Eldoret Referral Hospital", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg", 
+        "iterator": 7, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Eldama Ravine Sub-County Referral Hospital-Mortuary", 
+        "osm:id": "571404106", 
+        "wb_pb:id": "26663338"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.72379895148115, 
+          0.04643474646124768
+        ], 
+        "type": "Point"
+      }, 
+      "id": "429074919", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "In good condition ", 
+        "Project_Description": "None", 
+        "Project_Name_or_Title": "Eldama Ravine Sub-County Referral Hospital-Perimeter wall ", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "barrier": "wall", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607432208.jpg", 
+        "iterator": 8, 
+        "name": "Eldama Ravine Sub-County Referral Hospital-Perimeter wall", 
+        "osm:id": "429074919", 
+        "wb_pb:id": "26663342"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7252023, 
+          0.0452854
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5820417010", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "Good condition ", 
+        "Project_Description": "Construction of generator", 
+        "Project_Name_or_Title": "Eldama Ravine Sub-County Referral Hospital-Power Generator", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "generator:source": "solar", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606893111.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607098117.jpg", 
+        "iterator": 9, 
+        "name": "Eldama Ravine Sub-County Referral Hospital-Power Generator", 
+        "osm:id": "5820417010", 
+        "power": "generator", 
+        "wb_pb:id": "26663837"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7246667, 
+          0.0463533
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859908", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "In good condition ", 
+        "Project_Description": "Walkbway", 
+        "Project_Name_or_Title": "Eldama Ravine Sub-County Referral Hospital-wards walkway", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "health_facility:referals": "Eldoret", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607807515.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607913062.jpg", 
+        "iterator": 10, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Eldama Ravine Sub-County Referral Hospital", 
+        "osm:id": "5798859908", 
+        "wb_pb:id": "26663361"
       }, 
       "type": "Feature"
     }, 
@@ -158,40 +304,14 @@
         "In_your_opinion_is_the_project_quality": "Excellent", 
         "Please_add_any_details_about_y": "It serve people of eldama ravine town", 
         "Project_Description": "Public toilet", 
-        "Project_Name_or_Title": "Garden square", 
+        "Project_Name_or_Title": "Garden square-toilet", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610226450.jpg", 
-        "iterator": 6, 
+        "iterator": 11, 
         "leisure": "garden", 
         "name": "Ravine Garden Square", 
         "osm:id": "5798859905", 
         "wb_pb:id": "26663654"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7243828, 
-          0.0526206
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5800785538", 
-      "properties": {
-        "Category": "Transport, Public Works and Infrasctructure", 
-        "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "In good condition serving the community at large ", 
-        "Project_Description": "Car wash ", 
-        "Project_Name_or_Title": "Improvemrnt of parking roads ", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "amenity": "car_wash", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938302657.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938560980.jpg", 
-        "iterator": 7, 
-        "name": "Main Stage Car Wash", 
-        "osm:id": "5800785538", 
-        "wb_pb:id": "26922849"
       }, 
       "type": "Feature"
     }, 
@@ -216,7 +336,7 @@
         "government_registered": "MOE (Ministry of Education)", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231053153471.jpg", 
         "image:project": "1231053714486.jpg", 
-        "iterator": 8, 
+        "iterator": 12, 
         "name": "Kabiyet Primary School", 
         "operator_type": "Government", 
         "osm:id": "5798788033", 
@@ -245,7 +365,7 @@
         "funded_by": "Other", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532594918411.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532595323774.jpg", 
-        "iterator": 9, 
+        "iterator": 13, 
         "man_made": "storage_tank", 
         "name": "Benonin Storage Tank", 
         "operational_status": "Operational", 
@@ -274,7 +394,7 @@
         "amenity": "agriculture", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532605631119.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532605875088.jpg", 
-        "iterator": 10, 
+        "iterator": 14, 
         "name": "Kaburandi (Sosion) Cattle Dip", 
         "osm:id": "5798751612", 
         "type": "Cattle dip", 
@@ -296,14 +416,14 @@
         "In_your_opinion_is_the_project_quality": "Excellent", 
         "Please_add_any_details_about_y": "The polytecnic is well build also well equiped", 
         "Project_Description": "Contruction of administration block and classroom", 
-        "Project_Name_or_Title": "Kamelilo vocational trainning center", 
+        "Project_Name_or_Title": "Kamelilo Vocational Training Center", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "amenity": "college", 
         "gender": "Mixed", 
         "government_registered": "MOE (Ministry of Education)", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532595795390.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596227472.jpg", 
-        "iterator": 11, 
+        "iterator": 15, 
         "name": "Kamelilo Vocational Trainning Center", 
         "operator_type": "Government", 
         "osm:id": "5817629961", 
@@ -315,119 +435,56 @@
     {
       "geometry": {
         "coordinates": [
-          35.72518699430879, 
-          0.04520197164587484
+          35.7243828, 
+          0.0526206
         ], 
         "type": "Point"
       }, 
-      "id": "571404106", 
+      "id": "5800785538", 
       "properties": {
-        "Category": "Health Services", 
+        "Category": "Transport, Public Works and Infrasctructure", 
         "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "In good condition ", 
-        "Project_Description": "Wall", 
-        "Project_Name_or_Title": "Mojury equipment", 
+        "Please_add_any_details_about_y": "In good condition serving the community at large ", 
+        "Project_Description": "Car wash ", 
+        "Project_Name_or_Title": "Main stage car wash", 
         "What_is_the_project_s_apparent_status": "Completed", 
-        "amenity": "hospital", 
-        "building": "hospital", 
-        "dispensing": "yes", 
-        "electricity": "always", 
-        "health_facility:referals": "Eldoret Referral Hospital", 
-        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg", 
-        "iterator": 12, 
-        "medical_service:family_planning": "yes", 
-        "medical_service:general_medical_services": "yes", 
-        "medical_service:immunizations": "yes", 
-        "medical_service:malaria": "yes", 
-        "medical_service:pregnancy_test": "yes", 
-        "name": "Eldama Ravine Sub-County Referral Hospital-Mortuary", 
-        "osm:id": "571404106", 
-        "wb_pb:id": "26663338"
+        "amenity": "car_wash", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938302657.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938560980.jpg", 
+        "iterator": 16, 
+        "name": "Main Stage Car Wash", 
+        "osm:id": "5800785538", 
+        "wb_pb:id": "26922849"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          35.72379895148115, 
-          0.04643474646124768
+          35.7236454, 
+          0.0524096
         ], 
         "type": "Point"
       }, 
-      "id": "429074919", 
+      "id": "5800785536", 
       "properties": {
-        "Category": "Health Services", 
-        "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "In good condition ", 
-        "Project_Description": "None", 
-        "Project_Name_or_Title": "Perimeter wall ", 
+        "Category": "Water and Irrigation", 
+        "In_your_opinion_is_the_project_quality": "Poor", 
+        "Please_add_any_details_about_y": "Bowser need renovation ", 
+        "Project_Description": "Main stage ", 
+        "Project_Name_or_Title": "Stage Water bowser", 
         "What_is_the_project_s_apparent_status": "Completed", 
-        "barrier": "wall", 
-        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607432208.jpg", 
-        "iterator": 13, 
-        "name": "Eldama Ravine Sub-County Referral Hospital-Perimeter wall", 
-        "osm:id": "429074919", 
-        "wb_pb:id": "26663342"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7246667, 
-          0.0463533
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5798859908", 
-      "properties": {
-        "Category": "Health Services", 
-        "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "In good condition ", 
-        "Project_Description": "Walkbway", 
-        "Project_Name_or_Title": "Renovation of wards", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "amenity": "hospital", 
-        "dispensing": "yes", 
-        "electricity": "always", 
-        "health_facility:referals": "Eldoret", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607807515.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607913062.jpg", 
-        "iterator": 14, 
-        "medical_service:family_planning": "yes", 
-        "medical_service:general_medical_services": "yes", 
-        "medical_service:immunizations": "yes", 
-        "medical_service:malaria": "yes", 
-        "medical_service:pregnancy_test": "yes", 
-        "name": "Eldama Ravine Sub-County Referral Hospital", 
-        "osm:id": "5798859908", 
-        "wb_pb:id": "26663361"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7227542, 
-          0.0589654
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5798859919", 
-      "properties": {
-        "Category": "Agriculture, Livestock and Fisheries", 
-        "In_your_opinion_is_the_project_quality": "Adequate", 
-        "Please_add_any_details_about_y": "Construction  of septic  tank  completed but its stich", 
-        "Project_Description": "Eldama ravine slaughter house ", 
-        "Project_Name_or_Title": "Septic tanks ", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598145387.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598375724.jpg", 
-        "industrial": "slaughterhouse", 
-        "iterator": 15, 
-        "osm:id": "5798859919", 
-        "type": "Slaughter House", 
-        "wb_pb:id": "26662913"
+        "fee": "2 KSH / 20 litres", 
+        "funded_by": "Government", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532939429676.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532939572754.jpg", 
+        "iterator": 17, 
+        "man_made": "storage_tank", 
+        "name": "Stage Water Bowser", 
+        "operational_status": "Non-operational", 
+        "operator": "County Government of Baringo", 
+        "osm:id": "5800785536", 
+        "wb_pb:id": "26922141"
       }, 
       "type": "Feature"
     }, 
@@ -445,46 +502,19 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "1.poor drainage. 2.No gas system. 3.broken taps. 4.No sits. 5.inadequate fume chamber", 
         "Project_Description": "Use for science practicals", 
-        "Project_Name_or_Title": "Uhuru kabiyet science labaratory", 
+        "Project_Name_or_Title": "Uhuru High School-laboratory", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "amenity": "school", 
         "gender": "Mixed", 
         "government_registered": "MOE (Ministry of Education)", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231052230903.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231052689752.jpg", 
-        "iterator": 16, 
+        "iterator": 18, 
         "name": "Uhuru Kenyatta High School-kabiyet", 
         "operator_type": "Government", 
         "osm:id": "5798788034", 
         "type": "Secondary", 
         "wb_pb:id": "26664159"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7252023, 
-          0.0452854
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5820417010", 
-      "properties": {
-        "Category": "Health Services", 
-        "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "Good condition ", 
-        "Project_Description": "Construction of generator", 
-        "Project_Name_or_Title": "Walk way ", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "generator:source": "solar", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606893111.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607098117.jpg", 
-        "iterator": 17, 
-        "name": "Eldama Ravine Sub-County Referral Hospital-Power Generator", 
-        "osm:id": "5820417010", 
-        "power": "generator", 
-        "wb_pb:id": "26663837"
       }, 
       "type": "Feature"
     }, 
@@ -509,42 +539,12 @@
         "funded_by": "Other", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603812647.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603916564.jpg", 
-        "iterator": 18, 
+        "iterator": 19, 
         "name": "Water Kiosk", 
         "operational_status": "Operational", 
         "operator_type": "Private", 
         "osm:id": "5798859914", 
         "wb_pb:id": "26663249"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7236454, 
-          0.0524096
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5800785536", 
-      "properties": {
-        "Category": "Water and Irrigation", 
-        "In_your_opinion_is_the_project_quality": "Poor", 
-        "Please_add_any_details_about_y": "Bowser need renovation ", 
-        "Project_Description": "Main stage ", 
-        "Project_Name_or_Title": "Water tank bowser", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "fee": "2 KSH / 20 litres", 
-        "funded_by": "Government", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532939429676.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532939572754.jpg", 
-        "iterator": 19, 
-        "man_made": "storage_tank", 
-        "name": "Stage Water Bowser", 
-        "operational_status": "Non-operational", 
-        "operator": "County Government of Baringo", 
-        "osm:id": "5800785536", 
-        "wb_pb:id": "26922141"
       }, 
       "type": "Feature"
     }, 
@@ -640,40 +640,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.7247244, 
-          0.04579
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5798859911", 
-      "properties": {
-        "Category": "Health Services", 
-        "In_your_opinion_is_the_project_quality": "Adequate", 
-        "Please_add_any_details_about_y": "Construction In progress ", 
-        "Project_Description": "Construction Kitchen laundry block ", 
-        "Project_Name_or_Title": "Construction and equipping of laundry block", 
-        "What_is_the_project_s_apparent_status": "In progress", 
-        "amenity": "hospital", 
-        "dispensing": "yes", 
-        "electricity": "sometime", 
-        "health_facility:referals": "Eldoret Referral Hospital", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606346905.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606491571.jpg", 
-        "iterator": 23, 
-        "medical_service:family_planning": "yes", 
-        "medical_service:general_medical_services": "yes", 
-        "medical_service:immunizations": "yes", 
-        "medical_service:malaria": "yes", 
-        "medical_service:pregnancy_test": "yes", 
-        "name": "Eldama Ravine Sub-County Referral Hospital-Laundry", 
-        "osm:id": "5798859911", 
-        "wb_pb:id": "26663306"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           35.7317993, 
           0.04988
         ], 
@@ -692,7 +658,7 @@
         "government_registered": "MOE (Ministry of Education)", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686099757.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686350800.jpg", 
-        "iterator": 24, 
+        "iterator": 23, 
         "name": "Koibatek Primary School", 
         "operational_status": "Government", 
         "osm:id": "5817717021", 
@@ -719,7 +685,7 @@
         "What_is_the_project_s_apparent_status": "In progress", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596063117.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596274336.jpg", 
-        "iterator": 25, 
+        "iterator": 24, 
         "leisure": "stadium", 
         "name": "Eldama Ravine Stadium", 
         "osm:id": "5798859922", 
@@ -731,30 +697,68 @@
     {
       "geometry": {
         "coordinates": [
-          35.7385896, 
-          0.0570641
+          35.7247244, 
+          0.04579
         ], 
         "type": "Point"
       }, 
-      "id": "5817629651", 
+      "id": "5798859911", 
       "properties": {
-        "Category": "Education, Sports, Culture and Social services", 
-        "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "Well built", 
-        "Project_Description": "Multi-purpose dinning hall", 
-        "Project_Name_or_Title": "Kamelilo day dinning hall", 
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Construction In progress ", 
+        "Project_Description": "Construction Kitchen laundry block ", 
+        "Project_Name_or_Title": "Eldama Ravine Sub-County Referral Hospital-laundry block", 
         "What_is_the_project_s_apparent_status": "In progress", 
-        "amenity": "school", 
-        "gender": "Mixed", 
-        "government_registered": "MOE (Ministry of Education)", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532614878580.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532615141122.jpg", 
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "sometime", 
+        "health_facility:referals": "Eldoret Referral Hospital", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606346905.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606491571.jpg", 
+        "iterator": 25, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Eldama Ravine Sub-County Referral Hospital-Laundry", 
+        "osm:id": "5798859911", 
+        "wb_pb:id": "26663306"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.72442, 
+          0.0464489
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5798859907", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "It is not yet used construction in progress ", 
+        "Project_Description": "Pavement wall", 
+        "Project_Name_or_Title": "Eldama Ravine Sub-County Referral Hospital-Power Generator-Opd block", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "health_facility:referals": "Eldoret Referral Hospital", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608064458.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608196635.jpg", 
         "iterator": 26, 
-        "name": "Kamelilo Secondary Mixed", 
-        "operator_type": "Government", 
-        "osm:id": "5817629651", 
-        "type": "Secondary", 
-        "wb_pb:id": "26669317"
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Eldama Ravine Sub-County Referral Hospital- Opd Block", 
+        "osm:id": "5798859907", 
+        "wb_pb:id": "26663862"
       }, 
       "type": "Feature"
     }, 
@@ -791,6 +795,36 @@
     {
       "geometry": {
         "coordinates": [
+          35.7385896, 
+          0.0570641
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5817629651", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "Well built", 
+        "Project_Description": "Multi-purpose dinning hall", 
+        "Project_Name_or_Title": "Kamelilo Secondary School-dining hall", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532614878580.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532615141122.jpg", 
+        "iterator": 28, 
+        "name": "Kamelilo Secondary Mixed", 
+        "operator_type": "Government", 
+        "osm:id": "5817629651", 
+        "type": "Secondary", 
+        "wb_pb:id": "26669317"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.7212654, 
           0.0595421
         ], 
@@ -807,7 +841,7 @@
         "amenity": "waste_disposal", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598804250.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532599170722.jpg", 
-        "iterator": 28, 
+        "iterator": 29, 
         "name": "Kisarget dumping site", 
         "osm:id": "5798859918", 
         "type": "dumping site", 
@@ -836,46 +870,12 @@
         "denomination": "evangelical", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231042571403.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231043242009.jpg", 
-        "iterator": 29, 
+        "iterator": 30, 
         "name": "Mosop Full Gospel Church", 
         "osm:id": "5798788041", 
         "religion": "christian", 
         "service_times": "10:00", 
         "wb_pb:id": "26664063"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.72442, 
-          0.0464489
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5798859907", 
-      "properties": {
-        "Category": "Health Services", 
-        "In_your_opinion_is_the_project_quality": "Adequate", 
-        "Please_add_any_details_about_y": "It is not yet used construction in progress ", 
-        "Project_Description": "Pavement wall", 
-        "Project_Name_or_Title": "Opd block", 
-        "What_is_the_project_s_apparent_status": "In progress", 
-        "amenity": "hospital", 
-        "dispensing": "yes", 
-        "electricity": "always", 
-        "health_facility:referals": "Eldoret Referral Hospital", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608064458.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608196635.jpg", 
-        "iterator": 30, 
-        "medical_service:family_planning": "yes", 
-        "medical_service:general_medical_services": "yes", 
-        "medical_service:immunizations": "yes", 
-        "medical_service:malaria": "yes", 
-        "medical_service:pregnancy_test": "yes", 
-        "name": "Eldama Ravine Sub-County Referral Hospital- Opd Block", 
-        "osm:id": "5798859907", 
-        "wb_pb:id": "26663862"
       }, 
       "type": "Feature"
     }, 
@@ -893,7 +893,7 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "Part of the classroom block is complete but the windows need repairs.", 
         "Project_Description": "Construction of an ECDE classroom block", 
-        "Project_Name_or_Title": "Shimon  ECDE", 
+        "Project_Name_or_Title": "Shimoni  ECDE", 
         "What_is_the_project_s_apparent_status": "In progress", 
         "amenity": "school", 
         "gender": "Mixed", 
@@ -1037,7 +1037,7 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "Need renovation ", 
         "Project_Description": "In progress ", 
-        "Project_Name_or_Title": "Hospital kitchen ", 
+        "Project_Name_or_Title": "Eldama Ravine Sub-County Referral Hospital-Hospital kitchen ", 
         "What_is_the_project_s_apparent_status": "Not yet started", 
         "amenity": "hospital", 
         "dispensing": "yes", 

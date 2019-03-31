@@ -14,7 +14,7 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "the project is complete but needs 2more classrooms to be constructed.", 
         "Project_Description": "bondeni ecd", 
-        "Project_Name_or_Title": "bondeni ecd", 
+        "Project_Name_or_Title": "Bondeni ECDE", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "amenity": "school", 
         "gender": "Mixed", 
@@ -26,36 +26,6 @@
         "operator_type": "County Government Of Baringo", 
         "osm:id": "5781399433", 
         "wb_pb:id": "26191727"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.6566103, 
-          0.4581368
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5779173630", 
-      "properties": {
-        "Category": "Education, Sports, Culture and Social services", 
-        "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "Good", 
-        "Project_Description": "Good", 
-        "Project_Name_or_Title": "Borehole", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "amenity": "school", 
-        "funded_by": "CDF", 
-        "gender": "Mixed", 
-        "government_registered": "MOE (Ministry of Education)", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531912380061.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531912610331.jpg", 
-        "iterator": 2, 
-        "name": "ECDE Oinabmoi", 
-        "operator_type": "Government", 
-        "osm:id": "5779173630", 
-        "wb_pb:id": "26127217"
       }, 
       "type": "Feature"
     }, 
@@ -81,7 +51,7 @@
         "health_facility:referals": "Kabarnet Referral Hospital", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907158978.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907624084.jpg", 
-        "iterator": 3, 
+        "iterator": 2, 
         "medical_service:family_planning": "yes", 
         "medical_service:general_medical_services": "yes", 
         "medical_service:immunizations": "yes", 
@@ -92,57 +62,6 @@
         "operator": "County Government Of Baringo", 
         "osm:id": "5779268901", 
         "wb_pb:id": "26128775"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.6510888, 
-          0.5180563
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5781138897", 
-      "properties": {
-        "Category": "Transport, Public Works and Infrasctructure", 
-        "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "The bridge has been completed and it is currently on use by the locals", 
-        "Project_Description": "Project has been completed", 
-        "Project_Name_or_Title": " Construction of kibunder bridge ", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "funded_by": "Baringo County Government", 
-        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531990809382.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531991010279.jpg", 
-        "iterator": 4, 
-        "name": "Kibunder Bridge", 
-        "osm:id": "5781138897", 
-        "wb_pb:id": "26186713"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7440452, 
-          0.4951488
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5781630323", 
-      "properties": {
-        "Category": "Transport, Public Works and Infrasctructure", 
-        "In_your_opinion_is_the_project_quality": "Adequate", 
-        "Please_add_any_details_about_y": "Drainage system required.", 
-        "Project_Description": "construction of hurth-bondeni-seguton road", 
-        "Project_Name_or_Title": "construction of roads", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532090791970.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532091048647.jpg", 
-        "iterator": 5, 
-        "name": "Hurth Bondeni Road", 
-        "osm:id": "5781630323", 
-        "wb_pb:id": "26247461"
       }, 
       "type": "Feature"
     }, 
@@ -165,7 +84,7 @@
         "amenity": "agriculture", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531986667901.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531987313106.jpg", 
-        "iterator": 6, 
+        "iterator": 3, 
         "name": "Emgos cattle dip", 
         "osm:id": "5779627497", 
         "type": "Cattle dip", 
@@ -176,87 +95,83 @@
     {
       "geometry": {
         "coordinates": [
-          35.73842118603604, 
-          0.4930312934946761
+          35.6769839, 
+          0.4828
         ], 
         "type": "Point"
       }, 
-      "id": "610480108", 
+      "id": "5779324094", 
       "properties": {
-        "Category": "Lands, Housing and Urban Development", 
-        "In_your_opinion_is_the_project_quality": "Adequate", 
-        "Please_add_any_details_about_y": "the fencing is complete and it requires shelter shades", 
-        "Project_Description": "muslim cemetry", 
-        "Project_Name_or_Title": "fencing of kabarnet muslim cemetry", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "barrier": "fence", 
-        "fence_type": "barbed_wire", 
-        "iterator": 7, 
-        "landuse": "cemetery", 
-        "name": "Muslim cemetry", 
-        "osm:id": "610480108", 
-        "religion": "muslim", 
-        "wb_pb:id": "26192164"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.6832942, 
-          0.5135886
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5781093182", 
-      "properties": {
-        "Category": "Health Services", 
+        "Category": "Water and Irrigation", 
         "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "The fencing provide security to the dispensary", 
-        "Project_Description": "Construction of dispensary building", 
-        "Project_Name_or_Title": "Fencing of magonoi dispensary", 
+        "Please_add_any_details_about_y": "The borehole serves the people very well", 
+        "Project_Description": "The construction was built to serves the locals of Eron", 
+        "Project_Name_or_Title": "Eron Borehole", 
         "What_is_the_project_s_apparent_status": "Completed", 
-        "amenity": "clinic", 
-        "dispensing": "yes", 
-        "electricity": "always", 
-        "health_facility:referals": "Kabarnet general hospital", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532081042362.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532081081315.jpg", 
-        "iterator": 8, 
-        "medical_service:family_planning": "yes", 
-        "medical_service:general_medical_services": "yes", 
-        "medical_service:immunizations": "yes", 
-        "medical_service:malaria": "yes", 
-        "medical_service:pregnancy_test": "yes", 
-        "name": "Magonoi Dispensary", 
-        "osm:id": "5781093182", 
-        "wb_pb:id": "26240541"
+        "fee": "5.0 KSH/20 litres", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531985103202.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531985375004.jpg", 
+        "iterator": 4, 
+        "man_made": "water_well", 
+        "name": "Eron Borehole Source Point", 
+        "operational_status": "Operational", 
+        "operator_type": "Government", 
+        "osm:id": "5779324094", 
+        "wb_pb:id": "26186365"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          35.7447511, 
-          0.4875529
+          35.6750797, 
+          0.4829378
         ], 
         "type": "Point"
       }, 
-      "id": "5781630325", 
+      "id": "5779324097", 
       "properties": {
-        "Category": "Lands, Housing and Urban Development", 
-        "In_your_opinion_is_the_project_quality": "Adequate", 
-        "Please_add_any_details_about_y": "one of the lights is not working", 
-        "Project_Description": "flood lights at kaprogonya.", 
-        "Project_Name_or_Title": "floodlights", 
+        "Category": "Water and Irrigation", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "The borehole serves the locals of the Erin village", 
+        "Project_Description": "Construction of the tank", 
+        "Project_Name_or_Title": "Eron Primary School -- water tank", 
         "What_is_the_project_s_apparent_status": "Completed", 
-        "highway": "street_lamp", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532090188156.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532090142339.jpg", 
-        "iterator": 9, 
-        "name": "Kaprogonya Flood Lights", 
-        "osm:id": "5781630325", 
-        "wb_pb:id": "26247345"
+        "fee": "5.0 KSH/20 litres", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531983816233.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531984042215.jpg", 
+        "iterator": 5, 
+        "man_made": "water_well", 
+        "name": "Eron Borehole", 
+        "operational_status": "Operational", 
+        "operator": "County Government Of Baringo", 
+        "osm:id": "5779324097", 
+        "wb_pb:id": "26186329"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7440452, 
+          0.4951488
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781630323", 
+      "properties": {
+        "Category": "Transport, Public Works and Infrasctructure", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Drainage system required.", 
+        "Project_Description": "construction of hurth-bondeni-seguton road", 
+        "Project_Name_or_Title": "Hurth-bondeni-seguton road", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532090791970.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532091048647.jpg", 
+        "iterator": 6, 
+        "name": "Hurth Bondeni Road", 
+        "osm:id": "5781630323", 
+        "wb_pb:id": "26247461"
       }, 
       "type": "Feature"
     }, 
@@ -274,12 +189,12 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "the workmanship was good and of good quality.", 
         "Project_Description": "renovation of administration block.", 
-        "Project_Name_or_Title": "kabarnert refferal hospital", 
+        "Project_Name_or_Title": "Kabarnert Referral hospital -- administration block", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "building": "yes", 
         "electricity": "always", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907382788.jpg", 
-        "iterator": 10, 
+        "iterator": 7, 
         "name": "Baringo County referral hospital Adminstative Block", 
         "office": "government", 
         "osm:id": "5781471052", 
@@ -301,7 +216,7 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "The facility has no enough water and needs maintenance.", 
         "Project_Description": "development of Eco-toilet.", 
-        "Project_Name_or_Title": "kabarnet Eco-toilet", 
+        "Project_Name_or_Title": "Kabarnet Eco-toilet", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "access": "customers", 
         "amenity": "toilets", 
@@ -309,7 +224,7 @@
         "fee": "yes", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532006248167.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532006168908.jpg", 
-        "iterator": 11, 
+        "iterator": 8, 
         "name": "Kabarnet Eco-toilet", 
         "operator_type": "County Government Of Baringo", 
         "osm:id": "5781399422", 
@@ -324,51 +239,27 @@
     {
       "geometry": {
         "coordinates": [
-          35.7427341, 
-          0.4850803
+          35.73842118603604, 
+          0.4930312934946761
         ], 
         "type": "Point"
       }, 
-      "id": "5820321726", 
+      "id": "610480108", 
       "properties": {
-        "Category": "Health Services", 
-        "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "The facility's workmanship is good,the equipments are of good quality.", 
-        "Project_Description": "renovation works of ICU", 
-        "Project_Name_or_Title": "Kabarnet refferal hospital ICU", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "amenity": "hospital", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904495659.jpg", 
-        "iterator": 12, 
-        "name": "Kabarnet Refferal Hopital-ICU", 
-        "osm:id": "5820321726", 
-        "wb_pb:id": "26199364"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7435511, 
-          0.4859377
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5781471256", 
-      "properties": {
-        "Category": "Health Services", 
+        "Category": "Lands, Housing and Urban Development", 
         "In_your_opinion_is_the_project_quality": "Adequate", 
-        "Please_add_any_details_about_y": "the project is goodbut tge capacity should be increased to 60 since it is a refferal hosiptal and serves even other counties.there is also a shortage of human resource.", 
-        "Project_Description": "erection and completion of 48-body mortuary ", 
-        "Project_Name_or_Title": "kabarnet refferal hospital mortuary", 
+        "Please_add_any_details_about_y": "the fencing is complete and it requires shelter shades", 
+        "Project_Description": "muslim cemetry", 
+        "Project_Name_or_Title": "Kabarnet muslim cemetry-fencing", 
         "What_is_the_project_s_apparent_status": "Completed", 
-        "amenity": "hospital", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531903619213.jpg", 
-        "iterator": 13, 
-        "name": "Baringo County referral hospital Mortuary", 
-        "osm:id": "5781471256", 
-        "type": "Mortuary", 
-        "wb_pb:id": "26125945"
+        "barrier": "fence", 
+        "fence_type": "barbed_wire", 
+        "iterator": 9, 
+        "landuse": "cemetery", 
+        "name": "Muslim cemetry", 
+        "osm:id": "610480108", 
+        "religion": "muslim", 
+        "wb_pb:id": "26192164"
       }, 
       "type": "Feature"
     }, 
@@ -386,15 +277,66 @@
         "In_your_opinion_is_the_project_quality": "Excellent", 
         "Please_add_any_details_about_y": "the work is good.", 
         "Project_Description": "renovation of kabarnet refferal hopital intern quarters.tilling and painting", 
-        "Project_Name_or_Title": "kabarnet refferal intern quarters.", 
+        "Project_Name_or_Title": "Kabarnet Referral Hospital -- intern quarters", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "building": "yes", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906457617.jpg", 
-        "iterator": 14, 
+        "iterator": 10, 
         "name": "Baringo County referral hospitall Intern quarters", 
         "osm:id": "5781471254", 
         "type": "hospital", 
         "wb_pb:id": "26125995"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7435511, 
+          0.4859377
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781471256", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "the project is goodbut tge capacity should be increased to 60 since it is a refferal hosiptal and serves even other counties.there is also a shortage of human resource.", 
+        "Project_Description": "erection and completion of 48-body mortuary ", 
+        "Project_Name_or_Title": "Kabarnet Referral Hospital -- mortuary", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "hospital", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531903619213.jpg", 
+        "iterator": 11, 
+        "name": "Baringo County referral hospital Mortuary", 
+        "osm:id": "5781471256", 
+        "type": "Mortuary", 
+        "wb_pb:id": "26125945"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7427341, 
+          0.4850803
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5820321726", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "The facility's workmanship is good,the equipments are of good quality.", 
+        "Project_Description": "renovation works of ICU", 
+        "Project_Name_or_Title": "Kabarnet Referral Hospital-ICU", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "hospital", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904495659.jpg", 
+        "iterator": 12, 
+        "name": "Kabarnet Refferal Hopital-ICU", 
+        "osm:id": "5820321726", 
+        "wb_pb:id": "26199364"
       }, 
       "type": "Feature"
     }, 
@@ -411,15 +353,15 @@
         "Category": "Education, Sports, Culture and Social services", 
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "The project needs maintainance and equiping.", 
-        "Project_Description": "Construction of Kabarnet School for the deafblind dormetry", 
-        "Project_Name_or_Title": "kabarnet school for deafblind", 
+        "Project_Description": "Tree Nursery for Kaptimbor youth initiative", 
+        "Project_Name_or_Title": "Kabarnet School For Deaf and Blind-dormitory", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "amenity": "school", 
         "gender": "Mixed", 
         "government_registered": "MOE (Ministry of Education)", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531987414879.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531986924553.jpg", 
-        "iterator": 15, 
+        "iterator": 13, 
         "name": "Kabarnet School For DeafBlind", 
         "operator_type": "Government", 
         "osm:id": "5781399426", 
@@ -442,15 +384,41 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "the monument looks good", 
         "Project_Description": "renovation of kabarnet town monument", 
-        "Project_Name_or_Title": "kabarnet town monument", 
+        "Project_Name_or_Title": "Kabarnet town monument", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "historic": "monument", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531980571771.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531980817355.jpg", 
-        "iterator": 16, 
+        "iterator": 14, 
         "name": "Kabarnet Town Monument", 
         "osm:id": "5781399434", 
         "wb_pb:id": "26190962"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7447511, 
+          0.4875529
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781630325", 
+      "properties": {
+        "Category": "Lands, Housing and Urban Development", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "one of the lights is not working", 
+        "Project_Description": "flood lights at kaprogonya.", 
+        "Project_Name_or_Title": "Kaprogonya floodlights", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "highway": "street_lamp", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532090188156.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532090142339.jpg", 
+        "iterator": 15, 
+        "name": "Kaprogonya Flood Lights", 
+        "osm:id": "5781630325", 
+        "wb_pb:id": "26247345"
       }, 
       "type": "Feature"
     }, 
@@ -468,11 +436,11 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "The stream  around the dam needs garbions to control erosion with the pan dam", 
         "Project_Description": "The dam was constructed to be used by the people of kapsia for domestic use", 
-        "Project_Name_or_Title": "Kapsia", 
+        "Project_Name_or_Title": "Kapsia water pan dam", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992293126.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992946501.jpg", 
-        "iterator": 17, 
+        "iterator": 16, 
         "name": "Kiptumo Pan Dam", 
         "operational_status": "Operational", 
         "operator_type": "Government", 
@@ -502,7 +470,7 @@
         "government_registered": "MOE (Ministry of Education)", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531912176458.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531912139037.jpg", 
-        "iterator": 18, 
+        "iterator": 17, 
         "name": "Kaptara Primary School", 
         "operational_status": "Operational", 
         "operator_type": "Government", 
@@ -530,7 +498,7 @@
         "amenity": "Agriculture", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531914404142.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531914767962.jpg", 
-        "iterator": 19, 
+        "iterator": 18, 
         "name": "Kaptara Sale Yard", 
         "operational_status": "operational", 
         "osm:id": "5779268917", 
@@ -553,14 +521,14 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "the project is complete", 
         "Project_Description": "contruction of kaptimbor ecd", 
-        "Project_Name_or_Title": "kaptimbor ecd", 
+        "Project_Name_or_Title": "Kaptimbor ECDE", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "amenity": "school", 
         "gender": "Mixed", 
         "government_registered": "MOE (Ministry of Education)", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531993458034.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531993279202.jpg", 
-        "iterator": 20, 
+        "iterator": 19, 
         "name": "Kaptimbor ECDE", 
         "operator": "Government", 
         "osm:id": "5781399429", 
@@ -583,11 +551,11 @@
         "In_your_opinion_is_the_project_quality": "Excellent", 
         "Please_add_any_details_about_y": "Slapping and drainage is in good form", 
         "Project_Description": "Kator-emkos road slapping", 
-        "Project_Name_or_Title": "Kator-emkos road slap", 
+        "Project_Name_or_Title": "Kator-Emkos road slab", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531988761195.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531989146378.jpg", 
-        "iterator": 21, 
+        "iterator": 20, 
         "osm:id": "5779627493", 
         "wb_pb:id": "26193696"
       }, 
@@ -612,7 +580,7 @@
         "amenity": "agriculture", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532005303450.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532005640498.jpg", 
-        "iterator": 22, 
+        "iterator": 21, 
         "name": "kesoen Cattle Dip", 
         "osm:id": "5779627494", 
         "type": "Cattle dip", 
@@ -639,7 +607,7 @@
         "amenity": "cattle_dip", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069970105.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070210322.jpg", 
-        "iterator": 23, 
+        "iterator": 22, 
         "name": "Ketindui cattle dip", 
         "osm:id": "5781093176", 
         "type": "Cattle dip", 
@@ -668,7 +636,7 @@
         "government_registered": "MOE (Ministry of Education)", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069163120.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069371589.jpg", 
-        "iterator": 24, 
+        "iterator": 23, 
         "name": "Ketindui ECDE", 
         "operator_type": "Government", 
         "osm:id": "5781093179", 
@@ -696,7 +664,7 @@
         "bridge:support": "abutment", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070512306.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070720410.jpg", 
-        "iterator": 25, 
+        "iterator": 24, 
         "osm:id": "5781093172", 
         "type": "footbridge", 
         "wb_pb:id": "26240452"
@@ -723,12 +691,38 @@
         "funded_by": "CBO", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532083558779.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532083880503.jpg", 
-        "iterator": 26, 
+        "iterator": 25, 
         "name": "Kiberege Water Project", 
         "natural": "spring", 
         "operator_type": "CBO", 
         "osm:id": "5779627773", 
         "wb_pb:id": "26240846"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6510888, 
+          0.5180563
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781138897", 
+      "properties": {
+        "Category": "Transport, Public Works and Infrasctructure", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "The bridge has been completed and it is currently on use by the locals", 
+        "Project_Description": "Project has been completed", 
+        "Project_Name_or_Title": "Kibunder bridge ", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "funded_by": "Baringo County Government", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531990809382.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531991010279.jpg", 
+        "iterator": 26, 
+        "name": "Kibunder Bridge", 
+        "osm:id": "5781138897", 
+        "wb_pb:id": "26186713"
       }, 
       "type": "Feature"
     }, 
@@ -765,6 +759,40 @@
     {
       "geometry": {
         "coordinates": [
+          35.6882937, 
+          0.4608194
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779173626", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "Good", 
+        "Project_Description": "Septic", 
+        "Project_Name_or_Title": "Kioboino Health Center Staff house-Septic", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "hospital", 
+        "dispensing": "no", 
+        "electricity": "always", 
+        "health_facility:referals": "Kabarnet County Referal Hospital", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919674688.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919889855.jpg", 
+        "iterator": 28, 
+        "medical_service:family_planning": "no", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "no", 
+        "medical_service:malaria": "no", 
+        "medical_service:pregnancy_test": "no", 
+        "name": "Kiboino Health Center Staff House", 
+        "osm:id": "5779173626", 
+        "wb_pb:id": "26127327"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.6895939, 
           0.4527117
         ], 
@@ -781,7 +809,7 @@
         "amenity": "school", 
         "gender": "Mixed", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992171358.jpg", 
-        "iterator": 28, 
+        "iterator": 29, 
         "name": "Kiplabal Primary School", 
         "operator": "Government", 
         "osm:id": "5779163470", 
@@ -807,7 +835,7 @@
         "What_is_the_project_s_apparent_status": "Completed", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532071213785.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532071537248.jpg", 
-        "iterator": 29, 
+        "iterator": 30, 
         "name": "Kiplewel-Sosion Water Project", 
         "operational_status": "Operational", 
         "operator": "County Government Of Baringo", 
@@ -838,7 +866,7 @@
         "electricity": "none", 
         "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531987614556.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531987795742.jpg", 
-        "iterator": 30, 
+        "iterator": 31, 
         "medical_service:family_planning": "no", 
         "medical_service:general_medical_services": "no", 
         "medical_service:immunizations": "no", 
@@ -869,7 +897,7 @@
         "fee": "5.0 KSH", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531988004813.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/\\1531988212032.jpg", 
-        "iterator": 31, 
+        "iterator": 32, 
         "man_made": "water_well", 
         "name": "Kipsoit Borehole", 
         "operational_status": "operational", 
@@ -893,14 +921,48 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "the project is complete.", 
         "Project_Description": "concrete works from lelian to kapchepsir road", 
-        "Project_Name_or_Title": "lelian kapchepsir road", 
+        "Project_Name_or_Title": "Lelian-Kapchepsir road", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074696929.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074875329.jpg", 
-        "iterator": 32, 
+        "iterator": 33, 
         "osm:id": "5781630322", 
         "type": "Lelian Kapchepsir Road", 
         "wb_pb:id": "26247315"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6832942, 
+          0.5135886
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781093182", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "The fencing provide security to the dispensary", 
+        "Project_Description": "Construction of dispensary building", 
+        "Project_Name_or_Title": "Magonoi Dispensary-fencing", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "health_facility:referals": "Kabarnet general hospital", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532081042362.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532081081315.jpg", 
+        "iterator": 34, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Magonoi Dispensary", 
+        "osm:id": "5781093182", 
+        "wb_pb:id": "26240541"
       }, 
       "type": "Feature"
     }, 
@@ -925,7 +987,7 @@
         "government_registered": "MOE (Ministry of Education)", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531917051252.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531917329441.jpg", 
-        "iterator": 33, 
+        "iterator": 35, 
         "name": "Metipmoso ECDE", 
         "operational_status": "not operational", 
         "operator_type": "Government", 
@@ -948,7 +1010,7 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "Good", 
         "Project_Description": "", 
-        "Project_Name_or_Title": "Oinabmoi sec school", 
+        "Project_Name_or_Title": "Oinabmoi Secondary School", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "amenity": "school", 
         "building_type": "Block", 
@@ -957,13 +1019,43 @@
         "government_registered": "MOE (Ministry of Education)", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531909635110.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531909802053.jpg", 
-        "iterator": 34, 
+        "iterator": 36, 
         "name": "Oinabmoi Secondary School", 
         "operational_status": "Operational", 
         "operator": "BOG", 
         "operator_type": "Government", 
         "osm:id": "5779173631", 
         "wb_pb:id": "26127156"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6566103, 
+          0.4581368
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779173630", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "Good", 
+        "Project_Description": "Good", 
+        "Project_Name_or_Title": "Oinobmoi ECDE-Borehole", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "school", 
+        "funded_by": "CDF", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531912380061.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531912610331.jpg", 
+        "iterator": 37, 
+        "name": "ECDE Oinabmoi", 
+        "operator_type": "Government", 
+        "osm:id": "5779173630", 
+        "wb_pb:id": "26127217"
       }, 
       "type": "Feature"
     }, 
@@ -981,11 +1073,11 @@
         "In_your_opinion_is_the_project_quality": "Excellent", 
         "Please_add_any_details_about_y": "The is in good condition", 
         "Project_Description": "The class is in good condition", 
-        "Project_Name_or_Title": "Orokwo ecd", 
+        "Project_Name_or_Title": "Orokwo ECDE", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "amenity": "kindergarten", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531999847340.jpg", 
-        "iterator": 35, 
+        "iterator": 38, 
         "name": "Orokwo ECDE", 
         "osm:id": "5779627498", 
         "wb_pb:id": "26193849"
@@ -1006,125 +1098,15 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "the library is of good quality,but has inadequate space.", 
         "Project_Description": "construction works for polkadot library.", 
-        "Project_Name_or_Title": "polkadot library", 
+        "Project_Name_or_Title": "Polkadot Library", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "amenity": "library", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531910930781.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531911164212.jpg", 
-        "iterator": 36, 
+        "iterator": 39, 
         "name": "Polkadot Library Kabarnet", 
         "osm:id": "5781471051", 
         "wb_pb:id": "26126055"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.6609404, 
-          0.4967626
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5779197166", 
-      "properties": {
-        "Category": "Health Services", 
-        "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "The  renovation(roofing,building of the wall has improved the part of the infrastructure of the health centre", 
-        "Project_Description": "Roofing of the out patient wing and painting of the maternity roof and wards", 
-        "Project_Name_or_Title": "Proposed renovation works at Salawa Health Centre", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "amenity": "clinic", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531903148638.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904211458.jpg", 
-        "iterator": 37, 
-        "name": "Salawa Health Centre", 
-        "osm:id": "5779197166", 
-        "wb_pb:id": "26128534"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.660675, 
-          0.4964151
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5779197165", 
-      "properties": {
-        "Category": "Health Services", 
-        "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "The public toilet serves the patients who visit the health centre", 
-        "Project_Description": "Construction of a toilet", 
-        "Project_Name_or_Title": "Proposed renovation works at Salawa Health Centre", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "amenity": "hospital", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904607593.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904867750.jpg", 
-        "iterator": 38, 
-        "name": "Salawa Health Centre", 
-        "osm:id": "5779197165", 
-        "wb_pb:id": "26128566"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.6769839, 
-          0.4828
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5779324094", 
-      "properties": {
-        "Category": "Water and Irrigation", 
-        "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "The borehole serves the people very well", 
-        "Project_Description": "The construction was built to serves the locals of Eron", 
-        "Project_Name_or_Title": "Rural water supply in baringo county from the of japan", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "fee": "5.0 KSH/20 litres", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531985103202.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531985375004.jpg", 
-        "iterator": 39, 
-        "man_made": "water_well", 
-        "name": "Eron Borehole Source Point", 
-        "operational_status": "Operational", 
-        "operator_type": "Government", 
-        "osm:id": "5779324094", 
-        "wb_pb:id": "26186365"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.6750797, 
-          0.4829378
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5779324097", 
-      "properties": {
-        "Category": "Water and Irrigation", 
-        "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "The borehole serves the locals of the Erin village", 
-        "Project_Description": "Construction of the tank", 
-        "Project_Name_or_Title": "Rural water supply in baringo county from the people to Eron primary school and community atlarge", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "fee": "5.0 KSH/20 litres", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531983816233.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531984042215.jpg", 
-        "iterator": 40, 
-        "man_made": "water_well", 
-        "name": "Eron Borehole", 
-        "operational_status": "Operational", 
-        "operator": "County Government Of Baringo", 
-        "osm:id": "5779324097", 
-        "wb_pb:id": "26186329"
       }, 
       "type": "Feature"
     }, 
@@ -1147,11 +1129,63 @@
         "amenity": "waste_basket", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531905811016.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906089508.jpg", 
-        "iterator": 41, 
+        "iterator": 40, 
         "name": "Disposal pit", 
         "osm:id": "5779197184", 
         "type": "Agriculture", 
         "wb_pb:id": "26128576"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6609404, 
+          0.4967626
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779197166", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "The  renovation(roofing,building of the wall has improved the part of the infrastructure of the health centre", 
+        "Project_Description": "Roofing of the out patient wing and painting of the maternity roof and wards", 
+        "Project_Name_or_Title": "Salawa Health Centre -- patient wing", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "clinic", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531903148638.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904211458.jpg", 
+        "iterator": 41, 
+        "name": "Salawa Health Centre", 
+        "osm:id": "5779197166", 
+        "wb_pb:id": "26128534"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.660675, 
+          0.4964151
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779197165", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "The public toilet serves the patients who visit the health centre", 
+        "Project_Description": "Construction of a toilet", 
+        "Project_Name_or_Title": "Salawa Health Centre -- toilet", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "hospital", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904607593.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904867750.jpg", 
+        "iterator": 42, 
+        "name": "Salawa Health Centre", 
+        "osm:id": "5779197165", 
+        "wb_pb:id": "26128566"
       }, 
       "type": "Feature"
     }, 
@@ -1176,7 +1210,7 @@
         "fee": "yes", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907702222.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531908169862.jpg", 
-        "iterator": 42, 
+        "iterator": 43, 
         "operator": "County Government Of Baringo", 
         "osm:id": "5779197169", 
         "toilets:handwashing": "yes", 
@@ -1199,52 +1233,18 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "construction if seguton pry school", 
         "Project_Description": "", 
-        "Project_Name_or_Title": "seguton hill primary school", 
+        "Project_Name_or_Title": "Seguton Hill Primary School", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "amenity": "school", 
         "gender": "Mixed", 
         "government_registered": "MOE (Ministry of Education)", 
         "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532072220250.jpg", 
-        "iterator": 43, 
+        "iterator": 44, 
         "name": "Seguton Primary School", 
         "operator": "Government", 
         "osm:id": "5781630328", 
         "school": "Primary", 
         "wb_pb:id": "26247289"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.6882937, 
-          0.4608194
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5779173626", 
-      "properties": {
-        "Category": "Health Services", 
-        "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "Good", 
-        "Project_Description": "Septic", 
-        "Project_Name_or_Title": "Stuff house,electric work and toilets", 
-        "What_is_the_project_s_apparent_status": "Completed", 
-        "amenity": "hospital", 
-        "dispensing": "no", 
-        "electricity": "always", 
-        "health_facility:referals": "Kabarnet County Referal Hospital", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919674688.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919889855.jpg", 
-        "iterator": 44, 
-        "medical_service:family_planning": "no", 
-        "medical_service:general_medical_services": "no", 
-        "medical_service:immunizations": "no", 
-        "medical_service:malaria": "no", 
-        "medical_service:pregnancy_test": "no", 
-        "name": "Kiboino Health Center Staff House", 
-        "osm:id": "5779173626", 
-        "wb_pb:id": "26127327"
       }, 
       "type": "Feature"
     }, 
@@ -1262,7 +1262,7 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "The ground is bare and not to the standard", 
         "Project_Description": "Leveling of play groung", 
-        "Project_Name_or_Title": "Tereben pry school play ground", 
+        "Project_Name_or_Title": "Tereben Primary School -- playground", 
         "What_is_the_project_s_apparent_status": "Completed", 
         "gender": "Mixed", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532080081465.jpg", 
@@ -1347,7 +1347,7 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "The project still requiers more piping for adequate water coverage for the population", 
         "Project_Description": "Chepkesin water project", 
-        "Project_Name_or_Title": "Construction of chepkesin water projectpipeline extension", 
+        "Project_Name_or_Title": "Chepkesin water project pipeline extension", 
         "What_is_the_project_s_apparent_status": "In progress", 
         "amenity": "drinking_water", 
         "funded_by": "County Government", 
@@ -1376,7 +1376,7 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "The gates are not in good condition. The costruction of the  fence has not been completed.", 
         "Project_Description": "Proposed Construction of Fence on Proposed Housing Land.", 
-        "Project_Name_or_Title": "Construction of fence.", 
+        "Project_Name_or_Title": "County of Baringo Housing Project-fencing", 
         "What_is_the_project_s_apparent_status": "In progress", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532088465659.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532088846642.jpg", 
@@ -1385,61 +1385,6 @@
         "osm:id": "5795678492", 
         "type": "Fence", 
         "wb_pb:id": "26624174"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7440361, 
-          0.4960681
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5781399431", 
-      "properties": {
-        "Category": "Education, Sports, Culture and Social services", 
-        "In_your_opinion_is_the_project_quality": "Adequate", 
-        "Please_add_any_details_about_y": "the project is incomplete and needs to be finished.", 
-        "Project_Description": "construction of kabarnet stadium perimeter wall.", 
-        "Project_Name_or_Title": "construction of kabarnet stadium perimeter wall.", 
-        "What_is_the_project_s_apparent_status": "In progress", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531981808166.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982100266.jpg", 
-        "iterator": 50, 
-        "name": "Kabarnet Stadium Perimeter Wall", 
-        "osm:id": "5781399431", 
-        "type": "Perimeter wall", 
-        "wb_pb:id": "26191806"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7432222, 
-          0.4853656
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5781471255", 
-      "properties": {
-        "Category": "Health Services", 
-        "In_your_opinion_is_the_project_quality": "Poor", 
-        "Please_add_any_details_about_y": "the project has stalled for qiute a while and bulding materials have been taken away by the contractor.", 
-        "Project_Description": "proposed erection and completion of kabarnet surgical ward.", 
-        "Project_Name_or_Title": "kabarnet referral hospital surgical ward.", 
-        "What_is_the_project_s_apparent_status": "In progress", 
-        "amenity": "hospital", 
-        "dispensing": "yes", 
-        "electricity": "always", 
-        "general_medical_services": "yes", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531905240148.jpg", 
-        "iterator": 51, 
-        "name": "Baringo County referral hospital Surgical Ward", 
-        "osm:id": "5781471255", 
-        "type": "Surgical Ward", 
-        "wb_pb:id": "26125963"
       }, 
       "type": "Feature"
     }, 
@@ -1457,11 +1402,11 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "the quality is avarage, the perimeter wall is not complete.", 
         "Project_Description": "proposed rehabilitation of hospital sewarage lagoon", 
-        "Project_Name_or_Title": "kabarnet refferal hospital ", 
+        "Project_Name_or_Title": "Kabarnet Referral Hospital -- lagoon", 
         "What_is_the_project_s_apparent_status": "In progress", 
         "amenity": "waste_disposal", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906979759.jpg", 
-        "iterator": 52, 
+        "iterator": 50, 
         "name": "Baringo County referral hospital lagoon", 
         "osm:id": "5781471253", 
         "type": "hospital", 
@@ -1473,27 +1418,56 @@
     {
       "geometry": {
         "coordinates": [
-          35.743130374519914, 
-          0.4964211552339955
+          35.7432222, 
+          0.4853656
         ], 
         "type": "Point"
       }, 
-      "id": "610480109", 
+      "id": "5781471255", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Poor", 
+        "Please_add_any_details_about_y": "the project has stalled for qiute a while and bulding materials have been taken away by the contractor.", 
+        "Project_Description": "proposed erection and completion of kabarnet surgical ward.", 
+        "Project_Name_or_Title": "Kabarnet Referral Hospital -- surgical ward", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "general_medical_services": "yes", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531905240148.jpg", 
+        "iterator": 51, 
+        "name": "Baringo County referral hospital Surgical Ward", 
+        "osm:id": "5781471255", 
+        "type": "Surgical Ward", 
+        "wb_pb:id": "26125963"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7438598, 
+          0.4898165
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781471049", 
       "properties": {
         "Category": "Education, Sports, Culture and Social services", 
-        "In_your_opinion_is_the_project_quality": "Poor", 
-        "Please_add_any_details_about_y": "the project is incomplete.", 
-        "Project_Description": "upgrading of kabarnet stadium", 
-        "Project_Name_or_Title": "kabarnet stadium", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "the project progress is slow.", 
+        "Project_Description": "kabarnet social hall", 
+        "Project_Name_or_Title": "Kabarnet Social Hall", 
         "What_is_the_project_s_apparent_status": "In progress", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982660930.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982824122.jpg", 
-        "iterator": 53, 
-        "leisure": "stadium", 
-        "name": "Kabarnet Stadium", 
-        "osm:id": "610480109", 
-        "type": "Stadium", 
-        "wb_pb:id": "26191876"
+        "amenity": "theatre", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531911372682.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531911656257.jpg", 
+        "iterator": 52, 
+        "name": "Kabarnet Social Hall And Theater", 
+        "osm:id": "5781471049", 
+        "type": "social hall", 
+        "wb_pb:id": "26126069"
       }, 
       "type": "Feature"
     }, 
@@ -1511,15 +1485,68 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "the pavillion and the gate has not been constructed..the project is incomplete.", 
         "Project_Description": "construction of pavillion and sanitation facilities.", 
-        "Project_Name_or_Title": "kabarnet stadium", 
+        "Project_Name_or_Title": "Kabarnet stadium-pavillion & sanitation facilities", 
         "What_is_the_project_s_apparent_status": "In progress", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531983167000.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531983421512.jpg", 
-        "iterator": 54, 
+        "iterator": 53, 
         "name": "Kabarnet Stadium Changing Rooms", 
         "osm:id": "5781399428", 
         "type": "stadium", 
         "wb_pb:id": "26191924"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7440361, 
+          0.4960681
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5781399431", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "the project is incomplete and needs to be finished.", 
+        "Project_Description": "construction of kabarnet stadium perimeter wall.", 
+        "Project_Name_or_Title": "Kabarnet stadium-perimeter wall", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531981808166.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982100266.jpg", 
+        "iterator": 54, 
+        "name": "Kabarnet Stadium Perimeter Wall", 
+        "osm:id": "5781399431", 
+        "type": "Perimeter wall", 
+        "wb_pb:id": "26191806"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.743130374519914, 
+          0.4964211552339955
+        ], 
+        "type": "Point"
+      }, 
+      "id": "610480109", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Poor", 
+        "Please_add_any_details_about_y": "the project is incomplete.", 
+        "Project_Description": "upgrading of kabarnet stadium", 
+        "Project_Name_or_Title": "Kabarnet stadium-upgrading", 
+        "What_is_the_project_s_apparent_status": "In progress", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982660930.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982824122.jpg", 
+        "iterator": 55, 
+        "leisure": "stadium", 
+        "name": "Kabarnet Stadium", 
+        "osm:id": "610480109", 
+        "type": "Stadium", 
+        "wb_pb:id": "26191876"
       }, 
       "type": "Feature"
     }, 
@@ -1536,12 +1563,12 @@
         "Category": "Environment, Natural Resource, Tourism and Wildlife Management", 
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "the project is near completion and minor redesigning required.", 
-        "Project_Description": "Tree Nursery for Kaptimbor youth initiative", 
-        "Project_Name_or_Title": "kabarnet tree nursery", 
+        "Project_Description": "", 
+        "Project_Name_or_Title": "Kabarnet tree nursery", 
         "What_is_the_project_s_apparent_status": "In progress", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531989660530.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531989437374.jpg", 
-        "iterator": 55, 
+        "iterator": 56, 
         "name": "Kaptimbor Tree Nursery", 
         "osm:id": "5781399435", 
         "type": "Tree Nursery", 
@@ -1563,13 +1590,13 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "The need finishing resources", 
         "Project_Description": "Construction of one class room ", 
-        "Project_Name_or_Title": "Kapchomuso day school", 
+        "Project_Name_or_Title": "Kapchomuso Day School classroom", 
         "What_is_the_project_s_apparent_status": "In progress", 
         "amenity": "school", 
         "gender": "Mixed", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532068792973.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069035396.jpg", 
-        "iterator": 56, 
+        "iterator": 57, 
         "name": "Kapchomuso Mixed Day Secondary School", 
         "operator": "MOE (Ministry of Education)", 
         "operator_type": "Government", 
@@ -1598,7 +1625,7 @@
         "funded_by": "CBO", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531998165291.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531998412095.jpg", 
-        "iterator": 57, 
+        "iterator": 58, 
         "name": "Kapkia Water Project", 
         "natural": "spring", 
         "operational_status": "Non-operational", 
@@ -1622,11 +1649,11 @@
         "In_your_opinion_is_the_project_quality": "Poor", 
         "Please_add_any_details_about_y": "the project has alot of bushes and the pathways are not managed.", 
         "Project_Description": "kaprogonya nature trail,viewpont,caves/campsite.", 
-        "Project_Name_or_Title": "kaprogonya nature trail.", 
+        "Project_Name_or_Title": "Kaprogonya nature trail", 
         "What_is_the_project_s_apparent_status": "In progress", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532084570218.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532084700586.jpg", 
-        "iterator": 58, 
+        "iterator": 59, 
         "name": "Kaprogonya Tourist Site", 
         "osm:id": "5781630326", 
         "tourism": "attraction", 
@@ -1649,14 +1676,14 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "Needs more redesigning to suit the maternity standard", 
         "Project_Description": "the project requires proper equipping for it to be functional", 
-        "Project_Name_or_Title": "kaptimbor maternity wing", 
+        "Project_Name_or_Title": "Kaptimbor maternity wing", 
         "What_is_the_project_s_apparent_status": "In progress", 
         "amenity": "hospital", 
         "dispensing": "yes", 
         "electricity": "always", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531991784796.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992030036.jpg", 
-        "iterator": 59, 
+        "iterator": 60, 
         "medical_service:family_planning": "yes", 
         "medical_service:general_medical_services": "yes", 
         "medical_service:immunizations": "yes", 
@@ -1682,11 +1709,11 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "the project is incomplete.", 
         "Project_Description": "kator emgos water project", 
-        "Project_Name_or_Title": "kator emgos water project", 
+        "Project_Name_or_Title": "Kator-Emgos water project", 
         "What_is_the_project_s_apparent_status": "In progress", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069196158.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069424560.jpg", 
-        "iterator": 60, 
+        "iterator": 61, 
         "name": "Emgos Water Project", 
         "natural": "spring", 
         "operational_status": "Operational", 
@@ -1709,7 +1736,7 @@
         "In_your_opinion_is_the_project_quality": "Excellent", 
         "Please_add_any_details_about_y": "Good", 
         "Project_Description": "Under construction", 
-        "Project_Name_or_Title": "Kiboino disp martanity", 
+        "Project_Name_or_Title": "Kiboino dispensary maternity", 
         "What_is_the_project_s_apparent_status": "In progress", 
         "amenity": "hospital", 
         "dispensing": "yes", 
@@ -1717,7 +1744,7 @@
         "health_facility:referals": "Kabarnet Referral Hospital", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919240170.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919411323.jpg", 
-        "iterator": 61, 
+        "iterator": 62, 
         "medical_service:family_planning": "yes", 
         "medical_service:general_medical_services": "yes", 
         "medical_service:immunizations": "yes", 
@@ -1743,12 +1770,12 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "1.It will assist in creating space for garbage disposal. 2. The dumpsite will cause pollution to the nearby stream and pose health hazard to the locals.", 
         "Project_Description": "Land bank for dump site purpose", 
-        "Project_Name_or_Title": "Land bank for dump site purpose", 
+        "Project_Name_or_Title": "Lolowa dumpsite", 
         "What_is_the_project_s_apparent_status": "In progress", 
         "amenity": "waste_disposal", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531997557353.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531998056536.jpg", 
-        "iterator": 62, 
+        "iterator": 63, 
         "name": "Lolowa Dumpsite", 
         "osm:id": "5783441494", 
         "wb_pb:id": "26186314"
@@ -1769,13 +1796,13 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "Still needs to be completed by constructing footpath and holding bay", 
         "Project_Description": "Construction of cattle dip", 
-        "Project_Name_or_Title": "Metimoso Cattle Dip", 
+        "Project_Name_or_Title": "Metipmoso Cattle Dip", 
         "What_is_the_project_s_apparent_status": "In progress", 
         "amenity": "Agriculture", 
         "description": "Cattle Dip", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531917705199.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531917947561.jpg", 
-        "iterator": 63, 
+        "iterator": 64, 
         "name": "Metimoso Cattle Dip", 
         "operational_status": "not operational", 
         "operator_type": "cbo", 
@@ -1798,14 +1825,14 @@
         "In_your_opinion_is_the_project_quality": "Excellent", 
         "Please_add_any_details_about_y": "It is a good idea in terms of changing community cattle breeds ", 
         "Project_Description": "The project has assist the  community in getting good cattle breeds", 
-        "Project_Name_or_Title": "Metipsoo bulls scheme", 
+        "Project_Name_or_Title": "Metipsomo bulls scheme", 
         "What_is_the_project_s_apparent_status": "In progress", 
         "amenity": "Agriculture", 
         "description": "Metipmoso Bulls scheme", 
         "funded_by": "Community", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919017552.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531919186723.jpg", 
-        "iterator": 64, 
+        "iterator": 65, 
         "name": "Metipmoso Bull Scheme", 
         "operational_status": "operational", 
         "operator_type": "cbo", 
@@ -1828,42 +1855,15 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "the project is incomplete.", 
         "Project_Description": "piping of policeline serei", 
-        "Project_Name_or_Title": "policeline serei water piping", 
+        "Project_Name_or_Title": "Policeline-Serei water piping", 
         "What_is_the_project_s_apparent_status": "In progress", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532091048647.jpg1532075935589.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076136460.jpg", 
-        "iterator": 65, 
+        "iterator": 66, 
         "name": "Policeline Serei Piping", 
         "operational_status": "Operational", 
         "osm:id": "5781630324", 
         "wb_pb:id": "26247321"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7438598, 
-          0.4898165
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5781471049", 
-      "properties": {
-        "Category": "Education, Sports, Culture and Social services", 
-        "In_your_opinion_is_the_project_quality": "Adequate", 
-        "Please_add_any_details_about_y": "the project progress is slow.", 
-        "Project_Description": "kabarnet social hall", 
-        "Project_Name_or_Title": "social hall", 
-        "What_is_the_project_s_apparent_status": "In progress", 
-        "amenity": "theatre", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531911372682.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531911656257.jpg", 
-        "iterator": 66, 
-        "name": "Kabarnet Social Hall And Theater", 
-        "osm:id": "5781471049", 
-        "type": "social hall", 
-        "wb_pb:id": "26126069"
       }, 
       "type": "Feature"
     }, 
@@ -1969,7 +1969,7 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "It will be good", 
         "Project_Description": "Divers changing room", 
-        "Project_Name_or_Title": "Cheploch gorge toilet and land scaping", 
+        "Project_Name_or_Title": "Cheploch Gorge toilet and landscaping", 
         "What_is_the_project_s_apparent_status": "Not yet started", 
         "amenity": "toilets", 
         "building_type": "Blocks", 
@@ -1993,29 +1993,30 @@
     {
       "geometry": {
         "coordinates": [
-          35.6827662, 
-          0.4611636
+          35.6488504, 
+          0.4528956
         ], 
         "type": "Point"
       }, 
-      "id": "5779173629", 
+      "id": "5779173637", 
       "properties": {
-        "Category": "Education, Sports, Culture and Social services", 
-        "In_your_opinion_is_the_project_quality": "Adequate", 
-        "Please_add_any_details_about_y": "Poor", 
-        "Project_Description": "Old Ecd center", 
-        "Project_Name_or_Title": "Classrooms", 
+        "Category": "Environment, Natural Resource, Tourism and Wildlife Management", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "Not in good condition", 
+        "Project_Description": "Maintainance", 
+        "Project_Name_or_Title": "Cheploch Gorge-Mild steel railing", 
         "What_is_the_project_s_apparent_status": "Not yet started", 
-        "amenity": "school", 
-        "gender": "Mixed", 
-        "government_registered": "MOE (Ministry of Education)", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916651894.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916818508.jpg", 
+        "building_type": "Steel", 
+        "funded_by": "County Government", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906502887.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906820235.jpg", 
         "iterator": 71, 
-        "name": "Kiboino Primary School", 
-        "operator_type": "Government", 
-        "osm:id": "5779173629", 
-        "wb_pb:id": "26127280"
+        "name": "Mild steel Railing at Cheploch Gorge", 
+        "opening_hours": "24/7", 
+        "osm:id": "5779173637", 
+        "tourism": "attraction", 
+        "wb_pb:id": "26127128", 
+        "wheelchair": "no"
       }, 
       "type": "Feature"
     }, 
@@ -2033,7 +2034,7 @@
         "In_your_opinion_is_the_project_quality": "Poor", 
         "Please_add_any_details_about_y": "not equipped at the time of visit.", 
         "Project_Description": "improvement and renovation of fire station.", 
-        "Project_Name_or_Title": "kabarnet fire station", 
+        "Project_Name_or_Title": "Kabarnet Fire Station", 
         "What_is_the_project_s_apparent_status": "Not yet started", 
         "amenity": "fire_station", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531918680603.jpg", 
@@ -2059,7 +2060,7 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "complete construction of social hall which has stalled.as a result the school is now requesting for toilets and 3 classrooms which are a priority to them than a hall.", 
         "Project_Description": "completion of a dining hall.", 
-        "Project_Name_or_Title": "kabarnet model ecd", 
+        "Project_Name_or_Title": "Kabarnet Model ECD Dining Hall", 
         "What_is_the_project_s_apparent_status": "Not yet started", 
         "amenity": "school", 
         "gender": "Mixed", 
@@ -2146,7 +2147,7 @@
         "In_your_opinion_is_the_project_quality": "Poor", 
         "Please_add_any_details_about_y": "The project has not started yet", 
         "Project_Description": "The project has not started", 
-        "Project_Name_or_Title": "Kamwen ", 
+        "Project_Name_or_Title": "Kamwen Cattle dip", 
         "What_is_the_project_s_apparent_status": "Not yet started", 
         "amenity": "agriculture", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532072353366.jpg", 
@@ -2201,7 +2202,7 @@
         "In_your_opinion_is_the_project_quality": "Poor", 
         "Please_add_any_details_about_y": "The site has been marked but not yet started", 
         "Project_Description": "Not yet started but marked", 
-        "Project_Name_or_Title": "Kapyemit primary school borehole", 
+        "Project_Name_or_Title": "Kapyemit primary school-borehole", 
         "What_is_the_project_s_apparent_status": "Not yet started", 
         "funded_by": "National Government", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992482316.jpg", 
@@ -2213,6 +2214,35 @@
         "operational_status": "Non-Operational", 
         "osm:id": "5781138894", 
         "wb_pb:id": "26186746"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6827662, 
+          0.4611636
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5779173629", 
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "Poor", 
+        "Project_Description": "Old Ecd center", 
+        "Project_Name_or_Title": "Kiboino Primary School-classrooms", 
+        "What_is_the_project_s_apparent_status": "Not yet started", 
+        "amenity": "school", 
+        "gender": "Mixed", 
+        "government_registered": "MOE (Ministry of Education)", 
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916651894.jpg", 
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916818508.jpg", 
+        "iterator": 79, 
+        "name": "Kiboino Primary School", 
+        "operator_type": "Government", 
+        "osm:id": "5779173629", 
+        "wb_pb:id": "26127280"
       }, 
       "type": "Feature"
     }, 
@@ -2238,7 +2268,7 @@
         "health_facility:referals": "None", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532000361156.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532000408866.jpg", 
-        "iterator": 79, 
+        "iterator": 80, 
         "medical_service:family_planning": "no", 
         "medical_service:general_medical_services": "no", 
         "medical_service:immunizations": "no", 
@@ -2264,11 +2294,11 @@
         "In_your_opinion_is_the_project_quality": "Poor", 
         "Please_add_any_details_about_y": "it has not yet started", 
         "Project_Description": "kuriondoni footbridge", 
-        "Project_Name_or_Title": "kuriondonin footbridge", 
+        "Project_Name_or_Title": "Kuriondonin footbridge", 
         "What_is_the_project_s_apparent_status": "Not yet started", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532082732799.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532082875712.jpg", 
-        "iterator": 80, 
+        "iterator": 81, 
         "name": "Kuriondonin Footbridge", 
         "osm:id": "5781630327", 
         "type": "footbridge", 
@@ -2294,43 +2324,13 @@
         "What_is_the_project_s_apparent_status": "Not yet started", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532073995654.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074062854.jpg", 
-        "iterator": 81, 
+        "iterator": 82, 
         "man_made": "water_well", 
         "name": "Magonoi Borehole", 
         "operational_status": "Non-operational", 
         "operator_type": "Government", 
         "osm:id": "5781093175", 
         "wb_pb:id": "26240500"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.6488504, 
-          0.4528956
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5779173637", 
-      "properties": {
-        "Category": "Environment, Natural Resource, Tourism and Wildlife Management", 
-        "In_your_opinion_is_the_project_quality": "Excellent", 
-        "Please_add_any_details_about_y": "Not in good condition", 
-        "Project_Description": "Maintainance", 
-        "Project_Name_or_Title": "Mild steel railing at Cheploch gorge", 
-        "What_is_the_project_s_apparent_status": "Not yet started", 
-        "building_type": "Steel", 
-        "funded_by": "County Government", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906502887.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906820235.jpg", 
-        "iterator": 82, 
-        "name": "Mild steel Railing at Cheploch Gorge", 
-        "opening_hours": "24/7", 
-        "osm:id": "5779173637", 
-        "tourism": "attraction", 
-        "wb_pb:id": "26127128", 
-        "wheelchair": "no"
       }, 
       "type": "Feature"
     }, 
@@ -2348,7 +2348,7 @@
         "In_your_opinion_is_the_project_quality": "Poor", 
         "Please_add_any_details_about_y": "Road work is in poor condition ", 
         "Project_Description": "Doser work is yet to start", 
-        "Project_Name_or_Title": "Ngolong-kamwen road opening", 
+        "Project_Name_or_Title": "Ngolong-Kamwen road opening", 
         "What_is_the_project_s_apparent_status": "Not yet started", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075875426.jpg", 
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076232331.jpg", 
@@ -2374,7 +2374,7 @@
         "In_your_opinion_is_the_project_quality": "Poor", 
         "Please_add_any_details_about_y": "Poor", 
         "Project_Description": "Poor condition", 
-        "Project_Name_or_Title": "Oinabmoi market", 
+        "Project_Name_or_Title": "Oinabmoi Market", 
         "What_is_the_project_s_apparent_status": "Not yet started", 
         "amenity": "Agriculture", 
         "description": "Cattle_Dip", 
@@ -2458,7 +2458,7 @@
         "In_your_opinion_is_the_project_quality": "Adequate", 
         "Please_add_any_details_about_y": "the project has not yet started", 
         "Project_Description": "equiping of sunrise borehole", 
-        "Project_Name_or_Title": "sunrise borehole", 
+        "Project_Name_or_Title": "Sunrise borehole", 
         "What_is_the_project_s_apparent_status": "Not yet started", 
         "description": "Borehole", 
         "funded_by": "County Government Of Baringo", 

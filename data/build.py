@@ -269,7 +269,7 @@ def create_index(county):
    writefile(county + '-projects-listing.txt', result)
 
 #sync_osm()
-#sync_projects()
+sync_projects()
 convert_geojson()
 
 ##match_projects('makueni')
