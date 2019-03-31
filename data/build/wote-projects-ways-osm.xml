@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-03-08T03:09:02Z"/>
+<meta osm_base="2019-03-31T01:07:02Z"/>
 
   <bounds minlat="-1.8581000" minlon="37.5188000" maxlat="-1.7500000" maxlon="37.6769000"/>
 
   <node id="318598600" lat="-1.7681226" lon="37.5981535" version="2" timestamp="2018-05-04T10:12:57Z" changeset="58674569" uid="265690" user="fondolucy"/>
   <node id="318598610" lat="-1.7813435" lon="37.6146662" version="3" timestamp="2018-05-04T10:12:57Z" changeset="58674569" uid="265690" user="fondolucy"/>
   <node id="2141391495" lat="-1.8224112" lon="37.5369289" version="2" timestamp="2018-04-30T10:49:59Z" changeset="58551014" uid="261050" user="muindre"/>
-  <node id="5482181209" lat="-1.7968465" lon="37.6015556" version="2" timestamp="2019-03-07T17:29:50Z" changeset="67892070" uid="9389044" user="JemaaElFna"/>
+  <node id="5482181209" lat="-1.7968653" lon="37.6015516" version="3" timestamp="2019-03-08T12:01:19Z" changeset="67919827" uid="9389044" user="JemaaElFna"/>
   <node id="5482240201" lat="-1.7977104" lon="37.6025721" version="1" timestamp="2018-03-16T09:27:52Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
   <node id="5482240202" lat="-1.7976139" lon="37.6024997" version="1" timestamp="2018-03-16T09:27:52Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
   <node id="5482240203" lat="-1.7974503" lon="37.6023710" version="1" timestamp="2018-03-16T09:27:52Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
@@ -16,7 +16,9 @@
   <node id="5482240205" lat="-1.7973270" lon="37.6020706" version="1" timestamp="2018-03-16T09:27:52Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
   <node id="5482240206" lat="-1.7972010" lon="37.6019445" version="1" timestamp="2018-03-16T09:27:52Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
   <node id="5482240207" lat="-1.7970670" lon="37.6017889" version="1" timestamp="2018-03-16T09:27:52Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
-  <node id="5482240208" lat="-1.7969356" lon="37.6016468" version="1" timestamp="2018-03-16T09:27:52Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
+  <node id="5482240208" lat="-1.7969222" lon="37.6016294" version="2" timestamp="2019-03-08T13:13:57Z" changeset="67922186" uid="9389056" user="Simbirsk">
+    <tag k="ford" v="yes"/>
+  </node>
   <node id="5482240209" lat="-1.7967721" lon="37.6015851" version="1" timestamp="2018-03-16T09:27:52Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
   <node id="5482240210" lat="-1.7967050" lon="37.6016790" version="1" timestamp="2018-03-16T09:27:52Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
   <node id="5482240211" lat="-1.7966166" lon="37.6017675" version="1" timestamp="2018-03-16T09:27:52Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
@@ -45,8 +47,8 @@
   <node id="5482240334" lat="-1.7942118" lon="37.6037711" version="1" timestamp="2018-03-16T09:27:53Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
   <node id="5482240335" lat="-1.7940724" lon="37.6039240" version="1" timestamp="2018-03-16T09:27:53Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
   <node id="5482240336" lat="-1.7939598" lon="37.6039588" version="1" timestamp="2018-03-16T09:27:53Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
-  <node id="5482240337" lat="-1.7937721" lon="37.6039615" version="1" timestamp="2018-03-16T09:27:53Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
-  <node id="5482240338" lat="-1.7936837" lon="37.6039052" version="1" timestamp="2018-03-16T09:27:53Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
+  <node id="5482240337" lat="-1.7936917" lon="37.6039092" version="2" timestamp="2019-03-08T13:18:40Z" changeset="67922333" uid="9389044" user="JemaaElFna"/>
+  <node id="5482240338" lat="-1.7935858" lon="37.6038556" version="2" timestamp="2019-03-08T13:18:40Z" changeset="67922333" uid="9389044" user="JemaaElFna"/>
   <node id="5482240339" lat="-1.7935362" lon="37.6038355" version="1" timestamp="2018-03-16T09:27:53Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
   <node id="5482240340" lat="-1.7933593" lon="37.6037925" version="1" timestamp="2018-03-16T09:27:53Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
   <node id="5482240341" lat="-1.7931877" lon="37.6037711" version="1" timestamp="2018-03-16T09:27:53Z" changeset="57235853" uid="7574899" user="Nyaega Orina"/>
@@ -293,7 +295,6 @@
   <node id="5592113859" lat="-1.7838957" lon="37.6134217" version="1" timestamp="2018-05-02T11:14:02Z" changeset="58611866" uid="261050" user="muindre"/>
   <node id="5592113860" lat="-1.7837858" lon="37.6135182" version="1" timestamp="2018-05-02T11:14:02Z" changeset="58611866" uid="261050" user="muindre"/>
   <node id="5592113861" lat="-1.7837027" lon="37.6135343" version="1" timestamp="2018-05-02T11:14:02Z" changeset="58611866" uid="261050" user="muindre"/>
-  <node id="5592113862" lat="-1.7833890" lon="37.6135477" version="1" timestamp="2018-05-02T11:14:02Z" changeset="58611866" uid="261050" user="muindre"/>
   <node id="5592113863" lat="-1.7832174" lon="37.6136175" version="1" timestamp="2018-05-02T11:14:02Z" changeset="58611866" uid="261050" user="muindre"/>
   <node id="5592113864" lat="-1.7829681" lon="37.6136872" version="1" timestamp="2018-05-02T11:14:02Z" changeset="58611866" uid="261050" user="muindre"/>
   <node id="5592126111" lat="-1.7807858" lon="37.6284474" version="1" timestamp="2018-05-02T11:27:36Z" changeset="58612187" uid="8123824" user="Kitone"/>
@@ -334,6 +335,9 @@
   <node id="5592191373" lat="-1.7630837" lon="37.6525766" version="1" timestamp="2018-05-02T12:05:59Z" changeset="58613136" uid="265690" user="fondolucy"/>
   <node id="5592191374" lat="-1.7630381" lon="37.6525578" version="1" timestamp="2018-05-02T12:05:59Z" changeset="58613136" uid="265690" user="fondolucy"/>
   <node id="5592191375" lat="-1.7630153" lon="37.6525269" version="1" timestamp="2018-05-02T12:05:59Z" changeset="58613136" uid="265690" user="fondolucy"/>
+  <node id="5594339398" lat="-1.7833950" lon="37.6136241" version="5" timestamp="2019-03-08T13:08:40Z" changeset="67922002" uid="9389056" user="Simbirsk">
+    <tag k="ford" v="yes"/>
+  </node>
   <node id="5596028330" lat="-1.7587218" lon="37.6283455" version="1" timestamp="2018-05-04T09:15:34Z" changeset="58672907" uid="261050" user="muindre"/>
   <node id="5596028331" lat="-1.7587647" lon="37.6284528" version="1" timestamp="2018-05-04T09:15:34Z" changeset="58672907" uid="261050" user="muindre"/>
   <node id="5596028332" lat="-1.7587593" lon="37.6289034" version="1" timestamp="2018-05-04T09:15:34Z" changeset="58672907" uid="261050" user="muindre"/>
@@ -387,13 +391,13 @@
   <node id="5606981856" lat="-1.7564001" lon="37.5914168" version="1" timestamp="2018-05-09T11:53:17Z" changeset="58817532" uid="261050" user="muindre"/>
   <node id="5606992895" lat="-1.7661775" lon="37.5990102" version="1" timestamp="2018-05-09T12:00:08Z" changeset="58817641" uid="261050" user="muindre"/>
   <node id="5609272154" lat="-1.7821181" lon="37.6278084" version="1" timestamp="2018-05-10T11:59:35Z" changeset="58848326" uid="265690" user="fondolucy"/>
-  <way id="571201340" version="4" timestamp="2018-09-23T12:05:15Z" changeset="62848596" uid="616774" user="mueschel">
+  <way id="571201340" version="6" timestamp="2019-03-08T13:08:41Z" changeset="67922002" uid="9389056" user="Simbirsk">
     <nd ref="318598610"/>
     <nd ref="5592113842"/>
     <nd ref="5592113843"/>
     <nd ref="5592113864"/>
     <nd ref="5592113863"/>
-    <nd ref="5592113862"/>
+    <nd ref="5594339398"/>
     <nd ref="5592113861"/>
     <nd ref="5592113860"/>
     <nd ref="5592113859"/>
@@ -702,11 +706,12 @@
     <tag k="wb_pb:id" v="21641347"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="584632677" version="2" timestamp="2018-09-23T12:05:16Z" changeset="62848596" uid="616774" user="mueschel">
+  <way id="584632677" version="3" timestamp="2019-03-26T06:33:04Z" changeset="68533797" uid="9320580" user="Okavango77">
     <nd ref="5588128976"/>
     <nd ref="2141391495"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524475650366.jpg"/>
     <tag k="is_in:village" v="Nziu"/>
+    <tag k="layer" v="-1"/>
     <tag k="name" v="Culvert-Kilumwa"/>
     <tag k="tunnel" v="culvert"/>
     <tag k="wb_pb:id" v="21641271"/>

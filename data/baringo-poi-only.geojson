@@ -3,6 +3,25 @@
     {
       "geometry": {
         "coordinates": [
+          35.5914203, 
+          -0.1673204
+        ], 
+        "type": "Point"
+      }, 
+      "id": "44931441", 
+      "properties": {
+        "is_in": "Kericho,Kenya", 
+        "name": "Londiani", 
+        "osm:id": "44931441", 
+        "place": "town", 
+        "wikidata": "Q6669717", 
+        "wikipedia": "en:Londiani"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           36.3683019, 
           0.0447332
         ], 
@@ -352,6 +371,21 @@
     {
       "geometry": {
         "coordinates": [
+          36.3656911, 
+          0.0378403
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2475414065", 
+      "properties": {
+        "name": "Nyandarua EABL Distributors", 
+        "osm:id": "2475414065"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           36.3658666, 
           0.027933
         ], 
@@ -381,6 +415,55 @@
         "name": "AIC KAPKUT", 
         "osm:id": "2712707952", 
         "religion": "christian"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.5945568, 
+          -0.1652126
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3219925545", 
+      "properties": {
+        "addr:city": "Londiani", 
+        "amenity": "post_office", 
+        "name": "Londiani Post Office", 
+        "osm:id": "3219925545"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.5920637, 
+          -0.166172
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3219943772", 
+      "properties": {
+        "amenity": "restaurant", 
+        "name": "Ritho Pub and Restraunt", 
+        "osm:id": "3219943772"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.5897269, 
+          -0.1662927
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3219991014", 
+      "properties": {
+        "craft": "brewery", 
+        "name": "Officers Wines & Spirit Distributer", 
+        "osm:id": "3219991014"
       }, 
       "type": "Feature"
     }, 
@@ -1438,8 +1521,7 @@
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532082991180.jpg", 
         "name": "Wema Supermarket", 
         "osm:id": "5779627775", 
-        "shop": "supermarket", 
-        "type": "Supermarket"
+        "shop": "supermarket"
       }, 
       "type": "Feature"
     }, 
@@ -1674,62 +1756,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.7427193, 
-          0.4855942
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5781471052", 
-      "properties": {
-        "building": "yes", 
-        "electricity": "always", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907382788.jpg", 
-        "name": "Baringo County referral hospital Adminstative Block", 
-        "office": "administrative", 
-        "osm:id": "5781471052"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7415969, 
-          0.4861037
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5781471253", 
-      "properties": {
-        "amenity": "waste_disposal", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906979759.jpg", 
-        "name": "Baringo County referral hospital lagoon", 
-        "osm:id": "5781471253", 
-        "type": "hospital", 
-        "water": "lagoon"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7422797, 
-          0.4857875
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5781471254", 
-      "properties": {
-        "building": "yes", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906457617.jpg", 
-        "name": "Baringo County referral hospitall Intern quarters", 
-        "osm:id": "5781471254", 
-        "type": "hospital"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           35.7423587, 
           0.4849538
         ], 
@@ -1797,11 +1823,11 @@
       }, 
       "id": "5781492693", 
       "properties": {
+        "amenity": "bar", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075515841.jpg", 
         "name": "Sowes Bar", 
         "osm:id": "5781492693", 
-        "shop": "alcohol", 
-        "type": "Bar"
+        "shop": "alcohol"
       }, 
       "type": "Feature"
     }, 
@@ -2000,8 +2026,7 @@
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077522628.jpg", 
         "name": "Quick Service Self Selction", 
         "osm:id": "5781492704", 
-        "shop": "supermarket", 
-        "type": "Supermarket"
+        "shop": "supermarket"
       }, 
       "type": "Feature"
     }, 
@@ -2108,8 +2133,7 @@
         "amenity": "bank", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077118087.jpg", 
         "name": "Transnational Bank", 
-        "osm:id": "5781492710", 
-        "type": "Bank"
+        "osm:id": "5781492710"
       }, 
       "type": "Feature"
     }, 
@@ -2246,8 +2270,7 @@
         "amenity": "car_wash", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076176650.jpg", 
         "name": "Stadium Car Wash", 
-        "osm:id": "5781492718", 
-        "type": "Car wash"
+        "osm:id": "5781492718"
       }, 
       "type": "Feature"
     }, 
@@ -2303,11 +2326,11 @@
       }, 
       "id": "5781492721", 
       "properties": {
+        "amenity": "bar", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075821731.jpg", 
         "name": "Spikes Bar", 
         "osm:id": "5781492721", 
-        "shop": "alcohol", 
-        "type": "Bar"
+        "shop": "alcohol"
       }, 
       "type": "Feature"
     }, 
@@ -2446,8 +2469,7 @@
       "properties": {
         "name": "Sunrise Supermarket", 
         "osm:id": "5781632970", 
-        "shop": "supermarket", 
-        "type": "Supermarket"
+        "shop": "supermarket"
       }, 
       "type": "Feature"
     }, 
@@ -2552,8 +2574,7 @@
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532085497371.jpg", 
         "name": "Full Gospel Churches of God Kabarnet", 
         "osm:id": "5781632977", 
-        "religion": "christian", 
-        "type": "Christian"
+        "religion": "christian"
       }, 
       "type": "Feature"
     }, 
@@ -2569,27 +2590,6 @@
       "properties": {
         "highway": "street_lamp", 
         "osm:id": "5781632978"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7443109, 
-          0.495314
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5781632979", 
-      "properties": {
-        "amenity": "place_of_worship", 
-        "denomination": "protestant", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532085078392.jpg", 
-        "name": "PAG KABARNET", 
-        "osm:id": "5781632979", 
-        "religion": "christian", 
-        "service_times": "08:00", 
-        "type": "Church"
       }, 
       "type": "Feature"
     }, 
@@ -2672,8 +2672,7 @@
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532084809077.jpg", 
         "name": "Kabarnet Mosque", 
         "osm:id": "5781632984", 
-        "religion": "muslim", 
-        "type": "Islam"
+        "religion": "muslim"
       }, 
       "type": "Feature"
     }, 
@@ -2709,8 +2708,7 @@
         "brand": "Shell", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077733114.jpg", 
         "name": "Mart Petrol Station", 
-        "osm:id": "5781632986", 
-        "type": "Petrol station"
+        "osm:id": "5781632986"
       }, 
       "type": "Feature"
     }, 
@@ -2901,8 +2899,7 @@
         "fuel:diesel": "yes", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532087666625.jpg", 
         "name": "Tobil Petrol Station", 
-        "osm:id": "5781632998", 
-        "type": "Petrol station"
+        "osm:id": "5781632998"
       }, 
       "type": "Feature"
     }, 
@@ -4392,27 +4389,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.7135231, 
-          0.0115023
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5798751616", 
-      "properties": {
-        "amenity": "place_of_worship", 
-        "building": "church", 
-        "denomination": "evangelical", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597964304.jpg", 
-        "name": "AIC Benonin", 
-        "osm:id": "5798751616", 
-        "religion": "christian", 
-        "type": "Christian"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           35.7136667, 
           0.0120753
         ], 
@@ -4791,26 +4767,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.7340399, 
-          0.0031335
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5798803054", 
-      "properties": {
-        "funded_by": "National Government", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532676807829.jpg", 
-        "man_made": "storage_tank", 
-        "name": "Kabiyet Tabare Storage Tank", 
-        "operational_status": "Non-operational", 
-        "operator_type": "CBO", 
-        "osm:id": "5798803054"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           35.7310236, 
           0.0017835
         ], 
@@ -4841,8 +4797,7 @@
         "name": "Ebenezer Church", 
         "osm:id": "5798859912", 
         "religion": "christian", 
-        "service_times": "10:00", 
-        "type": "Ebenezar Church"
+        "service_times": "10:00"
       }, 
       "type": "Feature"
     }, 
@@ -5023,8 +4978,7 @@
         "amenity": "bank", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532942867179.jpg", 
         "name": "Transnational Bank", 
-        "osm:id": "5800785527", 
-        "type": "Bank"
+        "osm:id": "5800785527"
       }, 
       "type": "Feature"
     }, 
@@ -5076,28 +5030,7 @@
         "amenity": "bank", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532941866046.jpg", 
         "name": "KCB Bank", 
-        "osm:id": "5800785530", 
-        "type": "Bank"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7254439, 
-          0.0505237
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5800785531", 
-      "properties": {
-        "amenity": "place_of_worship", 
-        "denomination": "evangelical", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532941096340.jpg", 
-        "name": "Full Gospel Church", 
-        "osm:id": "5800785531", 
-        "religion": "christian", 
-        "type": "Christian"
+        "osm:id": "5800785530"
       }, 
       "type": "Feature"
     }, 
@@ -5115,8 +5048,7 @@
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532940970643.jpg", 
         "name": "Eldama Ravine Mosque", 
         "osm:id": "5800785532", 
-        "religion": "muslim", 
-        "type": "Islam"
+        "religion": "muslim"
       }, 
       "type": "Feature"
     }, 
@@ -5151,8 +5083,7 @@
         "amenity": "car_wash", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532939892362.jpg", 
         "name": "Stage Car Wash", 
-        "osm:id": "5800785535", 
-        "type": "Car wash"
+        "osm:id": "5800785535"
       }, 
       "type": "Feature"
     }, 
@@ -5280,8 +5211,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.724872, 
-          0.050189
+          35.7249015, 
+          0.0501836
         ], 
         "type": "Point"
       }, 
@@ -5295,8 +5226,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.724813, 
-          0.0504889
+          35.7248264, 
+          0.0504956
         ], 
         "type": "Point"
       }, 
@@ -5310,8 +5241,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.7247341, 
-          0.050871
+          35.7247073, 
+          0.0508831
         ], 
         "type": "Point"
       }, 
@@ -5325,8 +5256,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.7246811, 
-          0.051148
+          35.7246556, 
+          0.051144
         ], 
         "type": "Point"
       }, 
@@ -5355,8 +5286,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.724605, 
-          0.051745
+          35.7245956, 
+          0.0517437
         ], 
         "type": "Point"
       }, 
@@ -5995,8 +5926,7 @@
         "name": "Al Aqsa Mosque", 
         "osm:id": "5817629955", 
         "religion": "muslim", 
-        "service_times": "05:00", 
-        "type": "Islam"
+        "service_times": "05:00"
       }, 
       "type": "Feature"
     }, 
@@ -6404,8 +6334,7 @@
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074522090.jpg", 
         "name": "Dubai Collection", 
         "osm:id": "5817722207", 
-        "shop": "supermarket", 
-        "type": "Supermarket"
+        "shop": "supermarket"
       }, 
       "type": "Feature"
     }, 
@@ -6481,8 +6410,7 @@
         "amenity": "car_wash", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070791408.jpg", 
         "name": "Car Wash", 
-        "osm:id": "5817722211", 
-        "type": "Car wash"
+        "osm:id": "5817722211"
       }, 
       "type": "Feature"
     }, 
@@ -6594,8 +6522,7 @@
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532071047324.jpg", 
         "name": "Soko Supermarket", 
         "osm:id": "5817722217", 
-        "shop": "supermarket", 
-        "type": "Supermarket"
+        "shop": "supermarket"
       }, 
       "type": "Feature"
     }, 
@@ -6612,8 +6539,7 @@
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070956405.jpg", 
         "name": "Highland Butchery", 
         "osm:id": "5817722218", 
-        "shop": "butcher", 
-        "type": "Butcher"
+        "shop": "butcher"
       }, 
       "type": "Feature"
     }, 
@@ -6664,8 +6590,7 @@
         "amenity": "bank", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070546584.jpg", 
         "name": "Vision Fund Kenya", 
-        "osm:id": "5817722223", 
-        "type": "Bank"
+        "osm:id": "5817722223"
       }, 
       "type": "Feature"
     }, 
@@ -6761,8 +6686,7 @@
         "amenity": "bank", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069740010.jpg", 
         "name": "Kenya Women Micro Finace Bank", 
-        "osm:id": "5817722228", 
-        "type": "Bank"
+        "osm:id": "5817722228"
       }, 
       "type": "Feature"
     }, 
@@ -6797,8 +6721,7 @@
         "amenity": "bank", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069525430.jpg", 
         "name": "Kenya Credit Traders Limited", 
-        "osm:id": "5817722230", 
-        "type": "Bank"
+        "osm:id": "5817722230"
       }, 
       "type": "Feature"
     }, 
@@ -6815,8 +6738,7 @@
         "amenity": "bank", 
         "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069233643.jpg", 
         "name": "Faulu Micro Finance", 
-        "osm:id": "5817722231", 
-        "type": "Bank"
+        "osm:id": "5817722231"
       }, 
       "type": "Feature"
     }, 
@@ -6954,23 +6876,6 @@
         "medical_service:pregnancy_test": "yes", 
         "name": "Mission Hospital", 
         "osm:id": "5820197019"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7427341, 
-          0.4850803
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5820321726", 
-      "properties": {
-        "amenity": "hospital", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904495659.jpg", 
-        "name": "Kabarnet Refferal Hopital-ICU", 
-        "osm:id": "5820321726"
       }, 
       "type": "Feature"
     }, 
@@ -8795,6 +8700,21 @@
       "properties": {
         "noexit": "yes", 
         "osm:id": "6315718958"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7216234, 
+          0.0508131
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6354512126", 
+      "properties": {
+        "noexit": "yes", 
+        "osm:id": "6354512126"
       }, 
       "type": "Feature"
     }

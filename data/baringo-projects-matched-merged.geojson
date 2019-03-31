@@ -57,6 +57,83 @@
     {
       "geometry": {
         "coordinates": [
+          35.7422797,
+          0.4857875
+        ],
+        "type": "Point"
+      },
+      "id": "5781471254",
+      "properties": {
+        "Category": "Health Services",
+        "In_your_opinion_is_the_project_quality": "Excellent",
+        "Please_add_any_details_about_y": "the work is good.",
+        "Project_Description": "renovation of kabarnet refferal hopital intern quarters.tilling and painting",
+        "Project_Name_or_Title": "kabarnet refferal intern quarters.",
+        "What_is_the_project_s_apparent_status": "Completed",
+        "building": "yes",
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906457617.jpg",
+        "name": "Baringo County referral hospitall Intern quarters",
+        "osm:id": "5781471254",
+        "type": "hospital",
+        "wb_pb:id": "26125995"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.7415969,
+          0.4861037
+        ],
+        "type": "Point"
+      },
+      "id": "5781471253",
+      "properties": {
+        "Category": "Health Services",
+        "In_your_opinion_is_the_project_quality": "Adequate",
+        "Please_add_any_details_about_y": "the quality is avarage, the perimeter wall is not complete.",
+        "Project_Description": "proposed rehabilitation of hospital sewarage lagoon",
+        "Project_Name_or_Title": "kabarnet refferal hospital ",
+        "What_is_the_project_s_apparent_status": "In progress",
+        "amenity": "waste_disposal",
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906979759.jpg",
+        "name": "Baringo County referral hospital lagoon",
+        "osm:id": "5781471253",
+        "type": "hospital",
+        "water": "lagoon",
+        "wb_pb:id": "26126011"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.7427193,
+          0.4855942
+        ],
+        "type": "Point"
+      },
+      "id": "5781471052",
+      "properties": {
+        "Category": "Health Services",
+        "In_your_opinion_is_the_project_quality": "Adequate",
+        "Please_add_any_details_about_y": "the workmanship was good and of good quality.",
+        "Project_Description": "renovation of administration block.",
+        "Project_Name_or_Title": "kabarnert refferal hospital",
+        "What_is_the_project_s_apparent_status": "Completed",
+        "building": "yes",
+        "electricity": "always",
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907382788.jpg",
+        "name": "Baringo County referral hospital Adminstative Block",
+        "office": "government",
+        "osm:id": "5781471052",
+        "wb_pb:id": "26126016"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           35.7438767,
           0.4893079
         ],
@@ -154,7 +231,6 @@
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531918931884.jpg",
         "name": "Kabarnet Fire Station",
         "osm:id": "5781471259",
-        "type": "Fire station",
         "wb_pb:id": "26126149"
       },
       "type": "Feature"
@@ -1270,6 +1346,32 @@
     {
       "geometry": {
         "coordinates": [
+          35.743130374519914,
+          0.4964211552339955
+        ],
+        "type": "Point"
+      },
+      "id": "610480109",
+      "properties": {
+        "Category": "Education, Sports, Culture and Social services",
+        "In_your_opinion_is_the_project_quality": "Poor",
+        "Please_add_any_details_about_y": "the project is incomplete.",
+        "Project_Description": "upgrading of kabarnet stadium",
+        "Project_Name_or_Title": "kabarnet stadium",
+        "What_is_the_project_s_apparent_status": "In progress",
+        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982660930.jpg",
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982824122.jpg",
+        "leisure": "stadium",
+        "name": "Kabarnet Stadium",
+        "osm:id": "610480109",
+        "type": "Stadium",
+        "wb_pb:id": "26191876"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           35.742053,
           0.4958576
         ],
@@ -1350,6 +1452,32 @@
         "osm:id": "5781399429",
         "type": "Pre_primary",
         "wb_pb:id": "26192110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.73842118603604,
+          0.4930312934946761
+        ],
+        "type": "Point"
+      },
+      "id": "610480108",
+      "properties": {
+        "Category": "Lands, Housing and Urban Development",
+        "In_your_opinion_is_the_project_quality": "Adequate",
+        "Please_add_any_details_about_y": "the fencing is complete and it requires shelter shades",
+        "Project_Description": "muslim cemetry",
+        "Project_Name_or_Title": "fencing of kabarnet muslim cemetry",
+        "What_is_the_project_s_apparent_status": "Completed",
+        "barrier": "fence",
+        "fence_type": "barbed_wire",
+        "landuse": "cemetery",
+        "name": "Muslim cemetry",
+        "osm:id": "610480108",
+        "religion": "muslim",
+        "wb_pb:id": "26192164"
       },
       "type": "Feature"
     },
@@ -1504,6 +1632,30 @@
         "osm:id": "5779627494",
         "type": "Cattle dip",
         "wb_pb:id": "26194042"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.7427341,
+          0.4850803
+        ],
+        "type": "Point"
+      },
+      "id": "5820321726",
+      "properties": {
+        "Category": "Health Services",
+        "In_your_opinion_is_the_project_quality": "Excellent",
+        "Please_add_any_details_about_y": "The facility's workmanship is good,the equipments are of good quality.",
+        "Project_Description": "renovation works of ICU",
+        "Project_Name_or_Title": "Kabarnet refferal hospital ICU",
+        "What_is_the_project_s_apparent_status": "Completed",
+        "amenity": "hospital",
+        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904495659.jpg",
+        "name": "Kabarnet Refferal Hopital-ICU",
+        "osm:id": "5820321726",
+        "wb_pb:id": "26199364"
       },
       "type": "Feature"
     },
@@ -2640,6 +2792,63 @@
     {
       "geometry": {
         "coordinates": [
+          35.72518699430879,
+          0.04520197164587484
+        ],
+        "type": "Point"
+      },
+      "id": "571404106",
+      "properties": {
+        "Category": "Health Services",
+        "In_your_opinion_is_the_project_quality": "Excellent",
+        "Please_add_any_details_about_y": "In good condition ",
+        "Project_Description": "Wall",
+        "Project_Name_or_Title": "Mojury equipment",
+        "What_is_the_project_s_apparent_status": "Completed",
+        "amenity": "hospital",
+        "building": "hospital",
+        "dispensing": "yes",
+        "electricity": "always",
+        "health_facility:referals": "Eldoret Referral Hospital",
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg",
+        "medical_service:family_planning": "yes",
+        "medical_service:general_medical_services": "yes",
+        "medical_service:immunizations": "yes",
+        "medical_service:malaria": "yes",
+        "medical_service:pregnancy_test": "yes",
+        "name": "Eldama Ravine Sub-County Referral Hospital-Mortuary",
+        "osm:id": "571404106",
+        "wb_pb:id": "26663338"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.72379895148115,
+          0.04643474646124768
+        ],
+        "type": "Point"
+      },
+      "id": "429074919",
+      "properties": {
+        "Category": "Health Services",
+        "In_your_opinion_is_the_project_quality": "Excellent",
+        "Please_add_any_details_about_y": "In good condition ",
+        "Project_Description": "None",
+        "Project_Name_or_Title": "Perimeter wall ",
+        "What_is_the_project_s_apparent_status": "Completed",
+        "barrier": "wall",
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607432208.jpg",
+        "name": "Eldama Ravine Sub-County Referral Hospital-Perimeter wall",
+        "osm:id": "429074919",
+        "wb_pb:id": "26663342"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           35.7246667,
           0.0463533
         ],
@@ -2686,11 +2895,10 @@
         "Project_Description": "Public toilet",
         "Project_Name_or_Title": "Garden square",
         "What_is_the_project_s_apparent_status": "Completed",
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610226450.jpg",
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610379185.jpg",
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610226450.jpg",
+        "leisure": "garden",
         "name": "Ravine Garden Square",
         "osm:id": "5798859905",
-        "type": "Garden Square",
         "wb_pb:id": "26663654"
       },
       "type": "Feature"
@@ -3202,8 +3410,31 @@
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938560980.jpg",
         "name": "Main Stage Car Wash",
         "osm:id": "5800785538",
-        "type": "Car wash",
         "wb_pb:id": "26922849"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.7246198,
+          0.0519926
+        ],
+        "type": "Point"
+      },
+      "id": "612915037",
+      "properties": {
+        "Category": "Transport, Public Works and Infrasctructure",
+        "In_your_opinion_is_the_project_quality": "Adequate",
+        "Please_add_any_details_about_y": "It is in good condition but required to be sealed",
+        "Project_Description": "Improvement of project system",
+        "Project_Name_or_Title": "drainage system",
+        "What_is_the_project_s_apparent_status": "Completed",
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124766318.jpg",
+        "name": "Eldama Ravine Drainage system",
+        "osm:id": "612915037",
+        "waterway": "drain",
+        "wb_pb:id": "27061427"
       },
       "type": "Feature"
     }

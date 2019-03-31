@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-03-08T03:09:02Z"/>
+<meta osm_base="2019-03-31T01:07:02Z"/>
 
   <bounds minlat="0.4353000" minlon="35.6147000" maxlat="0.5916000" maxlon="35.7990000"/>
 
@@ -771,7 +771,7 @@
     <tag k="operator_type" v="Government"/>
     <tag k="wb_pb:id" v="26240526"/>
   </node>
-  <node id="5781093174" lat="0.5102592" lon="35.6826258" version="2" timestamp="2018-07-28T15:40:30Z" changeset="61145545" uid="616774" user="mueschel">
+  <node id="5781093174" lat="0.5102592" lon="35.6826258" version="3" timestamp="2019-03-10T02:51:43Z" changeset="67977105" uid="118021" user="maggot27">
     <tag k="amenity" v="place_of_worship"/>
     <tag k="building_type" v="Church"/>
     <tag k="denomination" v="catholic"/>
@@ -779,7 +779,6 @@
     <tag k="name" v="Magonoi Catholic Church"/>
     <tag k="religion" v="christian"/>
     <tag k="service_times" v="10:00"/>
-    <tag k="type" v="Christian"/>
     <tag k="wb_pb:id" v="26240626"/>
   </node>
   <node id="5781093175" lat="0.5178750" lon="35.6931006" version="1" timestamp="2018-07-24T07:39:29Z" changeset="61010537" uid="8556507" user="ronovincent32">
@@ -799,7 +798,7 @@
     <tag k="type" v="Cattle dip"/>
     <tag k="wb_pb:id" v="26240441"/>
   </node>
-  <node id="5781093178" lat="0.5117187" lon="35.6820367" version="2" timestamp="2018-07-28T15:40:31Z" changeset="61145545" uid="616774" user="mueschel">
+  <node id="5781093178" lat="0.5117187" lon="35.6820367" version="3" timestamp="2019-03-10T02:51:43Z" changeset="67977105" uid="118021" user="maggot27">
     <tag k="amenity" v="place_of_worship"/>
     <tag k="building_type" v="Church"/>
     <tag k="denomination" v="evangelical"/>
@@ -807,7 +806,6 @@
     <tag k="name" v="Magonoi A.I.C"/>
     <tag k="religion" v="christian"/>
     <tag k="service_times" v="10:00"/>
-    <tag k="type" v="Christian"/>
     <tag k="wb_pb:id" v="26240583"/>
   </node>
   <node id="5781093179" lat="0.5185400" lon="35.7146917" version="1" timestamp="2018-07-24T07:39:30Z" changeset="61010537" uid="8556507" user="ronovincent32">
@@ -1042,6 +1040,29 @@
     <tag k="name" v="Polkadot Library Kabarnet"/>
     <tag k="wb_pb:id" v="26126055"/>
   </node>
+  <node id="5781471052" lat="0.4855942" lon="35.7427193" version="4" timestamp="2019-03-15T09:22:45Z" changeset="68167401" uid="261050" user="muindre">
+    <tag k="building" v="yes"/>
+    <tag k="electricity" v="always"/>
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907382788.jpg"/>
+    <tag k="name" v="Baringo County referral hospital Adminstative Block"/>
+    <tag k="office" v="government"/>
+    <tag k="wb_pb:id" v="26126016"/>
+  </node>
+  <node id="5781471253" lat="0.4861037" lon="35.7415969" version="4" timestamp="2019-03-15T09:24:52Z" changeset="68167466" uid="261050" user="muindre">
+    <tag k="amenity" v="waste_disposal"/>
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906979759.jpg"/>
+    <tag k="name" v="Baringo County referral hospital lagoon"/>
+    <tag k="type" v="hospital"/>
+    <tag k="water" v="lagoon"/>
+    <tag k="wb_pb:id" v="26126011"/>
+  </node>
+  <node id="5781471254" lat="0.4857875" lon="35.7422797" version="4" timestamp="2019-03-15T09:16:24Z" changeset="68167203" uid="261050" user="muindre">
+    <tag k="building" v="yes"/>
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906457617.jpg"/>
+    <tag k="name" v="Baringo County referral hospitall Intern quarters"/>
+    <tag k="type" v="hospital"/>
+    <tag k="wb_pb:id" v="26125995"/>
+  </node>
   <node id="5781471255" lat="0.4853656" lon="35.7432222" version="2" timestamp="2018-07-25T07:56:26Z" changeset="61045745" uid="261050" user="muindre">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
@@ -1076,12 +1097,11 @@
     <tag k="operator_type" v="Baringo County Government"/>
     <tag k="wb_pb:id" v="26126096"/>
   </node>
-  <node id="5781471259" lat="0.4921871" lon="35.7415781" version="1" timestamp="2018-07-24T10:03:44Z" changeset="61016299" uid="8556533" user="zubeda">
+  <node id="5781471259" lat="0.4921871" lon="35.7415781" version="2" timestamp="2019-03-10T01:27:20Z" changeset="67976149" uid="118021" user="maggot27">
     <tag k="amenity" v="fire_station"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531918680603.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531918931884.jpg"/>
     <tag k="name" v="Kabarnet Fire Station"/>
-    <tag k="type" v="Fire station"/>
     <tag k="wb_pb:id" v="26126149"/>
   </node>
   <node id="5781492692" lat="0.4898707" lon="35.7381400" version="1" timestamp="2018-07-24T10:08:19Z" changeset="61016488" uid="8556507" user="ronovincent32">
@@ -1094,11 +1114,11 @@
     <tag k="type" v="College"/>
     <tag k="wb_pb:id" v="26236323"/>
   </node>
-  <node id="5781492716" lat="0.4949856" lon="35.7428877" version="1" timestamp="2018-07-24T10:08:21Z" changeset="61016488" uid="8556507" user="ronovincent32">
+  <node id="5781492716" lat="0.4949856" lon="35.7428877" version="2" timestamp="2019-03-14T18:45:24Z" changeset="68147533" uid="118021" user="maggot27">
+    <tag k="amenity" v="bar"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076368360.jpg"/>
     <tag k="name" v="Heritage Bar"/>
     <tag k="shop" v="alcohol"/>
-    <tag k="type" v="Bar"/>
     <tag k="wb_pb:id" v="26236313"/>
   </node>
   <node id="5781534448" lat="0.4946827" lon="35.6647454" version="1" timestamp="2018-07-24T10:26:43Z" changeset="61017233" uid="261050" user="muindre">
@@ -1463,19 +1483,23 @@
     <tag k="operator_type" v="Government"/>
     <tag k="wb_pb:id" v="26236032"/>
   </node>
-  <node id="5817722222" lat="0.4926208" lon="35.7413324" version="1" timestamp="2018-08-08T10:31:44Z" changeset="61462929" uid="8556957" user="kenboi">
+  <node id="5817722222" lat="0.4926208" lon="35.7413324" version="2" timestamp="2019-03-10T02:48:54Z" changeset="67977076" uid="118021" user="maggot27">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070728588.jpg"/>
     <tag k="name" v="Market View Supermarket"/>
     <tag k="shop" v="supermarket"/>
-    <tag k="type" v="Supermarket"/>
     <tag k="wb_pb:id" v="26236169"/>
   </node>
-  <node id="5817722234" lat="0.4925385" lon="35.7418563" version="1" timestamp="2018-08-08T10:31:45Z" changeset="61462929" uid="8556957" user="kenboi">
+  <node id="5817722234" lat="0.4925385" lon="35.7418563" version="2" timestamp="2019-03-14T18:41:39Z" changeset="68147423" uid="118021" user="maggot27">
     <tag k="amenity" v="bank"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069219167.jpg"/>
     <tag k="name" v="Equity Bank"/>
-    <tag k="type" v="Bank"/>
     <tag k="wb_pb:id" v="26235507"/>
+  </node>
+  <node id="5820321726" lat="0.4850803" lon="35.7427341" version="3" timestamp="2019-03-15T09:19:36Z" changeset="68167299" uid="261050" user="muindre">
+    <tag k="amenity" v="hospital"/>
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904495659.jpg"/>
+    <tag k="name" v="Kabarnet Refferal Hopital-ICU"/>
+    <tag k="wb_pb:id" v="26199364"/>
   </node>
 
 </osm>

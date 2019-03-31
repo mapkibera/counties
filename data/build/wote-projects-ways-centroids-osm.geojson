@@ -199,6 +199,132 @@
         "type": "way"
       }, 
       "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.607372600000005, 
+          -1.7994542
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/571201340", 
+      "properties": {
+        "id": "571201340", 
+        "meta": {
+          "changeset": "67922002", 
+          "timestamp": "2019-03-08T13:08:41Z", 
+          "uid": "9389056", 
+          "user": "Simbirsk", 
+          "version": "6"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524472689972.jpg", 
+          "is_in:village": "Malivani", 
+          "name": "Ndue Nguu Stream", 
+          "waterway": "stream", 
+          "wb_pb:id": "21639729"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.536927, 
+          -1.82233245
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/584632677", 
+      "properties": {
+        "id": "584632677", 
+        "meta": {
+          "changeset": "68533797", 
+          "timestamp": "2019-03-26T06:33:04Z", 
+          "uid": "9320580", 
+          "user": "Okavango77", 
+          "version": "3"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524475650366.jpg", 
+          "is_in:village": "Nziu", 
+          "layer": "-1", 
+          "name": "Culvert-Kilumwa", 
+          "tunnel": "culvert", 
+          "wb_pb:id": "21641271", 
+          "wheelchair": "yes"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.6290992, 
+          -1.7592392000000001
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/585620076", 
+      "properties": {
+        "id": "585620076", 
+        "meta": {
+          "changeset": "58727236", 
+          "timestamp": "2018-05-06T11:07:42Z", 
+          "uid": "616774", 
+          "user": "mueschel", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524657572119.jpg", 
+          "name": "Kwa Ngali stream", 
+          "seasonal": "yes", 
+          "waterway": "stream", 
+          "wb_pb:id": "21746997"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.59478515, 
+          -1.7622613500000002
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/586910171", 
+      "properties": {
+        "id": "586910171", 
+        "meta": {
+          "changeset": "58817641", 
+          "timestamp": "2018-05-09T12:00:08Z", 
+          "uid": "261050", 
+          "user": "muindre", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "amenity": "water_or_irrigation", 
+          "cost_in_ksh": "0.0", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524647630737.jpg", 
+          "name": "Kiatine - Kamunyii stream", 
+          "opening_hours": "24/7", 
+          "operational_status": "operational", 
+          "village": "Kiatine", 
+          "waterway": "stream", 
+          "wb_pb:id": "21746744"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
     }
   ], 
   "type": "FeatureCollection"

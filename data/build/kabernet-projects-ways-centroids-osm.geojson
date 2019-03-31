@@ -1,0 +1,688 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          35.73842118603604, 
+          0.4930312934946761
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/610480108", 
+      "properties": {
+        "id": "610480108", 
+        "meta": {
+          "changeset": "68412527", 
+          "timestamp": "2019-03-22T14:01:03Z", 
+          "uid": "616774", 
+          "user": "mueschel", 
+          "version": "5"
+        }, 
+        "relations": [], 
+        "tags": {
+          "barrier": "fence", 
+          "fence_type": "barbed_wire", 
+          "landuse": "cemetery", 
+          "name": "Muslim cemetry", 
+          "religion": "muslim", 
+          "wb_pb:id": "26192164"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.743130374519914, 
+          0.4964211552339955
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/610480109", 
+      "properties": {
+        "id": "610480109", 
+        "meta": {
+          "changeset": "61015284", 
+          "timestamp": "2018-07-24T09:39:33Z", 
+          "uid": "8556533", 
+          "user": "zubeda", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982660930.jpg", 
+          "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982824122.jpg", 
+          "leisure": "stadium", 
+          "name": "Kabarnet Stadium", 
+          "type": "Stadium", 
+          "wb_pb:id": "26191876"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.74297410484946, 
+          0.49655129080975036
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/610480110", 
+      "properties": {
+        "id": "610480110", 
+        "meta": {
+          "changeset": "61047706", 
+          "timestamp": "2018-07-25T08:41:57Z", 
+          "uid": "261050", 
+          "user": "muindre", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "barrier": "wall", 
+          "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531981808166.jpg", 
+          "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982100266.jpg", 
+          "leisure": "stadium", 
+          "name": "Kabarnet Stadium Perimeter Wall", 
+          "stadium": "Perimeter wall", 
+          "wb_pb:id": "26191806"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.743442161649966, 
+          0.4920445284143736
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/612245456", 
+      "properties": {
+        "id": "612245456", 
+        "meta": {
+          "changeset": "61190223", 
+          "timestamp": "2018-07-30T10:38:31Z", 
+          "uid": "8556619", 
+          "user": "kbizz", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "access": "customers", 
+          "amenity": "parking_space", 
+          "fee": "yes", 
+          "name": "Carbro Parking Space", 
+          "parking": "surface", 
+          "supervised": "yes", 
+          "surface": "paving_stones", 
+          "wb_pb:id": "26126109"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.74343878632875, 
+          0.4916981206520317
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/612245457", 
+      "properties": {
+        "id": "612245457", 
+        "meta": {
+          "changeset": "61190223", 
+          "timestamp": "2018-07-30T10:38:31Z", 
+          "uid": "8556619", 
+          "user": "kbizz", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "access": "customers", 
+          "amenity": "parking_space", 
+          "fee": "yes", 
+          "name": "Carbro Parking Space", 
+          "supervised": "yes", 
+          "surface": "paving_stones", 
+          "wb_pb:id": "26126104"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.743420970403356, 
+          0.4911612183261458
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/612245458", 
+      "properties": {
+        "id": "612245458", 
+        "meta": {
+          "changeset": "61190223", 
+          "timestamp": "2018-07-30T10:38:31Z", 
+          "uid": "8556619", 
+          "user": "kbizz", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "access": "customers", 
+          "amenity": "parking_space", 
+          "fee": "yes", 
+          "name": "Carbro Parking Space", 
+          "parking": "surface", 
+          "supervised": "yes", 
+          "surface": "paving_stones", 
+          "wb_pb:id": "26126100"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.74203939955201, 
+          0.4853957822186297
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/612245691", 
+      "properties": {
+        "id": "612245691", 
+        "meta": {
+          "changeset": "61190276", 
+          "timestamp": "2018-07-30T10:39:28Z", 
+          "uid": "8556619", 
+          "user": "kbizz", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "access": "yes", 
+          "amenity": "parking_space", 
+          "name": "Baringo County referral hospital-Parking lot", 
+          "parking": "surface", 
+          "surface": "paving_stones", 
+          "wb_pb:id": "26125985"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.74082435664424, 
+          0.49316870726357626
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/615199419", 
+      "properties": {
+        "id": "615199419", 
+        "meta": {
+          "changeset": "66360215", 
+          "timestamp": "2019-01-16T11:42:53Z", 
+          "uid": "18069", 
+          "user": "Claudius Henrichs", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "amenity": "marketplace", 
+          "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070076102.jpg", 
+          "name": "Kabarnet Public Market", 
+          "wb_pb:id": "26235610"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.712698950000004, 
+          0.5441637500000001
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/33402014", 
+      "properties": {
+        "id": "33402014", 
+        "meta": {
+          "changeset": "61184291", 
+          "timestamp": "2018-07-30T07:34:51Z", 
+          "uid": "8556619", 
+          "user": "kbizz", 
+          "version": "17"
+        }, 
+        "relations": [], 
+        "tags": {
+          "AUTO_ID": "6891", 
+          "highway": "track", 
+          "name": "Ngolong-Kapkwokwon Road", 
+          "source": "Africover", 
+          "wb_pb:id": "26126316"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.73783365, 
+          0.4859158
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/213201869", 
+      "properties": {
+        "id": "213201869", 
+        "meta": {
+          "changeset": "61190223", 
+          "timestamp": "2018-07-30T10:38:33Z", 
+          "uid": "8556619", 
+          "user": "kbizz", 
+          "version": "12"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "residential", 
+          "name": "SDA(mzee moja)-Kaprogonya Road", 
+          "wb_pb:id": "26126034"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.743164300000004, 
+          0.479807
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/265633860", 
+      "properties": {
+        "id": "265633860", 
+        "meta": {
+          "changeset": "61190260", 
+          "timestamp": "2018-07-30T10:39:08Z", 
+          "uid": "8556619", 
+          "user": "kbizz", 
+          "version": "14"
+        }, 
+        "relations": [], 
+        "tags": {
+          "bicycle": "yes", 
+          "foot": "yes", 
+          "highway": "residential", 
+          "horse": "yes", 
+          "maxspeed": "40", 
+          "name": "cerials road", 
+          "oneway": "no", 
+          "surface": "asphalt", 
+          "wb_pb:id": "26126023"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.744739100000004, 
+          0.52903415
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/442423692", 
+      "properties": {
+        "id": "442423692", 
+        "meta": {
+          "changeset": "61187420", 
+          "timestamp": "2018-07-30T09:10:14Z", 
+          "uid": "8556619", 
+          "user": "kbizz", 
+          "version": "8"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "name": "Kapchomuswo-ngolong-kapkokwon-Muchukwo Road", 
+          "wb_pb:id": "26126316"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6789715, 
+          0.54047545
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/568891980", 
+      "properties": {
+        "id": "568891980", 
+        "meta": {
+          "changeset": "61184496", 
+          "timestamp": "2018-07-30T07:41:17Z", 
+          "uid": "261050", 
+          "user": "muindre", 
+          "version": "8"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "path", 
+          "name": "Cheplogoi-Chesongo Road", 
+          "wb_pb:id": "26128800"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7541971, 
+          0.5676453
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/569304918", 
+      "properties": {
+        "id": "569304918", 
+        "meta": {
+          "changeset": "61186132", 
+          "timestamp": "2018-07-30T08:31:55Z", 
+          "uid": "8556619", 
+          "user": "kbizz", 
+          "version": "3"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "name": "Pemwai Orokwo Timowo Road", 
+          "wb_pb:id": "26193741"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7477909, 
+          0.51176815
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/569542040", 
+      "properties": {
+        "id": "569542040", 
+        "meta": {
+          "changeset": "61190041", 
+          "timestamp": "2018-07-30T10:31:17Z", 
+          "uid": "8556619", 
+          "user": "kbizz", 
+          "version": "5"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "name": "Kator-Emkos-Seguton Road", 
+          "wb_pb:id": "26247311"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.73384805, 
+          0.4968188
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/569546596", 
+      "properties": {
+        "id": "569546596", 
+        "meta": {
+          "changeset": "61191849", 
+          "timestamp": "2018-07-30T11:31:23Z", 
+          "uid": "8556619", 
+          "user": "kbizz", 
+          "version": "4"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "track", 
+          "name": "Kaptimbor Cifika Road", 
+          "wb_pb:id": "26240426"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.74928475, 
+          0.5081222000000001
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/610473680", 
+      "properties": {
+        "id": "610473680", 
+        "meta": {
+          "changeset": "61014407", 
+          "timestamp": "2018-07-24T09:18:10Z", 
+          "uid": "261050", 
+          "user": "muindre", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "barrier": "sump_buster", 
+          "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531988761195.jpg", 
+          "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531989146378.jpg", 
+          "name": "Kator-Emkos Road slab", 
+          "wb_pb:id": "26193696"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6484814, 
+          0.51151515
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/612213856", 
+      "properties": {
+        "id": "612213856", 
+        "meta": {
+          "changeset": "61444814", 
+          "timestamp": "2018-08-07T19:17:30Z", 
+          "uid": "385046", 
+          "user": "Palolo", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "name": "Kipsoit Junction-Kipsoit Primary Road", 
+          "wb_pb:id": "26186536"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.635224449999995, 
+          0.5203134
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/612213857", 
+      "properties": {
+        "id": "612213857", 
+        "meta": {
+          "changeset": "61187426", 
+          "timestamp": "2018-07-30T09:10:24Z", 
+          "uid": "261050", 
+          "user": "muindre", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "path", 
+          "name": "Kakwane-Kipkokon Road", 
+          "wb_pb:id": "26186484"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.73551245, 
+          0.49329375
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/612244613", 
+      "properties": {
+        "id": "612244613", 
+        "meta": {
+          "changeset": "61190133", 
+          "timestamp": "2018-07-30T10:34:21Z", 
+          "uid": "8556619", 
+          "user": "kbizz", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "name": "Dam-ICT Centre Road", 
+          "wb_pb:id": "26192122"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7386221, 
+          0.49982954999999996
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/612244781", 
+      "properties": {
+        "id": "612244781", 
+        "meta": {
+          "changeset": "61190152", 
+          "timestamp": "2018-07-30T10:35:59Z", 
+          "uid": "8556619", 
+          "user": "kbizz", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "bridge": "yes", 
+          "highway": "unclassified", 
+          "name": "Chebao Bridge", 
+          "wb_pb:id": "26192057"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7415348, 
+          0.49609519999999996
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/612247035", 
+      "properties": {
+        "id": "612247035", 
+        "meta": {
+          "changeset": "61190358", 
+          "timestamp": "2018-07-30T10:42:40Z", 
+          "uid": "8556619", 
+          "user": "kbizz", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "name": "Stadium drainage", 
+          "waterway": "drain", 
+          "wb_pb:id": "26192015"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.71842255, 
+          0.52022155
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/612249810", 
+      "properties": {
+        "id": "612249810", 
+        "meta": {
+          "changeset": "61190705", 
+          "timestamp": "2018-07-30T10:56:23Z", 
+          "uid": "8556619", 
+          "user": "kbizz", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "man_made": "pipeline", 
+          "name": "Kabarnet Soi Water Piping Project", 
+          "wb_pb:id": "26240486"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "type": "FeatureCollection"
+}

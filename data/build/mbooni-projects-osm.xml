@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-03-08T03:09:02Z"/>
+<meta osm_base="2019-03-31T01:07:02Z"/>
 
   <bounds minlat="-1.6894000" minlon="37.3803000" maxlat="-1.6140000" maxlon="37.4834000"/>
 
@@ -856,12 +856,11 @@
     <tag k="operational_status" v="operational"/>
     <tag k="wb_pb:id" v="22844739"/>
   </node>
-  <node id="5637383765" lat="-1.6679496" lon="37.4407088" version="1" timestamp="2018-05-23T12:59:05Z" changeset="59210777" uid="8129334" user="kinywee">
+  <node id="5637383765" lat="-1.6679496" lon="37.4407088" version="2" timestamp="2019-03-10T02:12:32Z" changeset="67976690" uid="118021" user="maggot27">
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526650285402.jpg"/>
     <tag k="name" v="Transformer"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="power" v="transformer"/>
-    <tag k="type" v="Transformer"/>
     <tag k="wb_pb:id" v="22844721"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -941,12 +940,11 @@
     <tag k="type" v="pre_primary"/>
     <tag k="wb_pb:id" v="22844099"/>
   </node>
-  <node id="5637383774" lat="-1.6629667" lon="37.4265846" version="1" timestamp="2018-05-23T12:59:06Z" changeset="59210777" uid="8129334" user="kinywee">
+  <node id="5637383774" lat="-1.6629667" lon="37.4265846" version="2" timestamp="2019-03-14T18:44:51Z" changeset="68147518" uid="118021" user="maggot27">
     <tag k="amenity" v="bar"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526637755562.jpg"/>
     <tag k="name" v="Kiembei bar"/>
     <tag k="opening_hours" v="24/7"/>
-    <tag k="type" v="Bar"/>
     <tag k="wb_pb:id" v="22844067"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -968,12 +966,11 @@
     <tag k="religion" v="christian"/>
     <tag k="wb_pb:id" v="22843980"/>
   </node>
-  <node id="5637383777" lat="-1.6635704" lon="37.4352144" version="1" timestamp="2018-05-23T12:59:06Z" changeset="59210777" uid="8129334" user="kinywee">
+  <node id="5637383777" lat="-1.6635704" lon="37.4352144" version="2" timestamp="2019-03-10T02:12:43Z" changeset="67976693" uid="118021" user="maggot27">
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526635029946.jpg"/>
     <tag k="name" v="Transformer"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="power" v="transformer"/>
-    <tag k="type" v="Transformer"/>
     <tag k="wb_pb:id" v="22843914"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -1091,19 +1088,19 @@
     <tag k="type" v="pre primary"/>
     <tag k="wb_pb:id" v="22951684"/>
   </node>
-  <node id="5637519124" lat="-1.6309527" lon="37.4576151" version="1" timestamp="2018-05-23T13:47:33Z" changeset="59212330" uid="261050" user="muindre">
+  <node id="5637519124" lat="-1.6309527" lon="37.4576151" version="2" timestamp="2019-03-24T19:03:37Z" changeset="68481277" uid="213831" user="Josef73">
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526984981749.jpg"/>
     <tag k="name" v="Travellers Highlights Guest Inn &quot;Hotel &quot;"/>
-    <tag k="opening_hours_1" v="mo-fr-8:00-5:00"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-17:00"/>
     <tag k="operator" v="Travellers Highlight Guest Inn"/>
     <tag k="tourism" v="hotel"/>
     <tag k="type" v="hotel"/>
     <tag k="wb_pb:id" v="22951682"/>
   </node>
-  <node id="5637519125" lat="-1.6350161" lon="37.4684906" version="1" timestamp="2018-05-23T13:47:33Z" changeset="59212330" uid="261050" user="muindre">
+  <node id="5637519125" lat="-1.6350161" lon="37.4684906" version="2" timestamp="2019-03-24T19:04:07Z" changeset="68481292" uid="213831" user="Josef73">
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526984825477.jpg"/>
     <tag k="name" v="Athusi shop"/>
-    <tag k="opening_hours_1" v="mo-fr-8:00-5:00"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-17:00"/>
     <tag k="shop" v="kiosk"/>
     <tag k="type" v="kiosk"/>
     <tag k="wb_pb:id" v="22951676"/>
@@ -1138,20 +1135,19 @@
     <tag k="type" v="secondary"/>
     <tag k="wb_pb:id" v="22951652"/>
   </node>
-  <node id="5637519129" lat="-1.6256680" lon="37.4681880" version="1" timestamp="2018-05-23T13:47:34Z" changeset="59212330" uid="261050" user="muindre">
+  <node id="5637519129" lat="-1.6256680" lon="37.4681880" version="2" timestamp="2019-03-24T19:04:36Z" changeset="68481304" uid="213831" user="Josef73">
     <tag k="amenity" v="bank"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526914693225.jpg"/>
     <tag k="name" v="Vanix Ventures"/>
-    <tag k="opening_hours_1" v="mo-fr-8:00-5:00"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-17:00"/>
     <tag k="type" v="KCB Bank Agent"/>
     <tag k="wb_pb:id" v="22951646"/>
   </node>
-  <node id="5637519130" lat="-1.6259510" lon="37.4681179" version="1" timestamp="2018-05-23T13:47:34Z" changeset="59212330" uid="261050" user="muindre">
+  <node id="5637519130" lat="-1.6259510" lon="37.4681179" version="2" timestamp="2019-03-10T14:38:55Z" changeset="67990494" uid="118021" user="maggot27">
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526914432755.jpg"/>
     <tag k="name" v="Mini Bookshop"/>
     <tag k="opening_hours" v="Mo-Su 8:00-6:00"/>
     <tag k="shop" v="books"/>
-    <tag k="type" v="Bookshop"/>
     <tag k="wb_pb:id" v="22951643"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -1179,10 +1175,10 @@
     <tag k="type" v="hotel"/>
     <tag k="wb_pb:id" v="22951626"/>
   </node>
-  <node id="5637519134" lat="-1.6250461" lon="37.4683161" version="1" timestamp="2018-05-23T13:47:35Z" changeset="59212330" uid="261050" user="muindre">
+  <node id="5637519134" lat="-1.6250461" lon="37.4683161" version="2" timestamp="2019-03-19T19:02:35Z" changeset="68307323" uid="213831" user="Josef73">
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526913669238.jpg"/>
     <tag k="name" v="Highway Stores"/>
-    <tag k="opening_hours_1" v="Mo-Su 8:00-6:00"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-18:00"/>
     <tag k="shop" v="variety_store"/>
     <tag k="type" v="kiosk"/>
     <tag k="wb_pb:id" v="22951617"/>
@@ -1343,47 +1339,47 @@
     <tag k="type" v="Water well"/>
     <tag k="wb_pb:id" v="22950956"/>
   </node>
-  <node id="5637519155" lat="-1.6241227" lon="37.4562567" version="1" timestamp="2018-05-23T13:47:38Z" changeset="59212330" uid="261050" user="muindre">
+  <node id="5637519155" lat="-1.6241227" lon="37.4562567" version="2" timestamp="2019-03-25T18:57:19Z" changeset="68518859" uid="213831" user="Josef73">
     <tag k="amenity" v="public facility"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526640754293.jpg"/>
     <tag k="name" v="Winukilo welders and Hardware"/>
-    <tag k="opening_hours_1" v="mo-fr-8:00-7:00"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00"/>
     <tag k="shop" v="hardware"/>
     <tag k="type" v="hardware"/>
     <tag k="wb_pb:id" v="22950942"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5637519156" lat="-1.6241838" lon="37.4563963" version="1" timestamp="2018-05-23T13:47:38Z" changeset="59212330" uid="261050" user="muindre">
+  <node id="5637519156" lat="-1.6241838" lon="37.4563963" version="2" timestamp="2019-03-25T18:57:19Z" changeset="68518859" uid="213831" user="Josef73">
     <tag k="amenity" v="bureau_de_change"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526640375349.jpg"/>
     <tag k="name" v="Mpesa Shop"/>
-    <tag k="opening_hours_1" v="mo-fr-8:00-7:00"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00"/>
     <tag k="type" v="kiosk"/>
     <tag k="wb_pb:id" v="22950936"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5637519157" lat="-1.6243675" lon="37.4566426" version="1" timestamp="2018-05-23T13:47:38Z" changeset="59212330" uid="261050" user="muindre">
+  <node id="5637519157" lat="-1.6243675" lon="37.4566426" version="2" timestamp="2019-03-25T18:57:19Z" changeset="68518859" uid="213831" user="Josef73">
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526639726455.jpg"/>
     <tag k="name" v="Maka Communications"/>
-    <tag k="opening_hours_1" v="mo-fr-8:00-7:00"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00"/>
     <tag k="shop" v="electronics"/>
     <tag k="type" v="kiosk"/>
     <tag k="wb_pb:id" v="22950755"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5637519158" lat="-1.6244655" lon="37.4568519" version="1" timestamp="2018-05-23T13:47:39Z" changeset="59212330" uid="261050" user="muindre">
+  <node id="5637519158" lat="-1.6244655" lon="37.4568519" version="2" timestamp="2019-03-25T18:57:19Z" changeset="68518859" uid="213831" user="Josef73">
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526639565007.jpg"/>
     <tag k="name" v="butchery"/>
-    <tag k="opening_hours_1" v="mo-fr-8:00-7:00"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00"/>
     <tag k="shop" v="butcher"/>
     <tag k="type" v="butcher"/>
     <tag k="wb_pb:id" v="22950749"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5637519159" lat="-1.6244833" lon="37.4566507" version="1" timestamp="2018-05-23T13:47:39Z" changeset="59212330" uid="261050" user="muindre">
+  <node id="5637519159" lat="-1.6244833" lon="37.4566507" version="2" timestamp="2019-03-25T18:57:19Z" changeset="68518859" uid="213831" user="Josef73">
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526639417134.jpg"/>
     <tag k="name" v="Mama Chali Kiosk"/>
-    <tag k="opening_hours_1" v="mo-fr-8:00-7:00"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00"/>
     <tag k="shop" v="kiosk"/>
     <tag k="type" v="kiosk"/>
     <tag k="wb_pb:id" v="22950743"/>
@@ -1487,12 +1483,11 @@
     <tag k="wb_pb:id" v="22959170"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5641419268" lat="-1.6616594" lon="37.4468878" version="1" timestamp="2018-05-25T09:45:13Z" changeset="59265042" uid="261050" user="muindre">
+  <node id="5641419268" lat="-1.6616594" lon="37.4468878" version="2" timestamp="2019-03-10T08:21:21Z" changeset="67981431" uid="118021" user="maggot27">
     <tag k="amenity" v="other"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973429538.jpg"/>
     <tag k="name" v="Book Shop"/>
     <tag k="shop" v="books"/>
-    <tag k="type" v="Book Shop"/>
     <tag k="wb_pb:id" v="22959166"/>
   </node>
   <node id="5641419269" lat="-1.6621499" lon="37.4464947" version="1" timestamp="2018-05-25T09:45:13Z" changeset="59265042" uid="261050" user="muindre">
@@ -1546,12 +1541,11 @@
     <tag k="type" v="water_tank"/>
     <tag k="wb_pb:id" v="22959032"/>
   </node>
-  <node id="5641419275" lat="-1.6632600" lon="37.4467511" version="1" timestamp="2018-05-25T09:45:14Z" changeset="59265042" uid="261050" user="muindre">
+  <node id="5641419275" lat="-1.6632600" lon="37.4467511" version="2" timestamp="2019-03-10T14:38:50Z" changeset="67990491" uid="118021" user="maggot27">
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526980217253.jpg"/>
     <tag k="name" v="Mulau Book Shop"/>
     <tag k="opening_hours" v="Mo- Fr 7:00-9:00"/>
     <tag k="shop" v="books"/>
-    <tag k="type" v="Bookshop"/>
     <tag k="wb_pb:id" v="22958777"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -1616,12 +1610,11 @@
     <tag k="wb_pb:id" v="22958618"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5641419283" lat="-1.6610700" lon="37.4475267" version="1" timestamp="2018-05-25T09:45:15Z" changeset="59265042" uid="261050" user="muindre">
+  <node id="5641419283" lat="-1.6610700" lon="37.4475267" version="2" timestamp="2019-03-10T02:34:27Z" changeset="67976935" uid="118021" user="maggot27">
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526974457561.jpg"/>
     <tag k="name" v="Kwenyu Hardware and Transport"/>
     <tag k="opening_hours" v="Mo- Fr 8:00-4:00"/>
     <tag k="shop" v="hardware"/>
-    <tag k="type" v="hardware"/>
     <tag k="wb_pb:id" v="22958617"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -1643,22 +1636,20 @@
     <tag k="wb_pb:id" v="22958487"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5641419286" lat="-1.6623529" lon="37.4464491" version="1" timestamp="2018-05-25T09:45:15Z" changeset="59265042" uid="261050" user="muindre">
+  <node id="5641419286" lat="-1.6623529" lon="37.4464491" version="2" timestamp="2019-03-10T15:14:46Z" changeset="67991611" uid="118021" user="maggot27">
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973056487.jpg"/>
     <tag k="name" v="Cyber wave Technically and Electronics LTD"/>
     <tag k="opening_hours" v="Mo- Fr 6:00-10:00"/>
     <tag k="shop" v="electronics"/>
-    <tag k="type" v="Electronic"/>
     <tag k="wb_pb:id" v="22958366"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5641419287" lat="-1.6624702" lon="37.4463417" version="1" timestamp="2018-05-25T09:45:15Z" changeset="59265042" uid="261050" user="muindre">
+  <node id="5641419287" lat="-1.6624702" lon="37.4463417" version="2" timestamp="2019-03-10T02:04:01Z" changeset="67976585" uid="118021" user="maggot27">
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="Total"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526972875148.jpg"/>
     <tag k="name" v="Simple Life Petrol Station"/>
     <tag k="opening_hours" v="Mo- Fr 6:00-10:00"/>
-    <tag k="type" v="petrol_station"/>
     <tag k="wb_pb:id" v="22958365"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -1884,11 +1875,10 @@
     <tag k="religion" v="christian"/>
     <tag k="wb_pb:id" v="22956717"/>
   </node>
-  <node id="5641419313" lat="-1.6626139" lon="37.4438410" version="1" timestamp="2018-05-25T09:45:18Z" changeset="59265042" uid="261050" user="muindre">
+  <node id="5641419313" lat="-1.6626139" lon="37.4438410" version="2" timestamp="2019-03-10T02:34:27Z" changeset="67976935" uid="118021" user="maggot27">
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983917474.jpg"/>
     <tag k="name" v="Kyuu Down Town Hardware"/>
     <tag k="shop" v="hardware"/>
-    <tag k="type" v="hardware"/>
     <tag k="wb_pb:id" v="22956710"/>
   </node>
   <node id="5641419314" lat="-1.6627369" lon="37.4441206" version="1" timestamp="2018-05-25T09:45:18Z" changeset="59265042" uid="261050" user="muindre">
@@ -1943,14 +1933,6 @@
     <tag k="wb_pb:id" v="22956676"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5641419320" lat="-1.6624488" lon="37.4466696" version="2" timestamp="2018-05-25T10:17:21Z" changeset="59266141" uid="261050" user="muindre">
-    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526982218112.jpg"/>
-    <tag k="name" v="Kikima Market Packing Space"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="type" v="parking_space"/>
-    <tag k="wb_pb:id" v="22956668"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="5641420321" lat="-1.6619179" lon="37.4471536" version="2" timestamp="2018-06-03T18:01:52Z" changeset="59514880" uid="616774" user="mueschel">
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="no"/>
@@ -1995,19 +1977,17 @@
     <tag k="wb_pb:id" v="22956646"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5641420325" lat="-1.6639600" lon="37.4474108" version="1" timestamp="2018-05-25T09:45:20Z" changeset="59265042" uid="261050" user="muindre">
+  <node id="5641420325" lat="-1.6639600" lon="37.4474108" version="2" timestamp="2019-03-10T02:34:14Z" changeset="67976931" uid="118021" user="maggot27">
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979916523.jpg"/>
     <tag k="name" v="Kivandini Hardware"/>
     <tag k="shop" v="hardware"/>
-    <tag k="type" v="hardware"/>
     <tag k="wb_pb:id" v="22956407"/>
   </node>
-  <node id="5641420326" lat="-1.6640933" lon="37.4475817" version="1" timestamp="2018-05-25T09:45:20Z" changeset="59265042" uid="261050" user="muindre">
+  <node id="5641420326" lat="-1.6640933" lon="37.4475817" version="2" timestamp="2019-03-10T08:00:21Z" changeset="67981013" uid="118021" user="maggot27">
     <tag k="amenity" v="bank"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979759514.jpg"/>
     <tag k="name" v="Kikima Financial Services Association"/>
     <tag k="opening_hours" v="Mo- Fr 8:00-5:00"/>
-    <tag k="type" v="bank"/>
     <tag k="wb_pb:id" v="22956405"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -2046,29 +2026,26 @@
     <tag k="type" v="Slaughterhouse"/>
     <tag k="wb_pb:id" v="22956397"/>
   </node>
-  <node id="5641420331" lat="-1.6615250" lon="37.4474368" version="1" timestamp="2018-05-25T09:45:21Z" changeset="59265042" uid="261050" user="muindre">
+  <node id="5641420331" lat="-1.6615250" lon="37.4474368" version="2" timestamp="2019-03-10T08:00:21Z" changeset="67981013" uid="118021" user="maggot27">
     <tag k="amenity" v="bank"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526978286563.jpg"/>
     <tag k="name" v="Cooperative Bank Agent"/>
     <tag k="opening_hours" v="Mo- Fr 8:00-4:00"/>
-    <tag k="type" v="bank"/>
     <tag k="wb_pb:id" v="22956190"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5641420332" lat="-1.6617939" lon="37.4472778" version="1" timestamp="2018-05-25T09:45:21Z" changeset="59265042" uid="261050" user="muindre">
+  <node id="5641420332" lat="-1.6617939" lon="37.4472778" version="2" timestamp="2019-03-10T08:00:22Z" changeset="67981013" uid="118021" user="maggot27">
     <tag k="amenity" v="bank"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526978175143.jpg"/>
     <tag k="name" v="KCB Bank"/>
     <tag k="opening_hours" v="Mo- Fr 8:00-4:00"/>
-    <tag k="type" v="bank"/>
     <tag k="wb_pb:id" v="22956182"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5641420333" lat="-1.6608111" lon="37.4477530" version="1" timestamp="2018-05-25T09:45:21Z" changeset="59265042" uid="261050" user="muindre">
+  <node id="5641420333" lat="-1.6608111" lon="37.4477530" version="2" timestamp="2019-03-10T02:28:51Z" changeset="67976868" uid="118021" user="maggot27">
     <tag k="amenity" v="post_office"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526977939498.jpg"/>
     <tag k="name" v="Kikima Posta"/>
-    <tag k="type" v="post_office"/>
     <tag k="wb_pb:id" v="22956178"/>
   </node>
   <node id="5641420334" lat="-1.6602516" lon="37.4481776" version="1" timestamp="2018-05-25T09:45:21Z" changeset="59265042" uid="261050" user="muindre">

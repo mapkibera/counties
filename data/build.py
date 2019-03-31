@@ -86,6 +86,12 @@ def centroid(poly):
     six_area = area(poly) * 6
     return {'type': 'Point', 'coordinates': [y_total / six_area, x_total / six_area]}
 
+def midpoint(line):
+    length = len(line['coordinates'])
+    y = (line['coordinates'][0][0] + line['coordinates'][length-1][0]) / 2
+    x = (line['coordinates'][0][1] + line['coordinates'][length-1][1]) / 2
+    return {'type': 'Point', 'coordinates': [y,x]}
+
 def sync_osm():
   makueni = "37.37,-1.87695,37.73598,-1.59007"
   mbooni = "37.3803,-1.6894,37.4834,-1.614"
@@ -104,6 +110,9 @@ def sync_osm():
 
   url_base = "http://overpass-api.de/api/interpreter?data=[bbox];way['wb_pb:id'];(._;node(w););out%20meta;&bbox="
   url2file(url_base + wote,"build/wote-projects-ways-osm.xml")
+
+  url2file(url_base + eldama,"build/eldama-projects-ways-osm.xml")
+  url2file(url_base + kabernet,"build/kabernet-projects-ways-osm.xml")
 
   url_base = "http://overpass-api.de/api/interpreter?data=[bbox];node[~'.'~'.'](newer:'2018-05-01T00:00:00Z');out%20meta;&bbox="
   url2file(url_base + makueni,"build/makueni-poi-osm.xml")
@@ -135,8 +144,17 @@ def convert_geojson():
   os.system("osmtogeojson -e build/mbooni-projects-osm.xml > build/mbooni-projects-osm.geojson")
   os.system("osmtogeojson -e build/makueni-poi-osm.xml > build/makueni-poi-osm.geojson")
 #  os.system("osmtogeojson -e baringo-projects-osm.xml > baringo-projects-osm.geojson")
-  os.system("osmtogeojson -e build/kabernet-projects-osm.xml > build/kabernet-projects-osm.geojson")
-  os.system("osmtogeojson -e build/eldama-projects-osm.xml > build/eldama-projects-osm.geojson")
+
+  os.system("osmtogeojson -e build/kabernet-projects-osm.xml > build/kabernet-projects-nodes-osm.geojson")
+  os.system("osmtogeojson -e build/kabernet-projects-ways-osm.xml > build/kabernet-projects-ways-osm.geojson")
+  build_centroid("build/kabernet-projects-ways-osm.geojson", "build/kabernet-projects-ways-centroids-osm.geojson")
+  os.system("geojson-merge build/kabernet-projects-nodes-osm.geojson build/kabernet-projects-ways-centroids-osm.geojson > build/kabernet-projects-osm.geojson")
+
+  os.system("osmtogeojson -e build/eldama-projects-osm.xml > build/eldama-projects-nodes-osm.geojson")
+  os.system("osmtogeojson -e build/eldama-projects-ways-osm.xml > build/eldama-projects-ways-osm.geojson")
+  build_centroid("build/eldama-projects-ways-osm.geojson", "build/eldama-projects-ways-centroids-osm.geojson")
+  os.system("geojson-merge build/eldama-projects-nodes-osm.geojson build/eldama-projects-ways-centroids-osm.geojson > build/eldama-projects-osm.geojson")
+
   os.system("osmtogeojson -e build/baringo-poi-osm.xml > build/baringo-poi-osm.geojson")
 
 def merge_geojson():
@@ -153,6 +171,8 @@ def build_centroid(infile, outfile):
   for feature in g.features:
     if feature['geometry']['type'] == "Polygon":
         result['features'].append( { "type": "Feature", "id": feature["id"], "properties": feature.properties, "geometry": centroid(feature.geometry) })
+    if feature['geometry']['type'] == "LineString":
+        result['features'].append( { "type": "Feature", "id": feature["id"], "properties": feature.properties, "geometry": midpoint(feature.geometry) })
 
   dump = geojson.dumps(result, sort_keys=True, indent=2)
   writefile(outfile,dump)
@@ -249,7 +269,7 @@ def create_index(county):
    writefile(county + '-projects-listing.txt', result)
 
 #sync_osm()
-sync_projects()
+#sync_projects()
 convert_geojson()
 
 ##match_projects('makueni')

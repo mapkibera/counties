@@ -488,11 +488,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-09-23T12:05:15Z",
-      "version": "4",
-      "changeset": "62848596",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2019-03-08T13:08:41Z",
+      "version": "6",
+      "changeset": "67922002",
+      "user": "Simbirsk",
+      "uid": "9389056"
     }
   },
   "geometry": {
@@ -519,8 +519,8 @@
         -1.7832174
       ],
       [
-        37.6135477,
-        -1.783389
+        37.6136241,
+        -1.783395
       ],
       [
         37.6135343,
@@ -891,12 +891,12 @@
         -1.7935639
       ],
       [
-        37.6039052,
-        -1.7936837
+        37.6038556,
+        -1.7935858
       ],
       [
-        37.6039615,
-        -1.7937721
+        37.6039092,
+        -1.7936917
       ],
       [
         37.6039588,
@@ -1011,12 +1011,12 @@
         -1.7967721
       ],
       [
-        37.6015556,
-        -1.7968465
+        37.6015516,
+        -1.7968653
       ],
       [
-        37.6016468,
-        -1.7969356
+        37.6016294,
+        -1.7969222
       ],
       [
         37.6017889,
@@ -1570,6 +1570,7 @@
     "tags": {
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524475650366.jpg",
       "is_in:village": "Nziu",
+      "layer": "-1",
       "name": "Culvert-Kilumwa",
       "tunnel": "culvert",
       "wb_pb:id": "21641271",
@@ -1577,11 +1578,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-09-23T12:05:16Z",
-      "version": "2",
-      "changeset": "62848596",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2019-03-26T06:33:04Z",
+      "version": "3",
+      "changeset": "68533797",
+      "user": "Okavango77",
+      "uid": "9320580"
     }
   },
   "geometry": {
@@ -1867,6 +1868,58 @@
         37.5981535,
         -1.7681226
       ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5482240208",
+  "properties": {
+    "type": "node",
+    "id": "5482240208",
+    "tags": {
+      "ford": "yes"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-03-08T13:13:57Z",
+      "version": "2",
+      "changeset": "67922186",
+      "user": "Simbirsk",
+      "uid": "9389056"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.6016294,
+      -1.7969222
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5594339398",
+  "properties": {
+    "type": "node",
+    "id": "5594339398",
+    "tags": {
+      "ford": "yes"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-03-08T13:08:40Z",
+      "version": "5",
+      "changeset": "67922002",
+      "user": "Simbirsk",
+      "uid": "9389056"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.6136241,
+      -1.783395
     ]
   }
 }

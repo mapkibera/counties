@@ -1,0 +1,1019 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          35.723891591248, 
+          0.05310017177268387
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/428473245", 
+      "properties": {
+        "id": "428473245", 
+        "meta": {
+          "changeset": "67742998", 
+          "timestamp": "2019-03-03T17:37:37Z", 
+          "uid": "74746", 
+          "user": "vogelfreier", 
+          "version": "4"
+        }, 
+        "relations": [], 
+        "tags": {
+          "amenity": "marketplace", 
+          "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124345492.jpg", 
+          "name": "Eldama ravine market", 
+          "wb_pb:id": "26964603"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.72379895148115, 
+          0.04643474646124768
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/429074919", 
+      "properties": {
+        "id": "429074919", 
+        "meta": {
+          "changeset": "67759409", 
+          "timestamp": "2019-03-04T09:12:17Z", 
+          "uid": "74746", 
+          "user": "vogelfreier", 
+          "version": "4"
+        }, 
+        "relations": [], 
+        "tags": {
+          "barrier": "wall", 
+          "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607432208.jpg", 
+          "name": "Eldama Ravine Sub-County Referral Hospital-Perimeter wall", 
+          "wb_pb:id": "26663342"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.72518699430879, 
+          0.04520197164587484
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/571404106", 
+      "properties": {
+        "id": "571404106", 
+        "meta": {
+          "changeset": "67759409", 
+          "timestamp": "2019-03-04T09:12:17Z", 
+          "uid": "74746", 
+          "user": "vogelfreier", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "amenity": "hospital", 
+          "building": "hospital", 
+          "dispensing": "yes", 
+          "electricity": "always", 
+          "health_facility:referals": "Eldoret Referral Hospital", 
+          "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg", 
+          "medical_service:family_planning": "yes", 
+          "medical_service:general_medical_services": "yes", 
+          "medical_service:immunizations": "yes", 
+          "medical_service:malaria": "yes", 
+          "medical_service:pregnancy_test": "yes", 
+          "name": "Eldama Ravine Sub-County Referral Hospital-Mortuary", 
+          "wb_pb:id": "26663338"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7296513, 
+          0.046483899999999995
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/171084021", 
+      "properties": {
+        "id": "171084021", 
+        "meta": {
+          "changeset": "61256363", 
+          "timestamp": "2018-08-01T09:32:58Z", 
+          "uid": "8556574", 
+          "user": "joshuasang", 
+          "version": "8"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "residential", 
+          "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532934866227.jpg", 
+          "name": "Police Junction-DC Road", 
+          "surface": "asphalt", 
+          "wb_pb:id": "26907291"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.72539785, 
+          0.04929925
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/171084025", 
+      "properties": {
+        "id": "171084025", 
+        "meta": {
+          "changeset": "68205731", 
+          "timestamp": "2019-03-16T15:04:16Z", 
+          "uid": "74746", 
+          "user": "vogelfreier", 
+          "version": "7"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "track", 
+          "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937761376.jpg", 
+          "wb_pb:id": "26920880"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.72729015, 
+          0.0510839
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/254406552", 
+      "properties": {
+        "id": "254406552", 
+        "meta": {
+          "changeset": "68205731", 
+          "timestamp": "2019-03-16T15:04:16Z", 
+          "uid": "74746", 
+          "user": "vogelfreier", 
+          "version": "6"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "residential", 
+          "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532940807372.jpg", 
+          "name": "Shimoni-Stage-Kims Road", 
+          "surface": "asphalt", 
+          "wb_pb:id": "26907408"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7337428, 
+          0.0543154
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/254406555", 
+      "properties": {
+        "id": "254406555", 
+        "meta": {
+          "changeset": "61264511", 
+          "timestamp": "2018-08-01T13:43:13Z", 
+          "uid": "8556574", 
+          "user": "joshuasang", 
+          "version": "8"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533108703972.jpg", 
+          "name": "Sawmil-Dc Road", 
+          "wb_pb:id": "27045987"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.725414799999996, 
+          0.0420035
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/258895103", 
+      "properties": {
+        "id": "258895103", 
+        "meta": {
+          "changeset": "61254229", 
+          "timestamp": "2018-08-01T08:32:25Z", 
+          "uid": "8556574", 
+          "user": "joshuasang", 
+          "version": "8"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "residential", 
+          "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532673552616.jpg", 
+          "name": "KCC Road", 
+          "wb_pb:id": "26724241"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.72577115, 
+          0.05074925
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/428471944", 
+      "properties": {
+        "id": "428471944", 
+        "meta": {
+          "changeset": "61272576", 
+          "timestamp": "2018-08-01T18:38:57Z", 
+          "uid": "8556957", 
+          "user": "kenboi", 
+          "version": "3"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "residential", 
+          "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532934685676.jpg", 
+          "name": "County Office-Mosque Road", 
+          "wb_pb:id": "26920873"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.726556099999996, 
+          0.04831165
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/428471947", 
+      "properties": {
+        "id": "428471947", 
+        "meta": {
+          "changeset": "61256363", 
+          "timestamp": "2018-08-01T09:33:00Z", 
+          "uid": "8556574", 
+          "user": "joshuasang", 
+          "version": "4"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "residential", 
+          "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532934471371.jpg", 
+          "name": "Junction-Boss Energy Road", 
+          "surface": "asphalt", 
+          "wb_pb:id": "26907255"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7353556, 
+          0.05371975
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/429076577", 
+      "properties": {
+        "id": "429076577", 
+        "meta": {
+          "changeset": "61256363", 
+          "timestamp": "2018-08-01T09:33:00Z", 
+          "uid": "8556574", 
+          "user": "joshuasang", 
+          "version": "5"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "residential", 
+          "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938269230.jpg", 
+          "name": "Kibasiso-Shimoni Junction Road", 
+          "surface": "asphalt", 
+          "wb_pb:id": "26907381"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7231608, 
+          0.0334175
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/569117127", 
+      "properties": {
+        "id": "569117127", 
+        "meta": {
+          "changeset": "61253134", 
+          "timestamp": "2018-08-01T07:57:41Z", 
+          "uid": "8556574", 
+          "user": "joshuasang", 
+          "version": "5"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607109289.jpg", 
+          "name": "Benonin-Kaplelechwa-Kapius Road", 
+          "surface": "ground", 
+          "wb_pb:id": "26662089"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.71187005, 
+          0.020052399999999998
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/569123153", 
+      "properties": {
+        "id": "569123153", 
+        "meta": {
+          "changeset": "61254229", 
+          "timestamp": "2018-08-01T08:32:26Z", 
+          "uid": "8556574", 
+          "user": "joshuasang", 
+          "version": "12"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532676727723.jpg", 
+          "name": "Benonin-Kaplelechwa Road", 
+          "surface": "unpaved", 
+          "wb_pb:id": "26724267"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.73388855, 
+          0.050478949999999995
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/570325235", 
+      "properties": {
+        "id": "570325235", 
+        "meta": {
+          "changeset": "61264295", 
+          "timestamp": "2018-08-01T13:36:34Z", 
+          "uid": "8556574", 
+          "user": "joshuasang", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533110756669.jpg", 
+          "name": "Nubian Road", 
+          "wb_pb:id": "27046025"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.72047955, 
+          0.0395799
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/571448774", 
+      "properties": {
+        "id": "571448774", 
+        "meta": {
+          "changeset": "61254229", 
+          "timestamp": "2018-08-01T08:32:26Z", 
+          "uid": "8556574", 
+          "user": "joshuasang", 
+          "version": "3"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "residential", 
+          "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674515642.jpg", 
+          "name": "Kaplelechwa Main Road", 
+          "surface": "ground", 
+          "wb_pb:id": "26724248"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.71672495, 
+          0.03371385
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/571456936", 
+      "properties": {
+        "id": "571456936", 
+        "meta": {
+          "changeset": "61254229", 
+          "timestamp": "2018-08-01T08:32:27Z", 
+          "uid": "8556574", 
+          "user": "joshuasang", 
+          "version": "3"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532675247790.jpg", 
+          "name": "Kaplelechwa Road", 
+          "surface": "ground", 
+          "wb_pb:id": "26724255"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.728668299999995, 
+          0.057340550000000004
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/571787033", 
+      "properties": {
+        "id": "571787033", 
+        "meta": {
+          "changeset": "61272576", 
+          "timestamp": "2018-08-01T18:38:57Z", 
+          "uid": "8556957", 
+          "user": "kenboi", 
+          "version": "5"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "residential", 
+          "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532944131154.jpg", 
+          "name": "Kibasiso-Mwisho wa Lami(kapdening) road", 
+          "wb_pb:id": "26920914"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.74171655, 
+          0.0017419000000000002
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/573516180", 
+      "properties": {
+        "id": "573516180", 
+        "meta": {
+          "changeset": "61268968", 
+          "timestamp": "2018-08-01T16:17:21Z", 
+          "uid": "8556957", 
+          "user": "kenboi", 
+          "version": "3"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "name": "Kabiyet- Kabitoi-Road", 
+          "wb_pb:id": "26664114"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7305458, 
+          -0.00048280000000000024
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/573558601", 
+      "properties": {
+        "id": "573558601", 
+        "meta": {
+          "changeset": "61617247", 
+          "timestamp": "2018-08-13T08:24:50Z", 
+          "uid": "8556957", 
+          "user": "kenboi", 
+          "version": "6"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "name": "Uhuru- Kabiyet- Luita Road", 
+          "surface": "unpaved", 
+          "wb_pb:id": "26664008"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.718035099999994, 
+          0.0064466
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/575585338", 
+      "properties": {
+        "id": "575585338", 
+        "meta": {
+          "changeset": "61253134", 
+          "timestamp": "2018-08-01T07:57:42Z", 
+          "uid": "8556574", 
+          "user": "joshuasang", 
+          "version": "3"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532599906244.jpg", 
+          "name": "Kapsimotwo-Kabiyet- Loita Road", 
+          "surface": "unpaved", 
+          "wb_pb:id": "26662013"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7246558, 
+          0.0527904
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/612915036", 
+      "properties": {
+        "id": "612915036", 
+        "meta": {
+          "changeset": "68205731", 
+          "timestamp": "2019-03-16T15:04:18Z", 
+          "uid": "74746", 
+          "user": "vogelfreier", 
+          "version": "3"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937130899.jpg", 
+          "name": "Eldama Ravine Drainage system", 
+          "waterway": "drain", 
+          "wb_pb:id": "26921040"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7246198, 
+          0.0519926
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/612915037", 
+      "properties": {
+        "id": "612915037", 
+        "meta": {
+          "changeset": "68205731", 
+          "timestamp": "2019-03-16T15:04:18Z", 
+          "uid": "74746", 
+          "user": "vogelfreier", 
+          "version": "4"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124766318.jpg", 
+          "name": "Eldama Ravine Drainage system", 
+          "waterway": "drain", 
+          "wb_pb:id": "27061427"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.724917899999994, 
+          0.05115915
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/612942743", 
+      "properties": {
+        "id": "612942743", 
+        "meta": {
+          "changeset": "68205731", 
+          "timestamp": "2019-03-16T15:04:18Z", 
+          "uid": "74746", 
+          "user": "vogelfreier", 
+          "version": "3"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "residential", 
+          "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532941785164.jpg", 
+          "name": "Mercy-Kefa Roundabout Road", 
+          "surface": "asphalt", 
+          "wb_pb:id": "26907432"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.74047935, 
+          0.02050685
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/616533597", 
+      "properties": {
+        "id": "616533597", 
+        "meta": {
+          "changeset": "61617247", 
+          "timestamp": "2018-08-13T08:24:49Z", 
+          "uid": "8556957", 
+          "user": "kenboi", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "name": "Uhuru- Kabiyet- Luita Road Culvert", 
+          "surface": "unpaved", 
+          "tunnel": "culvert", 
+          "wb_pb:id": "26664008"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.73323675, 
+          0.025211200000000003
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/616533598", 
+      "properties": {
+        "id": "616533598", 
+        "meta": {
+          "changeset": "61617247", 
+          "timestamp": "2018-08-13T08:24:49Z", 
+          "uid": "8556957", 
+          "user": "kenboi", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "name": "Uhuru- Kabiyet- Luita Road", 
+          "surface": "unpaved", 
+          "wb_pb:id": "26664008"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.724579250000005, 
+          0.0533297
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/674271902", 
+      "properties": {
+        "id": "674271902", 
+        "meta": {
+          "changeset": "68205731", 
+          "timestamp": "2019-03-16T15:04:18Z", 
+          "uid": "74746", 
+          "user": "vogelfreier", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124766318.jpg", 
+          "name": "Eldama Ravine Drainage system", 
+          "waterway": "drain", 
+          "wb_pb:id": "27061427"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7245769, 
+          0.0531406
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/674271905", 
+      "properties": {
+        "id": "674271905", 
+        "meta": {
+          "changeset": "68205731", 
+          "timestamp": "2019-03-16T15:04:18Z", 
+          "uid": "74746", 
+          "user": "vogelfreier", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124766318.jpg", 
+          "layer": "-1", 
+          "name": "Eldama Ravine Drainage system", 
+          "tunnel": "culvert", 
+          "waterway": "drain", 
+          "wb_pb:id": "27061427"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.724701350000004, 
+          0.053357
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/677254802", 
+      "properties": {
+        "id": "677254802", 
+        "meta": {
+          "changeset": "68205731", 
+          "timestamp": "2019-03-16T15:04:15Z", 
+          "uid": "74746", 
+          "user": "vogelfreier", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937130899.jpg", 
+          "name": "Eldama Ravine Drainage system", 
+          "waterway": "drain", 
+          "wb_pb:id": "26921040"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.72465725, 
+          0.0531108
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/677254803", 
+      "properties": {
+        "id": "677254803", 
+        "meta": {
+          "changeset": "68205731", 
+          "timestamp": "2019-03-16T15:04:15Z", 
+          "uid": "74746", 
+          "user": "vogelfreier", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937130899.jpg", 
+          "layer": "-1", 
+          "name": "Eldama Ravine Drainage system", 
+          "tunnel": "culvert", 
+          "waterway": "drain", 
+          "wb_pb:id": "26921040"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7246575, 
+          0.05247365
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/677254804", 
+      "properties": {
+        "id": "677254804", 
+        "meta": {
+          "changeset": "68205731", 
+          "timestamp": "2019-03-16T15:04:15Z", 
+          "uid": "74746", 
+          "user": "vogelfreier", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937130899.jpg", 
+          "layer": "-1", 
+          "name": "Eldama Ravine Drainage system", 
+          "tunnel": "culvert", 
+          "waterway": "drain", 
+          "wb_pb:id": "26921040"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.724673949999996, 
+          0.0520672
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/677254805", 
+      "properties": {
+        "id": "677254805", 
+        "meta": {
+          "changeset": "68205731", 
+          "timestamp": "2019-03-16T15:04:15Z", 
+          "uid": "74746", 
+          "user": "vogelfreier", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937130899.jpg", 
+          "name": "Eldama Ravine Drainage system", 
+          "waterway": "drain", 
+          "wb_pb:id": "26921040"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.724618050000004, 
+          0.05345435
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/677254806", 
+      "properties": {
+        "id": "677254806", 
+        "meta": {
+          "changeset": "68205731", 
+          "timestamp": "2019-03-16T15:04:15Z", 
+          "uid": "74746", 
+          "user": "vogelfreier", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124766318.jpg", 
+          "layer": "-1", 
+          "name": "Eldama Ravine Drainage system", 
+          "tunnel": "culvert", 
+          "waterway": "drain", 
+          "wb_pb:id": "27061427"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.72471955, 
+          0.051508
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/677254807", 
+      "properties": {
+        "id": "677254807", 
+        "meta": {
+          "changeset": "68205731", 
+          "timestamp": "2019-03-16T15:04:15Z", 
+          "uid": "74746", 
+          "user": "vogelfreier", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937130899.jpg", 
+          "layer": "-1", 
+          "name": "Eldama Ravine Drainage system", 
+          "tunnel": "culvert", 
+          "waterway": "drain", 
+          "wb_pb:id": "26921040"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7247784, 
+          0.05109005
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/677254808", 
+      "properties": {
+        "id": "677254808", 
+        "meta": {
+          "changeset": "68205731", 
+          "timestamp": "2019-03-16T15:04:15Z", 
+          "uid": "74746", 
+          "user": "vogelfreier", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937130899.jpg", 
+          "name": "Eldama Ravine Drainage system", 
+          "waterway": "drain", 
+          "wb_pb:id": "26921040"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "type": "FeatureCollection"
+}

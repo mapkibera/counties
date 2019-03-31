@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-03-08T03:09:02Z"/>
+<meta osm_base="2019-03-31T01:08:02Z"/>
 
   <bounds minlat="-0.2150000" minlon="35.5210000" maxlat="1.6800000" maxlon="36.4950000"/>
 
+  <node id="44931441" lat="-0.1673204" lon="35.5914203" version="5" timestamp="2019-03-20T08:45:51Z" changeset="68324640" uid="6318104" user="DingoKG">
+    <tag k="is_in" v="Kericho,Kenya"/>
+    <tag k="name" v="Londiani"/>
+    <tag k="place" v="town"/>
+    <tag k="wikidata" v="Q6669717"/>
+    <tag k="wikipedia" v="en:Londiani"/>
+  </node>
   <node id="473447883" lat="0.0447332" lon="36.3683019" version="3" timestamp="2019-01-28T13:53:47Z" changeset="66707020" uid="6318104" user="DingoKG">
     <tag k="addr:city" v="Nyahururu"/>
     <tag k="addr:street" v="Nyeri-Nyahururu Road"/>
@@ -126,6 +133,9 @@
     <tag k="amenity" v="hospital"/>
     <tag k="name" v="Nyahururu General Hospital"/>
   </node>
+  <node id="2475414065" lat="0.0378403" lon="36.3656911" version="2" timestamp="2019-03-21T11:55:45Z" changeset="68370454" uid="6318104" user="DingoKG">
+    <tag k="name" v="Nyandarua EABL Distributors"/>
+  </node>
   <node id="2606228506" lat="0.0279330" lon="36.3658666" version="2" timestamp="2019-01-28T12:42:21Z" changeset="66704643" uid="6318104" user="DingoKG">
     <tag k="addr:city" v="Nyahururu"/>
     <tag k="addr:street" v="Gilgil-Nyahururu Road"/>
@@ -136,6 +146,19 @@
     <tag k="amenity" v="place_of_worship"/>
     <tag k="name" v="AIC KAPKUT"/>
     <tag k="religion" v="christian"/>
+  </node>
+  <node id="3219925545" lat="-0.1652126" lon="35.5945568" version="2" timestamp="2019-03-20T08:46:41Z" changeset="68324675" uid="6318104" user="DingoKG">
+    <tag k="addr:city" v="Londiani"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="Londiani Post Office"/>
+  </node>
+  <node id="3219943772" lat="-0.1661720" lon="35.5920637" version="2" timestamp="2019-03-20T08:46:41Z" changeset="68324675" uid="6318104" user="DingoKG">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Ritho Pub and Restraunt"/>
+  </node>
+  <node id="3219991014" lat="-0.1662927" lon="35.5897269" version="2" timestamp="2019-03-20T08:46:41Z" changeset="68324675" uid="6318104" user="DingoKG">
+    <tag k="craft" v="brewery"/>
+    <tag k="name" v="Officers Wines &amp; Spirit Distributer"/>
   </node>
   <node id="3228330263" lat="0.1302829" lon="35.5270964" version="2" timestamp="2018-12-26T15:26:22Z" changeset="65787763" uid="2778924" user="Ido Marom">
     <tag k="railway" v="level_crossing"/>
@@ -1156,11 +1179,10 @@
     <tag k="operator" v="CBO"/>
     <tag k="wb_pb:id" v="26237866"/>
   </node>
-  <node id="5779627775" lat="0.4876499" lon="35.7435332" version="2" timestamp="2018-08-20T09:44:45Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5779627775" lat="0.4876499" lon="35.7435332" version="3" timestamp="2019-03-10T02:48:54Z" changeset="67977076" uid="118021" user="maggot27">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532082991180.jpg"/>
     <tag k="name" v="Wema Supermarket"/>
     <tag k="shop" v="supermarket"/>
-    <tag k="type" v="Supermarket"/>
   </node>
   <node id="5779627776" lat="0.5475776" lon="35.7597554" version="1" timestamp="2018-07-23T17:01:00Z" changeset="60993701" uid="8556575" user="Maigong">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075875426.jpg"/>
@@ -1196,7 +1218,7 @@
     <tag k="operator_type" v="Government"/>
     <tag k="wb_pb:id" v="26240526"/>
   </node>
-  <node id="5781093174" lat="0.5102592" lon="35.6826258" version="2" timestamp="2018-07-28T15:40:30Z" changeset="61145545" uid="616774" user="mueschel">
+  <node id="5781093174" lat="0.5102592" lon="35.6826258" version="3" timestamp="2019-03-10T02:51:43Z" changeset="67977105" uid="118021" user="maggot27">
     <tag k="amenity" v="place_of_worship"/>
     <tag k="building_type" v="Church"/>
     <tag k="denomination" v="catholic"/>
@@ -1204,7 +1226,6 @@
     <tag k="name" v="Magonoi Catholic Church"/>
     <tag k="religion" v="christian"/>
     <tag k="service_times" v="10:00"/>
-    <tag k="type" v="Christian"/>
     <tag k="wb_pb:id" v="26240626"/>
   </node>
   <node id="5781093175" lat="0.5178750" lon="35.6931006" version="1" timestamp="2018-07-24T07:39:29Z" changeset="61010537" uid="8556507" user="ronovincent32">
@@ -1224,7 +1245,7 @@
     <tag k="type" v="Cattle dip"/>
     <tag k="wb_pb:id" v="26240441"/>
   </node>
-  <node id="5781093178" lat="0.5117187" lon="35.6820367" version="2" timestamp="2018-07-28T15:40:31Z" changeset="61145545" uid="616774" user="mueschel">
+  <node id="5781093178" lat="0.5117187" lon="35.6820367" version="3" timestamp="2019-03-10T02:51:43Z" changeset="67977105" uid="118021" user="maggot27">
     <tag k="amenity" v="place_of_worship"/>
     <tag k="building_type" v="Church"/>
     <tag k="denomination" v="evangelical"/>
@@ -1232,7 +1253,6 @@
     <tag k="name" v="Magonoi A.I.C"/>
     <tag k="religion" v="christian"/>
     <tag k="service_times" v="10:00"/>
-    <tag k="type" v="Christian"/>
     <tag k="wb_pb:id" v="26240583"/>
   </node>
   <node id="5781093179" lat="0.5185400" lon="35.7146917" version="1" timestamp="2018-07-24T07:39:30Z" changeset="61010537" uid="8556507" user="ronovincent32">
@@ -1537,25 +1557,28 @@
     <tag k="name" v="Polkadot Library Kabarnet"/>
     <tag k="wb_pb:id" v="26126055"/>
   </node>
-  <node id="5781471052" lat="0.4855942" lon="35.7427193" version="3" timestamp="2018-08-20T09:44:46Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5781471052" lat="0.4855942" lon="35.7427193" version="4" timestamp="2019-03-15T09:22:45Z" changeset="68167401" uid="261050" user="muindre">
     <tag k="building" v="yes"/>
     <tag k="electricity" v="always"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907382788.jpg"/>
     <tag k="name" v="Baringo County referral hospital Adminstative Block"/>
-    <tag k="office" v="administrative"/>
+    <tag k="office" v="government"/>
+    <tag k="wb_pb:id" v="26126016"/>
   </node>
-  <node id="5781471253" lat="0.4861037" lon="35.7415969" version="3" timestamp="2018-08-20T09:44:46Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5781471253" lat="0.4861037" lon="35.7415969" version="4" timestamp="2019-03-15T09:24:52Z" changeset="68167466" uid="261050" user="muindre">
     <tag k="amenity" v="waste_disposal"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906979759.jpg"/>
     <tag k="name" v="Baringo County referral hospital lagoon"/>
     <tag k="type" v="hospital"/>
     <tag k="water" v="lagoon"/>
+    <tag k="wb_pb:id" v="26126011"/>
   </node>
-  <node id="5781471254" lat="0.4857875" lon="35.7422797" version="3" timestamp="2018-08-20T09:44:46Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5781471254" lat="0.4857875" lon="35.7422797" version="4" timestamp="2019-03-15T09:16:24Z" changeset="68167203" uid="261050" user="muindre">
     <tag k="building" v="yes"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906457617.jpg"/>
     <tag k="name" v="Baringo County referral hospitall Intern quarters"/>
     <tag k="type" v="hospital"/>
+    <tag k="wb_pb:id" v="26125995"/>
   </node>
   <node id="5781471255" lat="0.4853656" lon="35.7432222" version="2" timestamp="2018-07-25T07:56:26Z" changeset="61045745" uid="261050" user="muindre">
     <tag k="amenity" v="hospital"/>
@@ -1591,12 +1614,11 @@
     <tag k="operator_type" v="Baringo County Government"/>
     <tag k="wb_pb:id" v="26126096"/>
   </node>
-  <node id="5781471259" lat="0.4921871" lon="35.7415781" version="1" timestamp="2018-07-24T10:03:44Z" changeset="61016299" uid="8556533" user="zubeda">
+  <node id="5781471259" lat="0.4921871" lon="35.7415781" version="2" timestamp="2019-03-10T01:27:20Z" changeset="67976149" uid="118021" user="maggot27">
     <tag k="amenity" v="fire_station"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531918680603.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531918931884.jpg"/>
     <tag k="name" v="Kabarnet Fire Station"/>
-    <tag k="type" v="Fire station"/>
     <tag k="wb_pb:id" v="26126149"/>
   </node>
   <node id="5781471260" lat="0.4849538" lon="35.7423587" version="6" timestamp="2018-09-01T17:28:05Z" changeset="62203030" uid="616774" user="mueschel">
@@ -1633,11 +1655,11 @@
     <tag k="type" v="College"/>
     <tag k="wb_pb:id" v="26236323"/>
   </node>
-  <node id="5781492693" lat="0.4939949" lon="35.7425894" version="2" timestamp="2018-08-20T09:44:46Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5781492693" lat="0.4939949" lon="35.7425894" version="3" timestamp="2019-03-14T18:45:24Z" changeset="68147533" uid="118021" user="maggot27">
+    <tag k="amenity" v="bar"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075515841.jpg"/>
     <tag k="name" v="Sowes Bar"/>
     <tag k="shop" v="alcohol"/>
-    <tag k="type" v="Bar"/>
   </node>
   <node id="5781492694" lat="0.4900491" lon="35.7400624" version="2" timestamp="2018-08-20T08:52:15Z" changeset="61815724" uid="8556957" user="kenboi">
     <tag k="amenity" v="school"/>
@@ -1701,11 +1723,10 @@
   <node id="5781492703" lat="0.4914259" lon="35.7430091" version="3" timestamp="2019-01-16T11:42:51Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
   </node>
-  <node id="5781492704" lat="0.4932480" lon="35.7430484" version="2" timestamp="2018-08-20T09:44:46Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5781492704" lat="0.4932480" lon="35.7430484" version="3" timestamp="2019-03-10T02:48:54Z" changeset="67977076" uid="118021" user="maggot27">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077522628.jpg"/>
     <tag k="name" v="Quick Service Self Selction"/>
     <tag k="shop" v="supermarket"/>
-    <tag k="type" v="Supermarket"/>
   </node>
   <node id="5781492705" lat="0.4914299" lon="35.7429027" version="3" timestamp="2019-01-16T11:42:51Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
@@ -1737,11 +1758,10 @@
     <tag k="highway" v="street_lamp"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532073596283.jpg"/>
   </node>
-  <node id="5781492710" lat="0.4935477" lon="35.7428625" version="2" timestamp="2018-08-20T09:44:47Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5781492710" lat="0.4935477" lon="35.7428625" version="3" timestamp="2019-03-14T18:41:39Z" changeset="68147423" uid="118021" user="maggot27">
     <tag k="amenity" v="bank"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077118087.jpg"/>
     <tag k="name" v="Transnational Bank"/>
-    <tag k="type" v="Bank"/>
   </node>
   <node id="5781492711" lat="0.4914305" lon="35.7415021" version="3" timestamp="2019-01-16T11:42:51Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
@@ -1782,11 +1802,11 @@
     <tag k="operator_type" v="Private"/>
     <tag k="type" v="Tertiary"/>
   </node>
-  <node id="5781492716" lat="0.4949856" lon="35.7428877" version="1" timestamp="2018-07-24T10:08:21Z" changeset="61016488" uid="8556507" user="ronovincent32">
+  <node id="5781492716" lat="0.4949856" lon="35.7428877" version="2" timestamp="2019-03-14T18:45:24Z" changeset="68147533" uid="118021" user="maggot27">
+    <tag k="amenity" v="bar"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076368360.jpg"/>
     <tag k="name" v="Heritage Bar"/>
     <tag k="shop" v="alcohol"/>
-    <tag k="type" v="Bar"/>
     <tag k="wb_pb:id" v="26236313"/>
   </node>
   <node id="5781492717" lat="0.4883497" lon="35.7424390" version="2" timestamp="2018-08-20T08:52:16Z" changeset="61815724" uid="8556957" user="kenboi">
@@ -1798,11 +1818,10 @@
     <tag k="operator_type" v="Private"/>
     <tag k="type" v="Primary"/>
   </node>
-  <node id="5781492718" lat="0.4951675" lon="35.7430124" version="2" timestamp="2018-08-20T09:44:47Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5781492718" lat="0.4951675" lon="35.7430124" version="3" timestamp="2019-03-10T14:42:01Z" changeset="67990596" uid="118021" user="maggot27">
     <tag k="amenity" v="car_wash"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076176650.jpg"/>
     <tag k="name" v="Stadium Car Wash"/>
-    <tag k="type" v="Car wash"/>
   </node>
   <node id="5781492719" lat="0.4882311" lon="35.7401331" version="2" timestamp="2018-08-20T08:52:17Z" changeset="61815724" uid="8556957" user="kenboi">
     <tag k="amenity" v="school"/>
@@ -1822,11 +1841,11 @@
     <tag k="religion" v="christian"/>
     <tag k="service_times" v="07:45"/>
   </node>
-  <node id="5781492721" lat="0.4945155" lon="35.7422696" version="2" timestamp="2018-08-20T09:44:47Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5781492721" lat="0.4945155" lon="35.7422696" version="3" timestamp="2019-03-14T18:45:24Z" changeset="68147533" uid="118021" user="maggot27">
+    <tag k="amenity" v="bar"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075821731.jpg"/>
     <tag k="name" v="Spikes Bar"/>
     <tag k="shop" v="alcohol"/>
-    <tag k="type" v="Bar"/>
   </node>
   <node id="5781534446" lat="0.5502472" lon="35.6487528" version="2" timestamp="2018-08-20T11:28:43Z" changeset="61819932" uid="8556957" user="kenboi">
     <tag k="amenity" v="place_of_worship"/>
@@ -2015,10 +2034,9 @@
     <tag k="operational_status" v="Operational"/>
     <tag k="wb_pb:id" v="26247248"/>
   </node>
-  <node id="5781632970" lat="0.4947671" lon="35.7436994" version="2" timestamp="2018-08-20T09:44:47Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5781632970" lat="0.4947671" lon="35.7436994" version="3" timestamp="2019-03-10T02:48:54Z" changeset="67977076" uid="118021" user="maggot27">
     <tag k="name" v="Sunrise Supermarket"/>
     <tag k="shop" v="supermarket"/>
-    <tag k="type" v="Supermarket"/>
   </node>
   <node id="5781632971" lat="0.4945385" lon="35.7434759" version="3" timestamp="2018-08-20T09:44:47Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="access" v="customers"/>
@@ -2053,25 +2071,15 @@
     <tag k="name" v="Kabarnet Police Station"/>
     <tag k="type" v="police station"/>
   </node>
-  <node id="5781632977" lat="0.4945472" lon="35.7448739" version="2" timestamp="2018-08-20T09:03:44Z" changeset="61816069" uid="8556957" user="kenboi">
+  <node id="5781632977" lat="0.4945472" lon="35.7448739" version="3" timestamp="2019-03-10T02:51:32Z" changeset="67977102" uid="118021" user="maggot27">
     <tag k="amenity" v="place_of_worship"/>
     <tag k="denomination" v="anglican"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532085497371.jpg"/>
     <tag k="name" v="Full Gospel Churches of God Kabarnet"/>
     <tag k="religion" v="christian"/>
-    <tag k="type" v="Christian"/>
   </node>
   <node id="5781632978" lat="0.4951706" lon="35.7442738" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
-  </node>
-  <node id="5781632979" lat="0.4953140" lon="35.7443109" version="3" timestamp="2018-08-20T09:03:44Z" changeset="61816069" uid="8556957" user="kenboi">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="denomination" v="protestant"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532085078392.jpg"/>
-    <tag k="name" v="PAG KABARNET"/>
-    <tag k="religion" v="christian"/>
-    <tag k="service_times" v="08:00"/>
-    <tag k="type" v="Church"/>
   </node>
   <node id="5781632980" lat="0.4951253" lon="35.7446673" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
@@ -2088,14 +2096,13 @@
   <node id="5781632983" lat="0.4948890" lon="35.7454644" version="3" timestamp="2019-01-16T11:42:52Z" changeset="66360215" uid="18069" user="Claudius Henrichs">
     <tag k="highway" v="street_lamp"/>
   </node>
-  <node id="5781632984" lat="0.4952455" lon="35.7450188" version="2" timestamp="2018-08-20T09:03:44Z" changeset="61816069" uid="8556957" user="kenboi">
+  <node id="5781632984" lat="0.4952455" lon="35.7450188" version="3" timestamp="2019-03-10T11:09:21Z" changeset="67985319" uid="118021" user="maggot27">
     <tag k="amenity" v="place_of_worship"/>
     <tag k="building_type" v="Mosque"/>
     <tag k="denomination" v="sunni"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532084809077.jpg"/>
     <tag k="name" v="Kabarnet Mosque"/>
     <tag k="religion" v="muslim"/>
-    <tag k="type" v="Islam"/>
   </node>
   <node id="5781632985" lat="0.4938998" lon="35.7429271" version="2" timestamp="2018-08-20T09:44:48Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532091057214.jpg"/>
@@ -2103,12 +2110,11 @@
     <tag k="shop" v="supermarket"/>
     <tag k="type" v="Uchuzi Supermarket"/>
   </node>
-  <node id="5781632986" lat="0.4944963" lon="35.7462168" version="2" timestamp="2018-08-20T09:44:48Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5781632986" lat="0.4944963" lon="35.7462168" version="3" timestamp="2019-03-10T15:31:43Z" changeset="67992112" uid="118021" user="maggot27">
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="Shell"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077733114.jpg"/>
     <tag k="name" v="Mart Petrol Station"/>
-    <tag k="type" v="Petrol station"/>
   </node>
   <node id="5781632987" lat="0.4937522" lon="35.7429250" version="1" timestamp="2018-07-24T11:27:27Z" changeset="61019298" uid="8556507" user="ronovincent32">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532090827295.jpg"/>
@@ -2170,12 +2176,11 @@
     <tag k="shop" v="department_store"/>
     <tag k="type" v="Business_Complex"/>
   </node>
-  <node id="5781632998" lat="0.4941530" lon="35.7432630" version="2" timestamp="2018-08-20T09:44:48Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5781632998" lat="0.4941530" lon="35.7432630" version="3" timestamp="2019-03-10T15:31:43Z" changeset="67992112" uid="118021" user="maggot27">
     <tag k="amenity" v="fuel"/>
     <tag k="fuel:diesel" v="yes"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532087666625.jpg"/>
     <tag k="name" v="Tobil Petrol Station"/>
-    <tag k="type" v="Petrol station"/>
   </node>
   <node id="5781632999" lat="0.4942204" lon="35.7435219" version="2" timestamp="2018-08-20T09:44:48Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="amenity" v="waste_disposal"/>
@@ -2876,14 +2881,14 @@
     <tag k="type" v="Cattle dip"/>
     <tag k="wb_pb:id" v="26662034"/>
   </node>
-  <node id="5798751616" lat="0.0115023" lon="35.7135231" version="2" timestamp="2018-08-23T10:41:27Z" changeset="61917024" uid="8556957" user="kenboi">
+  <node id="5798751616" lat="0.0115023" lon="35.7135231" version="4" timestamp="2019-03-10T02:52:16Z" changeset="67977113" uid="118021" user="maggot27">
     <tag k="amenity" v="place_of_worship"/>
     <tag k="building" v="church"/>
     <tag k="denomination" v="evangelical"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597964304.jpg"/>
     <tag k="name" v="AIC Benonin"/>
     <tag k="religion" v="christian"/>
-    <tag k="type" v="Christian"/>
+    <tag k="wb_pb:id" v="26661993"/>
   </node>
   <node id="5798751617" lat="0.0120753" lon="35.7136667" version="2" timestamp="2018-08-20T12:06:30Z" changeset="61821079" uid="8556957" user="kenboi">
     <tag k="amenity" v="school"/>
@@ -3180,23 +3185,23 @@
     <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680057662.jpg"/>
     <tag k="power" v="transformer"/>
   </node>
-  <node id="5798803054" lat="0.0031335" lon="35.7340399" version="4" timestamp="2018-08-23T10:51:05Z" changeset="61917299" uid="8556957" user="kenboi">
+  <node id="5798803054" lat="0.0031335" lon="35.7340399" version="5" timestamp="2019-03-15T10:30:12Z" changeset="68169485" uid="261050" user="muindre">
     <tag k="funded_by" v="National Government"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532676807829.jpg"/>
     <tag k="man_made" v="storage_tank"/>
     <tag k="name" v="Kabiyet Tabare Storage Tank"/>
     <tag k="operational_status" v="Non-operational"/>
     <tag k="operator_type" v="CBO"/>
+    <tag k="wb_pb:id" v="26728221"/>
   </node>
   <node id="5798803055" lat="0.0017835" lon="35.7310236" version="3" timestamp="2018-08-20T12:06:30Z" changeset="61821079" uid="8556957" user="kenboi">
     <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532675590307.jpg"/>
     <tag k="name" v="Centre Posho Mill"/>
   </node>
-  <node id="5798859905" lat="0.0492113" lon="35.7254796" version="1" timestamp="2018-07-31T13:18:59Z" changeset="61229814" uid="8556553" user="vintech">
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610226450.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610379185.jpg"/>
+  <node id="5798859905" lat="0.0492113" lon="35.7254796" version="2" timestamp="2019-03-16T15:04:16Z" changeset="68205731" uid="74746" user="vogelfreier">
+    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610226450.jpg"/>
+    <tag k="leisure" v="garden"/>
     <tag k="name" v="Ravine Garden Square"/>
-    <tag k="type" v="Garden Square"/>
     <tag k="wb_pb:id" v="26663654"/>
   </node>
   <node id="5798859907" lat="0.0464489" lon="35.7244200" version="4" timestamp="2018-09-01T17:28:06Z" changeset="62203030" uid="616774" user="mueschel">
@@ -3259,7 +3264,7 @@
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital-Laundry"/>
     <tag k="wb_pb:id" v="26663306"/>
   </node>
-  <node id="5798859912" lat="0.0488961" lon="35.7223702" version="3" timestamp="2018-08-23T10:20:54Z" changeset="61916498" uid="8556957" user="kenboi">
+  <node id="5798859912" lat="0.0488961" lon="35.7223702" version="4" timestamp="2019-03-14T19:00:28Z" changeset="68148006" uid="118021" user="maggot27">
     <tag k="amenity" v="place_of_worship"/>
     <tag k="building_type" v="Church"/>
     <tag k="denomination" v="evangelical"/>
@@ -3267,7 +3272,6 @@
     <tag k="name" v="Ebenezer Church"/>
     <tag k="religion" v="christian"/>
     <tag k="service_times" v="10:00"/>
-    <tag k="type" v="Ebenezar Church"/>
   </node>
   <node id="5798859913" lat="0.0503380" lon="35.7218523" version="2" timestamp="2018-08-20T10:00:37Z" changeset="61817742" uid="8556957" user="kenboi">
     <tag k="amenity" v="school"/>
@@ -3421,11 +3425,10 @@
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532943481040.jpg"/>
     <tag k="name" v="Equity Bank"/>
   </node>
-  <node id="5800785527" lat="0.0490220" lon="35.7267252" version="2" timestamp="2018-08-20T10:00:37Z" changeset="61817742" uid="8556957" user="kenboi">
+  <node id="5800785527" lat="0.0490220" lon="35.7267252" version="3" timestamp="2019-03-14T18:41:25Z" changeset="68147415" uid="118021" user="maggot27">
     <tag k="amenity" v="bank"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532942867179.jpg"/>
     <tag k="name" v="Transnational Bank"/>
-    <tag k="type" v="Bank"/>
   </node>
   <node id="5800785528" lat="0.0498776" lon="35.7256804" version="2" timestamp="2018-08-20T10:00:37Z" changeset="61817742" uid="8556957" user="kenboi">
     <tag k="amenity" v="restaurant"/>
@@ -3438,26 +3441,16 @@
     <tag k="shop" v="car_repair"/>
     <tag k="type" v="Garage"/>
   </node>
-  <node id="5800785530" lat="0.0493233" lon="35.7249219" version="2" timestamp="2018-08-20T10:00:37Z" changeset="61817742" uid="8556957" user="kenboi">
+  <node id="5800785530" lat="0.0493233" lon="35.7249219" version="3" timestamp="2019-03-14T18:41:25Z" changeset="68147415" uid="118021" user="maggot27">
     <tag k="amenity" v="bank"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532941866046.jpg"/>
     <tag k="name" v="KCB Bank"/>
-    <tag k="type" v="Bank"/>
   </node>
-  <node id="5800785531" lat="0.0505237" lon="35.7254439" version="3" timestamp="2018-08-23T10:20:54Z" changeset="61916498" uid="8556957" user="kenboi">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="denomination" v="evangelical"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532941096340.jpg"/>
-    <tag k="name" v="Full Gospel Church"/>
-    <tag k="religion" v="christian"/>
-    <tag k="type" v="Christian"/>
-  </node>
-  <node id="5800785532" lat="0.0501686" lon="35.7248077" version="3" timestamp="2018-08-23T10:20:54Z" changeset="61916498" uid="8556957" user="kenboi">
+  <node id="5800785532" lat="0.0501686" lon="35.7248077" version="4" timestamp="2019-03-10T11:09:31Z" changeset="67985322" uid="118021" user="maggot27">
     <tag k="amenity" v="place_of_worship"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532940970643.jpg"/>
     <tag k="name" v="Eldama Ravine Mosque"/>
     <tag k="religion" v="muslim"/>
-    <tag k="type" v="Islam"/>
   </node>
   <node id="5800785533" lat="0.0508076" lon="35.7251481" version="2" timestamp="2018-08-20T12:55:00Z" changeset="61822559" uid="8556957" user="kenboi">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532940604243.jpg"/>
@@ -3465,11 +3458,10 @@
     <tag k="office" v="government"/>
     <tag k="type" v="office"/>
   </node>
-  <node id="5800785535" lat="0.0519993" lon="35.7242465" version="2" timestamp="2018-08-20T10:00:37Z" changeset="61817742" uid="8556957" user="kenboi">
+  <node id="5800785535" lat="0.0519993" lon="35.7242465" version="3" timestamp="2019-03-10T14:41:51Z" changeset="67990592" uid="118021" user="maggot27">
     <tag k="amenity" v="car_wash"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532939892362.jpg"/>
     <tag k="name" v="Stage Car Wash"/>
-    <tag k="type" v="Car wash"/>
   </node>
   <node id="5800785536" lat="0.0524096" lon="35.7236454" version="2" timestamp="2018-08-12T12:04:56Z" changeset="61586326" uid="616774" user="mueschel">
     <tag k="fee" v="2 KSH / 20 litres"/>
@@ -3491,12 +3483,11 @@
     <tag k="operational_status" v="Operational"/>
     <tag k="operator" v="Government"/>
   </node>
-  <node id="5800785538" lat="0.0526206" lon="35.7243828" version="1" timestamp="2018-08-01T08:43:21Z" changeset="61254599" uid="8556553" user="vintech">
+  <node id="5800785538" lat="0.0526206" lon="35.7243828" version="2" timestamp="2019-03-10T14:41:51Z" changeset="67990592" uid="118021" user="maggot27">
     <tag k="amenity" v="car_wash"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938302657.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938560980.jpg"/>
     <tag k="name" v="Main Stage Car Wash"/>
-    <tag k="type" v="Car wash"/>
     <tag k="wb_pb:id" v="26922849"/>
   </node>
   <node id="5800785539" lat="0.0526767" lon="35.7244639" version="2" timestamp="2018-08-12T12:04:56Z" changeset="61586326" uid="616774" user="mueschel">
@@ -3538,22 +3529,22 @@
   <node id="5801258370" lat="0.0498870" lon="35.7249461" version="1" timestamp="2018-08-01T11:43:17Z" changeset="61260615" uid="8556574" user="joshuasang">
     <tag k="highway" v="street_lamp"/>
   </node>
-  <node id="5801258371" lat="0.0501890" lon="35.7248720" version="1" timestamp="2018-08-01T11:43:17Z" changeset="61260615" uid="8556574" user="joshuasang">
+  <node id="5801258371" lat="0.0501836" lon="35.7249015" version="2" timestamp="2019-03-16T15:04:16Z" changeset="68205731" uid="74746" user="vogelfreier">
     <tag k="highway" v="street_lamp"/>
   </node>
-  <node id="5801258372" lat="0.0504889" lon="35.7248130" version="1" timestamp="2018-08-01T11:43:17Z" changeset="61260615" uid="8556574" user="joshuasang">
+  <node id="5801258372" lat="0.0504956" lon="35.7248264" version="2" timestamp="2019-03-16T15:04:16Z" changeset="68205731" uid="74746" user="vogelfreier">
     <tag k="highway" v="street_lamp"/>
   </node>
-  <node id="5801258373" lat="0.0508710" lon="35.7247341" version="1" timestamp="2018-08-01T11:43:17Z" changeset="61260615" uid="8556574" user="joshuasang">
+  <node id="5801258373" lat="0.0508831" lon="35.7247073" version="2" timestamp="2019-03-16T15:04:16Z" changeset="68205731" uid="74746" user="vogelfreier">
     <tag k="highway" v="street_lamp"/>
   </node>
-  <node id="5801258374" lat="0.0511480" lon="35.7246811" version="1" timestamp="2018-08-01T11:43:17Z" changeset="61260615" uid="8556574" user="joshuasang">
+  <node id="5801258374" lat="0.0511440" lon="35.7246556" version="2" timestamp="2019-03-16T15:04:16Z" changeset="68205731" uid="74746" user="vogelfreier">
     <tag k="highway" v="street_lamp"/>
   </node>
   <node id="5801258375" lat="0.0514292" lon="35.7246311" version="1" timestamp="2018-08-01T11:43:17Z" changeset="61260615" uid="8556574" user="joshuasang">
     <tag k="highway" v="street_lamp"/>
   </node>
-  <node id="5801258376" lat="0.0517450" lon="35.7246050" version="1" timestamp="2018-08-01T11:43:17Z" changeset="61260615" uid="8556574" user="joshuasang">
+  <node id="5801258376" lat="0.0517437" lon="35.7245956" version="2" timestamp="2019-03-16T15:04:16Z" changeset="68205731" uid="74746" user="vogelfreier">
     <tag k="highway" v="street_lamp"/>
   </node>
   <node id="5801258377" lat="0.0523803" lon="35.7246192" version="1" timestamp="2018-08-01T11:43:17Z" changeset="61260615" uid="8556574" user="joshuasang">
@@ -3756,14 +3747,13 @@
     <tag k="operator_type" v="Government"/>
     <tag k="type" v="Primary"/>
   </node>
-  <node id="5817629955" lat="0.0497620" lon="35.7398971" version="3" timestamp="2018-08-23T10:20:55Z" changeset="61916498" uid="8556957" user="kenboi">
+  <node id="5817629955" lat="0.0497620" lon="35.7398971" version="4" timestamp="2019-03-10T11:09:31Z" changeset="67985322" uid="118021" user="maggot27">
     <tag k="amenity" v="place_of_worship"/>
     <tag k="denomination" v="sunni"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532601162576.jpg"/>
     <tag k="name" v="Al Aqsa Mosque"/>
     <tag k="religion" v="muslim"/>
     <tag k="service_times" v="05:00"/>
-    <tag k="type" v="Islam"/>
   </node>
   <node id="5817629956" lat="0.0466462" lon="35.7390975" version="2" timestamp="2018-08-23T10:25:50Z" changeset="61916632" uid="8556957" user="kenboi">
     <tag k="amenity" v="school"/>
@@ -4022,11 +4012,10 @@
     <tag k="shop" v="hardware"/>
     <tag k="type" v="Hardware"/>
   </node>
-  <node id="5817722207" lat="0.4939270" lon="35.7420174" version="2" timestamp="2018-08-20T09:44:50Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5817722207" lat="0.4939270" lon="35.7420174" version="3" timestamp="2019-03-10T02:48:54Z" changeset="67977076" uid="118021" user="maggot27">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074522090.jpg"/>
     <tag k="name" v="Dubai Collection"/>
     <tag k="shop" v="supermarket"/>
-    <tag k="type" v="Supermarket"/>
   </node>
   <node id="5817722208" lat="0.4939493" lon="35.7419281" version="2" timestamp="2018-08-20T09:44:50Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074358892.jpg"/>
@@ -4051,11 +4040,10 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
   </node>
-  <node id="5817722211" lat="0.4935371" lon="35.7399233" version="2" timestamp="2018-08-20T09:44:50Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5817722211" lat="0.4935371" lon="35.7399233" version="3" timestamp="2019-03-10T14:42:01Z" changeset="67990596" uid="118021" user="maggot27">
     <tag k="amenity" v="car_wash"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070791408.jpg"/>
     <tag k="name" v="Car Wash"/>
-    <tag k="type" v="Car wash"/>
   </node>
   <node id="5817722212" lat="0.4919897" lon="35.7408549" version="3" timestamp="2018-08-20T08:52:18Z" changeset="61815724" uid="8556957" user="kenboi">
     <tag k="amenity" v="school"/>
@@ -4092,17 +4080,15 @@
     <tag k="name" v="Garage"/>
     <tag k="shop" v="car_repair"/>
   </node>
-  <node id="5817722217" lat="0.4926819" lon="35.7407118" version="2" timestamp="2018-08-20T09:44:50Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5817722217" lat="0.4926819" lon="35.7407118" version="3" timestamp="2019-03-10T02:48:54Z" changeset="67977076" uid="118021" user="maggot27">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532071047324.jpg"/>
     <tag k="name" v="Soko Supermarket"/>
     <tag k="shop" v="supermarket"/>
-    <tag k="type" v="Supermarket"/>
   </node>
-  <node id="5817722218" lat="0.4926386" lon="35.7410281" version="2" timestamp="2018-08-20T09:44:50Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5817722218" lat="0.4926386" lon="35.7410281" version="3" timestamp="2019-03-14T18:48:10Z" changeset="68147618" uid="118021" user="maggot27">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070956405.jpg"/>
     <tag k="name" v="Highland Butchery"/>
     <tag k="shop" v="butcher"/>
-    <tag k="type" v="Butcher"/>
   </node>
   <node id="5817722219" lat="0.4929199" lon="35.7406386" version="2" timestamp="2018-08-20T08:19:40Z" changeset="61814695" uid="8556957" user="kenboi">
     <tag k="highway" v="street_lamp"/>
@@ -4114,18 +4100,16 @@
     <tag k="tourism" v="hotel"/>
     <tag k="type" v="Hotel"/>
   </node>
-  <node id="5817722222" lat="0.4926208" lon="35.7413324" version="1" timestamp="2018-08-08T10:31:44Z" changeset="61462929" uid="8556957" user="kenboi">
+  <node id="5817722222" lat="0.4926208" lon="35.7413324" version="2" timestamp="2019-03-10T02:48:54Z" changeset="67977076" uid="118021" user="maggot27">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070728588.jpg"/>
     <tag k="name" v="Market View Supermarket"/>
     <tag k="shop" v="supermarket"/>
-    <tag k="type" v="Supermarket"/>
     <tag k="wb_pb:id" v="26236169"/>
   </node>
-  <node id="5817722223" lat="0.4926332" lon="35.7416031" version="2" timestamp="2018-08-20T09:44:50Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5817722223" lat="0.4926332" lon="35.7416031" version="3" timestamp="2019-03-14T18:41:39Z" changeset="68147423" uid="118021" user="maggot27">
     <tag k="amenity" v="bank"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070546584.jpg"/>
     <tag k="name" v="Vision Fund Kenya"/>
-    <tag k="type" v="Bank"/>
   </node>
   <node id="5817722224" lat="0.4924073" lon="35.7421778" version="3" timestamp="2018-08-20T09:44:51Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="amenity" v="pharmacy"/>
@@ -4158,11 +4142,10 @@
     <tag k="office" v="telecommunication"/>
     <tag k="type" v="communication Centre"/>
   </node>
-  <node id="5817722228" lat="0.4925671" lon="35.7413965" version="2" timestamp="2018-08-20T09:44:51Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5817722228" lat="0.4925671" lon="35.7413965" version="3" timestamp="2019-03-14T18:41:39Z" changeset="68147423" uid="118021" user="maggot27">
     <tag k="amenity" v="bank"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069740010.jpg"/>
     <tag k="name" v="Kenya Women Micro Finace Bank"/>
-    <tag k="type" v="Bank"/>
   </node>
   <node id="5817722229" lat="0.4923002" lon="35.7430658" version="2" timestamp="2018-08-20T09:44:51Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069327188.jpg"/>
@@ -4170,17 +4153,15 @@
     <tag k="tourism" v="hotel"/>
     <tag k="type" v="Hotel"/>
   </node>
-  <node id="5817722230" lat="0.4926980" lon="35.7416813" version="2" timestamp="2018-08-20T09:44:51Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5817722230" lat="0.4926980" lon="35.7416813" version="3" timestamp="2019-03-14T18:41:39Z" changeset="68147423" uid="118021" user="maggot27">
     <tag k="amenity" v="bank"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069525430.jpg"/>
     <tag k="name" v="Kenya Credit Traders Limited"/>
-    <tag k="type" v="Bank"/>
   </node>
-  <node id="5817722231" lat="0.4925223" lon="35.7430480" version="2" timestamp="2018-08-20T09:44:51Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5817722231" lat="0.4925223" lon="35.7430480" version="3" timestamp="2019-03-14T18:41:39Z" changeset="68147423" uid="118021" user="maggot27">
     <tag k="amenity" v="bank"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069233643.jpg"/>
     <tag k="name" v="Faulu Micro Finance"/>
-    <tag k="type" v="Bank"/>
   </node>
   <node id="5817722232" lat="0.4923917" lon="35.7433156" version="2" timestamp="2018-08-20T09:44:51Z" changeset="61817326" uid="8556957" user="kenboi">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532068916169.jpg"/>
@@ -4193,11 +4174,10 @@
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532068542793.jpg"/>
     <tag k="type" v="City Clock"/>
   </node>
-  <node id="5817722234" lat="0.4925385" lon="35.7418563" version="1" timestamp="2018-08-08T10:31:45Z" changeset="61462929" uid="8556957" user="kenboi">
+  <node id="5817722234" lat="0.4925385" lon="35.7418563" version="2" timestamp="2019-03-14T18:41:39Z" changeset="68147423" uid="118021" user="maggot27">
     <tag k="amenity" v="bank"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069219167.jpg"/>
     <tag k="name" v="Equity Bank"/>
-    <tag k="type" v="Bank"/>
     <tag k="wb_pb:id" v="26235507"/>
   </node>
   <node id="5820105407" lat="0.0089211" lon="35.7095817" version="1" timestamp="2018-08-09T09:55:13Z" changeset="61494926" uid="8556957" user="kenboi">
@@ -4236,12 +4216,6 @@
     <tag k="operator_type" v="NGO"/>
     <tag k="wb_pb:id" v="26662135"/>
   </node>
-  <node id="5820105412" lat="0.0307432" lon="35.7247139" version="1" timestamp="2018-08-09T09:55:13Z" changeset="61494926" uid="8556957" user="kenboi">
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607377466.jpg"/>
-    <tag k="name" v="Amiran Farmers Kit"/>
-    <tag k="type" v="Green House"/>
-    <tag k="wb_pb:id" v="26662099"/>
-  </node>
   <node id="5820105413" lat="0.0256107" lon="35.7255043" version="1" timestamp="2018-08-09T09:55:14Z" changeset="61494926" uid="8556957" user="kenboi">
     <tag k="amenity" v="agriculture"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532605631119.jpg"/>
@@ -4277,16 +4251,6 @@
     <tag k="name" v="Sinende Cattle Dip"/>
     <tag k="type" v="Cattle dip"/>
     <tag k="wb_pb:id" v="26662034"/>
-  </node>
-  <node id="5820105417" lat="0.0115023" lon="35.7135231" version="1" timestamp="2018-08-09T09:55:14Z" changeset="61494926" uid="8556957" user="kenboi">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="building" v="church"/>
-    <tag k="denomination" v="evangelical"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597964304.jpg"/>
-    <tag k="name" v="AIC Benonin"/>
-    <tag k="religion" v="christian"/>
-    <tag k="type" v="Christian"/>
-    <tag k="wb_pb:id" v="26661993"/>
   </node>
   <node id="5820105418" lat="0.0120753" lon="35.7136667" version="1" timestamp="2018-08-09T09:55:14Z" changeset="61494926" uid="8556957" user="kenboi">
     <tag k="amenity" v="school"/>
@@ -4393,10 +4357,11 @@
     <tag k="school" v="Secondary"/>
     <tag k="wb_pb:id" v="26724348"/>
   </node>
-  <node id="5820321726" lat="0.4850803" lon="35.7427341" version="2" timestamp="2018-08-20T09:44:51Z" changeset="61817326" uid="8556957" user="kenboi">
+  <node id="5820321726" lat="0.4850803" lon="35.7427341" version="3" timestamp="2019-03-15T09:19:36Z" changeset="68167299" uid="261050" user="muindre">
     <tag k="amenity" v="hospital"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904495659.jpg"/>
     <tag k="name" v="Kabarnet Refferal Hopital-ICU"/>
+    <tag k="wb_pb:id" v="26199364"/>
   </node>
   <node id="5820417010" lat="0.0452854" lon="35.7252023" version="1" timestamp="2018-08-09T12:48:10Z" changeset="61500377" uid="8556619" user="kbizz">
     <tag k="generator:source" v="solar"/>
@@ -4908,6 +4873,9 @@
     <tag k="noexit" v="yes"/>
   </node>
   <node id="6315718958" lat="0.0931504" lon="35.7300791" version="1" timestamp="2019-03-04T09:45:13Z" changeset="67760307" uid="74746" user="vogelfreier">
+    <tag k="noexit" v="yes"/>
+  </node>
+  <node id="6354512126" lat="0.0508131" lon="35.7216234" version="1" timestamp="2019-03-22T13:41:35Z" changeset="68411838" uid="74746" user="vogelfreier">
     <tag k="noexit" v="yes"/>
   </node>
 

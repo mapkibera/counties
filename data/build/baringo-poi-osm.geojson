@@ -3,6 +3,36 @@
 "features": [
 {
   "type": "Feature",
+  "id": "node/44931441",
+  "properties": {
+    "type": "node",
+    "id": "44931441",
+    "tags": {
+      "is_in": "Kericho,Kenya",
+      "name": "Londiani",
+      "place": "town",
+      "wikidata": "Q6669717",
+      "wikipedia": "en:Londiani"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-03-20T08:45:51Z",
+      "version": "5",
+      "changeset": "68324640",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.5914203,
+      -0.1673204
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/473447883",
   "properties": {
     "type": "node",
@@ -561,6 +591,32 @@
 },
 {
   "type": "Feature",
+  "id": "node/2475414065",
+  "properties": {
+    "type": "node",
+    "id": "2475414065",
+    "tags": {
+      "name": "Nyandarua EABL Distributors"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-03-21T11:55:45Z",
+      "version": "2",
+      "changeset": "68370454",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.3656911,
+      0.0378403
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2606228506",
   "properties": {
     "type": "node",
@@ -613,6 +669,88 @@
     "coordinates": [
       35.7429557,
       0.4725015
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3219925545",
+  "properties": {
+    "type": "node",
+    "id": "3219925545",
+    "tags": {
+      "addr:city": "Londiani",
+      "amenity": "post_office",
+      "name": "Londiani Post Office"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-03-20T08:46:41Z",
+      "version": "2",
+      "changeset": "68324675",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.5945568,
+      -0.1652126
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3219943772",
+  "properties": {
+    "type": "node",
+    "id": "3219943772",
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ritho Pub and Restraunt"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-03-20T08:46:41Z",
+      "version": "2",
+      "changeset": "68324675",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.5920637,
+      -0.166172
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3219991014",
+  "properties": {
+    "type": "node",
+    "id": "3219991014",
+    "tags": {
+      "craft": "brewery",
+      "name": "Officers Wines & Spirit Distributer"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-03-20T08:46:41Z",
+      "version": "2",
+      "changeset": "68324675",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.5897269,
+      -0.1662927
     ]
   }
 },
@@ -4910,16 +5048,15 @@
     "tags": {
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532082991180.jpg",
       "name": "Wema Supermarket",
-      "shop": "supermarket",
-      "type": "Supermarket"
+      "shop": "supermarket"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:45Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-10T02:48:54Z",
+      "version": "3",
+      "changeset": "67977076",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -5093,16 +5230,15 @@
       "name": "Magonoi Catholic Church",
       "religion": "christian",
       "service_times": "10:00",
-      "type": "Christian",
       "wb_pb:id": "26240626"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-28T15:40:30Z",
-      "version": "2",
-      "changeset": "61145545",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2019-03-10T02:51:43Z",
+      "version": "3",
+      "changeset": "67977105",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -5190,16 +5326,15 @@
       "name": "Magonoi A.I.C",
       "religion": "christian",
       "service_times": "10:00",
-      "type": "Christian",
       "wb_pb:id": "26240583"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-28T15:40:31Z",
-      "version": "2",
-      "changeset": "61145545",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2019-03-10T02:51:43Z",
+      "version": "3",
+      "changeset": "67977105",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -6305,15 +6440,16 @@
       "electricity": "always",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531907382788.jpg",
       "name": "Baringo County referral hospital Adminstative Block",
-      "office": "administrative"
+      "office": "government",
+      "wb_pb:id": "26126016"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:46Z",
-      "version": "3",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-15T09:22:45Z",
+      "version": "4",
+      "changeset": "68167401",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
@@ -6335,15 +6471,16 @@
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906979759.jpg",
       "name": "Baringo County referral hospital lagoon",
       "type": "hospital",
-      "water": "lagoon"
+      "water": "lagoon",
+      "wb_pb:id": "26126011"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:46Z",
-      "version": "3",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-15T09:24:52Z",
+      "version": "4",
+      "changeset": "68167466",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
@@ -6364,15 +6501,16 @@
       "building": "yes",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906457617.jpg",
       "name": "Baringo County referral hospitall Intern quarters",
-      "type": "hospital"
+      "type": "hospital",
+      "wb_pb:id": "26125995"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:46Z",
-      "version": "3",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-15T09:16:24Z",
+      "version": "4",
+      "changeset": "68167203",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
@@ -6520,16 +6658,15 @@
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531918680603.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531918931884.jpg",
       "name": "Kabarnet Fire Station",
-      "type": "Fire station",
       "wb_pb:id": "26126149"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-24T10:03:44Z",
-      "version": "1",
-      "changeset": "61016299",
-      "user": "zubeda",
-      "uid": "8556533"
+      "timestamp": "2019-03-10T01:27:20Z",
+      "version": "2",
+      "changeset": "67976149",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -6673,18 +6810,18 @@
     "type": "node",
     "id": "5781492693",
     "tags": {
+      "amenity": "bar",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075515841.jpg",
       "name": "Sowes Bar",
-      "shop": "alcohol",
-      "type": "Bar"
+      "shop": "alcohol"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:46Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-14T18:45:24Z",
+      "version": "3",
+      "changeset": "68147533",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -6996,16 +7133,15 @@
     "tags": {
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077522628.jpg",
       "name": "Quick Service Self Selction",
-      "shop": "supermarket",
-      "type": "Supermarket"
+      "shop": "supermarket"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:46Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-10T02:48:54Z",
+      "version": "3",
+      "changeset": "67977076",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -7170,16 +7306,15 @@
     "tags": {
       "amenity": "bank",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077118087.jpg",
-      "name": "Transnational Bank",
-      "type": "Bank"
+      "name": "Transnational Bank"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:47Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-14T18:41:39Z",
+      "version": "3",
+      "changeset": "68147423",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -7351,19 +7486,19 @@
     "type": "node",
     "id": "5781492716",
     "tags": {
+      "amenity": "bar",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076368360.jpg",
       "name": "Heritage Bar",
       "shop": "alcohol",
-      "type": "Bar",
       "wb_pb:id": "26236313"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-24T10:08:21Z",
-      "version": "1",
-      "changeset": "61016488",
-      "user": "ronovincent32",
-      "uid": "8556507"
+      "timestamp": "2019-03-14T18:45:24Z",
+      "version": "2",
+      "changeset": "68147533",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -7415,16 +7550,15 @@
     "tags": {
       "amenity": "car_wash",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532076176650.jpg",
-      "name": "Stadium Car Wash",
-      "type": "Car wash"
+      "name": "Stadium Car Wash"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:47Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-10T14:42:01Z",
+      "version": "3",
+      "changeset": "67990596",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -7506,18 +7640,18 @@
     "type": "node",
     "id": "5781492721",
     "tags": {
+      "amenity": "bar",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532075821731.jpg",
       "name": "Spikes Bar",
-      "shop": "alcohol",
-      "type": "Bar"
+      "shop": "alcohol"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:47Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-14T18:45:24Z",
+      "version": "3",
+      "changeset": "68147533",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -8252,16 +8386,15 @@
     "id": "5781632970",
     "tags": {
       "name": "Sunrise Supermarket",
-      "shop": "supermarket",
-      "type": "Supermarket"
+      "shop": "supermarket"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:47Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-10T02:48:54Z",
+      "version": "3",
+      "changeset": "67977076",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -8454,16 +8587,15 @@
       "denomination": "anglican",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532085497371.jpg",
       "name": "Full Gospel Churches of God Kabarnet",
-      "religion": "christian",
-      "type": "Christian"
+      "religion": "christian"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:03:44Z",
-      "version": "2",
-      "changeset": "61816069",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-10T02:51:32Z",
+      "version": "3",
+      "changeset": "67977102",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -8497,38 +8629,6 @@
     "coordinates": [
       35.7442738,
       0.4951706
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5781632979",
-  "properties": {
-    "type": "node",
-    "id": "5781632979",
-    "tags": {
-      "amenity": "place_of_worship",
-      "denomination": "protestant",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532085078392.jpg",
-      "name": "PAG KABARNET",
-      "religion": "christian",
-      "service_times": "08:00",
-      "type": "Church"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-20T09:03:44Z",
-      "version": "3",
-      "changeset": "61816069",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7443109,
-      0.495314
     ]
   }
 },
@@ -8651,16 +8751,15 @@
       "denomination": "sunni",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532084809077.jpg",
       "name": "Kabarnet Mosque",
-      "religion": "muslim",
-      "type": "Islam"
+      "religion": "muslim"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:03:44Z",
-      "version": "2",
-      "changeset": "61816069",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-10T11:09:21Z",
+      "version": "3",
+      "changeset": "67985319",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -8710,16 +8809,15 @@
       "amenity": "fuel",
       "brand": "Shell",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532077733114.jpg",
-      "name": "Mart Petrol Station",
-      "type": "Petrol station"
+      "name": "Mart Petrol Station"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:48Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-10T15:31:43Z",
+      "version": "3",
+      "changeset": "67992112",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -9053,16 +9151,15 @@
       "amenity": "fuel",
       "fuel:diesel": "yes",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532087666625.jpg",
-      "name": "Tobil Petrol Station",
-      "type": "Petrol station"
+      "name": "Tobil Petrol Station"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:48Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-10T15:31:43Z",
+      "version": "3",
+      "changeset": "67992112",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -12591,15 +12688,15 @@
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597964304.jpg",
       "name": "AIC Benonin",
       "religion": "christian",
-      "type": "Christian"
+      "wb_pb:id": "26661993"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-23T10:41:27Z",
-      "version": "2",
-      "changeset": "61917024",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-10T02:52:16Z",
+      "version": "4",
+      "changeset": "67977113",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -13768,15 +13865,16 @@
       "man_made": "storage_tank",
       "name": "Kabiyet Tabare Storage Tank",
       "operational_status": "Non-operational",
-      "operator_type": "CBO"
+      "operator_type": "CBO",
+      "wb_pb:id": "26728221"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-23T10:51:05Z",
-      "version": "4",
-      "changeset": "61917299",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-15T10:30:12Z",
+      "version": "5",
+      "changeset": "68169485",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
@@ -13821,19 +13919,18 @@
     "type": "node",
     "id": "5798859905",
     "tags": {
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610226450.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610379185.jpg",
+      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610226450.jpg",
+      "leisure": "garden",
       "name": "Ravine Garden Square",
-      "type": "Garden Square",
       "wb_pb:id": "26663654"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-31T13:18:59Z",
-      "version": "1",
-      "changeset": "61229814",
-      "user": "vintech",
-      "uid": "8556553"
+      "timestamp": "2019-03-16T15:04:16Z",
+      "version": "2",
+      "changeset": "68205731",
+      "user": "vogelfreier",
+      "uid": "74746"
     }
   },
   "geometry": {
@@ -14009,16 +14106,15 @@
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532604436311.jpg",
       "name": "Ebenezer Church",
       "religion": "christian",
-      "service_times": "10:00",
-      "type": "Ebenezar Church"
+      "service_times": "10:00"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-23T10:20:54Z",
-      "version": "3",
-      "changeset": "61916498",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-14T19:00:28Z",
+      "version": "4",
+      "changeset": "68148006",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -14650,16 +14746,15 @@
     "tags": {
       "amenity": "bank",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532942867179.jpg",
-      "name": "Transnational Bank",
-      "type": "Bank"
+      "name": "Transnational Bank"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T10:00:37Z",
-      "version": "2",
-      "changeset": "61817742",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-14T18:41:25Z",
+      "version": "3",
+      "changeset": "68147415",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -14736,16 +14831,15 @@
     "tags": {
       "amenity": "bank",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532941866046.jpg",
-      "name": "KCB Bank",
-      "type": "Bank"
+      "name": "KCB Bank"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T10:00:37Z",
-      "version": "2",
-      "changeset": "61817742",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-14T18:41:25Z",
+      "version": "3",
+      "changeset": "68147415",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -14753,37 +14847,6 @@
     "coordinates": [
       35.7249219,
       0.0493233
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5800785531",
-  "properties": {
-    "type": "node",
-    "id": "5800785531",
-    "tags": {
-      "amenity": "place_of_worship",
-      "denomination": "evangelical",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532941096340.jpg",
-      "name": "Full Gospel Church",
-      "religion": "christian",
-      "type": "Christian"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-23T10:20:54Z",
-      "version": "3",
-      "changeset": "61916498",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7254439,
-      0.0505237
     ]
   }
 },
@@ -14797,16 +14860,15 @@
       "amenity": "place_of_worship",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532940970643.jpg",
       "name": "Eldama Ravine Mosque",
-      "religion": "muslim",
-      "type": "Islam"
+      "religion": "muslim"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-23T10:20:54Z",
-      "version": "3",
-      "changeset": "61916498",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-10T11:09:31Z",
+      "version": "4",
+      "changeset": "67985322",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -14855,16 +14917,15 @@
     "tags": {
       "amenity": "car_wash",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532939892362.jpg",
-      "name": "Stage Car Wash",
-      "type": "Car wash"
+      "name": "Stage Car Wash"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T10:00:37Z",
-      "version": "2",
-      "changeset": "61817742",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-10T14:41:51Z",
+      "version": "3",
+      "changeset": "67990592",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -14952,16 +15013,15 @@
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938302657.jpg",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938560980.jpg",
       "name": "Main Stage Car Wash",
-      "type": "Car wash",
       "wb_pb:id": "26922849"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-01T08:43:21Z",
-      "version": "1",
-      "changeset": "61254599",
-      "user": "vintech",
-      "uid": "8556553"
+      "timestamp": "2019-03-10T14:41:51Z",
+      "version": "2",
+      "changeset": "67990592",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -15183,18 +15243,18 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-01T11:43:17Z",
-      "version": "1",
-      "changeset": "61260615",
-      "user": "joshuasang",
-      "uid": "8556574"
+      "timestamp": "2019-03-16T15:04:16Z",
+      "version": "2",
+      "changeset": "68205731",
+      "user": "vogelfreier",
+      "uid": "74746"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      35.724872,
-      0.050189
+      35.7249015,
+      0.0501836
     ]
   }
 },
@@ -15209,18 +15269,18 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-01T11:43:17Z",
-      "version": "1",
-      "changeset": "61260615",
-      "user": "joshuasang",
-      "uid": "8556574"
+      "timestamp": "2019-03-16T15:04:16Z",
+      "version": "2",
+      "changeset": "68205731",
+      "user": "vogelfreier",
+      "uid": "74746"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      35.724813,
-      0.0504889
+      35.7248264,
+      0.0504956
     ]
   }
 },
@@ -15235,18 +15295,18 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-01T11:43:17Z",
-      "version": "1",
-      "changeset": "61260615",
-      "user": "joshuasang",
-      "uid": "8556574"
+      "timestamp": "2019-03-16T15:04:16Z",
+      "version": "2",
+      "changeset": "68205731",
+      "user": "vogelfreier",
+      "uid": "74746"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      35.7247341,
-      0.050871
+      35.7247073,
+      0.0508831
     ]
   }
 },
@@ -15261,18 +15321,18 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-01T11:43:17Z",
-      "version": "1",
-      "changeset": "61260615",
-      "user": "joshuasang",
-      "uid": "8556574"
+      "timestamp": "2019-03-16T15:04:16Z",
+      "version": "2",
+      "changeset": "68205731",
+      "user": "vogelfreier",
+      "uid": "74746"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      35.7246811,
-      0.051148
+      35.7246556,
+      0.051144
     ]
   }
 },
@@ -15313,18 +15373,18 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-01T11:43:17Z",
-      "version": "1",
-      "changeset": "61260615",
-      "user": "joshuasang",
-      "uid": "8556574"
+      "timestamp": "2019-03-16T15:04:16Z",
+      "version": "2",
+      "changeset": "68205731",
+      "user": "vogelfreier",
+      "uid": "74746"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      35.724605,
-      0.051745
+      35.7245956,
+      0.0517437
     ]
   }
 },
@@ -16483,16 +16543,15 @@
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532601162576.jpg",
       "name": "Al Aqsa Mosque",
       "religion": "muslim",
-      "service_times": "05:00",
-      "type": "Islam"
+      "service_times": "05:00"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-23T10:20:55Z",
-      "version": "3",
-      "changeset": "61916498",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-10T11:09:31Z",
+      "version": "4",
+      "changeset": "67985322",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -17551,16 +17610,15 @@
     "tags": {
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074522090.jpg",
       "name": "Dubai Collection",
-      "shop": "supermarket",
-      "type": "Supermarket"
+      "shop": "supermarket"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:50Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-10T02:48:54Z",
+      "version": "3",
+      "changeset": "67977076",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -17672,16 +17730,15 @@
     "tags": {
       "amenity": "car_wash",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070791408.jpg",
-      "name": "Car Wash",
-      "type": "Car wash"
+      "name": "Car Wash"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:50Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-10T14:42:01Z",
+      "version": "3",
+      "changeset": "67990596",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -17851,16 +17908,15 @@
     "tags": {
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532071047324.jpg",
       "name": "Soko Supermarket",
-      "shop": "supermarket",
-      "type": "Supermarket"
+      "shop": "supermarket"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:50Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-10T02:48:54Z",
+      "version": "3",
+      "changeset": "67977076",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -17880,16 +17936,15 @@
     "tags": {
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070956405.jpg",
       "name": "Highland Butchery",
-      "shop": "butcher",
-      "type": "Butcher"
+      "shop": "butcher"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:50Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-14T18:48:10Z",
+      "version": "3",
+      "changeset": "68147618",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -17966,16 +18021,15 @@
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070728588.jpg",
       "name": "Market View Supermarket",
       "shop": "supermarket",
-      "type": "Supermarket",
       "wb_pb:id": "26236169"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-08T10:31:44Z",
-      "version": "1",
-      "changeset": "61462929",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-10T02:48:54Z",
+      "version": "2",
+      "changeset": "67977076",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -17995,16 +18049,15 @@
     "tags": {
       "amenity": "bank",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070546584.jpg",
-      "name": "Vision Fund Kenya",
-      "type": "Bank"
+      "name": "Vision Fund Kenya"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:50Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-14T18:41:39Z",
+      "version": "3",
+      "changeset": "68147423",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -18147,16 +18200,15 @@
     "tags": {
       "amenity": "bank",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069740010.jpg",
-      "name": "Kenya Women Micro Finace Bank",
-      "type": "Bank"
+      "name": "Kenya Women Micro Finace Bank"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:51Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-14T18:41:39Z",
+      "version": "3",
+      "changeset": "68147423",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -18205,16 +18257,15 @@
     "tags": {
       "amenity": "bank",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069525430.jpg",
-      "name": "Kenya Credit Traders Limited",
-      "type": "Bank"
+      "name": "Kenya Credit Traders Limited"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:51Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-14T18:41:39Z",
+      "version": "3",
+      "changeset": "68147423",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -18234,16 +18285,15 @@
     "tags": {
       "amenity": "bank",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069233643.jpg",
-      "name": "Faulu Micro Finance",
-      "type": "Bank"
+      "name": "Faulu Micro Finance"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:51Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-14T18:41:39Z",
+      "version": "3",
+      "changeset": "68147423",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -18321,16 +18371,15 @@
       "amenity": "bank",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069219167.jpg",
       "name": "Equity Bank",
-      "type": "Bank",
       "wb_pb:id": "26235507"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-08T10:31:45Z",
-      "version": "1",
-      "changeset": "61462929",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-14T18:41:39Z",
+      "version": "2",
+      "changeset": "68147423",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -18494,35 +18543,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5820105412",
-  "properties": {
-    "type": "node",
-    "id": "5820105412",
-    "tags": {
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607377466.jpg",
-      "name": "Amiran Farmers Kit",
-      "type": "Green House",
-      "wb_pb:id": "26662099"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-09T09:55:13Z",
-      "version": "1",
-      "changeset": "61494926",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7247139,
-      0.0307432
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5820105413",
   "properties": {
     "type": "node",
@@ -18646,39 +18666,6 @@
     "coordinates": [
       35.7179869,
       0.0001721
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5820105417",
-  "properties": {
-    "type": "node",
-    "id": "5820105417",
-    "tags": {
-      "amenity": "place_of_worship",
-      "building": "church",
-      "denomination": "evangelical",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597964304.jpg",
-      "name": "AIC Benonin",
-      "religion": "christian",
-      "type": "Christian",
-      "wb_pb:id": "26661993"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-08-09T09:55:14Z",
-      "version": "1",
-      "changeset": "61494926",
-      "user": "kenboi",
-      "uid": "8556957"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7135231,
-      0.0115023
     ]
   }
 },
@@ -19049,15 +19036,16 @@
     "tags": {
       "amenity": "hospital",
       "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904495659.jpg",
-      "name": "Kabarnet Refferal Hopital-ICU"
+      "name": "Kabarnet Refferal Hopital-ICU",
+      "wb_pb:id": "26199364"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T09:44:51Z",
-      "version": "2",
-      "changeset": "61817326",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-03-15T09:19:36Z",
+      "version": "3",
+      "changeset": "68167299",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
@@ -22130,6 +22118,32 @@
     "coordinates": [
       35.7300791,
       0.0931504
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6354512126",
+  "properties": {
+    "type": "node",
+    "id": "6354512126",
+    "tags": {
+      "noexit": "yes"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-03-22T13:41:35Z",
+      "version": "1",
+      "changeset": "68411838",
+      "user": "vogelfreier",
+      "uid": "74746"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.7216234,
+      0.0508131
     ]
   }
 }

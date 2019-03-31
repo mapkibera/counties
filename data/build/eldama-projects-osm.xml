@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-03-08T03:09:02Z"/>
+<meta osm_base="2019-03-31T01:08:02Z"/>
 
   <bounds minlat="-0.0307000" minlon="35.6881000" maxlat="0.0852000" maxlon="35.7553000"/>
 
@@ -99,6 +99,15 @@
     <tag k="name" v="Sinende Cattle Dip"/>
     <tag k="type" v="Cattle dip"/>
     <tag k="wb_pb:id" v="26662034"/>
+  </node>
+  <node id="5798751616" lat="0.0115023" lon="35.7135231" version="4" timestamp="2019-03-10T02:52:16Z" changeset="67977113" uid="118021" user="maggot27">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="evangelical"/>
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597964304.jpg"/>
+    <tag k="name" v="AIC Benonin"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wb_pb:id" v="26661993"/>
   </node>
   <node id="5798782566" lat="0.0516207" lon="35.7285895" version="3" timestamp="2018-08-23T10:37:52Z" changeset="61916928" uid="8556957" user="kenboi">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682933869.jpg"/>
@@ -257,11 +266,19 @@
     <tag k="service_times" v="10:00"/>
     <tag k="wb_pb:id" v="26728261"/>
   </node>
-  <node id="5798859905" lat="0.0492113" lon="35.7254796" version="1" timestamp="2018-07-31T13:18:59Z" changeset="61229814" uid="8556553" user="vintech">
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610226450.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610379185.jpg"/>
+  <node id="5798803054" lat="0.0031335" lon="35.7340399" version="5" timestamp="2019-03-15T10:30:12Z" changeset="68169485" uid="261050" user="muindre">
+    <tag k="funded_by" v="National Government"/>
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532676807829.jpg"/>
+    <tag k="man_made" v="storage_tank"/>
+    <tag k="name" v="Kabiyet Tabare Storage Tank"/>
+    <tag k="operational_status" v="Non-operational"/>
+    <tag k="operator_type" v="CBO"/>
+    <tag k="wb_pb:id" v="26728221"/>
+  </node>
+  <node id="5798859905" lat="0.0492113" lon="35.7254796" version="2" timestamp="2019-03-16T15:04:16Z" changeset="68205731" uid="74746" user="vogelfreier">
+    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610226450.jpg"/>
+    <tag k="leisure" v="garden"/>
     <tag k="name" v="Ravine Garden Square"/>
-    <tag k="type" v="Garden Square"/>
     <tag k="wb_pb:id" v="26663654"/>
   </node>
   <node id="5798859907" lat="0.0464489" lon="35.7244200" version="4" timestamp="2018-09-01T17:28:06Z" changeset="62203030" uid="616774" user="mueschel">
@@ -416,12 +433,11 @@
     <tag k="operator" v="County Government of Baringo"/>
     <tag k="wb_pb:id" v="26922141"/>
   </node>
-  <node id="5800785538" lat="0.0526206" lon="35.7243828" version="1" timestamp="2018-08-01T08:43:21Z" changeset="61254599" uid="8556553" user="vintech">
+  <node id="5800785538" lat="0.0526206" lon="35.7243828" version="2" timestamp="2019-03-10T14:41:51Z" changeset="67990592" uid="118021" user="maggot27">
     <tag k="amenity" v="car_wash"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938302657.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938560980.jpg"/>
     <tag k="name" v="Main Stage Car Wash"/>
-    <tag k="type" v="Car wash"/>
     <tag k="wb_pb:id" v="26922849"/>
   </node>
   <node id="5800785539" lat="0.0526767" lon="35.7244639" version="2" timestamp="2018-08-12T12:04:56Z" changeset="61586326" uid="616774" user="mueschel">
@@ -603,12 +619,6 @@
     <tag k="operator_type" v="NGO"/>
     <tag k="wb_pb:id" v="26662135"/>
   </node>
-  <node id="5820105412" lat="0.0307432" lon="35.7247139" version="1" timestamp="2018-08-09T09:55:13Z" changeset="61494926" uid="8556957" user="kenboi">
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607377466.jpg"/>
-    <tag k="name" v="Amiran Farmers Kit"/>
-    <tag k="type" v="Green House"/>
-    <tag k="wb_pb:id" v="26662099"/>
-  </node>
   <node id="5820105413" lat="0.0256107" lon="35.7255043" version="1" timestamp="2018-08-09T09:55:14Z" changeset="61494926" uid="8556957" user="kenboi">
     <tag k="amenity" v="agriculture"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532605631119.jpg"/>
@@ -644,16 +654,6 @@
     <tag k="name" v="Sinende Cattle Dip"/>
     <tag k="type" v="Cattle dip"/>
     <tag k="wb_pb:id" v="26662034"/>
-  </node>
-  <node id="5820105417" lat="0.0115023" lon="35.7135231" version="1" timestamp="2018-08-09T09:55:14Z" changeset="61494926" uid="8556957" user="kenboi">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="building" v="church"/>
-    <tag k="denomination" v="evangelical"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597964304.jpg"/>
-    <tag k="name" v="AIC Benonin"/>
-    <tag k="religion" v="christian"/>
-    <tag k="type" v="Christian"/>
-    <tag k="wb_pb:id" v="26661993"/>
   </node>
   <node id="5820105418" lat="0.0120753" lon="35.7136667" version="1" timestamp="2018-08-09T09:55:14Z" changeset="61494926" uid="8556957" user="kenboi">
     <tag k="amenity" v="school"/>

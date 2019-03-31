@@ -2818,17 +2818,16 @@
       "name": "Transformer",
       "opening_hours": "24/7",
       "power": "transformer",
-      "type": "Transformer",
       "wb_pb:id": "22844721",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T12:59:05Z",
-      "version": "1",
-      "changeset": "59210777",
-      "user": "kinywee",
-      "uid": "8129334"
+      "timestamp": "2019-03-10T02:12:32Z",
+      "version": "2",
+      "changeset": "67976690",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -3110,17 +3109,16 @@
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526637755562.jpg",
       "name": "Kiembei bar",
       "opening_hours": "24/7",
-      "type": "Bar",
       "wb_pb:id": "22844067",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T12:59:06Z",
-      "version": "1",
-      "changeset": "59210777",
-      "user": "kinywee",
-      "uid": "8129334"
+      "timestamp": "2019-03-14T18:44:51Z",
+      "version": "2",
+      "changeset": "68147518",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -3206,17 +3204,16 @@
       "name": "Transformer",
       "opening_hours": "24/7",
       "power": "transformer",
-      "type": "Transformer",
       "wb_pb:id": "22843914",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T12:59:06Z",
-      "version": "1",
-      "changeset": "59210777",
-      "user": "kinywee",
-      "uid": "8129334"
+      "timestamp": "2019-03-10T02:12:43Z",
+      "version": "2",
+      "changeset": "67976693",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -3603,7 +3600,7 @@
     "tags": {
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526984981749.jpg",
       "name": "Travellers Highlights Guest Inn \"Hotel \"",
-      "opening_hours_1": "mo-fr-8:00-5:00",
+      "opening_hours": "Mo-Fr 08:00-17:00",
       "operator": "Travellers Highlight Guest Inn",
       "tourism": "hotel",
       "type": "hotel",
@@ -3611,11 +3608,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T13:47:33Z",
-      "version": "1",
-      "changeset": "59212330",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-24T19:03:37Z",
+      "version": "2",
+      "changeset": "68481277",
+      "user": "Josef73",
+      "uid": "213831"
     }
   },
   "geometry": {
@@ -3635,18 +3632,18 @@
     "tags": {
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526984825477.jpg",
       "name": "Athusi shop",
-      "opening_hours_1": "mo-fr-8:00-5:00",
+      "opening_hours": "Mo-Fr 08:00-17:00",
       "shop": "kiosk",
       "type": "kiosk",
       "wb_pb:id": "22951676"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T13:47:33Z",
-      "version": "1",
-      "changeset": "59212330",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-24T19:04:07Z",
+      "version": "2",
+      "changeset": "68481292",
+      "user": "Josef73",
+      "uid": "213831"
     }
   },
   "geometry": {
@@ -3766,17 +3763,17 @@
       "amenity": "bank",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526914693225.jpg",
       "name": "Vanix Ventures",
-      "opening_hours_1": "mo-fr-8:00-5:00",
+      "opening_hours": "Mo-Fr 08:00-17:00",
       "type": "KCB Bank Agent",
       "wb_pb:id": "22951646"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T13:47:34Z",
-      "version": "1",
-      "changeset": "59212330",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-24T19:04:36Z",
+      "version": "2",
+      "changeset": "68481304",
+      "user": "Josef73",
+      "uid": "213831"
     }
   },
   "geometry": {
@@ -3798,17 +3795,16 @@
       "name": "Mini Bookshop",
       "opening_hours": "Mo-Su 8:00-6:00",
       "shop": "books",
-      "type": "Bookshop",
       "wb_pb:id": "22951643",
       "wheelchair": "limited"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T13:47:34Z",
-      "version": "1",
-      "changeset": "59212330",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-10T14:38:55Z",
+      "version": "2",
+      "changeset": "67990494",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -3921,18 +3917,18 @@
     "tags": {
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526913669238.jpg",
       "name": "Highway Stores",
-      "opening_hours_1": "Mo-Su 8:00-6:00",
+      "opening_hours": "Mo-Su 08:00-18:00",
       "shop": "variety_store",
       "type": "kiosk",
       "wb_pb:id": "22951617"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T13:47:35Z",
-      "version": "1",
-      "changeset": "59212330",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-19T19:02:35Z",
+      "version": "2",
+      "changeset": "68307323",
+      "user": "Josef73",
+      "uid": "213831"
     }
   },
   "geometry": {
@@ -4477,7 +4473,7 @@
       "amenity": "public facility",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526640754293.jpg",
       "name": "Winukilo welders and Hardware",
-      "opening_hours_1": "mo-fr-8:00-7:00",
+      "opening_hours": "Mo-Fr 08:00-19:00",
       "shop": "hardware",
       "type": "hardware",
       "wb_pb:id": "22950942",
@@ -4485,11 +4481,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T13:47:38Z",
-      "version": "1",
-      "changeset": "59212330",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-25T18:57:19Z",
+      "version": "2",
+      "changeset": "68518859",
+      "user": "Josef73",
+      "uid": "213831"
     }
   },
   "geometry": {
@@ -4510,18 +4506,18 @@
       "amenity": "bureau_de_change",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526640375349.jpg",
       "name": "Mpesa Shop",
-      "opening_hours_1": "mo-fr-8:00-7:00",
+      "opening_hours": "Mo-Fr 08:00-19:00",
       "type": "kiosk",
       "wb_pb:id": "22950936",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T13:47:38Z",
-      "version": "1",
-      "changeset": "59212330",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-25T18:57:19Z",
+      "version": "2",
+      "changeset": "68518859",
+      "user": "Josef73",
+      "uid": "213831"
     }
   },
   "geometry": {
@@ -4541,7 +4537,7 @@
     "tags": {
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526639726455.jpg",
       "name": "Maka Communications",
-      "opening_hours_1": "mo-fr-8:00-7:00",
+      "opening_hours": "Mo-Fr 08:00-19:00",
       "shop": "electronics",
       "type": "kiosk",
       "wb_pb:id": "22950755",
@@ -4549,11 +4545,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T13:47:38Z",
-      "version": "1",
-      "changeset": "59212330",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-25T18:57:19Z",
+      "version": "2",
+      "changeset": "68518859",
+      "user": "Josef73",
+      "uid": "213831"
     }
   },
   "geometry": {
@@ -4573,7 +4569,7 @@
     "tags": {
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526639565007.jpg",
       "name": "butchery",
-      "opening_hours_1": "mo-fr-8:00-7:00",
+      "opening_hours": "Mo-Fr 08:00-19:00",
       "shop": "butcher",
       "type": "butcher",
       "wb_pb:id": "22950749",
@@ -4581,11 +4577,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T13:47:39Z",
-      "version": "1",
-      "changeset": "59212330",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-25T18:57:19Z",
+      "version": "2",
+      "changeset": "68518859",
+      "user": "Josef73",
+      "uid": "213831"
     }
   },
   "geometry": {
@@ -4605,7 +4601,7 @@
     "tags": {
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526639417134.jpg",
       "name": "Mama Chali Kiosk",
-      "opening_hours_1": "mo-fr-8:00-7:00",
+      "opening_hours": "Mo-Fr 08:00-19:00",
       "shop": "kiosk",
       "type": "kiosk",
       "wb_pb:id": "22950743",
@@ -4613,11 +4609,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T13:47:39Z",
-      "version": "1",
-      "changeset": "59212330",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-25T18:57:19Z",
+      "version": "2",
+      "changeset": "68518859",
+      "user": "Josef73",
+      "uid": "213831"
     }
   },
   "geometry": {
@@ -4967,16 +4963,15 @@
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973429538.jpg",
       "name": "Book Shop",
       "shop": "books",
-      "type": "Book Shop",
       "wb_pb:id": "22959166"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T09:45:13Z",
-      "version": "1",
-      "changeset": "59265042",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-10T08:21:21Z",
+      "version": "2",
+      "changeset": "67981431",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -5187,17 +5182,16 @@
       "name": "Mulau Book Shop",
       "opening_hours": "Mo- Fr 7:00-9:00",
       "shop": "books",
-      "type": "Bookshop",
       "wb_pb:id": "22958777",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T09:45:14Z",
-      "version": "1",
-      "changeset": "59265042",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-10T14:38:50Z",
+      "version": "2",
+      "changeset": "67990491",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -5441,17 +5435,16 @@
       "name": "Kwenyu Hardware and Transport",
       "opening_hours": "Mo- Fr 8:00-4:00",
       "shop": "hardware",
-      "type": "hardware",
       "wb_pb:id": "22958617",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T09:45:15Z",
-      "version": "1",
-      "changeset": "59265042",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-10T02:34:27Z",
+      "version": "2",
+      "changeset": "67976935",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -5537,17 +5530,16 @@
       "name": "Cyber wave Technically and Electronics LTD",
       "opening_hours": "Mo- Fr 6:00-10:00",
       "shop": "electronics",
-      "type": "Electronic",
       "wb_pb:id": "22958366",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T09:45:15Z",
-      "version": "1",
-      "changeset": "59265042",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-10T15:14:46Z",
+      "version": "2",
+      "changeset": "67991611",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -5570,17 +5562,16 @@
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526972875148.jpg",
       "name": "Simple Life Petrol Station",
       "opening_hours": "Mo- Fr 6:00-10:00",
-      "type": "petrol_station",
       "wb_pb:id": "22958365",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T09:45:15Z",
-      "version": "1",
-      "changeset": "59265042",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-10T02:04:01Z",
+      "version": "2",
+      "changeset": "67976585",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -6398,16 +6389,15 @@
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983917474.jpg",
       "name": "Kyuu Down Town Hardware",
       "shop": "hardware",
-      "type": "hardware",
       "wb_pb:id": "22956710"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T09:45:18Z",
-      "version": "1",
-      "changeset": "59265042",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-10T02:34:27Z",
+      "version": "2",
+      "changeset": "67976935",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -6610,37 +6600,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5641419320",
-  "properties": {
-    "type": "node",
-    "id": "5641419320",
-    "tags": {
-      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526982218112.jpg",
-      "name": "Kikima Market Packing Space",
-      "opening_hours": "24/7",
-      "type": "parking_space",
-      "wb_pb:id": "22956668",
-      "wheelchair": "yes"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-05-25T10:17:21Z",
-      "version": "2",
-      "changeset": "59266141",
-      "user": "muindre",
-      "uid": "261050"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.4466696,
-      -1.6624488
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5641420321",
   "properties": {
     "type": "node",
@@ -6785,16 +6744,15 @@
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979916523.jpg",
       "name": "Kivandini Hardware",
       "shop": "hardware",
-      "type": "hardware",
       "wb_pb:id": "22956407"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T09:45:20Z",
-      "version": "1",
-      "changeset": "59265042",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-10T02:34:14Z",
+      "version": "2",
+      "changeset": "67976931",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -6816,17 +6774,16 @@
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526979759514.jpg",
       "name": "Kikima Financial Services Association",
       "opening_hours": "Mo- Fr 8:00-5:00",
-      "type": "bank",
       "wb_pb:id": "22956405",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T09:45:20Z",
-      "version": "1",
-      "changeset": "59265042",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-10T08:00:21Z",
+      "version": "2",
+      "changeset": "67981013",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -6975,17 +6932,16 @@
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526978286563.jpg",
       "name": "Cooperative Bank Agent",
       "opening_hours": "Mo- Fr 8:00-4:00",
-      "type": "bank",
       "wb_pb:id": "22956190",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T09:45:21Z",
-      "version": "1",
-      "changeset": "59265042",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-10T08:00:21Z",
+      "version": "2",
+      "changeset": "67981013",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -7007,17 +6963,16 @@
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526978175143.jpg",
       "name": "KCB Bank",
       "opening_hours": "Mo- Fr 8:00-4:00",
-      "type": "bank",
       "wb_pb:id": "22956182",
       "wheelchair": "yes"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T09:45:21Z",
-      "version": "1",
-      "changeset": "59265042",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-10T08:00:22Z",
+      "version": "2",
+      "changeset": "67981013",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {
@@ -7038,16 +6993,15 @@
       "amenity": "post_office",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526977939498.jpg",
       "name": "Kikima Posta",
-      "type": "post_office",
       "wb_pb:id": "22956178"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-25T09:45:21Z",
-      "version": "1",
-      "changeset": "59265042",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-03-10T02:28:51Z",
+      "version": "2",
+      "changeset": "67976868",
+      "user": "maggot27",
+      "uid": "118021"
     }
   },
   "geometry": {

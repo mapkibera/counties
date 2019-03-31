@@ -4,12 +4,12 @@
     {
       "geometry": {
         "coordinates": [
-          37.6238687,
-          -1.7723312
+          37.6277028,
+          -1.7711843
         ],
         "type": "Point"
       },
-      "id": "5593942832",
+      "id": "5593942834",
       "properties": {
         "Category": "water_irrigati",
         "In_your_opinion_is_the_project_quality": "Excellent",
@@ -18,14 +18,12 @@
         "Project_Name_for_Print": "Kaiti sand dam",
         "Project_Name_or_Title": "Kaiti sand dam",
         "What_is_the_project_s_apparent_status": "completed",
-        "amenity": "drinking_water",
-        "cost_per_litre": "0.400000",
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524654975853.jpg",
-        "man_made": "storage_tank",
-        "name": "Construction of Water Pump and Treatment Plant at Kaiti",
+        "amenity": "water_or_irrigation",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524655433222.jpg",
+        "name": "Kaiti Sand Dam",
+        "opening_hours": "24/7",
         "operational_status": "operational",
-        "osm:id": "5593942832",
-        "type": "water_tank",
+        "osm:id": "5593942834",
         "type_of_facility_for print": "dam",
         "village": "Slaughter",
         "wb_pb:id": "21754198"
@@ -215,14 +213,12 @@
         "Project_Name_for_Print": "Kwa kamende borehole",
         "Project_Name_or_Title": "Extension of kwakamende borehole",
         "What_is_the_project_s_apparent_status": "completed",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "evangelical",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524656574092.jpg",
         "is_in:village": "Nyunzu",
-        "name": "Nyunzu AIC church",
+        "man_made": "water_well",
+        "name": "Kwa kamende borehole",
+        "operational_status": "operational",
         "osm:id": "5591966630",
-        "religion": "christian",
         "type_of_facility_for print": "infrastructure",
         "wb_pb:id": "21774187"
       },
@@ -276,7 +272,7 @@
         "What_is_the_project_s_apparent_status": "completed",
         "highway": "bus_stop",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524650446733.jpg",
-        "name": "Wore",
+        "name": "Wote Bus Station",
         "osm:id": "5592138061",
         "type_of_facility_for print": "infrastructure",
         "village": "Wote town",
@@ -461,35 +457,6 @@
         "type_of_facility_for print": "public facility",
         "village": "Kasarani",
         "wb_pb:id": "21745569",
-        "wheelchair": "yes"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          37.6297126,
-          -1.7788739
-        ],
-        "type": "Point"
-      },
-      "id": "5592138054",
-      "properties": {
-        "Category": "gender",
-        "In_your_opinion_is_the_project_quality": "Adequate",
-        "Please_add_any_details_about_y": "Improved employed",
-        "Project_Description": "Supply of water",
-        "Project_Name_for_Print": "Kasarani car wash ",
-        "Project_Name_or_Title": "Kasarani car wash ",
-        "What_is_the_project_s_apparent_status": "completed",
-        "amenity": "car_wash",
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524649095799.jpg",
-        "name": "Kasarani Car Wash",
-        "opening_hours": "Mo-Fr 06:00-17:00",
-        "osm:id": "5592138054",
-        "type_of_facility_for print": "public facility",
-        "village": "Kunda kindu",
-        "wb_pb:id": "21744024",
         "wheelchair": "yes"
       },
       "type": "Feature"
@@ -846,6 +813,7 @@
         "Project_Name_or_Title": "Installation  of transformer",
         "What_is_the_project_s_apparent_status": "completed",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524650614026.jpg",
+        "name": "Bus Stop Transformer",
         "osm:id": "5592138063",
         "power": "pole",
         "transformer": "distribution",
@@ -886,12 +854,12 @@
     {
       "geometry": {
         "coordinates": [
-          37.6313753,
-          -1.7793317
+          37.6314296,
+          -1.7793047
         ],
         "type": "Point"
       },
-      "id": "5592138045",
+      "id": "5736384028",
       "properties": {
         "Category": "trade",
         "In_your_opinion_is_the_project_quality": "Excellent",
@@ -900,11 +868,12 @@
         "Project_Name_for_Print": "Malawi flood light",
         "Project_Name_or_Title": "Malawi flood light",
         "What_is_the_project_s_apparent_status": "completed",
+        "highway": "street_lamp",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524647933458.jpg",
         "name": "Malawi Flood Light",
-        "opening_hours": "Mo-Su 6:00-6:00",
-        "osm:id": "5592138045",
-        "type": "Malawi Flood Light",
+        "opening_hours": "24/7",
+        "osm:id": "5736384028",
+        "type": "flood_light",
         "type_of_facility_for print": "public utility",
         "village": "Malawi",
         "wb_pb:id": "21743683"
@@ -914,8 +883,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6344533,
-          -1.7808408
+          37.6339008,
+          -1.7803904
         ],
         "type": "Point"
       },
@@ -1013,7 +982,7 @@
         "addr:city": "Unoa",
         "description": "Deputy Governor Residence",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524660296618.jpg",
-        "name": "Deputy Residence",
+        "name": "Deputy Governor Residence",
         "office": "government",
         "osm:id": "5588098801",
         "type_of_facility_for print": "residence",
@@ -1083,8 +1052,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.5884028,
-          -1.7691864
+          37.5888051,
+          -1.7698727
         ],
         "type": "Point"
       },
@@ -1133,13 +1102,13 @@
         "gender": "mixed",
         "government_registered": "moe",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643698029.jpg",
-        "is_in:village": "Kivandini",
-        "name": "Kivandini primary",
+        "name": "Kivandini ECDE",
         "operator": "Government of kenya",
         "operator_type": "government",
         "osm:id": "5591972207",
-        "school": "primary",
+        "type": "pre_primary",
         "type_of_facility_for print": "school",
+        "village": "Kivandini",
         "wb_pb:id": "21775666"
       },
       "type": "Feature"
@@ -1263,7 +1232,7 @@
         "government_registered": "moe",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524638750194.jpg",
         "is_in:village": "Mwaani",
-        "name": "Mwaani Boys",
+        "name": "Mwaani Boys Secondary School",
         "operator": "Government of Kenya",
         "operator_type": "government",
         "osm:id": "6250837620",
@@ -1338,12 +1307,12 @@
     {
       "geometry": {
         "coordinates": [
-          37.6179977,
-          -1.7612978
+          37.6182552,
+          -1.7620109
         ],
         "type": "Point"
       },
-      "id": "5592178614",
+      "id": "5736067247",
       "properties": {
         "Category": "education",
         "In_your_opinion_is_the_project_quality": "Excellent",
@@ -1353,16 +1322,16 @@
         "Project_Name_or_Title": "Nthangu ECDE Center",
         "What_is_the_project_s_apparent_status": "completed",
         "amenity": "school",
-        "gender_type": "mixed",
-        "governement_registered": "moe",
+        "gender": "mixed",
+        "government_registered": "moe",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524658996621.jpg",
+        "is_in:village": "Nthangu",
         "name": "Nthangu Primary School",
         "operator": "Government of Kenya",
-        "operator:type": "government",
-        "osm:id": "5592178614",
-        "type": "primary",
+        "operator_type": "government",
+        "osm:id": "5736067247",
+        "school": "primary",
         "type_of_facility_for print": "school",
-        "village": "Nthangu",
         "wb_pb:id": "21747101"
       },
       "type": "Feature"
@@ -1560,12 +1529,12 @@
     {
       "geometry": {
         "coordinates": [
-          37.6277028,
-          -1.7711843
+          37.6238687,
+          -1.7723312
         ],
         "type": "Point"
       },
-      "id": "5593942834",
+      "id": "5593942832",
       "properties": {
         "Category": "water_irrigati",
         "In_your_opinion_is_the_project_quality": "Excellent",
@@ -1574,12 +1543,14 @@
         "Project_Name_for_Print": "Kaiti water tank and treatment plant",
         "Project_Name_or_Title": "Kaiti water tank and treatment plant",
         "What_is_the_project_s_apparent_status": "completed",
-        "amenity": "water_or_irrigation",
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524655433222.jpg",
-        "name": "Kaiti Sand Dam",
-        "opening_hours": "24/7",
+        "amenity": "drinking_water",
+        "cost_per_litre": "0.400000",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524654975853.jpg",
+        "man_made": "storage_tank",
+        "name": "Kaiti water tank and treatment plant",
         "operational_status": "operational",
-        "osm:id": "5593942834",
+        "osm:id": "5593942832",
+        "type": "water_tank",
         "type_of_facility_for print": "water point",
         "village": "Slaughter",
         "wb_pb:id": "21775441"
@@ -1667,7 +1638,7 @@
         "amenity": "drinking_water",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524644309140.jpg",
         "is_in:village": "Muambani",
-        "man_made": "water_tap",
+        "man_made": "water_well",
         "name": "Kwa Mwenga Borehole Kiosk at Muambani",
         "opening_hours": "Mo-Su 06:00-20:00",
         "operational_status": "operational",
@@ -1691,8 +1662,8 @@
         "In_your_opinion_is_the_project_quality": "Poor",
         "Please_add_any_details_about_y": "Stalled",
         "Project_Description": "Stalled",
-        "Project_Name_for_Print": "Makongolo ECDE",
-        "Project_Name_or_Title": "Makongolo ecde",
+        "Project_Name_for_Print": "Makolongo borehole",
+        "Project_Name_or_Title": "Makolongo borehole",
         "What_is_the_project_s_apparent_status": "in_progress",
         "fee": "no",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524647171252.jpg",
@@ -1709,12 +1680,12 @@
     {
       "geometry": {
         "coordinates": [
-          37.6315745,
-          -1.779533
+          37.6315767,
+          -1.7795363
         ],
         "type": "Point"
       },
-      "id": "5592138047",
+      "id": "5736384030",
       "properties": {
         "Category": "water_irrigati",
         "In_your_opinion_is_the_project_quality": "Adequate",
@@ -1724,15 +1695,14 @@
         "Project_Name_or_Title": "Water kiosk kinda kindu",
         "What_is_the_project_s_apparent_status": "completed",
         "amenity": "drinking_water",
-        "cost_per_litre": "3",
+        "fee": "3.0/litre",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524648201880.jpg",
-        "name": "Malawi Water Kiosk",
-        "opening_hours": "Mo-Su 6:00-8:00",
+        "is_in:village": "Kunda kindu",
+        "name": "Malawi water kiosk",
+        "opening_hours": "Mo-Fr 06:00-17:00",
         "operational_status": "operational",
-        "osm:id": "5592138047",
-        "type": "water_tap",
+        "osm:id": "5736384030",
         "type_of_facility_for print": "water point",
-        "village": "Kunda kindu",
         "wb_pb:id": "21743734"
       },
       "type": "Feature"
@@ -1789,7 +1759,7 @@
         "fee": "5.0 / liter",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643975972.jpg",
         "is_in:village": "Muambani",
-        "man_made": "water_tap",
+        "man_made": "water_well",
         "name": "Muambani Kiosk Mwaani Borehole",
         "opening_hours": "Mo-Su 06:00-20:00",
         "operational_status": "operational",
@@ -1803,7 +1773,7 @@
       "geometry": {
         "coordinates": [
           37.624707,
-          -1.7554466
+          -1.7554654
         ],
         "type": "Point"
       },
@@ -1816,7 +1786,7 @@
         "Project_Name_for_Print": "Nthangu community borehole",
         "Project_Name_or_Title": "Nthangu community borehole",
         "What_is_the_project_s_apparent_status": "completed",
-        "cost_per_litre": "3",
+        "fee": "3",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643295739.jpg",
         "man_made": "water_well",
         "name": "Nthangu Community Borehole",
@@ -2019,8 +1989,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6269717,
-          -1.7812279
+          37.626961,
+          -1.7812386
         ],
         "type": "Point"
       },
@@ -2160,15 +2130,15 @@
         "Project_Description": "AIC bethiel ECDE",
         "Project_Name_for_Print": "AIC bethiel ECDE",
         "Project_Name_or_Title": "ECDE",
+        "Village": "Nguvuna",
         "What_is_the_project_s_apparent_status": "in_progress",
-        "amenity": "place_of_worship",
-        "building": "church",
-        "denomination": "evangelical",
+        "amenity": "school",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524489846694.jpg",
-        "is_in:village": "Nguvuna",
-        "name": "AIC Bethiel",
+        "name": "AIC Bethiel ECDE",
+        "operator": "Government of Makueni County",
+        "operator:type": "government",
         "osm:id": "5588163892",
-        "religion": "christian",
+        "type": "pre_primary",
         "type_of_facility_for print": "school",
         "wb_pb:id": "21683558"
       },
@@ -2206,8 +2176,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6345189,
-          -1.7808013
+          37.6343472,
+          -1.7812249
         ],
         "type": "Point"
       },
@@ -2236,8 +2206,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6637027,
-          -1.7907854
+          37.6632092,
+          -1.790831
         ],
         "type": "Point"
       },
@@ -2316,8 +2286,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.5629747,
-          -1.7983958
+          37.5629506,
+          -1.7983851
         ],
         "type": "Point"
       },
@@ -2334,7 +2304,7 @@
         "gender_type": "mixed",
         "governement_registered": "moe",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524478188310.jpg",
-        "name": "Kitukyumu ECDE",
+        "name": "KitIkyumu ECDE",
         "operator": "Kitikyumu primary",
         "operator:type": "Government of Kenya",
         "osm:id": "5592113873",
@@ -2353,7 +2323,7 @@
         ],
         "type": "Point"
       },
-      "id": "5592191398",
+      "id": "5736031248",
       "properties": {
         "Category": "education",
         "In_your_opinion_is_the_project_quality": "Poor",
@@ -2363,16 +2333,15 @@
         "Project_Name_or_Title": "Kiuani ECDE centre",
         "What_is_the_project_s_apparent_status": "not_yet_starte",
         "amenity": "school",
-        "gender_type": "mixed",
-        "governement_registered": "moe",
+        "gender": "mixed",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524486682380.jpg",
+        "is_in:village": "Bosnia",
         "name": "Kiuani ECDE",
         "operator": "Mwaani Primary School",
-        "operator:type": "government",
-        "osm:id": "5592191398",
-        "type": "pre_primary",
+        "operator_type": "government",
+        "osm:id": "5736031248",
+        "school": "pre_primary",
         "type_of_facility_for print": "school",
-        "village": "Bosnia",
         "wb_pb:id": "21683671"
       },
       "type": "Feature"
@@ -2492,7 +2461,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524479049139.jpg",
         "is_in:village": "Kyamusoi",
         "man_made": "water_well",
-        "name": "Kyamusio Borehole",
+        "name": "Kyamusoi Borehole",
         "operational_status": "operational",
         "osm:id": "5592105447",
         "type_of_facility_for print": "water point",
@@ -2602,8 +2571,8 @@
         "In_your_opinion_is_the_project_quality": "Excellent",
         "Please_add_any_details_about_y": "Good work in progress ",
         "Project_Description": "Drilling of borehole and distribution. ",
-        "Project_Name_for_Print": "Malik borehole",
-        "Project_Name_or_Title": "Malik borehole",
+        "Project_Name_for_Print": "Maloi borehole",
+        "Project_Name_or_Title": "Maloi borehole",
         "What_is_the_project_s_apparent_status": "in_progress",
         "cost_per_litre": "0",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524484613029.jpg",
@@ -2748,8 +2717,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6668391,
-          -1.8040051
+          37.6669893,
+          -1.804493
         ],
         "type": "Point"
       },
@@ -2765,7 +2734,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524483026332.jpg",
         "is_in:village": "Kyamusoi",
         "landuse": "reservoir",
-        "name": "Muthitu Earth Dam",
+        "name": "Muthithu Earth Dam",
         "operational_status": "operational",
         "osm:id": "5592105455",
         "type_of_facility_for print": "dam",
@@ -2787,7 +2756,7 @@
         "In_your_opinion_is_the_project_quality": "Excellent",
         "Please_add_any_details_about_y": "Good work.  Has provided a condusive learning environment .",
         "Project_Description": "Construction of 2 class blocks and an office",
-        "Project_Name_for_Print": "Muthyoi ECDE",
+        "Project_Name_for_Print": "Muthyoi Primary School",
         "Project_Name_or_Title": "Muthyoi ECDE",
         "What_is_the_project_s_apparent_status": "completed",
         "amenity": "school",
@@ -2819,7 +2788,7 @@
         "In_your_opinion_is_the_project_quality": "Excellent",
         "Please_add_any_details_about_y": "It will be any additional library to the school  and the public after  its completion ",
         "Project_Description": "Construction  and equipping  of Mwaani Girls library ",
-        "Project_Name_for_Print": "Mwaani Girls library",
+        "Project_Name_for_Print": "Mwaani Girls High School-library",
         "Project_Name_or_Title": "Mwaani Girls library",
         "What_is_the_project_s_apparent_status": "in_progress",
         "amenity": "school",
@@ -2840,8 +2809,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6676343,
-          -1.7662327
+          37.6676236,
+          -1.7662247
         ],
         "type": "Point"
       },
@@ -2851,13 +2820,13 @@
         "In_your_opinion_is_the_project_quality": "Excellent",
         "Please_add_any_details_about_y": "Supply of water to mwaani village  residents  and Wote town",
         "Project_Description": "Construction of borehole ",
-        "Project_Name_for_Print": "Mwaani/Uwo wawo",
-        "Project_Name_or_Title": "Mwaani/Uwo wawo",
+        "Project_Name_for_Print": "Mwaani/Uwo wawo Public Borehole 1",
+        "Project_Name_or_Title": "Mwaani/Uwo wawo Public Borehole 1",
         "What_is_the_project_s_apparent_status": "completed",
         "cost_per_litre": "2",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524477302675.jpg",
         "man_made": "water_well",
-        "name": "Mwaani Public Borehole 1",
+        "name": "Mwaani/Uwo wawo Public Borehole 1",
         "opening_hours": "Mo-Su 6:30-8:00",
         "operational_status": "operational",
         "osm:id": "5592191383",
@@ -2900,8 +2869,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6027411,
-          -1.8218645
+          37.6027465,
+          -1.8218431
         ],
         "type": "Point"
       },
@@ -2932,8 +2901,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6567676,
-          -1.7727337
+          37.6567998,
+          -1.772731
         ],
         "type": "Point"
       },
@@ -2943,8 +2912,8 @@
         "In_your_opinion_is_the_project_quality": "Adequate",
         "Please_add_any_details_about_y": "It made accessibility easier ",
         "Project_Description": "Construction of Caravat at Ngwili earth dam",
-        "Project_Name_for_Print": "Ngwili earth dam-Caravat",
-        "Project_Name_or_Title": "Ngwili earth dam-Caravat",
+        "Project_Name_for_Print": "Culvert- Ngwili Earth Dam",
+        "Project_Name_or_Title": "Culvert- Ngwili Earth Dam",
         "What_is_the_project_s_apparent_status": "completed",
         "amenity": "public_facility",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524481753479.jpg",
@@ -3065,7 +3034,7 @@
         "Project_Name_or_Title": "Shimo water kiosk",
         "What_is_the_project_s_apparent_status": "completed",
         "amenity": "drinking_water",
-        "cost_per_litre": "0.400000",
+        "fee": "0.400000",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524487481067.jpg",
         "name": "Shimo Water Kiosk",
         "operational_status": "operational",
@@ -3123,7 +3092,7 @@
         "In_your_opinion_is_the_project_quality": "Adequate",
         "Please_add_any_details_about_y": "Environment improved ",
         "Project_Description": "Supply of 150 trees",
-        "Project_Name_for_Print": "Malivani aic boarding school",
+        "Project_Name_for_Print": "Malivani AIC boarding school",
         "Project_Name_or_Title": "Supply 150 tree seedlings at Malivani aic boarding",
         "What_is_the_project_s_apparent_status": "completed",
         "amenity": "school",
@@ -3143,8 +3112,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6245175,
-          -1.8010042
+          37.624488,
+          -1.8010096
         ],
         "type": "Point"
       },
@@ -3158,7 +3127,7 @@
         "Project_Name_or_Title": "Unoa water kiosk",
         "What_is_the_project_s_apparent_status": "completed",
         "amenity": "drinking_water",
-        "cost_per_litre": "0.400000",
+        "fee": "0.400000",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524490428834.jpg",
         "name": "Unoa Water Kiosk",
         "opening_hours": "Mo-Fr 8:00-6:00",
@@ -3206,8 +3175,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.6183633,
-          -1.781365
+          37.6183606,
+          -1.7813489
         ],
         "type": "Point"
       },
@@ -3221,7 +3190,7 @@
         "Project_Name_or_Title": "Westlands water tank",
         "What_is_the_project_s_apparent_status": "completed",
         "amenity": "drinking_water",
-        "cost_per_litre": "0.400000",
+        "fee": "0.400000",
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524473117405.jpg",
         "name": "Westlands Water Tank",
         "opening_hours": "Mo-Su 8:00-8:30",

@@ -375,6 +375,63 @@
     {
       "geometry": {
         "coordinates": [
+          35.72518699430879, 
+          0.04520197164587484
+        ], 
+        "type": "Point"
+      }, 
+      "id": "571404106", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "In good condition ", 
+        "Project_Description": "Wall", 
+        "Project_Name_or_Title": "Mojury equipment", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "amenity": "hospital", 
+        "building": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "health_facility:referals": "Eldoret Referral Hospital", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg", 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Eldama Ravine Sub-County Referral Hospital-Mortuary", 
+        "osm:id": "571404106", 
+        "wb_pb:id": "26663338"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.72379895148115, 
+          0.04643474646124768
+        ], 
+        "type": "Point"
+      }, 
+      "id": "429074919", 
+      "properties": {
+        "Category": "Health Services", 
+        "In_your_opinion_is_the_project_quality": "Excellent", 
+        "Please_add_any_details_about_y": "In good condition ", 
+        "Project_Description": "None", 
+        "Project_Name_or_Title": "Perimeter wall ", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "barrier": "wall", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607432208.jpg", 
+        "name": "Eldama Ravine Sub-County Referral Hospital-Perimeter wall", 
+        "osm:id": "429074919", 
+        "wb_pb:id": "26663342"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.7246667, 
           0.0463533
         ], 
@@ -421,11 +478,10 @@
         "Project_Description": "Public toilet", 
         "Project_Name_or_Title": "Garden square", 
         "What_is_the_project_s_apparent_status": "Completed", 
-        "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610226450.jpg", 
-        "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610379185.jpg", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610226450.jpg", 
+        "leisure": "garden", 
         "name": "Ravine Garden Square", 
         "osm:id": "5798859905", 
-        "type": "Garden Square", 
         "wb_pb:id": "26663654"
       }, 
       "type": "Feature"
@@ -937,8 +993,31 @@
         "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938560980.jpg", 
         "name": "Main Stage Car Wash", 
         "osm:id": "5800785538", 
-        "type": "Car wash", 
         "wb_pb:id": "26922849"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.7246198, 
+          0.0519926
+        ], 
+        "type": "Point"
+      }, 
+      "id": "612915037", 
+      "properties": {
+        "Category": "Transport, Public Works and Infrasctructure", 
+        "In_your_opinion_is_the_project_quality": "Adequate", 
+        "Please_add_any_details_about_y": "It is in good condition but required to be sealed", 
+        "Project_Description": "Improvement of project system", 
+        "Project_Name_or_Title": "drainage system", 
+        "What_is_the_project_s_apparent_status": "Completed", 
+        "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124766318.jpg", 
+        "name": "Eldama Ravine Drainage system", 
+        "osm:id": "612915037", 
+        "waterway": "drain", 
+        "wb_pb:id": "27061427"
       }, 
       "type": "Feature"
     }

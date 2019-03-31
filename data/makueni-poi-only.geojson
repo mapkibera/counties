@@ -3,6 +3,25 @@
     {
       "geometry": {
         "coordinates": [
+          37.6290353, 
+          -1.7803167
+        ], 
+        "type": "Point"
+      }, 
+      "id": "44910351", 
+      "properties": {
+        "is_in": "Makueni,Kenya", 
+        "name": "Wote", 
+        "osm:id": "44910351", 
+        "place": "town", 
+        "wikidata": "Q7193508", 
+        "wikipedia": "en:Wote"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           37.4474088, 
           -1.6617002
         ], 
@@ -49,6 +68,36 @@
         "addr:street": "Machakos-Wote Road", 
         "amenity": "fuel", 
         "osm:id": "2129367798"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.6016294, 
+          -1.7969222
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5482240208", 
+      "properties": {
+        "ford": "yes", 
+        "osm:id": "5482240208"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          37.5452132, 
+          -1.852526
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5503373073", 
+      "properties": {
+        "ford": "yes", 
+        "osm:id": "5503373073"
       }, 
       "type": "Feature"
     }, 
@@ -695,31 +744,15 @@
     {
       "geometry": {
         "coordinates": [
-          37.6136067, 
-          -1.7833729
+          37.6136241, 
+          -1.783395
         ], 
         "type": "Point"
       }, 
       "id": "5594339398", 
       "properties": {
-        "junction": "yes", 
-        "name": "Aic Malivani Junction", 
+        "ford": "yes", 
         "osm:id": "5594339398"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          37.5613465, 
-          -1.801642
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5594339743", 
-      "properties": {
-        "osm:id": "5594339743", 
-        "power": "transformer"
       }, 
       "type": "Feature"
     }, 
@@ -764,21 +797,6 @@
       "id": "5594339746", 
       "properties": {
         "osm:id": "5594339746", 
-        "power": "portal"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          37.5606431, 
-          -1.8007631
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5594339751", 
-      "properties": {
-        "osm:id": "5594339751", 
         "power": "portal"
       }, 
       "type": "Feature"
@@ -2610,36 +2628,6 @@
       "id": "5736386827", 
       "properties": {
         "osm:id": "5736386827", 
-        "power": "portal"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          37.561639, 
-          -1.8003976
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5736386828", 
-      "properties": {
-        "osm:id": "5736386828", 
-        "power": "portal"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          37.5613279, 
-          -1.8003478
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5736386829", 
-      "properties": {
-        "osm:id": "5736386829", 
         "power": "portal"
       }, 
       "type": "Feature"
