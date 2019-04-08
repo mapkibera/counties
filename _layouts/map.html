@@ -276,11 +276,13 @@ function addPoiLayer() {
       .html(function(d){
         var poi_text = '';
         for (attribute in e.features[0].properties) {
-          if (! ["is_in", "osm:id", "wikidata", "created_by"].includes(attribute)) {
+          if (! ["is_in", "osm:id", "wikidata", "created_by"].includes(attribute) && ! attribute.startsWith("image")) {
             poi_text = poi_text + "<strong>" + attribute + "</strong>: " + cleanLabel(e.features[0].properties[attribute]) + "<br/>";
           }
         }
-        poi_text = poi_text + "<a target='_blank_' href='https://www.openstreetmap.org/node/" + e.features[0].properties['osm:id'] + "'>Open in OpenStreetMap</a>";
+        var image = e.features[0].properties.image || e.features[0].properties['image:project'] || e.features[0].properties['image:pointofinterest'];
+
+        poi_text = poi_text + "<a target='_blank_' href='https://www.openstreetmap.org/node/" + e.features[0].properties['osm:id'] + "'>Open in OpenStreetMap</a><img src='" + image + "'/>";
         return poi_text;
       });
 
@@ -476,7 +478,7 @@ function addProjectLayer() {
         .html(function(d){
           var poi_text = "<br/>";
           for (attribute in e.features[0].properties) {
-            if (attribute[0]  != attribute[0].toUpperCase() && attribute != "image") {
+            if (attribute[0]  != attribute[0].toUpperCase() && ! attribute.startsWith("image") ) {
               poi_text = poi_text + attribute + ": " + e.features[0].properties[attribute] + "<br/>";
             }
           }
