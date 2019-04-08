@@ -480,7 +480,7 @@ function addProjectLayer() {
               poi_text = poi_text + attribute + ": " + e.features[0].properties[attribute] + "<br/>";
             }
           }
-          var image = e.features[0].properties.image || e.features[0].properties['image:project'];
+          var image = e.features[0].properties.image || e.features[0].properties['image:project'] || e.features[0].properties['image:pointofinterest'];
           return "<strong><a target='_blank_' href='https://www.openstreetmap.org/node/" + e.features[0].properties['osm:id'] + "'>" + e.features[0].properties['name'] + "</a></strong><br/>" +
             e.features[0].properties['Project_Description'] + "<br/>" +
             "<em>" +  e.features[0].properties['Please_add_any_details_about_y'] + "</em>"
