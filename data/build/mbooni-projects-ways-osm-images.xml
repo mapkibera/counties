@@ -1,0 +1,25 @@
+<osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2019-10-05T01:33:02Z" />
+
+  <bounds maxlat="-1.6140000" maxlon="37.4834000" minlat="-1.6894000" minlon="37.3803000" />
+
+  <node changeset="59266141" id="5641464783" lat="-1.6625130" lon="37.4468310" timestamp="2018-05-25T10:17:20Z" uid="261050" user="muindre" version="1" />
+  <node changeset="59266141" id="5641464784" lat="-1.6624895" lon="37.4468417" timestamp="2018-05-25T10:17:20Z" uid="261050" user="muindre" version="1" />
+  <node changeset="59266141" id="5641464785" lat="-1.6623950" lon="37.4465782" timestamp="2018-05-25T10:17:20Z" uid="261050" user="muindre" version="1" />
+  <node changeset="59266141" id="5641464786" lat="-1.6624184" lon="37.4465702" timestamp="2018-05-25T10:17:20Z" uid="261050" user="muindre" version="1" />
+  <way changeset="67989408" id="590969063" timestamp="2019-03-10T14:00:03Z" uid="118021" user="maggot27" version="3">
+    <nd ref="5641464786" />
+    <nd ref="5641464785" />
+    <nd ref="5641464784" />
+    <nd ref="5641464783" />
+    <nd ref="5641464786" />
+    <tag k="amenity" v="parking_space" />
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526982218112.jpg" />
+    <tag k="name" v="Kikima Market Packing Space" />
+    <tag k="opening_hours" v="24/7" />
+    <tag k="wb_pb:id" v="22956668" />
+    <tag k="wheelchair" v="yes" />
+  </way>
+
+</osm>

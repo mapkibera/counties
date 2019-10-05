@@ -1,0 +1,1624 @@
+<osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2019-10-05T01:33:02Z" />
+
+  <bounds maxlat="0.2642000" maxlon="35.9805000" minlat="-0.0816000" minlon="35.6889000" />
+
+  <node changeset="61359658" id="5798730241" lat="0.0250332" lon="35.7134646" timestamp="2018-08-04T18:33:37Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="place_of_worship" />
+    <tag k="building" v="church" />
+    <tag k="denomination" v="evangelical" />
+    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532677205734.jpg" />
+    <tag k="name" v="AIC Kaplelechwa" />
+    <tag k="religion" v="christian" />
+    <tag k="wb_pb:id" v="26724288" />
+  </node>
+  <node changeset="61359658" id="5798730243" lat="0.0432269" lon="35.7279898" timestamp="2018-08-04T18:33:37Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="school" />
+    <tag k="building" v="school" />
+    <tag k="gender" v="Mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532683984610.jpg" />
+    <tag k="name" v="Green View" />
+    <tag k="operator_type" v="Private" />
+    <tag k="wb_pb:id" v="26724407" />
+  </node>
+  <node changeset="61359658" id="5798730244" lat="0.0386887" lon="35.7241867" timestamp="2018-08-04T18:33:37Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="school" />
+    <tag k="gender" v="Mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682983938.jpg" />
+    <tag k="name" v="Eldama Ravine Boarding Primary School" />
+    <tag k="operator_type" v="Government" />
+    <tag k="wb_pb:id" v="26724395" />
+  </node>
+  <node changeset="61359658" id="5798730246" lat="0.0412042" lon="35.7240953" timestamp="2018-08-04T18:33:37Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="clinic" />
+    <tag k="building" v="Dispensary" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="always" />
+    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682076791.jpg" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="yes" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="yes" />
+    <tag k="name" v="Mission Hospital" />
+    <tag k="wb_pb:id" v="26724364" />
+  </node>
+  <node changeset="61358766" id="5798751609" lat="0.0055506" lon="35.7035017" timestamp="2018-08-04T17:42:23Z" uid="616774" user="mueschel" version="2">
+    <tag k="cost" v="0.0" />
+    <tag k="funded_by" v="Other" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532594918411.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532595323774.jpg" />
+    <tag k="man_made" v="storage_tank" />
+    <tag k="name" v="Benonin Storage Tank" />
+    <tag k="operational_status" v="Operational" />
+    <tag k="operator_type" v="Government" />
+    <tag k="wb_pb:id" v="26661920" />
+  </node>
+  <node changeset="61228698" id="5798751611" lat="0.0307432" lon="35.7247139" timestamp="2018-07-31T12:45:15Z" uid="8556574" user="joshuasang" version="1">
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607377466.jpg" />
+    <tag k="name" v="Amiran Farmers Kit" />
+    <tag k="type" v="Green House" />
+    <tag k="wb_pb:id" v="26662099" />
+  </node>
+  <node changeset="61228698" id="5798751612" lat="0.0256107" lon="35.7255043" timestamp="2018-07-31T12:45:15Z" uid="8556574" user="joshuasang" version="1">
+    <tag k="amenity" v="agriculture" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532605631119.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532605875088.jpg" />
+    <tag k="name" v="Kaburandi (Sosion) Cattle Dip" />
+    <tag k="type" v="Cattle dip" />
+    <tag k="wb_pb:id" v="26662079" />
+  </node>
+  <node changeset="61228698" id="5798751613" lat="0.0243567" lon="35.7252911" timestamp="2018-07-31T12:45:15Z" uid="8556574" user="joshuasang" version="1">
+    <tag k="amenity" v="place_of_worship" />
+    <tag k="building" v="church" />
+    <tag k="denomination" v="evangelical" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532604954521.jpg" />
+    <tag k="name" v="AIC Sosion" />
+    <tag k="religion" v="christian" />
+    <tag k="type" v="Christian" />
+    <tag k="wb_pb:id" v="26662070" />
+  </node>
+  <node changeset="61228698" id="5798751614" lat="-0.0013318" lon="35.7138574" timestamp="2018-07-31T12:45:15Z" uid="8556574" user="joshuasang" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="gender" v="Mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532602419200.jpg" />
+    <tag k="name" v="Sinende Primary School" />
+    <tag k="operator_type" v="Government" />
+    <tag k="type" v="Primary" />
+    <tag k="wb_pb:id" v="26662062" />
+  </node>
+  <node changeset="61228698" id="5798751615" lat="0.0001721" lon="35.7179869" timestamp="2018-07-31T12:45:15Z" uid="8556574" user="joshuasang" version="1">
+    <tag k="amenity" v="agriculture" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532601103540.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532601416168.jpg" />
+    <tag k="name" v="Sinende Cattle Dip" />
+    <tag k="type" v="Cattle dip" />
+    <tag k="wb_pb:id" v="26662034" />
+  </node>
+  <node changeset="67977113" id="5798751616" lat="0.0115023" lon="35.7135231" timestamp="2019-03-10T02:52:16Z" uid="118021" user="maggot27" version="4">
+    <tag k="amenity" v="place_of_worship" />
+    <tag k="building" v="church" />
+    <tag k="denomination" v="evangelical" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597964304.jpg" />
+    <tag k="name" v="AIC Benonin" />
+    <tag k="religion" v="christian" />
+    <tag k="wb_pb:id" v="26661993" />
+  </node>
+  <node changeset="61916928" id="5798782566" lat="0.0516207" lon="35.7285895" timestamp="2018-08-23T10:37:52Z" uid="8556957" user="kenboi" version="3">
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682933869.jpg" />
+    <tag k="name" v="Ravine CDF Offices" />
+    <tag k="office" v="government" />
+    <tag k="wb_pb:id" v="26728761" />
+  </node>
+  <node changeset="61916632" id="5798782570" lat="0.0554136" lon="35.7282367" timestamp="2018-08-23T10:25:49Z" uid="8556957" user="kenboi" version="3">
+    <tag k="amenity" v="school" />
+    <tag k="gender" v="Mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680306484.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680805309.jpg" />
+    <tag k="name" v="St. Patrics Shimoni Intergrated Primary School" />
+    <tag k="operator" v="Government" />
+    <tag k="wb_pb:id" v="26728748" />
+  </node>
+  <node changeset="61359658" id="5798782577" lat="0.0591971" lon="35.7260979" timestamp="2018-08-04T18:33:39Z" uid="616774" user="mueschel" version="2">
+    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674148381.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674503455.jpg" />
+    <tag k="leisure" v="stadium" />
+    <tag k="name" v="Eldama Ravine Stadium-Running Tracks and Football Pitch" />
+    <tag k="wb_pb:id" v="26727827" />
+  </node>
+  <node changeset="61229171" id="5798788033" lat="0.0017840" lon="35.7286833" timestamp="2018-07-31T12:58:07Z" uid="8556957" user="kenboi" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="gender" v="Mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231053153471.jpg" />
+    <tag k="image:project" v="1231053714486.jpg" />
+    <tag k="name" v="Kabiyet Primary School" />
+    <tag k="operator_type" v="Government" />
+    <tag k="type" v="Primary" />
+    <tag k="wb_pb:id" v="26664170" />
+  </node>
+  <node changeset="61229171" id="5798788034" lat="0.0025198" lon="35.7293371" timestamp="2018-07-31T12:58:07Z" uid="8556957" user="kenboi" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="gender" v="Mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231052230903.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231052689752.jpg" />
+    <tag k="name" v="Uhuru Kenyatta High School-kabiyet" />
+    <tag k="operator_type" v="Government" />
+    <tag k="type" v="Secondary" />
+    <tag k="wb_pb:id" v="26664159" />
+  </node>
+  <node changeset="61229171" id="5798788035" lat="0.0025515" lon="35.7291730" timestamp="2018-07-31T12:58:07Z" uid="8556957" user="kenboi" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="gender" v="Mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image:pointofinterest" v="1231051464836.jpg" />
+    <tag k="image:project" v="1231052002481.jpg" />
+    <tag k="name" v="Uhuru High School Kabiyet Laboratory" />
+    <tag k="operator_type" v="Government" />
+    <tag k="type" v="Secondary" />
+    <tag k="wb_pb:id" v="26664152" />
+  </node>
+  <node changeset="61304724" id="5798788036" lat="0.0017160" lon="35.7303331" timestamp="2018-08-02T16:58:49Z" uid="5359" user="user_5359" version="2">
+    <tag k="amenity" v="place_of_worship" />
+    <tag k="building_type" v="Church" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231050619936.jpg" />
+    <tag k="name" v="AIC Kabiyet" />
+    <tag k="religion" v="christian" />
+    <tag k="service_times" v="10:00" />
+    <tag k="wb_pb:id" v="26664139" />
+  </node>
+  <node changeset="61304724" id="5798788039" lat="0.0002444" lon="35.7319443" timestamp="2018-08-02T16:58:50Z" uid="5359" user="user_5359" version="2">
+    <tag k="amenity" v="place_of_worship" />
+    <tag k="building_type" v="Church" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231047413467.jpg" />
+    <tag k="name" v="Full Gospel Churches Of Kenya-Kabiyet" />
+    <tag k="religion" v="christian" />
+    <tag k="service_times" v="10:00" />
+    <tag k="wb_pb:id" v="26664118" />
+  </node>
+  <node changeset="61304724" id="5798788041" lat="-0.0112952" lon="35.7246126" timestamp="2018-08-02T16:58:50Z" uid="5359" user="user_5359" version="2">
+    <tag k="amenity" v="place_of_worship" />
+    <tag k="building_type" v="Church" />
+    <tag k="denomination" v="evangelical" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231042571403.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231043242009.jpg" />
+    <tag k="name" v="Mosop Full Gospel Church" />
+    <tag k="religion" v="christian" />
+    <tag k="service_times" v="10:00" />
+    <tag k="wb_pb:id" v="26664063" />
+  </node>
+  <node changeset="61358766" id="5798788042" lat="-0.0169951" lon="35.7204437" timestamp="2018-08-04T17:42:23Z" uid="616774" user="mueschel" version="2">
+    <tag k="cost" v="2.0" />
+    <tag k="funded_by" v="National Government" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231041530749.jpg" />
+    <tag k="man_made" v="storage_tank" />
+    <tag k="name" v="Luita Storage Tank" />
+    <tag k="operational_status" v="Non-operational" />
+    <tag k="operator_type" v="Government" />
+    <tag k="wb_pb:id" v="26664044" />
+  </node>
+  <node changeset="61358766" id="5798788043" lat="-0.0218806" lon="35.7188675" timestamp="2018-08-04T17:42:24Z" uid="616774" user="mueschel" version="2">
+    <tag k="cost" v="2.0" />
+    <tag k="funded_by" v="CBO" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231040298791.jpg" />
+    <tag k="man_made" v="storage_tank" />
+    <tag k="name" v="Benonin Storage Tank" />
+    <tag k="operational_status" v="Operational" />
+    <tag k="operator_type" v="CBO" />
+    <tag k="wb_pb:id" v="26664017" />
+  </node>
+  <node changeset="61359658" id="5798802346" lat="0.0290389" lon="35.7368921" timestamp="2018-08-04T18:33:39Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="school" />
+    <tag k="gender" v="Mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686939269.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532687436967.jpg" />
+    <tag k="name" v="Sogonin ECDE" />
+    <tag k="operator_type" v="CBO" />
+    <tag k="wb_pb:id" v="26728319" />
+  </node>
+  <node changeset="61359658" id="5798802348" lat="0.0268865" lon="35.7363990" timestamp="2018-08-04T18:33:39Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="place_of_worship" />
+    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532685891321.jpg" />
+    <tag k="name" v="Full Gospel Church Sogonin" />
+    <tag k="religion" v="christian" />
+    <tag k="service_times" v="10:00" />
+    <tag k="wb_pb:id" v="26728308" />
+  </node>
+  <node changeset="61359658" id="5798802349" lat="0.0234747" lon="35.7383791" timestamp="2018-08-04T18:33:39Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="place_of_worship" />
+    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532685207588.jpg" />
+    <tag k="name" v="AIC Sogonin" />
+    <tag k="religion" v="christian" />
+    <tag k="service_times" v="10:00" />
+    <tag k="wb_pb:id" v="26728301" />
+  </node>
+  <node changeset="61359658" id="5798802350" lat="0.0128933" lon="35.7426378" timestamp="2018-08-04T18:33:39Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="school" />
+    <tag k="gender" v="Mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682114870.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682710793.jpg" />
+    <tag k="name" v="Tabare ECDE" />
+    <tag k="operator_type" v="CBO" />
+    <tag k="wb_pb:id" v="26728281" />
+  </node>
+  <node changeset="61359658" id="5798802351" lat="0.0117370" lon="35.7411412" timestamp="2018-08-04T18:33:40Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="place_of_worship" />
+    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532681559363.jpg" />
+    <tag k="name" v="AIC Tabare" />
+    <tag k="religion" v="christian" />
+    <tag k="service_times" v="10:00" />
+    <tag k="wb_pb:id" v="26728273" />
+  </node>
+  <node changeset="61359658" id="5798802352" lat="0.0113297" lon="35.7414219" timestamp="2018-08-04T18:33:40Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="place_of_worship" />
+    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532681187175.jpg" />
+    <tag k="name" v="Full Gospel Church Tabare" />
+    <tag k="religion" v="christian" />
+    <tag k="service_times" v="10:00" />
+    <tag k="wb_pb:id" v="26728261" />
+  </node>
+  <node changeset="68169485" id="5798803054" lat="0.0031335" lon="35.7340399" timestamp="2019-03-15T10:30:12Z" uid="261050" user="muindre" version="5">
+    <tag k="funded_by" v="National Government" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532676807829.jpg" />
+    <tag k="man_made" v="storage_tank" />
+    <tag k="name" v="Kabiyet Tabare Storage Tank" />
+    <tag k="operational_status" v="Non-operational" />
+    <tag k="operator_type" v="CBO" />
+    <tag k="wb_pb:id" v="26728221" />
+  </node>
+  <node changeset="68205731" id="5798859905" lat="0.0492113" lon="35.7254796" timestamp="2019-03-16T15:04:16Z" uid="74746" user="vogelfreier" version="2">
+    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610226450.jpg" />
+    <tag k="leisure" v="garden" />
+    <tag k="name" v="Ravine Garden Square" />
+    <tag k="wb_pb:id" v="26663654" />
+  </node>
+  <node changeset="62203030" id="5798859907" lat="0.0464489" lon="35.7244200" timestamp="2018-09-01T17:28:06Z" uid="616774" user="mueschel" version="4">
+    <tag k="amenity" v="hospital" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="always" />
+    <tag k="health_facility:referals" v="Eldoret Referral Hospital" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608064458.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608196635.jpg" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="yes" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="yes" />
+    <tag k="name" v="Eldama Ravine Sub-County Referral Hospital- Opd Block" />
+    <tag k="wb_pb:id" v="26663862" />
+  </node>
+  <node changeset="62203030" id="5798859908" lat="0.0463533" lon="35.7246667" timestamp="2018-09-01T17:28:06Z" uid="616774" user="mueschel" version="4">
+    <tag k="amenity" v="hospital" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="always" />
+    <tag k="health_facility:referals" v="Eldoret" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607807515.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607913062.jpg" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="yes" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="yes" />
+    <tag k="name" v="Eldama Ravine Sub-County Referral Hospital" />
+    <tag k="wb_pb:id" v="26663361" />
+  </node>
+  <node changeset="62203030" id="5798859910" lat="0.0458721" lon="35.7246483" timestamp="2018-09-01T17:28:07Z" uid="616774" user="mueschel" version="4">
+    <tag k="amenity" v="hospital" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="sometime" />
+    <tag k="health_facility:referals" v="Eldoret Referal Hospital" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606676419.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606762137.jpg" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="yes" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="yes" />
+    <tag k="name" v="Eldama Ravine Sub-County Refferal Hospital- Orthopedic Ward" />
+    <tag k="wb_pb:id" v="26663312" />
+  </node>
+  <node changeset="62203030" id="5798859911" lat="0.0457900" lon="35.7247244" timestamp="2018-09-01T17:28:07Z" uid="616774" user="mueschel" version="4">
+    <tag k="amenity" v="hospital" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="sometime" />
+    <tag k="health_facility:referals" v="Eldoret Referral Hospital" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606346905.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606491571.jpg" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="yes" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="yes" />
+    <tag k="name" v="Eldama Ravine Sub-County Referral Hospital-Laundry" />
+    <tag k="wb_pb:id" v="26663306" />
+  </node>
+  <node changeset="61358766" id="5798859914" lat="0.0507183" lon="35.7219117" timestamp="2018-08-04T17:42:24Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="drinking_water" />
+    <tag k="cost" v="3.0" />
+    <tag k="funded_by" v="Other" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603812647.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603916564.jpg" />
+    <tag k="name" v="Water Kiosk" />
+    <tag k="operational_status" v="Operational" />
+    <tag k="operator_type" v="Private" />
+    <tag k="wb_pb:id" v="26663249" />
+  </node>
+  <node changeset="61229814" id="5798859915" lat="0.0504917" lon="35.7218000" timestamp="2018-07-31T13:19:01Z" uid="8556553" user="vintech" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="gender" v="Mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603569979.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603700659.jpg" />
+    <tag k="name" v="Bondeni Nursery School" />
+    <tag k="operator_type" v="Government" />
+    <tag k="type" v="Pre_primary" />
+    <tag k="wb_pb:id" v="26663240" />
+  </node>
+  <node changeset="61358766" id="5798859916" lat="0.0531211" lon="35.7224572" timestamp="2018-08-04T17:42:24Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="drinking_water" />
+    <tag k="cost" v="3.0" />
+    <tag k="funded_by" v="Other" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532602780804.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532602925860.jpg" />
+    <tag k="name" v="Bondeni Water Kiosk" />
+    <tag k="operational_status" v="Operational" />
+    <tag k="operator_type" v="Private" />
+    <tag k="wb_pb:id" v="26663236" />
+  </node>
+  <node changeset="61229814" id="5798859918" lat="0.0595421" lon="35.7212654" timestamp="2018-07-31T13:19:02Z" uid="8556553" user="vintech" version="1">
+    <tag k="amenity" v="waste_disposal" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598804250.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532599170722.jpg" />
+    <tag k="name" v="Kisarget dumping site" />
+    <tag k="type" v="dumping site" />
+    <tag k="wb_pb:id" v="26663173" />
+  </node>
+  <node changeset="61229814" id="5798859919" lat="0.0589654" lon="35.7227542" timestamp="2018-07-31T13:19:02Z" uid="8556553" user="vintech" version="1">
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598145387.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598375724.jpg" />
+    <tag k="industrial" v="slaughterhouse" />
+    <tag k="type" v="Slaughter House" />
+    <tag k="wb_pb:id" v="26662913" />
+  </node>
+  <node changeset="61358766" id="5798859920" lat="0.0581344" lon="35.7248489" timestamp="2018-08-04T17:42:24Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="drinking_water" />
+    <tag k="cost" v="3.0" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597260143.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597436439.jpg" />
+    <tag k="name" v="Chemususu Water Project" />
+    <tag k="operational_status" v="Operational" />
+    <tag k="operator_type" v="Private" />
+    <tag k="wb_pb:id" v="26662893" />
+  </node>
+  <node changeset="61358798" id="5798859921" lat="0.0584222" lon="35.7250650" timestamp="2018-08-04T17:44:57Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="toilets" />
+    <tag k="fee" v="yes" />
+    <tag k="female" v="yes" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596618749.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596770104.jpg" />
+    <tag k="male" v="yes" />
+    <tag k="name" v="Eco toilet" />
+    <tag k="operator" v="County government of baringo" />
+    <tag k="toilets:disposal" v="flushing" />
+    <tag k="toilets:handwashing" v="yes" />
+    <tag k="toilets:num_chambers" v="6" />
+    <tag k="unisex" v="no" />
+    <tag k="wb_pb:id" v="26662882" />
+  </node>
+  <node changeset="61229814" id="5798859922" lat="0.0602013" lon="35.7258241" timestamp="2018-07-31T13:19:03Z" uid="8556553" user="vintech" version="1">
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596063117.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596274336.jpg" />
+    <tag k="leisure" v="stadium" />
+    <tag k="name" v="Eldama Ravine Stadium" />
+    <tag k="type" v="Stadium" />
+    <tag k="wb_pb:id" v="26662858" />
+  </node>
+  <node changeset="61586326" id="5800785536" lat="0.0524096" lon="35.7236454" timestamp="2018-08-12T12:04:56Z" uid="616774" user="mueschel" version="2">
+    <tag k="fee" v="2 KSH / 20 litres" />
+    <tag k="funded_by" v="Government" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532939429676.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532939572754.jpg" />
+    <tag k="man_made" v="storage_tank" />
+    <tag k="name" v="Stage Water Bowser" />
+    <tag k="operational_status" v="Non-operational" />
+    <tag k="operator" v="County Government of Baringo" />
+    <tag k="wb_pb:id" v="26922141" />
+  </node>
+  <node changeset="67990592" id="5800785538" lat="0.0526206" lon="35.7243828" timestamp="2019-03-10T14:41:51Z" uid="118021" user="maggot27" version="2">
+    <tag k="amenity" v="car_wash" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938302657.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938560980.jpg" />
+    <tag k="name" v="Main Stage Car Wash" />
+    <tag k="wb_pb:id" v="26922849" />
+  </node>
+  <node changeset="61586326" id="5800785539" lat="0.0526767" lon="35.7244639" timestamp="2018-08-12T12:04:56Z" uid="616774" user="mueschel" version="2">
+    <tag k="fee" v="3 KSH / 20 litres" />
+    <tag k="funded_by" v="CDF" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937915925.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938060932.jpg" />
+    <tag k="man_made" v="water_tower" />
+    <tag k="name" v="Chemesusu Water Project" />
+    <tag k="operational_status" v="Operational" />
+    <tag k="operator" v="Government" />
+    <tag k="wb_pb:id" v="26921344" />
+  </node>
+  <node changeset="61460574" id="5817574911" lat="0.0532932" lon="35.7238595" timestamp="2018-08-08T09:12:47Z" uid="8556957" user="kenboi" version="1">
+    <tag k="image:pointofinterest" v="1533021492010.jpg" />
+    <tag k="name" v="Ravine Market" />
+    <tag k="shop" v="clothes" />
+    <tag k="type" v="Public Market" />
+    <tag k="wb_pb:id" v="26965786" />
+  </node>
+  <node changeset="61460574" id="5817574915" lat="0.0503649" lon="35.7288571" timestamp="2018-08-08T09:12:48Z" uid="8556957" user="kenboi" version="1">
+    <tag k="amenity" v="restaurant" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532953300108.jpg" />
+    <tag k="name" v="Aj Gardens Hotel" />
+    <tag k="type" v="Hotel" />
+    <tag k="wb_pb:id" v="26921183" />
+  </node>
+  <node changeset="61460574" id="5817574919" lat="0.0549995" lon="35.7315378" timestamp="2018-08-08T09:12:48Z" uid="8556957" user="kenboi" version="1">
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532942730445.jpg" />
+    <tag k="name" v="Remo Bookshop" />
+    <tag k="shop" v="books" />
+    <tag k="type" v="bookshop" />
+    <tag k="wb_pb:id" v="26921091" />
+  </node>
+  <node changeset="61461531" id="5817629651" lat="0.0570641" lon="35.7385896" timestamp="2018-08-08T09:43:02Z" uid="8556957" user="kenboi" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="gender" v="Mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532614878580.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532615141122.jpg" />
+    <tag k="name" v="Kamelilo Secondary Mixed" />
+    <tag k="operator_type" v="Government" />
+    <tag k="type" v="Secondary" />
+    <tag k="wb_pb:id" v="26669317" />
+  </node>
+  <node changeset="61461531" id="5817629958" lat="0.0444881" lon="35.7391740" timestamp="2018-08-08T09:43:03Z" uid="8556957" user="kenboi" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="gender" v="Mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597764324.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598196976.jpg" />
+    <tag k="name" v="Kinikwet ECDE" />
+    <tag k="operator_type" v="Government" />
+    <tag k="type" v="Pre_primary" />
+    <tag k="wb_pb:id" v="26669272" />
+  </node>
+  <node changeset="61524445" id="5817629959" lat="0.0450339" lon="35.7387979" timestamp="2018-08-10T07:41:54Z" uid="345975" user="VlIvYur" version="2">
+    <tag k="amenity" v="place_of_worship" />
+    <tag k="building_type" v="Church" />
+    <tag k="denomination" v="anglican" />
+    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597144060.jpg" />
+    <tag k="name" v="Kamelilo Anglican Church" />
+    <tag k="religion" v="christian" />
+    <tag k="service_times" v="10:00" />
+    <tag k="type" v="Christian" />
+    <tag k="wb_pb:id" v="26669258" />
+  </node>
+  <node changeset="61461531" id="5817629960" lat="0.0442745" lon="35.7396657" timestamp="2018-08-08T09:43:03Z" uid="8556957" user="kenboi" version="1">
+    <tag k="amenity" v="college" />
+    <tag k="gender" v="Mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596558741.jpg" />
+    <tag k="name" v="Kamelilo Polytechnic" />
+    <tag k="operator_type" v="Government" />
+    <tag k="type" v="Tertiary" />
+    <tag k="wb_pb:id" v="26669251" />
+  </node>
+  <node changeset="61461531" id="5817629961" lat="0.0437974" lon="35.7389514" timestamp="2018-08-08T09:43:03Z" uid="8556957" user="kenboi" version="1">
+    <tag k="amenity" v="college" />
+    <tag k="gender" v="Mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532595795390.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596227472.jpg" />
+    <tag k="name" v="Kamelilo Vocational Trainning Center" />
+    <tag k="operator_type" v="Government" />
+    <tag k="type" v="Tertiary" />
+    <tag k="wb_pb:id" v="26669236" />
+  </node>
+  <node changeset="61461531" id="5817629962" lat="0.0378223" lon="35.7414363" timestamp="2018-08-08T09:43:03Z" uid="8556957" user="kenboi" version="1">
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532593820229.jpg" />
+    <tag k="man_made" v="works" />
+    <tag k="name" v="Kamelilo Quarrey" />
+    <tag k="type" v="quarrey" />
+    <tag k="wb_pb:id" v="26669228" />
+  </node>
+  <node changeset="61916632" id="5817717021" lat="0.0498800" lon="35.7317993" timestamp="2018-08-23T10:25:50Z" uid="8556957" user="kenboi" version="4">
+    <tag k="amenity" v="school" />
+    <tag k="gender" v="mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686099757.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686350800.jpg" />
+    <tag k="name" v="Koibatek Primary School" />
+    <tag k="operational_status" v="Government" />
+    <tag k="school" v="primary" />
+    <tag k="wb_pb:id" v="26733025" />
+  </node>
+  <node changeset="61771146" id="5817717024" lat="0.0513617" lon="35.7348903" timestamp="2018-08-18T13:55:19Z" uid="616774" user="mueschel" version="4">
+    <tag k="funded_by" v="National Government" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532684556169.jpg" />
+    <tag k="man_made" v="storage_tank" />
+    <tag k="name" v="Mlimani Water Tank" />
+    <tag k="operator_type" v="Operational" />
+    <tag k="wb_pb:id" v="26733004" />
+  </node>
+  <node changeset="61771146" id="5817717025" lat="0.0561382" lon="35.7326767" timestamp="2018-08-18T13:55:19Z" uid="616774" user="mueschel" version="3">
+    <tag k="building" v="bungalow" />
+    <tag k="description" v="NCPB Residential Houses" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680872252.jpg" />
+    <tag k="wb_pb:id" v="26732993" />
+  </node>
+  <node changeset="61771146" id="5817717026" lat="0.0559993" lon="35.7321404" timestamp="2018-08-18T13:55:19Z" uid="616774" user="mueschel" version="3">
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680556317.jpg" />
+    <tag k="name" v="Kibasiso Business Centre" />
+    <tag k="shop" v="department_store" />
+    <tag k="wb_pb:id" v="26732986" />
+  </node>
+  <node changeset="61771146" id="5817717027" lat="0.0553917" lon="35.7320689" timestamp="2018-08-18T13:55:19Z" uid="616774" user="mueschel" version="4">
+    <tag k="amenity" v="hospital" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="always" />
+    <tag k="health_facility:referals" v="St.Luke's Eldoret" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680349856.jpg" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="yes" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="yes" />
+    <tag k="name" v="Eldama Ravine Nursing Home" />
+    <tag k="wb_pb:id" v="26732977" />
+  </node>
+  <node changeset="61771146" id="5817717028" lat="0.0555001" lon="35.7315264" timestamp="2018-08-18T13:55:20Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="restaurant" />
+    <tag k="name" v="Taidy's Restaurant" />
+    <tag k="wb_pb:id" v="26732971" />
+  </node>
+  <node changeset="61771146" id="5817717037" lat="0.0549982" lon="35.7413959" timestamp="2018-08-18T13:55:20Z" uid="616774" user="mueschel" version="4">
+    <tag k="funded_by" v="National Government" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674208425.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674422068.jpg" />
+    <tag k="name" v="Chemususu Water Project Offices" />
+    <tag k="office" v="government" />
+    <tag k="operational_status" v="Operational" />
+    <tag k="operator" v="Government" />
+    <tag k="wb_pb:id" v="26732864" />
+  </node>
+  <node changeset="61494926" id="5820105407" lat="0.0089211" lon="35.7095817" timestamp="2018-08-09T09:55:13Z" uid="8556957" user="kenboi" version="1">
+    <tag k="amenity" v="agriculture" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596453573.jpg" />
+    <tag k="name" v="Benonin Cattle Dip" />
+    <tag k="type" v="Cattle dip" />
+    <tag k="wb_pb:id" v="26661971" />
+  </node>
+  <node changeset="61711628" id="5820105409" lat="0.0055506" lon="35.7035017" timestamp="2018-08-16T10:53:16Z" uid="616774" user="mueschel" version="2">
+    <tag k="funded_by" v="County Government of Baringo" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532594918411.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532595323774.jpg" />
+    <tag k="man_made" v="storage_tank" />
+    <tag k="name" v="Benonin Storage Tank" />
+    <tag k="operational_status" v="Operational" />
+    <tag k="operator:type" v="Government" />
+    <tag k="wb_pb:id" v="26661920" />
+  </node>
+  <node changeset="61494926" id="5820105411" lat="0.0398972" lon="35.7206711" timestamp="2018-08-09T09:55:13Z" uid="8556957" user="kenboi" version="1">
+    <tag k="amenity" v="drinking_water" />
+    <tag k="funded_by" v="NGO" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608969370.jpg" />
+    <tag k="name" v="ERAWASCO Water Kiosk" />
+    <tag k="operational_status" v="Non-operational" />
+    <tag k="operator_type" v="NGO" />
+    <tag k="wb_pb:id" v="26662135" />
+  </node>
+  <node changeset="61494926" id="5820105418" lat="0.0120753" lon="35.7136667" timestamp="2018-08-09T09:55:14Z" uid="8556957" user="kenboi" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="gender" v="Mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597691464.jpg" />
+    <tag k="name" v="Benonin Primary School" />
+    <tag k="operator_type" v="Government" />
+    <tag k="type" v="Primary" />
+    <tag k="wb_pb:id" v="26661987" />
+  </node>
+  <node changeset="61494926" id="5820105419" lat="0.0102992" lon="35.7126779" timestamp="2018-08-09T09:55:14Z" uid="8556957" user="kenboi" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="gender" v="Mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597022626.jpg" />
+    <tag k="name" v="Benonin Secondary School" />
+    <tag k="operator_type" v="Government" />
+    <tag k="type" v="Secondary" />
+    <tag k="wb_pb:id" v="26661979" />
+  </node>
+  <node changeset="61771146" id="5820197012" lat="0.0397688" lon="35.7283079" timestamp="2018-08-18T13:55:20Z" uid="616774" user="mueschel" version="3">
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680835629.jpg" />
+    <tag k="power" v="transformer" />
+    <tag k="wb_pb:id" v="26724312" />
+  </node>
+  <node changeset="61771146" id="5820197013" lat="0.0361503" lon="35.7249797" timestamp="2018-08-18T13:55:20Z" uid="616774" user="mueschel" version="3">
+    <tag k="funded_by" v="National Government" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680139276.jpg" />
+    <tag k="man_made" v="storage_tank" />
+    <tag k="name" v="Chemususu Water Reservoir" />
+    <tag k="operational_status" v="Operational" />
+    <tag k="operator_type" v="Government" />
+    <tag k="wb_pb:id" v="26724298" />
+  </node>
+  <node changeset="61771146" id="5820197014" lat="0.0250332" lon="35.7134646" timestamp="2018-08-18T13:55:21Z" uid="616774" user="mueschel" version="3">
+    <tag k="amenity" v="place_of_worship" />
+    <tag k="building" v="church" />
+    <tag k="denomination" v="evangelical" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532677205734.jpg" />
+    <tag k="name" v="AIC Kaplelechwa" />
+    <tag k="religion" v="christian" />
+    <tag k="wb_pb:id" v="26724288" />
+  </node>
+  <node changeset="61771146" id="5820197015" lat="0.0262556" lon="35.7135247" timestamp="2018-08-18T13:55:21Z" uid="616774" user="mueschel" version="3">
+    <tag k="amenity" v="school" />
+    <tag k="building" v="school" />
+    <tag k="gender" v="mixed" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532677029515.jpg" />
+    <tag k="name" v="Kaplelechwa ECDE" />
+    <tag k="operator_type" v="Government" />
+    <tag k="school" v="Pre_primary" />
+    <tag k="wb_pb:id" v="26724281" />
+  </node>
+  <node changeset="61771146" id="5820197018" lat="0.0392914" lon="35.7229865" timestamp="2018-08-18T13:55:21Z" uid="616774" user="mueschel" version="3">
+    <tag k="amenity" v="college" />
+    <tag k="building" v="church" />
+    <tag k="denomination" v="evangelical" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682486624.jpg" />
+    <tag k="name" v="Ravine Bible College" />
+    <tag k="religion" v="christian" />
+    <tag k="wb_pb:id" v="26724378" />
+  </node>
+  <node changeset="61771146" id="5820197020" lat="0.0416212" lon="35.7259905" timestamp="2018-08-18T13:55:21Z" uid="616774" user="mueschel" version="3">
+    <tag k="amenity" v="school" />
+    <tag k="gender" v="Male" />
+    <tag k="government_registered" v="MOE (Ministry of Education)" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532681657633.jpg" />
+    <tag k="name" v="Baringo Boys High School" />
+    <tag k="operator_type" v="Government" />
+    <tag k="school" v="Secondary" />
+    <tag k="wb_pb:id" v="26724348" />
+  </node>
+  <node changeset="61500377" id="5820417010" lat="0.0452854" lon="35.7252023" timestamp="2018-08-09T12:48:10Z" uid="8556619" user="kbizz" version="1">
+    <tag k="generator:source" v="solar" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606893111.jpg" />
+    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607098117.jpg" />
+    <tag k="name" v="Eldama Ravine Sub-County Referral Hospital-Power Generator" />
+    <tag k="power" v="generator" />
+    <tag k="wb_pb:id" v="26663837" />
+  </node>
+  <node changeset="69228296" id="6406116987" lat="0.0528371" lon="35.7242377" timestamp="2019-04-15T09:44:51Z" uid="261050" user="muindre" version="1">
+    <tag k="amenity" v="marketplace" />
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1533124345492.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1533124583285.jpg" />
+    <tag k="name" v="Ravine Market:renovations" />
+    <tag k="wb_pb:id" v="27061423" />
+  </node>
+  <node changeset="69228296" id="6406157185" lat="-0.0059401" lon="35.7329850" timestamp="2019-04-15T09:44:50Z" uid="261050" user="muindre" version="1">
+    <tag k="amenity" v="drinking_water" />
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1231044684660.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1231044246546.jpg" />
+    <tag k="name" v="Kabiyet Cattle Dip: Storage tank" />
+    <tag k="wb_pb:id" v="26664086" />
+  </node>
+  <node changeset="74352033" id="6788190485" lat="-0.0215600" lon="35.9609300" timestamp="2019-09-11T12:26:31Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568119257544.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568119447178.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="leisure" v="stadium" />
+    <tag k="name" v="Mogotio Public Park" />
+    <tag k="wb_pb:id" v="10" />
+  </node>
+  <node changeset="74352033" id="6788190486" lat="-0.0215000" lon="35.9563700" timestamp="2019-09-11T12:26:38Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568114164051.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568116358543.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="name" v="St. Mary Primary School" />
+    <tag k="operator:description" v="County Government of Baringo" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="13" />
+  </node>
+  <node changeset="74352033" id="6788190487" lat="-0.0275200" lon="35.9549600" timestamp="2019-09-11T12:26:42Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="hospital" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="always" />
+    <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital and Nakuru PGH" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568111478855.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568111690936.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="yes" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="yes" />
+    <tag k="name" v="Mogotio Sub County Hospital" />
+    <tag k="wb_pb:id" v="4" />
+  </node>
+  <node changeset="74352033" id="6788190488" lat="-0.0261900" lon="35.9554800" timestamp="2019-09-11T12:26:46Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="hospital" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="always" />
+    <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital and Nakuru PGH" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568110324915.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568110475948.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="yes" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="yes" />
+    <tag k="name" v="Mogotio Sub County Hospital" />
+    <tag k="wb_pb:id" v="7" />
+  </node>
+  <node changeset="74352033" id="6788190489" lat="-0.0263400" lon="35.9556600" timestamp="2019-09-11T12:26:47Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="hospital" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="always" />
+    <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital and Nakuru PGH" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568109993268.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568110151149.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="yes" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="yes" />
+    <tag k="name" v="Mogotio Sub County Hospital" />
+    <tag k="wb_pb:id" v="152" />
+  </node>
+  <node changeset="74352033" id="6788190490" lat="-0.0276200" lon="35.9551431" timestamp="2019-09-11T12:26:52Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="hospital" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="always" />
+    <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital and Nakuru PGH" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568109232760.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568109376113.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="yes" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="yes" />
+    <tag k="name" v="Mogotio Sub County Hospital" />
+    <tag k="wb_pb:id" v="3" />
+  </node>
+  <node changeset="74352033" id="6788190491" lat="-0.0274500" lon="35.9556100" timestamp="2019-09-11T12:26:56Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="hospital" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="always" />
+    <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital and Nakuru PGH" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568111261168.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568108977395.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="yes" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="yes" />
+    <tag k="name" v="Mogotio Sub County Hospital" />
+    <tag k="wb_pb:id" v="1" />
+  </node>
+  <node changeset="74352033" id="6788190492" lat="-0.0351800" lon="35.9547400" timestamp="2019-09-11T12:26:59Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568106418098.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568106572554.jpg" />
+    <tag k="is_in:village" v="Logiri" />
+    <tag k="landuse" v="other" />
+    <tag k="name" v="Mogotio Livestock Improvement Center" />
+    <tag k="other_agriculture" v="Livestock Improvement Center" />
+    <tag k="wb_pb:id" v="151" />
+  </node>
+  <node changeset="74352110" id="6788190500" lat="0.0936850" lon="35.9244300" timestamp="2019-09-11T12:28:07Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568096957107.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568097475688.jpg" />
+    <tag k="is_in:village" v="Kures" />
+    <tag k="man_made" v="borehole" />
+    <tag k="name" v="Chepchamus Borehole" />
+    <tag k="operational_status" v="operational" />
+    <tag k="operator:funding" v="County Government of Baringo" />
+    <tag k="operator:type" v="cbo" />
+    <tag k="wb_pb:id" v="35" />
+  </node>
+  <node changeset="74352033" id="6788190585" lat="-0.0232600" lon="35.9591100" timestamp="2019-09-11T12:26:33Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568118354258.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568118674302.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="name" v="Mogotio Environment Office" />
+    <tag k="wb_pb:id" v="11" />
+  </node>
+  <node changeset="74352033" id="6788190586" lat="-0.0232900" lon="35.9589000" timestamp="2019-09-11T12:26:35Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568117477910.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568117946031.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="man_made" v="borehole" />
+    <tag k="name" v="Mogotio Water Supply" />
+    <tag k="operational_status" v="operational" />
+    <tag k="operator:funding" v="County Government of Baringo" />
+    <tag k="operator:type" v="cbo" />
+    <tag k="wb_pb:id" v="21" />
+  </node>
+  <node changeset="74352033" id="6788190587" lat="-0.0275200" lon="35.9548300" timestamp="2019-09-11T12:26:39Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="hospital" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="always" />
+    <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital and Nakuru PGH" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568112024136.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568112183368.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="yes" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="yes" />
+    <tag k="name" v="Mogotio Sub County Hospital" />
+    <tag k="wb_pb:id" v="8" />
+  </node>
+  <node changeset="74352033" id="6788190588" lat="-0.0274600" lon="35.9552600" timestamp="2019-09-11T12:26:50Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="hospital" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="always" />
+    <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital and Nakuru PGH" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568109692158.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568109816579.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="yes" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="yes" />
+    <tag k="name" v="Mogotio Sub County Hospital" />
+    <tag k="wb_pb:id" v="5" />
+  </node>
+  <node changeset="74352110" id="6788190593" lat="0.0399950" lon="35.8466700" timestamp="2019-09-11T12:27:55Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="clinic" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="often" />
+    <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital" />
+    <tag k="health_facility:type" v="dispensary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568110406012.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568110713181.jpg" />
+    <tag k="is_in:village" v="Kiptoim" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="yes" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="yes" />
+    <tag k="name" v="Kiptoim Dispensary" />
+    <tag k="wb_pb:id" v="63" />
+  </node>
+  <node changeset="74352110" id="6788190594" lat="0.0472100" lon="35.8751800" timestamp="2019-09-11T12:28:00Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="pre_primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568105731808.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568106271041.jpg" />
+    <tag k="is_in:village" v="Bartulkel" />
+    <tag k="name" v="Bartulkel ECDE" />
+    <tag k="operator:description" v="County Government of Baringo" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="60" />
+  </node>
+  <node changeset="74352110" id="6788190595" lat="0.0770230" lon="35.9346600" timestamp="2019-09-11T12:28:01Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="pre_primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568101554806.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568101943144.jpg" />
+    <tag k="is_in:village" v="Kiprota" />
+    <tag k="name" v="Kiprota ECDE" />
+    <tag k="operator:description" v="County Government of Baringo" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="39" />
+  </node>
+  <node changeset="74352110" id="6788190596" lat="0.0915580" lon="35.9147500" timestamp="2019-09-11T12:28:05Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="pre_primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568099863877.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568100258866.jpg" />
+    <tag k="is_in:village" v="Kures" />
+    <tag k="name" v="Kures ECDE" />
+    <tag k="operator:description" v="County Government of Baringo" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="36" />
+  </node>
+  <node changeset="74352033" id="6788190885" lat="-0.0276700" lon="35.9543200" timestamp="2019-09-11T12:26:44Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="hospital" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="always" />
+    <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital and Nakuru PGH" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568110791783.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568111069610.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="yes" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="yes" />
+    <tag k="name" v="Mogotio Sub County Hospital" />
+    <tag k="wb_pb:id" v="6" />
+  </node>
+  <node changeset="74352033" id="6788190886" lat="-0.0316600" lon="35.9563200" timestamp="2019-09-11T12:26:58Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568107688871.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568107641437.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="landuse" v="other" />
+    <tag k="name" v="Mogotio Tannery" />
+    <tag k="other_agriculture" v="Tannery" />
+    <tag k="wb_pb:id" v="25" />
+  </node>
+  <node changeset="74352110" id="6788190887" lat="0.0395900" lon="35.8463100" timestamp="2019-09-11T12:27:56Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568109412804.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568109623618.jpg" />
+    <tag k="is_in:village" v="Kiptoim" />
+    <tag k="man_made" v="borehole" />
+    <tag k="name" v="Kiptoim Borehole" />
+    <tag k="operational_status" v="non_operational" />
+    <tag k="operator:funding" v="County Government of Baringo" />
+    <tag k="operator:type" v="cbo" />
+    <tag k="wb_pb:id" v="55" />
+  </node>
+  <node changeset="74352033" id="6788191285" lat="-0.0400000" lon="35.9429800" timestamp="2019-09-11T12:27:01Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568103841526.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568104076322.jpg" />
+    <tag k="is_in:village" v="Kipsogon" />
+    <tag k="name" v="Logiri Primary School" />
+    <tag k="operator:description" v="Government" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="150" />
+  </node>
+  <node changeset="74352253" id="6788192317" lat="-0.0626800" lon="35.9181600" timestamp="2019-09-11T12:30:33Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568026367058.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568026794231.jpg" />
+    <tag k="is_in:village" v="Kipsogon" />
+    <tag k="name" v="Kipsogon Primary School" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="16" />
+  </node>
+  <node changeset="74352253" id="6788192318" lat="-0.0367200" lon="35.9164500" timestamp="2019-09-11T12:30:33Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="pre_primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568031967994.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568032407429.jpg" />
+    <tag k="is_in:village" v="Kipsogon" />
+    <tag k="name" v="Oruyet ECDE" />
+    <tag k="operator:description" v="County Government of Baringo" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="15" />
+  </node>
+  <node changeset="74352110" id="6788193385" lat="0.0195730" lon="35.8564400" timestamp="2019-09-11T12:27:58Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="pre_primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568108091421.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568108327545.jpg" />
+    <tag k="is_in:village" v="Olbat" />
+    <tag k="name" v="Olbat ECDE" />
+    <tag k="operator:description" v="County Government of Baringo" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="61" />
+  </node>
+  <node changeset="74353049" id="6788216972" lat="0.1000870" lon="35.8595800" timestamp="2019-09-11T12:44:55Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="pre_primary" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568030348372.jpg" />
+    <tag k="is_in:village" v="Rosoga" />
+    <tag k="name" v="Rosoga ECDE" />
+    <tag k="operator:description" v="County Government of Baringo" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="38" />
+  </node>
+  <node changeset="74353049" id="6788216974" lat="0.0791400" lon="35.8614600" timestamp="2019-09-11T12:44:55Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="clinic" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="none" />
+    <tag k="health_facility:referrals" v="Eldmaravine Referral Hospital" />
+    <tag k="health_facility:type" v="dispensary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568025761899.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568026103578.jpg" />
+    <tag k="is_in:village" v="Sagasagik" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="no" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="no" />
+    <tag k="name" v="Sagasagik Dispensary" />
+    <tag k="wb_pb:id" v="62" />
+  </node>
+  <node changeset="74353049" id="6788216975" lat="0.0802230" lon="35.8609100" timestamp="2019-09-11T12:44:55Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="pre_primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568024296021.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568024541265.jpg" />
+    <tag k="is_in:village" v="Sagasagik" />
+    <tag k="name" v="Sagasagik ECDE" />
+    <tag k="operator:description" v="County Government of Baringo" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="59" />
+  </node>
+  <node changeset="74522263" id="6799017999" lat="0.1595780" lon="35.7583200" timestamp="2019-09-16T10:08:38Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="mgcsd" />
+    <tag k="education:type" v="pre_primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568110863660.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568111180352.jpg" />
+    <tag k="is_in:village" v="Magrip" />
+    <tag k="name" v="Magrip ECDE" />
+    <tag k="operator:description" v="County Government of Baringo" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="49" />
+  </node>
+  <node changeset="74522263" id="6799018001" lat="0.1773250" lon="35.7719500" timestamp="2019-09-16T10:09:06Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="hospital" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="always" />
+    <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital" />
+    <tag k="health_facility:type" v="dispensary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568032194416.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568031833110.jpg" />
+    <tag k="is_in:village" v="Kiptaoi" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="no" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="yes" />
+    <tag k="name" v="Sirwa Dispensary" />
+    <tag k="wb_pb:id" v="50" />
+  </node>
+  <node changeset="74522263" id="6799024586" lat="0.1679150" lon="35.7521400" timestamp="2019-09-16T10:08:45Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568104672826.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568104978746.jpg" />
+    <tag k="is_in:village" v="Chemorgong" />
+    <tag k="name" v="Chemorgong Primary School" />
+    <tag k="operator:description" v="Government of Kenya" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="47" />
+  </node>
+  <node changeset="74528956" id="6799326185" lat="0.0872430" lon="35.8748100" timestamp="2019-09-16T12:21:43Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568361407565.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568361313473.jpg" />
+    <tag k="is_in:village" v="Lombala" />
+    <tag k="name" v="Lombala Primary School" />
+    <tag k="operator:description" v="Government of Kenya" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="37" />
+  </node>
+  <node changeset="74532115" id="6799387352" lat="0.2388350" lon="35.7914000" timestamp="2019-09-16T13:15:12Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568370674260.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568371006958.jpg" />
+    <tag k="is_in:village" v="Kapkein" />
+    <tag k="man_made" v="borehole" />
+    <tag k="name" v="Kapekein Borehole" />
+    <tag k="operational_status" v="operational" />
+    <tag k="operator:funding" v="county_government" />
+    <tag k="operator:type" v="cbo" />
+    <tag k="wb_pb:id" v="44" />
+  </node>
+  <node changeset="74532115" id="6799387353" lat="0.2377850" lon="35.7903800" timestamp="2019-09-16T13:15:12Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="drinking_water" />
+    <tag k="description" v="kiosk" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568370088439.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568370358804.jpg" />
+    <tag k="is_in:village" v="Kapkein" />
+    <tag k="name" v="Kapkein Borehole" />
+    <tag k="operational_status" v="operational" />
+    <tag k="operator:funding" v="county_government" />
+    <tag k="operator:type" v="cbo" />
+    <tag k="wb_pb:id" v="44" />
+  </node>
+  <node changeset="74532115" id="6799387357" lat="0.2145220" lon="35.7811000" timestamp="2019-09-16T13:15:12Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568369615441.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568370494470.jpg" />
+    <tag k="is_in:village" v="Kapsok" />
+    <tag k="name" v="Kapsok Primary School" />
+    <tag k="operator:description" v="Government of Kenya" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="48" />
+  </node>
+  <node changeset="74532115" id="6799387359" lat="0.1920500" lon="35.7865900" timestamp="2019-09-16T13:15:12Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="mgcsd" />
+    <tag k="education:type" v="pre_primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568364873230.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568365230716.jpg" />
+    <tag k="is_in:village" v="Chepkoyo" />
+    <tag k="name" v="Chepkoyo ECDE" />
+    <tag k="operator:description" v="County Government of Baringo" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="67" />
+  </node>
+  <node changeset="74532115" id="6799387362" lat="0.1699880" lon="35.7574200" timestamp="2019-09-16T13:15:12Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="drinking_water" />
+    <tag k="description" v="water_tap" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568287385108.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568287707918.jpg" />
+    <tag k="is_in:village" v="Kaburgei" />
+    <tag k="name" v="Bei Chebo No Irrigation Scheme" />
+    <tag k="operational_status" v="non_operational" />
+    <tag k="operator:funding" v="county_government" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="43" />
+  </node>
+  <node changeset="74532115" id="6799387364" lat="0.2021980" lon="35.7615300" timestamp="2019-09-16T13:15:12Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="mgcsd" />
+    <tag k="education:type" v="pre_primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568281615312.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568281990773.jpg" />
+    <tag k="is_in:village" v="Kapkiris" />
+    <tag k="name" v="Kapkiris ECDE" />
+    <tag k="operator:description" v="County Government of Baringo" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="74" />
+  </node>
+  <node changeset="74532115" id="6799387368" lat="0.1899820" lon="35.7498600" timestamp="2019-09-16T13:15:12Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568386499642.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568271515860.jpg" />
+    <tag k="is_in:village" v="Kaplaimoi" />
+    <tag k="name" v="Chepkechir River Foot Bridge" />
+    <tag k="operator:funding" v="county_government" />
+    <tag k="wb_pb:id" v="41" />
+  </node>
+  <node changeset="74857184" id="6799533352" lat="-0.0032200" lon="35.9643500" timestamp="2019-09-24T13:04:23Z" uid="616774" user="mueschel" version="2">
+    <tag k="building" v="office" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568284309964.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568284560450.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="name" v="Mogotio Information Center" />
+    <tag k="wb_pb:id" v="9" />
+  </node>
+  <node changeset="74534266" id="6799533353" lat="-0.0043100" lon="35.9608200" timestamp="2019-09-16T13:56:11Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="pre_primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568282473447.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568282700155.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="name" v="Kisoyan Cheburet ECD" />
+    <tag k="operator:description" v="County Government of Baringo" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="17" />
+  </node>
+  <node changeset="74857184" id="6799533356" lat="-0.0234400" lon="35.9645000" timestamp="2019-09-24T13:04:23Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="shelter" />
+    <tag k="fixme" v="Boda boda shade" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568277833919.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568278220622.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="name" v="Mogotio Boda boda shade" />
+    <tag k="shelter_type" v="bodaboda" />
+    <tag k="wb_pb:id" v="27" />
+  </node>
+  <node changeset="74857184" id="6799533357" lat="-0.0215700" lon="35.9636100" timestamp="2019-09-24T13:04:23Z" uid="616774" user="mueschel" version="2">
+    <tag k="description" v="Mogotio Solar Street Lights" />
+    <tag k="highway" v="street_lamp" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568276589674.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568276784568.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="wb_pb:id" v="28" />
+  </node>
+  <node changeset="74534266" id="6799533360" lat="-0.0228700" lon="35.9629200" timestamp="2019-09-16T13:56:11Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="drinking_water" />
+    <tag k="description" v="kiosk" />
+    <tag k="fee" v="5" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568274955837.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568275127413.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="name" v="Mogotio Water Supply" />
+    <tag k="operational_status" v="operational" />
+    <tag k="operator:funding" v="County Government of Baringo" />
+    <tag k="operator:type" v="cbo" />
+    <tag k="wb_pb:id" v="191" />
+  </node>
+  <node changeset="74534266" id="6799533362" lat="-0.0223621" lon="35.9672260" timestamp="2019-09-16T13:56:11Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="marketplace" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568271148676.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568271483973.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="name" v="Mogotio Old Market" />
+    <tag k="wb_pb:id" v="26" />
+  </node>
+  <node changeset="74534266" id="6799533363" lat="-0.0315200" lon="35.9330500" timestamp="2019-09-16T13:56:11Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568269410176.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568269679410.jpg" />
+    <tag k="is_in:village" v="Kipsogon" />
+    <tag k="name" v="Kipsogon Footbridge" />
+    <tag k="operator:funding" v="County Government of Baringo" />
+    <tag k="wb_pb:id" v="30" />
+  </node>
+  <node changeset="74534266" id="6799533364" lat="-0.0646200" lon="35.9177400" timestamp="2019-09-16T13:56:11Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="clinic" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="always" />
+    <tag k="health_facility:referrals" v="Eldama Ravine Revaral Hospital and Nakurun PGH" />
+    <tag k="health_facility:type" v="dispensary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568267733949.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568274183497.jpg" />
+    <tag k="is_in:village" v="Kipsogon" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="no" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="yes" />
+    <tag k="name" v="Kipsogon Health Center" />
+    <tag k="wb_pb:id" v="2" />
+  </node>
+  <node changeset="74745190" id="6799549393" lat="0.0186680" lon="35.8292100" timestamp="2019-09-21T09:52:52Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568284714107.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568284999131.jpg" />
+    <tag k="is_in:village" v="Esageri" />
+    <tag k="name" v="Esageri School For Deaf" />
+    <tag k="operator:description" v="Government of Kenya" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="170" />
+  </node>
+  <node changeset="74745190" id="6799549394" lat="0.0193280" lon="35.8288200" timestamp="2019-09-21T09:52:52Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="cafeteria" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568283892579.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568284357105.jpg" />
+    <tag k="is_in:village" v="Esageri" />
+    <tag k="name" v="Esageri School For Deaf" />
+    <tag k="operator:description" v="Government of Kenya" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="64" />
+  </node>
+  <node changeset="74534411" id="6799549396" lat="0.0183130" lon="35.8464300" timestamp="2019-09-16T13:58:40Z" uid="10269225" user="Ernet" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568278135835.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568278491972.jpg" />
+    <tag k="is_in:village" v="Sitewet" />
+    <tag k="man_made" v="borehole" />
+    <tag k="name" v="Kiptoim Borehole" />
+    <tag k="operational_status" v="operational" />
+    <tag k="operator:funding" v="County Government of Baringo" />
+    <tag k="operator:type" v="cbo" />
+    <tag k="wb_pb:id" v="55" />
+  </node>
+  <node changeset="74534411" id="6799549398" lat="-0.0083000" lon="35.8885500" timestamp="2019-09-16T13:58:40Z" uid="10269225" user="Ernet" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568275027920.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568275477602.jpg" />
+    <tag k="is_in:village" v="Lombogishu" />
+    <tag k="man_made" v="borehole" />
+    <tag k="name" v="Lombogishu Borehole" />
+    <tag k="operational_status" v="non_operational" />
+    <tag k="operator:funding" v="County Government of Baringo" />
+    <tag k="operator:type" v="cbo" />
+    <tag k="wb_pb:id" v="54" />
+  </node>
+  <node changeset="74537967" id="6799660486" lat="0.0600900" lon="35.9305800" timestamp="2019-09-16T15:04:06Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568369757457.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568369937984.jpg" />
+    <tag k="is_in:village" v="Noiwet" />
+    <tag k="man_made" v="borehole" />
+    <tag k="name" v="Noiwet Borehole" />
+    <tag k="operational_status" v="operational" />
+    <tag k="operator:funding" v="County Government of Baringo" />
+    <tag k="operator:type" v="cbo" />
+    <tag k="wb_pb:id" v="76" />
+  </node>
+  <node changeset="74537967" id="6799660487" lat="0.0224220" lon="35.9362300" timestamp="2019-09-16T15:04:15Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="drinking_water" />
+    <tag k="description" v="water_tank" />
+    <tag k="fee" v="3" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568368654568.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568368900983.jpg" />
+    <tag k="is_in:village" v="Chemogoch" />
+    <tag k="name" v="Kuronionde Water Project" />
+    <tag k="operational_status" v="non_operational" />
+    <tag k="operator:funding" v="County Government of Baringo" />
+    <tag k="operator:type" v="cbo" />
+    <tag k="wb_pb:id" v="23" />
+  </node>
+  <node changeset="74537967" id="6799660488" lat="0.0004200" lon="35.9203900" timestamp="2019-09-16T15:04:20Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568365566168.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568365732151.jpg" />
+    <tag k="is_in:village" v="Ngusero" />
+    <tag k="name" v="Ngusero Primary School" />
+    <tag k="operator:description" v="Government of Kenya" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="12" />
+  </node>
+  <node changeset="74537967" id="6799722591" lat="-0.0021300" lon="35.9631400" timestamp="2019-09-16T15:03:52Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568374459571.jpg" />
+    <tag k="industrial" v="slaughterhouse" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="name" v="Mogotio Slaughter House" />
+    <tag k="wb_pb:id" v="31" />
+  </node>
+  <node changeset="74537967" id="6799722592" lat="0.0156170" lon="35.9543800" timestamp="2019-09-16T15:03:54Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568373194479.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568373373745.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="name" v="Lomanira ECDE" />
+    <tag k="operator:description" v="Lomanira Primary School" />
+    <tag k="operator:type" v="Government of Kenya" />
+    <tag k="wb_pb:id" v="14" />
+  </node>
+  <node changeset="74537967" id="6799747085" lat="0.0609420" lon="35.9275400" timestamp="2019-09-16T15:04:03Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="drinking_water" />
+    <tag k="description" v="kiosk" />
+    <tag k="fee" v="5" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568370904377.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568371317113.jpg" />
+    <tag k="is_in:village" v="Noiwet" />
+    <tag k="name" v="Noiwet Borehole" />
+    <tag k="operational_status" v="non_operational" />
+    <tag k="operator:funding" v="County Government of Baringo" />
+    <tag k="operator:type" v="cbo" />
+    <tag k="wb_pb:id" v="77" />
+  </node>
+  <node changeset="74537967" id="6799747885" lat="0.0097220" lon="35.9498300" timestamp="2019-09-16T15:04:22Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568363649637.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568367680959.jpg" />
+    <tag k="is_in:village" v="Lomanira" />
+    <tag k="man_made" v="borehole" />
+    <tag k="name" v="Muiya Water Supply" />
+    <tag k="operational_status" v="operational" />
+    <tag k="operator:funding" v="cbo" />
+    <tag k="operator:type" v="cbo" />
+    <tag k="wb_pb:id" v="19" />
+  </node>
+  <node changeset="74537967" id="6799748985" lat="0.0040020" lon="35.9498000" timestamp="2019-09-16T15:04:37Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568362189884.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568362343564.jpg" />
+    <tag k="is_in:village" v="Lomanira" />
+    <tag k="man_made" v="borehole" />
+    <tag k="name" v="Mogotio Town Borehole" />
+    <tag k="operational_status" v="operational" />
+    <tag k="operator:funding" v="County Government of Baringo" />
+    <tag k="operator:type" v="cbo" />
+    <tag k="wb_pb:id" v="20" />
+  </node>
+  <node changeset="74659673" id="6807425640" lat="-0.0238200" lon="35.9556200" timestamp="2019-09-19T08:32:19Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="drinking_water" />
+    <tag k="description" v="water_tap" />
+    <tag k="fee" v="5" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568711861988.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568712033874.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="name" v="Mogotio Reticulation System" />
+    <tag k="operational_status" v="non_operational" />
+    <tag k="operator:funding" v="cbo" />
+    <tag k="operator:type" v="cbo" />
+    <tag k="wb_pb:id" v="22" />
+  </node>
+  <node changeset="74659673" id="6807425641" lat="-0.0239000" lon="35.9593100" timestamp="2019-09-19T08:32:19Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="townhall" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568710645395.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568710898612.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="name" v="Office of the Governor Mogotio" />
+    <tag k="wb_pb:id" v="193" />
+  </node>
+  <node changeset="74659673" id="6807425646" lat="-0.0264100" lon="35.9584900" timestamp="2019-09-19T08:32:19Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="townhall" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568701770518.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568701463635.jpg" />
+    <tag k="is_in:village" v="Mogotio" />
+    <tag k="name" v="Deputy County Commissioner Office" />
+    <tag k="wb_pb:id" v="192" />
+  </node>
+  <node changeset="75303433" id="6807606139" lat="0.2626200" lon="35.8043883" timestamp="2019-10-04T20:36:46Z" uid="999" user="mikelmaron" version="2">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568369635827.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568369792459.jpg" />
+    <tag k="is_in:village" v="Bekimei" />
+    <tag k="man_made" v="storage_tank" />
+    <tag k="name" v="Bekimei Water Project" />
+    <tag k="operational_status" v="non_operational" />
+    <tag k="operator:funding" v="County Government of Baringo" />
+    <tag k="operator:type" v="cbo" />
+    <tag k="wb_pb:id" v="122" />
+  </node>
+  <node changeset="74941098" id="6808019397" lat="0.1268750" lon="35.8523133" timestamp="2019-09-26T07:24:38Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="drinking_water" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568871188585.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568871498024.jpg" />
+    <tag k="is_in:village" v="Chemamul" />
+    <tag k="name" v="Matebei Borehole" />
+    <tag k="operator:funding" v="County Government of Baringo" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="65" />
+  </node>
+  <node changeset="74672845" id="6808019404" lat="0.1705883" lon="35.7859900" timestamp="2019-09-19T13:11:29Z" uid="10269225" user="Ernet" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568811124882.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568811451980.jpg" />
+    <tag k="is_in:village" v="Rosy" />
+    <tag k="name" v="Rossy Water Project" />
+    <tag k="operational_status" v="non_operational" />
+    <tag k="operator:funding" v="County Government of Baringo" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="71" />
+  </node>
+  <node changeset="74672845" id="6808019405" lat="0.1453500" lon="35.7938150" timestamp="2019-09-19T13:11:29Z" uid="10269225" user="Ernet" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568796633386.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568797184875.jpg" />
+    <tag k="is_in:village" v="Kapterit" />
+    <tag k="name" v="Kapterit Primary School" />
+    <tag k="operator:description" v="Government of Kenya" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="184" />
+  </node>
+  <node changeset="74672845" id="6808019407" lat="0.1491100" lon="35.8061683" timestamp="2019-09-19T13:11:29Z" uid="10269225" user="Ernet" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="pre_primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568791150227.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568875066339.jpg" />
+    <tag k="is_in:village" v="Perkerra" />
+    <tag k="name" v="Sachangwan ECDE" />
+    <tag k="operator:description" v="County Government of Baringo" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="182" />
+  </node>
+  <node changeset="74672845" id="6808019412" lat="0.1453133" lon="35.8409050" timestamp="2019-09-19T13:11:29Z" uid="10269225" user="Ernet" version="1">
+    <tag k="amenity" v="clinic" />
+    <tag k="dispensing" v="yes" />
+    <tag k="electricity" v="sometime" />
+    <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital" />
+    <tag k="health_facility:type" v="dispensary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568707915178.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568708861541.jpg" />
+    <tag k="is_in:village" v="Koitebes" />
+    <tag k="medical_service:family_planning" v="yes" />
+    <tag k="medical_service:general_medical_services" v="yes" />
+    <tag k="medical_service:immunizations" v="yes" />
+    <tag k="medical_service:malaria" v="yes" />
+    <tag k="medical_service:pregnancy_test" v="medical_service:pregnancy_test" />
+    <tag k="name" v="Koitebes Dispensary" />
+    <tag k="wb_pb:id" v="183" />
+  </node>
+  <node changeset="74910771" id="6808019417" lat="0.1472217" lon="35.8253017" timestamp="2019-09-25T13:29:20Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="school" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568699768780.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568700201877.jpg" />
+    <tag k="is_in:village" v="Chepkokon" />
+    <tag k="operator:description" v="County Government of Baringo" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="68" />
+  </node>
+  <node changeset="74941098" id="6808019418" lat="0.1630700" lon="35.8328300" timestamp="2019-09-26T07:24:38Z" uid="616774" user="mueschel" version="2">
+    <tag k="amenity" v="school" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568696524412.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568696908015.jpg" />
+    <tag k="is_in:village" v="Aram" />
+    <tag k="name" v="Aram Primary School" />
+    <tag k="operator:description" v="Government of Kenya" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="66" />
+  </node>
+  <node changeset="74910771" id="6808019419" lat="0.1634367" lon="35.8373417" timestamp="2019-09-25T13:29:20Z" uid="616774" user="mueschel" version="2">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568695684111.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568695891449.jpg" />
+    <tag k="is_in:village" v="Aram" />
+    <tag k="name" v="Tabare Tui Dam" />
+    <tag k="wb_pb:id" v="181" />
+  </node>
+  <node changeset="74672845" id="6808019420" lat="0.1610283" lon="35.8116217" timestamp="2019-09-19T13:11:29Z" uid="10269225" user="Ernet" version="1">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="moe" />
+    <tag k="education:type" v="pre_primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568788890017.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568789055727.jpg" />
+    <tag k="is_in:village" v="Kimngorom" />
+    <tag k="name" v="Kimngorom ECDE" />
+    <tag k="operator:description" v="County Government of Baringo" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="73" />
+  </node>
+  <node changeset="74674248" id="6808083472" lat="0.0035830" lon="35.9646000" timestamp="2019-09-19T13:38:11Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568806399164.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568806638092.jpg" />
+    <tag k="is_in:village" v="Chemogoch" />
+    <tag k="name" v="Equator Dip Alphega Road" />
+    <tag k="wb_pb:id" v="29" />
+  </node>
+  <node changeset="74674248" id="6808083476" lat="0.0631770" lon="35.8879200" timestamp="2019-09-19T13:38:11Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568800266288.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568800414483.jpg" />
+    <tag k="is_in:village" v="Kapkararam" />
+    <tag k="name" v="Kapkararam" />
+    <tag k="operator:funding" v="County Government of Baringo" />
+    <tag k="operator:type" v="cbo" />
+    <tag k="wb_pb:id" v="78" />
+  </node>
+  <node changeset="74727447" id="6808083477" lat="0.0739380" lon="35.8961500" timestamp="2019-09-20T16:42:09Z" uid="86504" user="Thomas8122" version="2">
+    <tag k="amenity" v="school" />
+    <tag k="education:gender_type" v="mixed" />
+    <tag k="education:government_registered" v="mgcsd" />
+    <tag k="education:type" v="pre_primary" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568797638726.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568797953493.jpg" />
+    <tag k="is_in:village" v="Kenet" />
+    <tag k="name" v="Kenet ECD" />
+    <tag k="operator:type" v="government" />
+    <tag k="wb_pb:id" v="79" />
+  </node>
+  <node changeset="74674248" id="6808083481" lat="0.0560070" lon="35.9050800" timestamp="2019-09-19T13:38:11Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="amenity" v="clinic" />
+    <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568794054129.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568794293587.jpg" />
+    <tag k="is_in:village" v="Ngubereti" />
+    <tag k="name" v="Ngubereti Health Center" />
+    <tag k="wb_pb:id" v="80" />
+  </node>
+  <node changeset="74674248" id="6808083482" lat="0.0597550" lon="35.9138600" timestamp="2019-09-19T13:38:11Z" uid="10269217" user="Arap Kobilo" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568793306947.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568793533432.jpg" />
+    <tag k="is_in:village" v="Ngubereti" />
+    <tag k="name" v="Ndaramiandet Water Pan" />
+    <tag k="operator:funding" v="County Government of Baringo" />
+    <tag k="wb_pb:id" v="75" />
+  </node>
+  <node changeset="75276794" id="6851133548" lat="0.1314130" lon="35.8802200" timestamp="2019-10-04T11:06:05Z" uid="10269225" user="Ernet" version="1">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1570017839317.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1570018010382.jpg" />
+    <tag k="is_in:village" v="Sagasagik" />
+    <tag k="name" v="Mogotio - Sagasagik Road" />
+    <tag k="wb_pb:id" v="52" />
+  </node>
+
+</osm>

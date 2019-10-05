@@ -3,7 +3,7 @@
 import os
 import logging
 from utils import url2file
-from images import cache_images, cache_images_county
+from images import cache_images, cache_images_county, xml_with_cache_county
 from data_manipulation import sync_osm, convert_geojson, merge_geojson, build_centroid, match_projects, filter_poi, number_projects, create_index
 
 logging.basicConfig(level=logging.INFO)
@@ -66,18 +66,30 @@ def sync_projects():
 
   logging.info("sync_projects complete")
 
-#sync_osm(counties)
-#sync_projects()
-#convert_geojson(counties)
-#match_projects(counties)
-#merge_geojson(counties)
+##Get data from OSM
+sync_osm(counties)
 
-cache_images_county('baringo')
-#baringo_with_image_cache = cache_images('baringo-projects-matched-merged.geojson')
-#writefile('baringo-projects-matched-merged.geojson', baringo_with_image_cache)
-#makueni_with_image_cache = cache_images('makueni-projects-matched-merged.geojson')
-#writefile('makueni-projects-matched-merged.geojson', makueni_with_image_cache)
+##Get project data from Google Sheets
+sync_projects()
 
-#filter_poi(counties)
-#number_projects(counties)
-#create_index(counties)
+##Transform OSM data into GeoJSON
+convert_geojson(counties)
+
+##Match Project Data to OSM
+match_projects(counties)
+
+##Merge Ward Level Matched Data into County Files
+merge_geojson(counties)
+
+#cache_images(counties)
+#cache_images_county('baringo')
+#xml_with_cache_county('marigat')
+
+##Filter projects from POI files
+filter_poi(counties)
+
+##Order and add numbers to projects
+number_projects(counties)
+
+##Create a text index for inclusion in print map
+create_index(counties)
