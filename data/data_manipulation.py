@@ -131,7 +131,12 @@ def filter_poi_county(county):
 
    osm = geojson.loads(readfile('build/' + county + '-poi-osm.geojson'))
    for feature in osm.features:
-       if feature.properties['tags'].get('wb_pb:id', None) == None:
+       if 'source' in feature.properties['tags']:
+         del feature.properties['tags']['source']
+       if 'source:date' in feature.properties['tags']:
+         del feature.properties['tags']['source:date']
+
+       if feature.properties['tags'].get('wb_pb:id', None) == None and len(feature.properties['tags']) > 0:
            feature.properties['tags']['osm:id'] = feature.properties['id']
            result['features'].append({ "type": "Feature",  "id": feature.properties["id"], "properties": feature.properties['tags'], "geometry": feature.geometry })
 
