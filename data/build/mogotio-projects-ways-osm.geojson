@@ -70,17 +70,17 @@
     "id": "429074919",
     "tags": {
       "barrier": "wall",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607432208.jpg",
+      "image": "https://mapkibera.github.io/counties/data/images/cache/429074919/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532607432208jpg/orig.jpg",
       "name": "Eldama Ravine Sub-County Referral Hospital-Perimeter wall",
       "wb_pb:id": "26663342"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-03-04T09:12:17Z",
-      "version": "4",
-      "changeset": "67759409",
-      "user": "vogelfreier",
-      "uid": "74746"
+      "timestamp": "2019-10-05T16:49:02Z",
+      "version": "5",
+      "changeset": "75323347",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -191,7 +191,7 @@
       "dispensing": "yes",
       "electricity": "always",
       "health_facility:referals": "Eldoret Referral Hospital",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg",
+      "image": "https://mapkibera.github.io/counties/data/images/cache/571404106/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532607265414jpg/orig.jpg",
       "medical_service:family_planning": "yes",
       "medical_service:general_medical_services": "yes",
       "medical_service:immunizations": "yes",
@@ -202,11 +202,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-03-04T09:12:17Z",
-      "version": "2",
-      "changeset": "67759409",
-      "user": "vogelfreier",
-      "uid": "74746"
+      "timestamp": "2019-10-05T16:49:02Z",
+      "version": "3",
+      "changeset": "75323347",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -244,8 +244,8 @@
     "type": "way",
     "id": "723781190",
     "tags": {
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568022413337.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568022854738.jpg",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568022413337.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568022854738.jpg",
       "is_in:village": "Igonwo",
       "landuse": "livestock_dip",
       "man_made": "livestock_dip",
@@ -254,11 +254,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-09-11T12:44:55Z",
-      "version": "1",
-      "changeset": "74353049",
-      "user": "Arap Kobilo",
-      "uid": "10269217"
+      "timestamp": "2019-10-05T04:46:11Z",
+      "version": "2",
+      "changeset": "75308560",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -296,8 +296,8 @@
     "type": "way",
     "id": "725033996",
     "tags": {
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568038202969.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568038697470.jpg",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568038202969.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568038697470.jpg",
       "is_in:village": "Kaburgei",
       "landuse": "livestock_dip",
       "man_made": "livestock_dip",
@@ -306,11 +306,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-09-16T10:09:09Z",
-      "version": "1",
-      "changeset": "74522263",
-      "user": "Arap Kobilo",
-      "uid": "10269217"
+      "timestamp": "2019-10-05T04:46:11Z",
+      "version": "2",
+      "changeset": "75308560",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -348,8 +348,8 @@
     "type": "way",
     "id": "725034003",
     "tags": {
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568036929222.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568036490919.jpg",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568036929222.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568036490919.jpg",
       "is_in:village": "Kaburgei",
       "leisure": "stadium",
       "name": "Sirwa Athletic Camp",
@@ -357,11 +357,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-09-16T10:09:19Z",
-      "version": "1",
-      "changeset": "74522263",
-      "user": "Arap Kobilo",
-      "uid": "10269217"
+      "timestamp": "2019-10-05T04:46:11Z",
+      "version": "2",
+      "changeset": "75308560",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -423,8 +423,8 @@
     "type": "way",
     "id": "725094468",
     "tags": {
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568281391593.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568281640933.jpg",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568281391593.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568281640933.jpg",
       "is_in:village": "Mogotio",
       "leisure": "playground",
       "name": "Mogotio Playing Field",
@@ -432,11 +432,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-09-16T13:56:11Z",
-      "version": "1",
-      "changeset": "74534266",
-      "user": "Arap Kobilo",
-      "uid": "10269217"
+      "timestamp": "2019-10-05T04:46:11Z",
+      "version": "2",
+      "changeset": "75308560",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -475,8 +475,8 @@
     "id": "725095031",
     "tags": {
       "dam:type": "earth_dam",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568272924312.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568273311441.jpg",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568272924312.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568273311441.jpg",
       "is_in:village": "Kapsuswa",
       "name": "Kapnaburuki Dam",
       "operational_status": "operational",
@@ -486,11 +486,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-09-16T13:58:40Z",
-      "version": "1",
-      "changeset": "74534411",
-      "user": "Ernet",
-      "uid": "10269225"
+      "timestamp": "2019-10-05T04:46:11Z",
+      "version": "2",
+      "changeset": "75308560",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -628,8 +628,8 @@
     "type": "way",
     "id": "725118358",
     "tags": {
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568366310469.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568366537526.jpg",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568366310469.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568366537526.jpg",
       "is_in:village": "Ngusero",
       "landuse": "livestock_dip",
       "man_made": "livestock_dip",
@@ -638,11 +638,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-09-16T15:05:34Z",
-      "version": "2",
-      "changeset": "74538076",
-      "user": "Arap Kobilo",
-      "uid": "10269217"
+      "timestamp": "2019-10-05T04:46:11Z",
+      "version": "3",
+      "changeset": "75308560",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -681,8 +681,8 @@
     "id": "731560947",
     "tags": {
       "dam:type": "earth_dam",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1569941188786.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1569941369691.jpg",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569941188786.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569941369691.jpg",
       "is_in:village": "Olmarai",
       "name": "Ngenypoteweret Dam",
       "operational_status": "operational",
@@ -692,11 +692,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-04T11:06:05Z",
-      "version": "1",
-      "changeset": "75276794",
-      "user": "Ernet",
-      "uid": "10269225"
+      "timestamp": "2019-10-05T04:46:11Z",
+      "version": "2",
+      "changeset": "75308560",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -5000,18 +5000,18 @@
     "type": "way",
     "id": "612915037",
     "tags": {
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124766318.jpg",
+      "image": "https://mapkibera.github.io/counties/data/images/cache/612915037/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1533124766318jpg/orig.jpg",
       "name": "Eldama Ravine Drainage system",
       "waterway": "drain",
       "wb_pb:id": "27061427"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-03-16T15:04:18Z",
-      "version": "4",
-      "changeset": "68205731",
-      "user": "vogelfreier",
-      "uid": "74746"
+      "timestamp": "2019-10-05T16:49:02Z",
+      "version": "5",
+      "changeset": "75323347",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -6260,19 +6260,19 @@
     "id": "725071160",
     "tags": {
       "highway": "unclassified",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568363449926.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568363587960.jpg",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568363449926.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568363587960.jpg",
       "is_in:village": "Rosoga",
       "name": "Rosoga-Kapchekut Sorti Road",
       "wb_pb:id": "34"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-09-21T09:52:52Z",
-      "version": "5",
-      "changeset": "74745190",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2019-10-05T04:46:11Z",
+      "version": "6",
+      "changeset": "75308560",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -6533,19 +6533,19 @@
     "id": "726132057",
     "tags": {
       "highway": "unclassified",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1570021313821.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1570021419395.jpg",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570021313821.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570021419395.jpg",
       "is_in:village": "Muserechi",
       "name": "Kapnaburuki Kapngasia Road",
       "wb_pb:id": "53"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-04T11:06:05Z",
-      "version": "2",
-      "changeset": "75276794",
-      "user": "Ernet",
-      "uid": "10269225"
+      "timestamp": "2019-10-05T04:46:11Z",
+      "version": "3",
+      "changeset": "75308560",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -6630,19 +6630,19 @@
     "id": "726132058",
     "tags": {
       "highway": "unclassified",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568790802827.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568790895337.jpg",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568790802827.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568790895337.jpg",
       "is_in:village": "Sagasagik",
       "name": "Emining Sagasagik Road",
       "wb_pb:id": "177"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-09-19T12:17:50Z",
-      "version": "1",
-      "changeset": "74669897",
-      "user": "Arap Kobilo",
-      "uid": "10269217"
+      "timestamp": "2019-10-05T04:46:11Z",
+      "version": "2",
+      "changeset": "75308560",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -7023,8 +7023,8 @@
     "id": "726146404",
     "tags": {
       "highway": "unclassified",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568812506945.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568812921681.jpg",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568812506945.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568812921681.jpg",
       "is_in:village": "Chepkoyo",
       "name": "Sirwa-Chepkoyo-Kipkigei Road",
       "operator:description": "County Government of Baringo",
@@ -7033,11 +7033,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-09-19T13:11:29Z",
-      "version": "1",
-      "changeset": "74672845",
-      "user": "Ernet",
-      "uid": "10269225"
+      "timestamp": "2019-10-05T04:46:11Z",
+      "version": "2",
+      "changeset": "75308560",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -7157,8 +7157,8 @@
     "type": "way",
     "id": "726146405",
     "tags": {
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568816264948.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568816606202.jpg",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568816264948.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568816606202.jpg",
       "is_in:village": "Kiptum",
       "name": "Kimngorom Dam",
       "operational_status": "operational",
@@ -7167,11 +7167,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-09-19T13:11:29Z",
-      "version": "1",
-      "changeset": "74672845",
-      "user": "Ernet",
-      "uid": "10269225"
+      "timestamp": "2019-10-05T04:46:11Z",
+      "version": "2",
+      "changeset": "75308560",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -7219,19 +7219,19 @@
     "type": "way",
     "id": "726153070",
     "tags": {
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568804106834.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568804573808.jpg",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568804106834.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568804573808.jpg",
       "is_in:village": "Mogotio",
       "name": "MogotioTown Tarmac",
       "wb_pb:id": "195"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-09-19T13:38:11Z",
-      "version": "1",
-      "changeset": "74674248",
-      "user": "Arap Kobilo",
-      "uid": "10269217"
+      "timestamp": "2019-10-05T04:46:11Z",
+      "version": "2",
+      "changeset": "75308560",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -7335,19 +7335,19 @@
     "type": "way",
     "id": "726153071",
     "tags": {
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568804106834.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568804573808.jpg",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568804106834.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568804573808.jpg",
       "is_in:village": "Mogotio",
       "name": "MogotioTown Tarmac",
       "wb_pb:id": "195"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-09-19T13:38:11Z",
-      "version": "1",
-      "changeset": "74674248",
-      "user": "Arap Kobilo",
-      "uid": "10269217"
+      "timestamp": "2019-10-05T04:46:11Z",
+      "version": "2",
+      "changeset": "75308560",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -7419,19 +7419,19 @@
     "type": "way",
     "id": "726153072",
     "tags": {
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568804106834.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568804573808.jpg",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568804106834.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568804573808.jpg",
       "is_in:village": "Mogotio",
       "name": "MogotioTown Tarmac",
       "wb_pb:id": "195"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-09-19T13:38:11Z",
-      "version": "1",
-      "changeset": "74674248",
-      "user": "Arap Kobilo",
-      "uid": "10269217"
+      "timestamp": "2019-10-05T04:46:11Z",
+      "version": "2",
+      "changeset": "75308560",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -7511,19 +7511,19 @@
     "type": "way",
     "id": "726153073",
     "tags": {
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568804106834.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568804573808.jpg",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568804106834.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568804573808.jpg",
       "is_in:village": "Ngubereti",
       "name": "Noiwet Muserechi Road",
       "wb_pb:id": "195"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-09-19T13:38:11Z",
-      "version": "1",
-      "changeset": "74674248",
-      "user": "Arap Kobilo",
-      "uid": "10269217"
+      "timestamp": "2019-10-05T04:46:11Z",
+      "version": "2",
+      "changeset": "75308560",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {

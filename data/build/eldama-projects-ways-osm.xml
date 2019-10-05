@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-10-05T04:46:01Z"/>
+<meta osm_base="2019-10-05T17:08:02Z"/>
 
   <bounds minlat="-0.0307000" minlon="35.6881000" maxlat="0.0852000" maxlon="35.7553000"/>
 
@@ -1398,7 +1398,7 @@
     <tag k="name" v="Eldama ravine market"/>
     <tag k="wb_pb:id" v="26964603"/>
   </way>
-  <way id="429074919" version="4" timestamp="2019-03-04T09:12:17Z" changeset="67759409" uid="74746" user="vogelfreier">
+  <way id="429074919" version="5" timestamp="2019-10-05T16:49:02Z" changeset="75323347" uid="999" user="mikelmaron">
     <nd ref="4281950005"/>
     <nd ref="6315678622"/>
     <nd ref="6315678623"/>
@@ -1422,7 +1422,7 @@
     <nd ref="4281950014"/>
     <nd ref="4281950005"/>
     <tag k="barrier" v="wall"/>
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607432208.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/429074919/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532607432208jpg/orig.jpg"/>
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital-Perimeter wall"/>
     <tag k="wb_pb:id" v="26663342"/>
   </way>
@@ -1683,7 +1683,7 @@
     <tag k="name" v="Nubian Road"/>
     <tag k="wb_pb:id" v="27046025"/>
   </way>
-  <way id="571404106" version="2" timestamp="2019-03-04T09:12:17Z" changeset="67759409" uid="74746" user="vogelfreier">
+  <way id="571404106" version="3" timestamp="2019-10-05T16:49:02Z" changeset="75323347" uid="999" user="mikelmaron">
     <nd ref="5491667116"/>
     <nd ref="5491667115"/>
     <nd ref="5491667114"/>
@@ -1694,7 +1694,7 @@
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
     <tag k="health_facility:referals" v="Eldoret Referral Hospital"/>
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/571404106/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532607265414jpg/orig.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
     <tag k="medical_service:immunizations" v="yes"/>
@@ -2257,7 +2257,7 @@
     <tag k="waterway" v="drain"/>
     <tag k="wb_pb:id" v="26921040"/>
   </way>
-  <way id="612915037" version="4" timestamp="2019-03-16T15:04:18Z" changeset="68205731" uid="74746" user="vogelfreier">
+  <way id="612915037" version="5" timestamp="2019-10-05T16:49:02Z" changeset="75323347" uid="999" user="mikelmaron">
     <nd ref="5800785520"/>
     <nd ref="5800785519"/>
     <nd ref="6341493550"/>
@@ -2267,7 +2267,7 @@
     <nd ref="5800785515"/>
     <nd ref="5800785514"/>
     <nd ref="6314630897"/>
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124766318.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/612915037/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1533124766318jpg/orig.jpg"/>
     <tag k="name" v="Eldama Ravine Drainage system"/>
     <tag k="waterway" v="drain"/>
     <tag k="wb_pb:id" v="27061427"/>

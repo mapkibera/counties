@@ -25,6 +25,8 @@ def url2file(url,file_name,cookies=None):
   except urllib2.HTTPError, err:
     print str(err.code) + " " + url
     return
+  except:
+    return
   myFile = open(file_name, 'w')
   myFile.write(rsp.read())
   myFile.close()

@@ -1,6 +1,6 @@
 <osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-10-05T04:46:01Z" />
+<meta osm_base="2019-10-05T17:08:02Z" />
 
   <bounds maxlat="0.0852000" maxlon="35.7553000" minlat="-0.0307000" minlon="35.6881000" />
 
@@ -1397,7 +1397,7 @@
     <tag k="name" v="Eldama ravine market" />
     <tag k="wb_pb:id" v="26964603" />
   </way>
-  <way action="modify" changeset="67759409" id="429074919" timestamp="2019-03-04T09:12:17Z" uid="74746" user="vogelfreier" version="4">
+  <way changeset="75323347" id="429074919" timestamp="2019-10-05T16:49:02Z" uid="999" user="mikelmaron" version="5">
     <nd ref="4281950005" />
     <nd ref="6315678622" />
     <nd ref="6315678623" />
@@ -1682,7 +1682,7 @@
     <tag k="name" v="Nubian Road" />
     <tag k="wb_pb:id" v="27046025" />
   </way>
-  <way action="modify" changeset="67759409" id="571404106" timestamp="2019-03-04T09:12:17Z" uid="74746" user="vogelfreier" version="2">
+  <way changeset="75323347" id="571404106" timestamp="2019-10-05T16:49:02Z" uid="999" user="mikelmaron" version="3">
     <nd ref="5491667116" />
     <nd ref="5491667115" />
     <nd ref="5491667114" />
@@ -2256,7 +2256,7 @@
     <tag k="waterway" v="drain" />
     <tag k="wb_pb:id" v="26921040" />
   </way>
-  <way action="modify" changeset="68205731" id="612915037" timestamp="2019-03-16T15:04:18Z" uid="74746" user="vogelfreier" version="4">
+  <way changeset="75323347" id="612915037" timestamp="2019-10-05T16:49:02Z" uid="999" user="mikelmaron" version="5">
     <nd ref="5800785520" />
     <nd ref="5800785519" />
     <nd ref="6341493550" />

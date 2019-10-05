@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-10-05T04:46:01Z"/>
+<meta osm_base="2019-10-05T17:09:02Z"/>
 
   <bounds minlat="-0.0816000" minlon="35.6889000" maxlat="0.2642000" maxlon="35.9805000"/>
 
@@ -1789,7 +1789,7 @@
     <tag k="name" v="Eldama ravine market"/>
     <tag k="wb_pb:id" v="26964603"/>
   </way>
-  <way id="429074919" version="4" timestamp="2019-03-04T09:12:17Z" changeset="67759409" uid="74746" user="vogelfreier">
+  <way id="429074919" version="5" timestamp="2019-10-05T16:49:02Z" changeset="75323347" uid="999" user="mikelmaron">
     <nd ref="4281950005"/>
     <nd ref="6315678622"/>
     <nd ref="6315678623"/>
@@ -1813,7 +1813,7 @@
     <nd ref="4281950014"/>
     <nd ref="4281950005"/>
     <tag k="barrier" v="wall"/>
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607432208.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/429074919/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532607432208jpg/orig.jpg"/>
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital-Perimeter wall"/>
     <tag k="wb_pb:id" v="26663342"/>
   </way>
@@ -2074,7 +2074,7 @@
     <tag k="name" v="Nubian Road"/>
     <tag k="wb_pb:id" v="27046025"/>
   </way>
-  <way id="571404106" version="2" timestamp="2019-03-04T09:12:17Z" changeset="67759409" uid="74746" user="vogelfreier">
+  <way id="571404106" version="3" timestamp="2019-10-05T16:49:02Z" changeset="75323347" uid="999" user="mikelmaron">
     <nd ref="5491667116"/>
     <nd ref="5491667115"/>
     <nd ref="5491667114"/>
@@ -2085,7 +2085,7 @@
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
     <tag k="health_facility:referals" v="Eldoret Referral Hospital"/>
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/571404106/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532607265414jpg/orig.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
     <tag k="medical_service:immunizations" v="yes"/>
@@ -2648,7 +2648,7 @@
     <tag k="waterway" v="drain"/>
     <tag k="wb_pb:id" v="26921040"/>
   </way>
-  <way id="612915037" version="4" timestamp="2019-03-16T15:04:18Z" changeset="68205731" uid="74746" user="vogelfreier">
+  <way id="612915037" version="5" timestamp="2019-10-05T16:49:02Z" changeset="75323347" uid="999" user="mikelmaron">
     <nd ref="5800785520"/>
     <nd ref="5800785519"/>
     <nd ref="6341493550"/>
@@ -2658,7 +2658,7 @@
     <nd ref="5800785515"/>
     <nd ref="5800785514"/>
     <nd ref="6314630897"/>
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124766318.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/612915037/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1533124766318jpg/orig.jpg"/>
     <tag k="name" v="Eldama Ravine Drainage system"/>
     <tag k="waterway" v="drain"/>
     <tag k="wb_pb:id" v="27061427"/>
@@ -2962,35 +2962,35 @@
     <tag k="surface" v="asphalt"/>
     <tag k="wb_pb:id" v="26907408"/>
   </way>
-  <way id="723781190" version="1" timestamp="2019-09-11T12:44:55Z" changeset="74353049" uid="10269217" user="Arap Kobilo">
+  <way id="723781190" version="2" timestamp="2019-10-05T04:46:11Z" changeset="75308560" uid="999" user="mikelmaron">
     <nd ref="6788216970"/>
     <nd ref="6788216969"/>
     <nd ref="6788216968"/>
     <nd ref="6788216967"/>
     <nd ref="6788216970"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568022413337.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568022854738.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568022413337.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568022854738.jpg"/>
     <tag k="is_in:village" v="Igonwo"/>
     <tag k="landuse" v="livestock_dip"/>
     <tag k="man_made" v="livestock_dip"/>
     <tag k="name" v="Igonwo Cattle Dip"/>
     <tag k="wb_pb:id" v="33"/>
   </way>
-  <way id="725033996" version="1" timestamp="2019-09-16T10:09:09Z" changeset="74522263" uid="10269217" user="Arap Kobilo">
+  <way id="725033996" version="2" timestamp="2019-10-05T04:46:11Z" changeset="75308560" uid="999" user="mikelmaron">
     <nd ref="6799017386"/>
     <nd ref="6799017485"/>
     <nd ref="6799017385"/>
     <nd ref="6799017185"/>
     <nd ref="6799017386"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568038202969.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568038697470.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568038202969.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568038697470.jpg"/>
     <tag k="is_in:village" v="Kaburgei"/>
     <tag k="landuse" v="livestock_dip"/>
     <tag k="man_made" v="livestock_dip"/>
     <tag k="name" v="Kaburgei Cattle Dip"/>
     <tag k="wb_pb:id" v="40"/>
   </way>
-  <way id="725034003" version="1" timestamp="2019-09-16T10:09:19Z" changeset="74522263" uid="10269217" user="Arap Kobilo">
+  <way id="725034003" version="2" timestamp="2019-10-05T04:46:11Z" changeset="75308560" uid="999" user="mikelmaron">
     <nd ref="6799017387"/>
     <nd ref="6799018398"/>
     <nd ref="6799018495"/>
@@ -3002,14 +3002,14 @@
     <nd ref="6799018396"/>
     <nd ref="6799018395"/>
     <nd ref="6799017387"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568036929222.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568036490919.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568036929222.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568036490919.jpg"/>
     <tag k="is_in:village" v="Kaburgei"/>
     <tag k="leisure" v="stadium"/>
     <tag k="name" v="Sirwa Athletic Camp"/>
     <tag k="wb_pb:id" v="51"/>
   </way>
-  <way id="725071160" version="5" timestamp="2019-09-21T09:52:52Z" changeset="74745190" uid="616774" user="mueschel">
+  <way id="725071160" version="6" timestamp="2019-10-05T04:46:11Z" changeset="75308560" uid="999" user="mikelmaron">
     <nd ref="6477618502"/>
     <nd ref="6799335389"/>
     <nd ref="6799293700"/>
@@ -3072,26 +3072,26 @@
     <nd ref="6799279104"/>
     <nd ref="6799335098"/>
     <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568363449926.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568363587960.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568363449926.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568363587960.jpg"/>
     <tag k="is_in:village" v="Rosoga"/>
     <tag k="name" v="Rosoga-Kapchekut Sorti Road"/>
     <tag k="wb_pb:id" v="34"/>
   </way>
-  <way id="725094468" version="1" timestamp="2019-09-16T13:56:11Z" changeset="74534266" uid="10269217" user="Arap Kobilo">
+  <way id="725094468" version="2" timestamp="2019-10-05T04:46:11Z" changeset="75308560" uid="999" user="mikelmaron">
     <nd ref="6799533350"/>
     <nd ref="6799533349"/>
     <nd ref="6799533348"/>
     <nd ref="6799533347"/>
     <nd ref="6799533350"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568281391593.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568281640933.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568281391593.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568281640933.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="Mogotio Playing Field"/>
     <tag k="wb_pb:id" v="24"/>
   </way>
-  <way id="725095031" version="1" timestamp="2019-09-16T13:58:40Z" changeset="74534411" uid="10269225" user="Ernet">
+  <way id="725095031" version="2" timestamp="2019-10-05T04:46:11Z" changeset="75308560" uid="999" user="mikelmaron">
     <nd ref="6799549392"/>
     <nd ref="6799549391"/>
     <nd ref="6799549390"/>
@@ -3123,8 +3123,8 @@
     <nd ref="6799544964"/>
     <nd ref="6799549392"/>
     <tag k="dam:type" v="earth_dam"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568272924312.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568273311441.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568272924312.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568273311441.jpg"/>
     <tag k="is_in:village" v="Kapsuswa"/>
     <tag k="name" v="Kapnaburuki Dam"/>
     <tag k="operational_status" v="operational"/>
@@ -3132,21 +3132,21 @@
     <tag k="waterway" v="dam"/>
     <tag k="wb_pb:id" v="57"/>
   </way>
-  <way id="725118358" version="2" timestamp="2019-09-16T15:05:34Z" changeset="74538076" uid="10269217" user="Arap Kobilo">
+  <way id="725118358" version="3" timestamp="2019-10-05T04:46:11Z" changeset="75308560" uid="999" user="mikelmaron">
     <nd ref="6799722793"/>
     <nd ref="6799746386"/>
     <nd ref="6799746385"/>
     <nd ref="6799746085"/>
     <nd ref="6799722793"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568366310469.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568366537526.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568366310469.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568366537526.jpg"/>
     <tag k="is_in:village" v="Ngusero"/>
     <tag k="landuse" v="livestock_dip"/>
     <tag k="man_made" v="livestock_dip"/>
     <tag k="name" v="Ngusero Cattle Dip"/>
     <tag k="wb_pb:id" v="32"/>
   </way>
-  <way id="726132057" version="2" timestamp="2019-10-04T11:06:05Z" changeset="75276794" uid="10269225" user="Ernet">
+  <way id="726132057" version="3" timestamp="2019-10-05T04:46:11Z" changeset="75308560" uid="999" user="mikelmaron">
     <nd ref="6807867946"/>
     <nd ref="6807867947"/>
     <nd ref="6807867948"/>
@@ -3165,13 +3165,13 @@
     <nd ref="6807867961"/>
     <nd ref="6487998329"/>
     <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1570021313821.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1570021419395.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570021313821.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570021419395.jpg"/>
     <tag k="is_in:village" v="Muserechi"/>
     <tag k="name" v="Kapnaburuki Kapngasia Road"/>
     <tag k="wb_pb:id" v="53"/>
   </way>
-  <way id="726132058" version="1" timestamp="2019-09-19T12:17:50Z" changeset="74669897" uid="10269217" user="Arap Kobilo">
+  <way id="726132058" version="2" timestamp="2019-10-05T04:46:11Z" changeset="75308560" uid="999" user="mikelmaron">
     <nd ref="6807909321"/>
     <nd ref="6807909320"/>
     <nd ref="6807909319"/>
@@ -3264,13 +3264,13 @@
     <nd ref="6807909351"/>
     <nd ref="6807909352"/>
     <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568790802827.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568790895337.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568790802827.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568790895337.jpg"/>
     <tag k="is_in:village" v="Sagasagik"/>
     <tag k="name" v="Emining Sagasagik Road"/>
     <tag k="wb_pb:id" v="177"/>
   </way>
-  <way id="726146404" version="1" timestamp="2019-09-19T13:11:29Z" changeset="74672845" uid="10269225" user="Ernet">
+  <way id="726146404" version="2" timestamp="2019-10-05T04:46:11Z" changeset="75308560" uid="999" user="mikelmaron">
     <nd ref="6807997564"/>
     <nd ref="6807997563"/>
     <nd ref="6807997562"/>
@@ -3298,15 +3298,15 @@
     <nd ref="6807997540"/>
     <nd ref="6807997539"/>
     <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568812506945.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568812921681.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568812506945.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568812921681.jpg"/>
     <tag k="is_in:village" v="Chepkoyo"/>
     <tag k="name" v="Sirwa-Chepkoyo-Kipkigei Road"/>
     <tag k="operator:description" v="County Government of Baringo"/>
     <tag k="operator:type" v="government"/>
     <tag k="wb_pb:id" v="42"/>
   </way>
-  <way id="726146405" version="1" timestamp="2019-09-19T13:11:29Z" changeset="74672845" uid="10269225" user="Ernet">
+  <way id="726146405" version="2" timestamp="2019-10-05T04:46:11Z" changeset="75308560" uid="999" user="mikelmaron">
     <nd ref="6807997571"/>
     <nd ref="6807997570"/>
     <nd ref="6807997569"/>
@@ -3315,15 +3315,15 @@
     <nd ref="6807997566"/>
     <nd ref="6807997565"/>
     <nd ref="6807997571"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568816264948.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568816606202.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568816264948.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568816606202.jpg"/>
     <tag k="is_in:village" v="Kiptum"/>
     <tag k="name" v="Kimngorom Dam"/>
     <tag k="operational_status" v="operational"/>
     <tag k="operator:funding" v="County Government of Baringo"/>
     <tag k="wb_pb:id" v="70"/>
   </way>
-  <way id="726153070" version="1" timestamp="2019-09-19T13:38:11Z" changeset="74674248" uid="10269217" user="Arap Kobilo">
+  <way id="726153070" version="2" timestamp="2019-10-05T04:46:11Z" changeset="75308560" uid="999" user="mikelmaron">
     <nd ref="6808047665"/>
     <nd ref="6808047656"/>
     <nd ref="6808047655"/>
@@ -3346,13 +3346,13 @@
     <nd ref="6808047638"/>
     <nd ref="6808047637"/>
     <nd ref="6808047636"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568804106834.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568804573808.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568804106834.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568804573808.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="name" v="MogotioTown Tarmac"/>
     <tag k="wb_pb:id" v="195"/>
   </way>
-  <way id="726153071" version="1" timestamp="2019-09-19T13:38:11Z" changeset="74674248" uid="10269217" user="Arap Kobilo">
+  <way id="726153071" version="2" timestamp="2019-10-05T04:46:11Z" changeset="75308560" uid="999" user="mikelmaron">
     <nd ref="6808047682"/>
     <nd ref="6808047669"/>
     <nd ref="6808047668"/>
@@ -3367,13 +3367,13 @@
     <nd ref="6808047659"/>
     <nd ref="6808047658"/>
     <nd ref="6808047657"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568804106834.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568804573808.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568804106834.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568804573808.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="name" v="MogotioTown Tarmac"/>
     <tag k="wb_pb:id" v="195"/>
   </way>
-  <way id="726153072" version="1" timestamp="2019-09-19T13:38:11Z" changeset="74674248" uid="10269217" user="Arap Kobilo">
+  <way id="726153072" version="2" timestamp="2019-10-05T04:46:11Z" changeset="75308560" uid="999" user="mikelmaron">
     <nd ref="6808083385"/>
     <nd ref="6808047684"/>
     <nd ref="6808047683"/>
@@ -3390,13 +3390,13 @@
     <nd ref="6808047672"/>
     <nd ref="6808047671"/>
     <nd ref="6808047670"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568804106834.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568804573808.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568804106834.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568804573808.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="name" v="MogotioTown Tarmac"/>
     <tag k="wb_pb:id" v="195"/>
   </way>
-  <way id="726153073" version="1" timestamp="2019-09-19T13:38:11Z" changeset="74674248" uid="10269217" user="Arap Kobilo">
+  <way id="726153073" version="2" timestamp="2019-10-05T04:46:11Z" changeset="75308560" uid="999" user="mikelmaron">
     <nd ref="6808083457"/>
     <nd ref="6808083456"/>
     <nd ref="6808083455"/>
@@ -3469,13 +3469,13 @@
     <nd ref="6808083396"/>
     <nd ref="6808083395"/>
     <nd ref="6808083394"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568804106834.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568804573808.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568804106834.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568804573808.jpg"/>
     <tag k="is_in:village" v="Ngubereti"/>
     <tag k="name" v="Noiwet Muserechi Road"/>
     <tag k="wb_pb:id" v="195"/>
   </way>
-  <way id="731560947" version="1" timestamp="2019-10-04T11:06:05Z" changeset="75276794" uid="10269225" user="Ernet">
+  <way id="731560947" version="2" timestamp="2019-10-05T04:46:11Z" changeset="75308560" uid="999" user="mikelmaron">
     <nd ref="6851133547"/>
     <nd ref="6851133546"/>
     <nd ref="6851133545"/>
@@ -3490,8 +3490,8 @@
     <nd ref="6851133536"/>
     <nd ref="6851133547"/>
     <tag k="dam:type" v="earth_dam"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1569941188786.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1569941369691.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569941188786.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569941369691.jpg"/>
     <tag k="is_in:village" v="Olmarai"/>
     <tag k="name" v="Ngenypoteweret Dam"/>
     <tag k="operational_status" v="operational"/>

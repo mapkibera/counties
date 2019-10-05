@@ -1,6 +1,6 @@
 <osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-10-05T04:46:01Z" />
+<meta osm_base="2019-10-05T17:07:02Z" />
 
   <bounds maxlat="0.6160000" maxlon="36.0540000" minlat="0.2520000" minlon="35.7760000" />
 
@@ -130,7 +130,7 @@
     <tag k="sport" v="soccer" />
     <tag k="wb_pb:id" v="234" />
   </way>
-  <way action="modify" changeset="75308375" id="724887372" timestamp="2019-10-05T04:21:51Z" uid="999" user="mikelmaron" version="2">
+  <way changeset="75323328" id="724887372" timestamp="2019-10-05T16:48:13Z" uid="999" user="mikelmaron" version="3">
     <nd ref="6798389720" />
     <nd ref="6798389719" />
     <nd ref="6798389718" />
@@ -189,7 +189,7 @@
     <tag k="place" v="farm" />
     <tag k="wb_pb:id" v="89" />
   </way>
-  <way action="modify" changeset="75308375" id="725071557" timestamp="2019-10-05T04:21:51Z" uid="999" user="mikelmaron" version="3">
+  <way changeset="75323328" id="725071557" timestamp="2019-10-05T16:48:13Z" uid="999" user="mikelmaron" version="4">
     <nd ref="6799316010" />
     <nd ref="6799316009" />
     <nd ref="6799316008" />
@@ -203,7 +203,7 @@
     <tag k="name" v="Kapkiruk Cattle Dip" />
     <tag k="wb_pb:id" v="162" />
   </way>
-  <way action="modify" changeset="75308375" id="725084564" timestamp="2019-10-05T04:21:51Z" uid="999" user="mikelmaron" version="3">
+  <way changeset="75323328" id="725084564" timestamp="2019-10-05T16:48:13Z" uid="999" user="mikelmaron" version="4">
     <nd ref="6799444261" />
     <nd ref="6799444260" />
     <nd ref="6799444259" />
@@ -235,7 +235,7 @@
     <tag k="waterway" v="dam" />
     <tag k="wb_pb:id" v="95" />
   </way>
-  <way action="modify" changeset="75308375" id="726063006" timestamp="2019-10-05T04:21:51Z" uid="999" user="mikelmaron" version="2">
+  <way changeset="75323328" id="726063006" timestamp="2019-10-05T16:48:13Z" uid="999" user="mikelmaron" version="3">
     <nd ref="6807332141" />
     <nd ref="6807332140" />
     <nd ref="6807332139" />
@@ -249,7 +249,7 @@
     <tag k="other_agriculture" v="Livestock Water Trough" />
     <tag k="wb_pb:id" v="101" />
   </way>
-  <way action="modify" changeset="75308375" id="726063007" timestamp="2019-10-05T04:21:51Z" uid="999" user="mikelmaron" version="2">
+  <way changeset="75323328" id="726063007" timestamp="2019-10-05T16:48:13Z" uid="999" user="mikelmaron" version="3">
     <nd ref="6807332145" />
     <nd ref="6807332144" />
     <nd ref="6807332143" />
@@ -263,7 +263,7 @@
     <tag k="other_agriculture" v="Livestock Water Trough" />
     <tag k="wb_pb:id" v="102" />
   </way>
-  <way action="modify" changeset="75308375" id="726069522" timestamp="2019-10-05T04:21:51Z" uid="999" user="mikelmaron" version="3">
+  <way changeset="75323328" id="726069522" timestamp="2019-10-05T16:48:13Z" uid="999" user="mikelmaron" version="4">
     <nd ref="6807342573" />
     <nd ref="6807342572" />
     <nd ref="6807342571" />

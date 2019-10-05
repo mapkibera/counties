@@ -1,6 +1,6 @@
 <osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-10-05T04:47:02Z" />
+<meta osm_base="2019-10-05T17:10:01Z" />
 
   <bounds maxlat="-1.7500000" maxlon="37.6769000" minlat="-1.8581000" minlon="37.5188000" />
 
@@ -141,7 +141,7 @@
     <tag k="wb_pb:id" v="21641214" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="68015996" id="5588006388" lat="-1.7813489" lon="37.6183606" timestamp="2019-03-11T10:01:01Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5588006388" lat="-1.7813489" lon="37.6183606" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="drinking_water" />
     <tag k="fee" v="0.400000" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588006388/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524473117405jpg/orig.jpg" />
@@ -152,7 +152,7 @@
     <tag k="village" v="Westlands" />
     <tag k="wb_pb:id" v="21640723" />
   </node>
-  <node action="modify" changeset="58812882" id="5588006389" lat="-1.7818694" lon="37.6242741" timestamp="2018-05-09T09:14:19Z" uid="261050" user="muindre" version="4">
+  <node changeset="75323440" id="5588006389" lat="-1.7818694" lon="37.6242741" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="amenity" v="shelter" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588006389/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524478087147jpg/orig.jpg" />
     <tag k="name" v="Bodaboda Shed opposite Ngooni Hyper" />
@@ -172,7 +172,7 @@
     <tag k="wb_pb:id" v="21641241" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="60404750" id="5588006391" lat="-1.7790117" lon="37.6269325" timestamp="2018-07-04T10:38:25Z" uid="345975" user="VlIvYur" version="4">
+  <node changeset="75323440" id="5588006391" lat="-1.7790117" lon="37.6269325" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="amenity" v="toilets" />
     <tag k="fee" v="no" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588006391/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524482825059jpg/orig.jpg" />
@@ -185,7 +185,7 @@
     <tag k="village" v="Westlands" />
     <tag k="wb_pb:id" v="21641266" />
   </node>
-  <node action="modify" changeset="60404750" id="5588006393" lat="-1.7799458" lon="37.6262550" timestamp="2018-07-04T10:38:25Z" uid="345975" user="VlIvYur" version="4">
+  <node changeset="75323440" id="5588006393" lat="-1.7799458" lon="37.6262550" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="amenity" v="drinking_water" />
     <tag k="charge" v="0.4/litre" />
     <tag k="fee" v="yes" />
@@ -197,7 +197,7 @@
     <tag k="village" v="Westlands" />
     <tag k="wb_pb:id" v="21641291" />
   </node>
-  <node action="modify" changeset="68059701" id="5588006394" lat="-1.7812386" lon="37.6269610" timestamp="2019-03-12T12:08:11Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5588006394" lat="-1.7812386" lon="37.6269610" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="shelter" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588006394/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524484031661jpg/orig.jpg" />
     <tag k="name" v="Bodaboda Shed opposite Co-operative Bank" />
@@ -219,7 +219,7 @@
     <tag k="village" v="Westlands" />
     <tag k="wb_pb:id" v="21641300" />
   </node>
-  <node action="modify" changeset="60404750" id="5588006397" lat="-1.7823600" lon="37.6286867" timestamp="2018-07-04T10:38:25Z" uid="345975" user="VlIvYur" version="3">
+  <node changeset="75323440" id="5588006397" lat="-1.7823600" lon="37.6286867" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="drinking_water" />
     <tag k="charge" v="0.4/litre" />
     <tag k="fee" v="yes" />
@@ -254,7 +254,7 @@
     <tag k="village" v="Wote" />
     <tag k="wb_pb:id" v="21641429" />
   </node>
-  <node action="modify" changeset="60404750" id="5588006400" lat="-1.7825733" lon="37.6285092" timestamp="2018-07-04T10:38:25Z" uid="345975" user="VlIvYur" version="4">
+  <node changeset="75323440" id="5588006400" lat="-1.7825733" lon="37.6285092" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="amenity" v="toilets" />
     <tag k="fee" v="no" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588006400/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524485220697jpg/orig.jpg" />
@@ -276,7 +276,7 @@
     <tag k="village" v="Shimo" />
     <tag k="wb_pb:id" v="21641467" />
   </node>
-  <node action="modify" changeset="68060991" id="5588006403" lat="-1.7870600" lon="37.6287400" timestamp="2019-03-12T12:46:05Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5588006403" lat="-1.7870600" lon="37.6287400" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="drinking_water" />
     <tag k="fee" v="0.400000" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588006403/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524487481067jpg/orig.jpg" />
@@ -309,7 +309,7 @@
     <tag k="village" v="Westlands" />
     <tag k="wb_pb:id" v="21640709" />
   </node>
-  <node action="modify" changeset="68016894" id="5588006406" lat="-1.8010096" lon="37.6244880" timestamp="2019-03-11T10:31:23Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5588006406" lat="-1.8010096" lon="37.6244880" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="drinking_water" />
     <tag k="fee" v="0.400000" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588006406/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524490428834jpg/orig.jpg" />
@@ -349,7 +349,7 @@
     <tag k="village" v="Unoa Urban" />
     <tag k="wb_pb:id" v="21641587" />
   </node>
-  <node action="modify" changeset="58872036" id="5588098785" lat="-1.7845475" lon="37.6188367" timestamp="2018-05-11T08:49:50Z" uid="4570042" user="Peter Agenga" version="2">
+  <node changeset="75323440" id="5588098785" lat="-1.7845475" lon="37.6188367" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="community_centre" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588098785/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524650106746jpg/orig.jpg" />
     <tag k="name" v="Persons with Disabilities Centre" />
@@ -389,7 +389,7 @@
     <tag k="wb_pb:id" v="21746376" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="58872528" id="5588098789" lat="-1.7779817" lon="37.6283742" timestamp="2018-05-11T09:08:09Z" uid="4570042" user="Peter Agenga" version="2">
+  <node changeset="75323440" id="5588098789" lat="-1.7779817" lon="37.6283742" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588098789/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524640449014jpg/orig.jpg" />
     <tag k="name" v="Kasarani Boda boda Shed" />
     <tag k="opening_hours" v="24/7" />
@@ -399,7 +399,7 @@
     <tag k="wb_pb:id" v="21745569" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="58870002" id="5588098790" lat="-1.7787083" lon="37.6270233" timestamp="2018-05-11T07:35:56Z" uid="265690" user="fondolucy" version="2">
+  <node changeset="75323440" id="5588098790" lat="-1.7787083" lon="37.6270233" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="social_facility" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588098790/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524641013983jpg/orig.jpg" />
     <tag k="name" v="Boda boda Shed Opposite Jimeli Supermarket" />
@@ -419,7 +419,7 @@
     <tag k="wb_pb:id" v="21746414" />
     <tag k="wheelchair" v="limited" />
   </node>
-  <node action="modify" changeset="62850381" id="5588098792" lat="-1.7791575" lon="37.6269092" timestamp="2018-09-23T13:16:13Z" uid="616774" user="mueschel" version="3">
+  <node changeset="75323440" id="5588098792" lat="-1.7791575" lon="37.6269092" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="social_facility" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588098792/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524641436372jpg/orig.jpg" />
     <tag k="is_in:village" v="Kasarani" />
@@ -429,7 +429,7 @@
     <tag k="wb_pb:id" v="21745625" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="58872036" id="5588098793" lat="-1.7875025" lon="37.6262183" timestamp="2018-05-11T08:49:51Z" uid="4570042" user="Peter Agenga" version="2">
+  <node changeset="75323440" id="5588098793" lat="-1.7875025" lon="37.6262183" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="college" />
     <tag k="gender_type" v="mixed" />
     <tag k="governement_registered" v="moe" />
@@ -450,7 +450,7 @@
     <tag k="wb_pb:id" v="21746462" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="58872036" id="5588098795" lat="-1.7873967" lon="37.6269089" timestamp="2018-05-11T08:49:51Z" uid="4570042" user="Peter Agenga" version="2">
+  <node changeset="75323440" id="5588098795" lat="-1.7873967" lon="37.6269089" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588098795/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524653902935jpg/orig.jpg" />
     <tag k="name" v="First ladys office" />
     <tag k="office" v="administrative" />
@@ -471,7 +471,7 @@
     <tag k="village" v="Westlands" />
     <tag k="wb_pb:id" v="21746565" />
   </node>
-  <node action="modify" changeset="62848596" id="5588098797" lat="-1.7920573" lon="37.5984150" timestamp="2018-09-23T12:05:08Z" uid="616774" user="mueschel" version="2">
+  <node changeset="75323440" id="5588098797" lat="-1.7920573" lon="37.5984150" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="school" />
     <tag k="gender" v="mixed" />
     <tag k="government_registered" v="moe" />
@@ -493,7 +493,7 @@
     <tag k="wb_pb:id" v="21745649" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="61821121" id="5588098799" lat="-1.7833950" lon="37.6291408" timestamp="2018-08-20T12:07:42Z" uid="8556619" user="kbizz" version="4">
+  <node changeset="75323440" id="5588098799" lat="-1.7833950" lon="37.6291408" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588098799/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524644731444jpg/orig.jpg" />
     <tag k="name" v="Community Information Centre" />
     <tag k="office" v="telecommunication" />
@@ -501,7 +501,7 @@
     <tag k="wb_pb:id" v="21745797" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="61821121" id="5588098800" lat="-1.7831758" lon="37.6292058" timestamp="2018-08-20T12:07:42Z" uid="8556619" user="kbizz" version="3">
+  <node changeset="75323440" id="5588098800" lat="-1.7831758" lon="37.6292058" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588098800/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524645334060jpg/orig.jpg" />
     <tag k="name" v="Sub Ward Administrators Office" />
     <tag k="office" v="administrative" />
@@ -510,7 +510,7 @@
     <tag k="wb_pb:id" v="21745918" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="68016233" id="5588098801" lat="-1.8067942" lon="37.6199642" timestamp="2019-03-11T10:10:15Z" uid="261050" user="muindre" version="4">
+  <node changeset="75323440" id="5588098801" lat="-1.8067942" lon="37.6199642" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="addr:city" v="Unoa" />
     <tag k="description" v="Deputy Governor Residence" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588098801/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524660296618jpg/orig.jpg" />
@@ -528,7 +528,7 @@
     <tag k="wb_pb:id" v="21745757" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="59956151" id="5588098803" lat="-1.8002125" lon="37.6246850" timestamp="2018-06-18T20:24:36Z" uid="999" user="mikelmaron" version="3">
+  <node changeset="75323440" id="5588098803" lat="-1.8002125" lon="37.6246850" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="addr:city" v="Unoa urban" />
     <tag k="description" v="Fitness centre" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588098803/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524660987380jpg/orig.jpg" />
@@ -547,14 +547,14 @@
     <tag k="wb_pb:id" v="21746703" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="61821121" id="5588098805" lat="-1.7832583" lon="37.6290117" timestamp="2018-08-20T12:07:43Z" uid="8556619" user="kbizz" version="3">
+  <node changeset="75323440" id="5588098805" lat="-1.7832583" lon="37.6290117" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588098805/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524645909621jpg/orig.jpg" />
     <tag k="name" v="Wote Water and Sewerage Company Limited" />
     <tag k="office" v="government" />
     <tag k="wb_pb:id" v="21746120" />
     <tag k="wheelchair" v="limited" />
   </node>
-  <node action="modify" changeset="59956151" id="5588098806" lat="-1.8005483" lon="37.6243492" timestamp="2018-06-18T20:24:36Z" uid="999" user="mikelmaron" version="3">
+  <node changeset="75323440" id="5588098806" lat="-1.8005483" lon="37.6243492" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="addr:city" v="Unoa urban" />
     <tag k="description" v="Prefab office - map" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588098806/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524661234663jpg/orig.jpg" />
@@ -564,7 +564,7 @@
     <tag k="wb_pb:id" v="21747152" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="58817917" id="5588098807" lat="-1.7827011" lon="37.6281522" timestamp="2018-05-09T12:19:21Z" uid="265690" user="fondolucy" version="2">
+  <node changeset="75323440" id="5588098807" lat="-1.7827011" lon="37.6281522" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="shelter" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588098807/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524646704237jpg/orig.jpg" />
     <tag k="name" v="Bods boda shed at the hospital gate" />
@@ -575,7 +575,7 @@
     <tag k="wb_pb:id" v="21746173" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="59956151" id="5588098808" lat="-1.8011233" lon="37.6237275" timestamp="2018-06-18T20:24:35Z" uid="999" user="mikelmaron" version="3">
+  <node changeset="75323440" id="5588098808" lat="-1.8011233" lon="37.6237275" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="addr:city" v="Unoa urban" />
     <tag k="amenity" v="studio" />
     <tag k="description" v="Community Radio Station" />
@@ -585,7 +585,7 @@
     <tag k="wb_pb:id" v="21747235" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="58812882" id="5588098809" lat="-1.7824669" lon="37.6264017" timestamp="2018-05-09T09:14:19Z" uid="261050" user="muindre" version="4">
+  <node changeset="75323440" id="5588098809" lat="-1.7824669" lon="37.6264017" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="amenity" v="shelter" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588098809/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524647002553jpg/orig.jpg" />
     <tag k="name" v="Boda boda Shed opposite Kapeo Petrol Station" />
@@ -595,7 +595,7 @@
     <tag k="wb_pb:id" v="21746207" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="59956151" id="5588098810" lat="-1.7943900" lon="37.6163242" timestamp="2018-06-18T20:24:35Z" uid="999" user="mikelmaron" version="3">
+  <node changeset="75323440" id="5588098810" lat="-1.7943900" lon="37.6163242" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="addr:city" v="Unoa urban" />
     <tag k="description" v="Governor's Residence" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588098810/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524662522272jpg/orig.jpg" />
@@ -649,7 +649,7 @@
     <tag k="village" v="Muthyoi" />
     <tag k="wb_pb:id" v="21642262" />
   </node>
-  <node action="modify" changeset="58845153" id="5588128980" lat="-1.8389900" lon="37.5471017" timestamp="2018-05-10T10:14:41Z" uid="261050" user="muindre" version="2">
+  <node changeset="75323440" id="5588128980" lat="-1.8389900" lon="37.5471017" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="school" />
     <tag k="gender_type" v="mixed" />
     <tag k="governement_registered" v="moe" />
@@ -672,7 +672,7 @@
     <tag k="village" v="Lower Kitheini" />
     <tag k="wb_pb:id" v="21642163" />
   </node>
-  <node action="modify" changeset="62848596" id="5588128982" lat="-1.8231183" lon="37.5368250" timestamp="2018-09-23T12:05:08Z" uid="616774" user="mueschel" version="2">
+  <node changeset="75323440" id="5588128982" lat="-1.8231183" lon="37.5368250" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="school" />
     <tag k="gender" v="mixed" />
     <tag k="government_registered" v="moe" />
@@ -692,7 +692,7 @@
     <tag k="village" v="Lower kitheini" />
     <tag k="wb_pb:id" v="21642120" />
   </node>
-  <node action="modify" changeset="58845153" id="5588128984" lat="-1.8428700" lon="37.5375633" timestamp="2018-05-10T10:14:42Z" uid="261050" user="muindre" version="2">
+  <node changeset="75323440" id="5588128984" lat="-1.8428700" lon="37.5375633" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="cost_per_litre" v="0" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588128984/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524484613029jpg/orig.jpg" />
     <tag k="man_made" v="water_well" />
@@ -798,7 +798,7 @@
     <tag k="wb_pb:id" v="21641899" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="66596133" id="5588163884" lat="-1.7841725" lon="37.6278361" timestamp="2019-01-24T10:04:14Z" uid="6318104" user="DingoKG" version="4">
+  <node changeset="75323440" id="5588163884" lat="-1.7841725" lon="37.6278361" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="addr:city" v="Wote" />
     <tag k="addr:street" v="Wote-Makindu Road" />
     <tag k="amenity" v="hospital" />
@@ -860,7 +860,7 @@
     <tag k="wb_pb:id" v="21642124" />
     <tag k="wheelchair" v="Yes" />
   </node>
-  <node action="modify" changeset="68015695" id="5588163892" lat="-1.7754013" lon="37.5982587" timestamp="2019-03-11T09:49:37Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5588163892" lat="-1.7754013" lon="37.5982587" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="Village" v="Nguvuna" />
     <tag k="amenity" v="school" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588163892/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524489846694jpg/orig.jpg" />
@@ -888,7 +888,7 @@
     <tag k="village" v="Nziu" />
     <tag k="wb_pb:id" v="21748165" />
   </node>
-  <node action="modify" changeset="58814802" id="5588170686" lat="-1.8155817" lon="37.5372217" timestamp="2018-05-09T10:09:37Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5588170686" lat="-1.8155817" lon="37.5372217" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="hospital" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588170686/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524643090067jpg/orig.jpg" />
     <tag k="name" v="Nziu Health Centre -Maternity wing" />
@@ -917,7 +917,7 @@
     <tag k="village" v="Nziu" />
     <tag k="wb_pb:id" v="21748465" />
   </node>
-  <node action="modify" changeset="58814802" id="5588170689" lat="-1.8152517" lon="37.5372883" timestamp="2018-05-09T10:09:38Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5588170689" lat="-1.8152517" lon="37.5372883" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="building" v="residential" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588170689/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524643422047jpg/orig.jpg" />
     <tag k="name" v="Nziu Health Centre Staff Quarters" />
@@ -934,7 +934,7 @@
     <tag k="wb_pb:id" v="21749093" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="58814802" id="5588170691" lat="-1.8164533" lon="37.5392450" timestamp="2018-05-09T10:09:38Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5588170691" lat="-1.8164533" lon="37.5392450" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="cost_per_litre" v="0.250000" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588170691/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524652664243jpg/orig.jpg" />
     <tag k="man_made" v="water_well" />
@@ -945,14 +945,14 @@
     <tag k="village" v="Nziu" />
     <tag k="wb_pb:id" v="21749150" />
   </node>
-  <node action="modify" changeset="62848596" id="5588170692" lat="-1.8160567" lon="37.5374483" timestamp="2018-09-23T12:05:08Z" uid="616774" user="mueschel" version="2">
+  <node changeset="75323440" id="5588170692" lat="-1.8160567" lon="37.5374483" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="hospital" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588170692/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524643716312jpg/orig.jpg" />
     <tag k="is_in:village" v="Nziu" />
     <tag k="name" v="Nziu Health Centre" />
     <tag k="wb_pb:id" v="21748436" />
   </node>
-  <node action="modify" changeset="58814802" id="5588170693" lat="-1.8177867" lon="37.5373800" timestamp="2018-05-09T10:09:38Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5588170693" lat="-1.8177867" lon="37.5373800" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="townhall" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588170693/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524640116671jpg/orig.jpg" />
     <tag k="name" v="Nziu Social Hall" />
@@ -973,7 +973,7 @@
     <tag k="village" v="Nziu" />
     <tag k="wb_pb:id" v="21748304" />
   </node>
-  <node action="modify" changeset="58814802" id="5588170695" lat="-1.8192017" lon="37.5367533" timestamp="2018-05-09T10:09:39Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5588170695" lat="-1.8192017" lon="37.5367533" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="shelter" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588170695/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524645596601jpg/orig.jpg" />
     <tag k="name" v="Nziu Boda Boda Shed" />
@@ -993,7 +993,7 @@
     <tag k="wb_pb:id" v="21748547" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="58814802" id="5588170697" lat="-1.8079411" lon="37.5370794" timestamp="2018-05-09T10:09:39Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5588170697" lat="-1.8079411" lon="37.5370794" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588170697/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524641764762jpg/orig.jpg" />
     <tag k="name" v="Yamuthinzi Earth dam" />
     <tag k="operational_status" v="operational" />
@@ -1040,7 +1040,7 @@
     <tag k="wb_pb:id" v="21640646" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="58844327" id="5588257994" lat="-1.8105692" lon="37.5214342" timestamp="2018-05-10T09:47:29Z" uid="261050" user="muindre" version="2">
+  <node changeset="75323440" id="5588257994" lat="-1.8105692" lon="37.5214342" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588257994/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524481337267jpg/orig.jpg" />
     <tag k="man_made" v="storage_tank" />
     <tag k="name" v="Ikomba Water Pipeline" />
@@ -1068,7 +1068,7 @@
     <tag k="village" v="Upper Kitheini" />
     <tag k="wb_pb:id" v="21640463" />
   </node>
-  <node action="modify" changeset="58844327" id="5588257997" lat="-1.8096255" lon="37.5279224" timestamp="2018-05-10T09:47:29Z" uid="261050" user="muindre" version="2">
+  <node changeset="75323440" id="5588257997" lat="-1.8096255" lon="37.5279224" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="school" />
     <tag k="gender_type" v="mixed" />
     <tag k="governement_registered" v="moe" />
@@ -1080,7 +1080,7 @@
     <tag k="village" v="Upper Kitheini" />
     <tag k="wb_pb:id" v="21640505" />
   </node>
-  <node action="modify" changeset="58843866" id="5588303129" lat="-1.7929410" lon="37.5974909" timestamp="2018-05-10T09:32:24Z" uid="261050" user="muindre" version="2">
+  <node changeset="75323440" id="5588303129" lat="-1.7929410" lon="37.5974909" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="school" />
     <tag k="gender_type" v="mixed" />
     <tag k="governement_registered" v="moe" />
@@ -1092,7 +1092,7 @@
     <tag k="village" v="Iviani" />
     <tag k="wb_pb:id" v="21741352" />
   </node>
-  <node action="modify" changeset="58843866" id="5588303130" lat="-1.7921279" lon="37.5978217" timestamp="2018-05-10T09:32:24Z" uid="261050" user="muindre" version="2">
+  <node changeset="75323440" id="5588303130" lat="-1.7921279" lon="37.5978217" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="school" />
     <tag k="gender_type" v="mixed" />
     <tag k="governement_registered" v="moe" />
@@ -1116,14 +1116,14 @@
     <tag k="village" v="Gaza" />
     <tag k="wb_pb:id" v="21741155" />
   </node>
-  <node action="modify" changeset="58843866" id="5588303132" lat="-1.7893626" lon="37.6100624" timestamp="2018-05-10T09:32:24Z" uid="261050" user="muindre" version="2">
+  <node changeset="75323440" id="5588303132" lat="-1.7893626" lon="37.6100624" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="clinic" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588303132/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524653337796jpg/orig.jpg" />
     <tag k="name" v="Prison Dispensary" />
     <tag k="village" v="Iviani" />
     <tag k="wb_pb:id" v="21741809" />
   </node>
-  <node action="modify" changeset="58843866" id="5588303133" lat="-1.8127354" lon="37.5977775" timestamp="2018-05-10T09:32:24Z" uid="261050" user="muindre" version="2">
+  <node changeset="75323440" id="5588303133" lat="-1.8127354" lon="37.5977775" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588303133/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524656076868jpg/orig.jpg" />
     <tag k="name" v="Ndue Nguu Drift" />
     <tag k="opening_hours" v="24/7" />
@@ -1132,7 +1132,7 @@
     <tag k="wb_pb:id" v="21741919" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="58875244" id="5588303134" lat="-1.7937798" lon="37.5964127" timestamp="2018-05-11T11:04:46Z" uid="616774" user="mueschel" version="3">
+  <node changeset="75323440" id="5588303134" lat="-1.7937798" lon="37.5964127" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="toilets" />
     <tag k="fee" v="no" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5588303134/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524649604040jpg/orig.jpg" />
@@ -1145,7 +1145,7 @@
     <tag k="toilets:num_chambers" v="2" />
     <tag k="wb_pb:id" v="21741244" />
   </node>
-  <node action="modify" changeset="58843866" id="5588303135" lat="-1.7925889" lon="37.5975035" timestamp="2018-05-10T09:32:25Z" uid="261050" user="muindre" version="2">
+  <node changeset="75323440" id="5588303135" lat="-1.7925889" lon="37.5975035" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="school" />
     <tag k="gender_type" v="mixed" />
     <tag k="governement_registered" v="moe" />
@@ -1163,7 +1163,7 @@
     <tag k="name" v="Nyunzu Highway Bar" />
     <tag k="wb_pb:id" v="21775929" />
   </node>
-  <node action="modify" changeset="68016685" id="5591966630" lat="-1.8256294" lon="37.6296349" timestamp="2019-03-11T10:25:11Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5591966630" lat="-1.8256294" lon="37.6296349" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5591966630/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524656574092jpg/orig.jpg" />
     <tag k="is_in:village" v="Nyunzu" />
     <tag k="man_made" v="water_well" />
@@ -1242,7 +1242,7 @@
     <tag k="operational_status" v="operational" />
     <tag k="wb_pb:id" v="21754143" />
   </node>
-  <node action="modify" changeset="68016331" id="5591972207" lat="-1.8113934" lon="37.6192786" timestamp="2019-03-11T10:13:34Z" uid="261050" user="muindre" version="4">
+  <node changeset="75323440" id="5591972207" lat="-1.8113934" lon="37.6192786" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="amenity" v="school" />
     <tag k="gender" v="mixed" />
     <tag k="government_registered" v="moe" />
@@ -1273,7 +1273,7 @@
     <tag k="religion" v="christian" />
     <tag k="wb_pb:id" v="21774616" />
   </node>
-  <node action="modify" changeset="68017646" id="5592105447" lat="-1.7942087" lon="37.6705324" timestamp="2019-03-11T10:53:35Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5592105447" lat="-1.7942087" lon="37.6705324" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="fee" v="2 / liter" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592105447/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524479049139jpg/orig.jpg" />
     <tag k="is_in:village" v="Kyamusoi" />
@@ -1282,14 +1282,14 @@
     <tag k="operational_status" v="operational" />
     <tag k="wb_pb:id" v="21638777" />
   </node>
-  <node action="modify" changeset="60404750" id="5592105448" lat="-1.7870293" lon="37.6606655" timestamp="2018-07-04T10:38:26Z" uid="345975" user="VlIvYur" version="2">
+  <node changeset="75323440" id="5592105448" lat="-1.7870293" lon="37.6606655" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="clinic" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592105448/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524474229804jpg/orig.jpg" />
     <tag k="name" v="Bosnia Dispensary" />
     <tag k="village" v="Kyamusoi" />
     <tag k="wb_pb:id" v="21652447" />
   </node>
-  <node action="modify" changeset="58810013" id="5592105449" lat="-1.7952897" lon="37.6693293" timestamp="2018-05-09T07:37:28Z" uid="265690" user="fondolucy" version="3">
+  <node changeset="75323440" id="5592105449" lat="-1.7952897" lon="37.6693293" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="drinking_water" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592105449/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524479997269jpg/orig.jpg" />
     <tag k="name" v="Kyamusoi Water Project" />
@@ -1333,7 +1333,7 @@
     <tag k="name" v="Catle Dip" />
     <tag k="wb_pb:id" v="21648656" />
   </node>
-  <node action="modify" changeset="68017555" id="5592105455" lat="-1.8044930" lon="37.6669893" timestamp="2019-03-11T10:50:46Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5592105455" lat="-1.8044930" lon="37.6669893" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592105455/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524483026332jpg/orig.jpg" />
     <tag k="is_in:village" v="Kyamusoi" />
     <tag k="landuse" v="reservoir" />
@@ -1341,7 +1341,7 @@
     <tag k="operational_status" v="operational" />
     <tag k="wb_pb:id" v="21648626" />
   </node>
-  <node action="modify" changeset="68017889" id="5592105456" lat="-1.7908310" lon="37.6632092" timestamp="2019-03-11T11:00:43Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5592105456" lat="-1.7908310" lon="37.6632092" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="description" v="earth_dam" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592105456/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524486615652jpg/orig.jpg" />
     <tag k="is_in:village" v="Kyamusoi" />
@@ -1350,7 +1350,7 @@
     <tag k="reservoir_type" v="water_storage" />
     <tag k="wb_pb:id" v="21647022" />
   </node>
-  <node action="modify" changeset="58810657" id="5592113865" lat="-1.7949694" lon="37.5614098" timestamp="2018-05-09T08:01:20Z" uid="261050" user="muindre" version="4">
+  <node changeset="75323440" id="5592113865" lat="-1.7949694" lon="37.5614098" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="amenity" v="clinic" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592113865/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524481863624jpg/orig.jpg" />
     <tag k="name" v="Kitikyumu Dispensary" />
@@ -1377,7 +1377,7 @@
     <tag k="service_times" v="10:00" />
     <tag k="wb_pb:id" v="21640130" />
   </node>
-  <node action="modify" changeset="58818700" id="5592113868" lat="-1.7916198" lon="37.5978268" timestamp="2018-05-09T12:41:53Z" uid="261050" user="muindre" version="2">
+  <node changeset="75323440" id="5592113868" lat="-1.7916198" lon="37.5978268" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="school" />
     <tag k="gender_type" v="mixed" />
     <tag k="governement_registered" v="moe" />
@@ -1389,7 +1389,7 @@
     <tag k="village" v="Kaseve" />
     <tag k="wb_pb:id" v="21639882" />
   </node>
-  <node action="modify" changeset="58818700" id="5592113869" lat="-1.8008844" lon="37.5898774" timestamp="2018-05-09T12:41:53Z" uid="261050" user="muindre" version="2">
+  <node changeset="75323440" id="5592113869" lat="-1.8008844" lon="37.5898774" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="school" />
     <tag k="gender_type" v="mixed" />
     <tag k="governement_registered" v="moe" />
@@ -1400,7 +1400,7 @@
     <tag k="village" v="Unoa" />
     <tag k="wb_pb:id" v="21639928" />
   </node>
-  <node action="modify" changeset="58818700" id="5592113870" lat="-1.8012489" lon="37.5903628" timestamp="2018-05-09T12:41:53Z" uid="261050" user="muindre" version="2">
+  <node changeset="75323440" id="5592113870" lat="-1.8012489" lon="37.5903628" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="school" />
     <tag k="gender_type" v="mixed" />
     <tag k="governement_registered" v="moe" />
@@ -1433,7 +1433,7 @@
     <tag k="village" v="Yaumba" />
     <tag k="wb_pb:id" v="21640048" />
   </node>
-  <node action="modify" changeset="68013766" id="5592113873" lat="-1.7983851" lon="37.5629506" timestamp="2019-03-11T08:37:45Z" uid="261050" user="muindre" version="4">
+  <node changeset="75323440" id="5592113873" lat="-1.7983851" lon="37.5629506" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="amenity" v="school" />
     <tag k="gender_type" v="mixed" />
     <tag k="governement_registered" v="moe" />
@@ -1468,7 +1468,7 @@
     <tag k="village" v="Kaseve" />
     <tag k="wb_pb:id" v="21639861" />
   </node>
-  <node action="modify" changeset="68060400" id="5592138027" lat="-1.7803904" lon="37.6339008" timestamp="2019-03-12T12:30:16Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5592138027" lat="-1.7803904" lon="37.6339008" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592138027/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524640261256jpg/orig.jpg" />
     <tag k="man_made" v="wastewater_plant" />
     <tag k="name" v="Malawi Sewarage" />
@@ -1485,7 +1485,7 @@
     <tag k="village" v="Kunda kindu" />
     <tag k="wb_pb:id" v="21744061" />
   </node>
-  <node action="modify" changeset="62848596" id="5592138029" lat="-1.8105025" lon="37.6435567" timestamp="2018-09-23T12:05:09Z" uid="616774" user="mueschel" version="2">
+  <node changeset="75323440" id="5592138029" lat="-1.8105025" lon="37.6435567" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="school" />
     <tag k="gender" v="mixed" />
     <tag k="government_registered" v="moe" />
@@ -1497,7 +1497,7 @@
     <tag k="school" v="secondary" />
     <tag k="wb_pb:id" v="21735928" />
   </node>
-  <node action="modify" changeset="62848596" id="5592138030" lat="-1.8103442" lon="37.6429467" timestamp="2018-09-23T12:05:09Z" uid="616774" user="mueschel" version="2">
+  <node changeset="75323440" id="5592138030" lat="-1.8103442" lon="37.6429467" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="school" />
     <tag k="gender" v="mixed" />
     <tag k="government_registered" v="moe" />
@@ -1518,7 +1518,7 @@
     <tag k="village" v="Unoa" />
     <tag k="wb_pb:id" v="21744137" />
   </node>
-  <node action="modify" changeset="68017375" id="5592138032" lat="-1.8066807" lon="37.6459847" timestamp="2019-03-11T10:45:08Z" uid="261050" user="muindre" version="4">
+  <node changeset="75323440" id="5592138032" lat="-1.8066807" lon="37.6459847" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="amenity" v="drinking_water" />
     <tag k="fee" v="5.0 / liter" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592138032/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524643975972jpg/orig.jpg" />
@@ -1529,7 +1529,7 @@
     <tag k="operational_status" v="operational" />
     <tag k="wb_pb:id" v="21736056" />
   </node>
-  <node action="modify" changeset="68017343" id="5592138033" lat="-1.8070904" lon="37.6461808" timestamp="2019-03-11T10:44:18Z" uid="261050" user="muindre" version="4">
+  <node changeset="75323440" id="5592138033" lat="-1.8070904" lon="37.6461808" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="amenity" v="drinking_water" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592138033/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524644309140jpg/orig.jpg" />
     <tag k="is_in:village" v="Muambani" />
@@ -1662,7 +1662,7 @@
     <tag k="village" v="Malawi" />
     <tag k="wb_pb:id" v="21733827" />
   </node>
-  <node action="modify" changeset="62850381" id="5592138049" lat="-1.7798083" lon="37.6318539" timestamp="2018-09-23T13:16:14Z" uid="616774" user="mueschel" version="3">
+  <node changeset="75323440" id="5592138049" lat="-1.7798083" lon="37.6318539" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="public_facility" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592138049/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524648405819jpg/orig.jpg" />
     <tag k="is_in:village" v="Kunda kindu" />
@@ -1680,7 +1680,7 @@
     <tag k="wb_pb:id" v="21733837" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="60404750" id="5592138051" lat="-1.7787908" lon="37.6301158" timestamp="2018-07-04T10:38:26Z" uid="345975" user="VlIvYur" version="3">
+  <node changeset="75323440" id="5592138051" lat="-1.7787908" lon="37.6301158" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="townhall" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592138051/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524648771021jpg/orig.jpg" />
     <tag k="name" v="Wote Social Hall" />
@@ -1707,7 +1707,7 @@
     <tag k="village" v="Malawi" />
     <tag k="wb_pb:id" v="21735306" />
   </node>
-  <node action="modify" changeset="60404750" id="5592138058" lat="-1.7801043" lon="37.6277157" timestamp="2018-07-04T10:38:26Z" uid="345975" user="VlIvYur" version="4">
+  <node changeset="75323440" id="5592138058" lat="-1.7801043" lon="37.6277157" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="amenity" v="toilets" />
     <tag k="fee" v="yes" />
     <tag k="female" v="yes" />
@@ -1742,7 +1742,7 @@
     <tag k="village" v="Malawi" />
     <tag k="wb_pb:id" v="21735901" />
   </node>
-  <node action="modify" changeset="68059934" id="5592138061" lat="-1.7796288" lon="37.6279600" timestamp="2019-03-12T12:15:03Z" uid="261050" user="muindre" version="4">
+  <node changeset="75323440" id="5592138061" lat="-1.7796288" lon="37.6279600" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="highway" v="bus_stop" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592138061/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524650446733jpg/orig.jpg" />
     <tag k="name" v="Wote Bus Station" />
@@ -1761,7 +1761,7 @@
     <tag k="school" v="primary" />
     <tag k="wb_pb:id" v="21735944" />
   </node>
-  <node action="modify" changeset="68059779" id="5592138063" lat="-1.7801250" lon="37.6277932" timestamp="2019-03-12T12:10:35Z" uid="261050" user="muindre" version="4">
+  <node changeset="75323440" id="5592138063" lat="-1.7801250" lon="37.6277932" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592138063/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524650614026jpg/orig.jpg" />
     <tag k="name" v="Bus Stop Transformer" />
     <tag k="power" v="pole" />
@@ -1778,7 +1778,7 @@
     <tag k="wb_pb:id" v="21735969" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="58880759" id="5592138065" lat="-1.7810157" lon="37.6289928" timestamp="2018-05-11T14:32:59Z" uid="345975" user="VlIvYur" version="3">
+  <node changeset="75323440" id="5592138065" lat="-1.7810157" lon="37.6289928" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="school" />
     <tag k="gender_type" v="mixed" />
     <tag k="governement_registered" v="moe" />
@@ -1805,7 +1805,7 @@
     <tag k="power" v="transformer" />
     <tag k="wb_pb:id" v="21736023" />
   </node>
-  <node action="modify" changeset="58873139" id="5592138068" lat="-1.7840487" lon="37.6296628" timestamp="2018-05-11T09:35:33Z" uid="4570042" user="Peter Agenga" version="3">
+  <node changeset="75323440" id="5592138068" lat="-1.7840487" lon="37.6296628" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="college" />
     <tag k="gender_type" v="mixed" />
     <tag k="governement_registered" v="moe" />
@@ -1817,7 +1817,7 @@
     <tag k="village" v="Town" />
     <tag k="wb_pb:id" v="21744954" />
   </node>
-  <node action="modify" changeset="62848596" id="5592138069" lat="-1.7819890" lon="37.6314117" timestamp="2018-09-23T12:05:09Z" uid="616774" user="mueschel" version="2">
+  <node changeset="75323440" id="5592138069" lat="-1.7819890" lon="37.6314117" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="sanitary_dump_station" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592138069/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524652380303jpg/orig.jpg" />
     <tag k="is_in:village" v="Kunda kindu" />
@@ -1886,7 +1886,7 @@
     <tag k="village" v="Katoloni" />
     <tag k="wb_pb:id" v="21636963" />
   </node>
-  <node action="modify" changeset="58818271" id="5592140040" lat="-1.8131748" lon="37.5863376" timestamp="2018-05-09T12:26:00Z" uid="261050" user="muindre" version="2">
+  <node changeset="75323440" id="5592140040" lat="-1.8131748" lon="37.5863376" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="drinking_water" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592140040/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524479517151jpg/orig.jpg" />
     <tag k="name" v="Kwa Makau Water Tank" />
@@ -1942,7 +1942,7 @@
     <tag k="village" v="Katoloni" />
     <tag k="wb_pb:id" v="21636937" />
   </node>
-  <node action="modify" changeset="58818271" id="5592140045" lat="-1.8012498" lon="37.5903641" timestamp="2018-05-09T12:26:01Z" uid="261050" user="muindre" version="2">
+  <node changeset="75323440" id="5592140045" lat="-1.8012498" lon="37.5903641" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="kindergarten" />
     <tag k="gender_type" v="mixed" />
     <tag k="governement_registered" v="moe" />
@@ -2007,7 +2007,7 @@
     <tag k="village" v="Katoloni" />
     <tag k="wb_pb:id" v="21636960" />
   </node>
-  <node action="modify" changeset="68013978" id="5592140052" lat="-1.8218431" lon="37.6027465" timestamp="2019-03-11T08:44:27Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5592140052" lat="-1.8218431" lon="37.6027465" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="kindergarten" />
     <tag k="gender_type" v="mixed" />
     <tag k="governement_registered" v="moe" />
@@ -2139,7 +2139,7 @@
     <tag k="village" v="Kiatine" />
     <tag k="wb_pb:id" v="21746707" />
   </node>
-  <node action="modify" changeset="68015502" id="5592178602" lat="-1.7698727" lon="37.5888051" timestamp="2019-03-11T09:41:30Z" uid="261050" user="muindre" version="4">
+  <node changeset="75323440" id="5592178602" lat="-1.7698727" lon="37.5888051" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="amenity" v="kindergarten" />
     <tag k="gender_type" v="mixed" />
     <tag k="governement_registered" v="moe" />
@@ -2217,7 +2217,7 @@
     <tag k="village" v="Nthangu" />
     <tag k="wb_pb:id" v="21746887" />
   </node>
-  <node action="modify" changeset="58817403" id="5592178609" lat="-1.7586979" lon="37.6312417" timestamp="2018-05-09T11:48:01Z" uid="261050" user="muindre" version="2">
+  <node changeset="75323440" id="5592178609" lat="-1.7586979" lon="37.6312417" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592178609/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524656871548jpg/orig.jpg" />
     <tag k="name" v="Utooni Sand Dam" />
     <tag k="operational_status" v="operational" />
@@ -2236,7 +2236,7 @@
     <tag k="wb_pb:id" v="21746905" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="69546440" id="5592178611" lat="-1.7588931" lon="37.6298979" timestamp="2019-04-25T02:29:26Z" uid="1830192" user="Warin61" version="4">
+  <node changeset="75323440" id="5592178611" lat="-1.7588931" lon="37.6298979" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="amenity" v="veterinary" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592178611/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524657275132jpg/orig.jpg" />
     <tag k="man_made" v="livestock_dip" />
@@ -2265,7 +2265,7 @@
     <tag k="village" v="Nthangu" />
     <tag k="wb_pb:id" v="21746940" />
   </node>
-  <node action="modify" changeset="68018973" id="5592191383" lat="-1.7662247" lon="37.6676236" timestamp="2019-03-11T11:32:56Z" uid="261050" user="muindre" version="7">
+  <node changeset="75323440" id="5592191383" lat="-1.7662247" lon="37.6676236" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="8">
     <tag k="cost_per_litre" v="2" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592191383/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524477302675jpg/orig.jpg" />
     <tag k="man_made" v="water_well" />
@@ -2287,7 +2287,7 @@
     <tag k="village" v="Mwaani" />
     <tag k="wb_pb:id" v="21643692" />
   </node>
-  <node action="modify" changeset="68018558" id="5592191387" lat="-1.7727310" lon="37.6567998" timestamp="2019-03-11T11:20:13Z" uid="261050" user="muindre" version="4">
+  <node changeset="75323440" id="5592191387" lat="-1.7727310" lon="37.6567998" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="amenity" v="public_facility" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5592191387/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524481753479jpg/orig.jpg" />
     <tag k="name" v="Culvert- Ngwili Earth Dam" />
@@ -2323,7 +2323,7 @@
     <tag k="type" v="borehole" />
     <tag k="wb_pb:id" v="21636303" />
   </node>
-  <node action="modify" changeset="60404750" id="5592191401" lat="-1.7874928" lon="37.6605745" timestamp="2018-07-04T10:38:27Z" uid="345975" user="VlIvYur" version="7">
+  <node changeset="75323440" id="5592191401" lat="-1.7874928" lon="37.6605745" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="8">
     <tag k="amenity" v="toilets" />
     <tag k="fee" v="no" />
     <tag k="female" v="yes" />
@@ -2339,7 +2339,7 @@
     <tag k="village" v="Bosnia" />
     <tag k="wb_pb:id" v="21683640" />
   </node>
-  <node action="modify" changeset="58812585" id="5592191402" lat="-1.7628417" lon="37.6625415" timestamp="2018-05-09T09:04:49Z" uid="261050" user="muindre" version="6">
+  <node changeset="75323440" id="5592191402" lat="-1.7628417" lon="37.6625415" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="7">
     <tag k="amenity" v="school" />
     <tag k="gender_type" v="female" />
     <tag k="governement_registered" v="moe" />
@@ -2392,7 +2392,7 @@
     <tag k="village" v="Malivani" />
     <tag k="wb_pb:id" v="21752688" />
   </node>
-  <node action="modify" changeset="62848596" id="5593942718" lat="-1.8023208" lon="37.5843616" timestamp="2018-09-23T12:05:10Z" uid="616774" user="mueschel" version="2">
+  <node changeset="75323440" id="5593942718" lat="-1.8023208" lon="37.5843616" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="fee" v="no" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5593942718/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524647171252jpg/orig.jpg" />
     <tag k="is_in:village" v="Malivani" />
@@ -2409,7 +2409,7 @@
     <tag k="produce" v="fruit" />
     <tag k="wb_pb:id" v="21753005" />
   </node>
-  <node action="modify" changeset="62850381" id="5593942720" lat="-1.8024023" lon="37.5873973" timestamp="2018-09-23T13:16:14Z" uid="616774" user="mueschel" version="3">
+  <node changeset="75323440" id="5593942720" lat="-1.8024023" lon="37.5873973" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="description" v="water_tank" />
     <tag k="fee" v="0.6 / liter" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5593942720/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524649131241jpg/orig.jpg" />
@@ -2445,7 +2445,7 @@
     <tag k="produce" v="fruit" />
     <tag k="wb_pb:id" v="21775474" />
   </node>
-  <node action="modify" changeset="62848596" id="5593942824" lat="-1.7704345" lon="37.6673857" timestamp="2018-09-23T12:05:10Z" uid="616774" user="mueschel" version="2">
+  <node changeset="75323440" id="5593942824" lat="-1.7704345" lon="37.6673857" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="school" />
     <tag k="gender" v="male" />
     <tag k="government_registered" v="moe" />
@@ -2482,7 +2482,7 @@
     <tag k="religion" v="christian" />
     <tag k="wb_pb:id" v="21752206" />
   </node>
-  <node action="modify" changeset="62848596" id="5593942829" lat="-1.7719262" lon="37.6654636" timestamp="2018-09-23T12:05:10Z" uid="616774" user="mueschel" version="3">
+  <node changeset="75323440" id="5593942829" lat="-1.7719262" lon="37.6654636" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="school" />
     <tag k="gender" v="mixed" />
     <tag k="government_registered" v="moe" />
@@ -2501,7 +2501,7 @@
     <tag k="produce" v="fruit" />
     <tag k="wb_pb:id" v="21774417" />
   </node>
-  <node action="modify" changeset="68020199" id="5593942832" lat="-1.7723312" lon="37.6238687" timestamp="2019-03-11T12:16:38Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5593942832" lat="-1.7723312" lon="37.6238687" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="drinking_water" />
     <tag k="cost_per_litre" v="0.400000" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5593942832/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524654975853jpg/orig.jpg" />
@@ -2520,7 +2520,7 @@
     <tag k="village" v="Malivani" />
     <tag k="wb_pb:id" v="21774437" />
   </node>
-  <node action="modify" changeset="68020199" id="5593942834" lat="-1.7711843" lon="37.6277028" timestamp="2019-03-11T12:16:39Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5593942834" lat="-1.7711843" lon="37.6277028" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="water_or_irrigation" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5593942834/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524655433222jpg/orig.jpg" />
     <tag k="name" v="Kaiti Sand Dam" />
@@ -2550,7 +2550,7 @@
     <tag k="village" v="Nthangu" />
     <tag k="wb_pb:id" v="21751943" />
   </node>
-  <node action="modify" changeset="60438483" id="5594269020" lat="-1.7523674" lon="37.5948896" timestamp="2018-07-05T14:07:50Z" uid="345975" user="VlIvYur" version="4">
+  <node changeset="75323440" id="5594269020" lat="-1.7523674" lon="37.5948896" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="fee" v="no" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5594269020/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524639359203jpg/orig.jpg" />
     <tag k="man_made" v="water_well" />
@@ -2568,7 +2568,7 @@
     <tag k="village" v="Kasarani" />
     <tag k="wb_pb:id" v="21752462" />
   </node>
-  <node action="modify" changeset="60438483" id="5594269122" lat="-1.7770735" lon="37.6304486" timestamp="2018-07-05T14:07:50Z" uid="345975" user="VlIvYur" version="4">
+  <node changeset="75323440" id="5594269122" lat="-1.7770735" lon="37.6304486" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="amenity" v="drinking_water" />
     <tag k="charge" v="3/litre" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5594269122/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524651581432jpg/orig.jpg" />
@@ -2578,7 +2578,7 @@
     <tag k="village" v="Kasarani" />
     <tag k="wb_pb:id" v="21752713" />
   </node>
-  <node action="modify" changeset="68052339" id="5594269123" lat="-1.7554654" lon="37.6247070" timestamp="2019-03-12T08:20:48Z" uid="261050" user="muindre" version="4">
+  <node changeset="75323440" id="5594269123" lat="-1.7554654" lon="37.6247070" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="fee" v="3" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5594269123/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524643295739jpg/orig.jpg" />
     <tag k="man_made" v="water_well" />
@@ -2613,7 +2613,7 @@
     <tag k="village" v="Kasarani" />
     <tag k="wb_pb:id" v="21754005" />
   </node>
-  <node action="modify" changeset="60438483" id="5594269126" lat="-1.7530554" lon="37.6211279" timestamp="2018-07-05T14:07:50Z" uid="345975" user="VlIvYur" version="6">
+  <node changeset="75323440" id="5594269126" lat="-1.7530554" lon="37.6211279" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="7">
     <tag k="amenity" v="drinking_water" />
     <tag k="charge" v="4/litre" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5594269126/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524644491261jpg/orig.jpg" />
@@ -2634,7 +2634,7 @@
     <tag k="village" v="Kasarani" />
     <tag k="wb_pb:id" v="21753393" />
   </node>
-  <node action="modify" changeset="58872036" id="5596013644" lat="-1.7832669" lon="37.6136116" timestamp="2018-05-11T08:49:53Z" uid="4570042" user="Peter Agenga" version="2">
+  <node changeset="75323440" id="5596013644" lat="-1.7832669" lon="37.6136116" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="Water" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5596013644/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524472689972jpg/orig.jpg" />
     <tag k="name" v="Ndue Nguu Stream" />
@@ -2694,7 +2694,7 @@
     <tag k="religion" v="christian" />
     <tag k="wb_pb:id" v="21683733" />
   </node>
-  <node action="modify" changeset="62848269" id="5736031237" lat="-1.7651592" lon="37.6573645" timestamp="2018-09-23T11:50:22Z" uid="616774" user="mueschel" version="2">
+  <node changeset="75323440" id="5736031237" lat="-1.7651592" lon="37.6573645" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="school" />
     <tag k="gender" v="mixed" />
     <tag k="government_registered" v="mgcsd" />
@@ -2724,7 +2724,7 @@
     <tag k="operational_status" v="operational" />
     <tag k="wb_pb:id" v="21636303" />
   </node>
-  <node action="modify" changeset="68018058" id="5736031248" lat="-1.7892764" lon="37.6556429" timestamp="2019-03-11T11:05:29Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5736031248" lat="-1.7892764" lon="37.6556429" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="school" />
     <tag k="gender" v="mixed" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5736031248/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524486682380jpg/orig.jpg" />
@@ -2757,7 +2757,7 @@
     <tag k="operational_status" v="non_operational" />
     <tag k="wb_pb:id" v="21683532" />
   </node>
-  <node action="modify" changeset="60506759" id="5736031251" lat="-1.7962161" lon="37.6589231" timestamp="2018-07-08T11:08:56Z" uid="616774" user="mueschel" version="2">
+  <node changeset="75323440" id="5736031251" lat="-1.7962161" lon="37.6589231" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="drinking_water" />
     <tag k="fee" v="no" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5736031251/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524485080460jpg/orig.jpg" />
@@ -2960,7 +2960,7 @@
     <tag k="service_times" v="08:30" />
     <tag k="wb_pb:id" v="21746940" />
   </node>
-  <node action="modify" changeset="68052934" id="5736067247" lat="-1.7620109" lon="37.6182552" timestamp="2019-03-12T08:37:32Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="5736067247" lat="-1.7620109" lon="37.6182552" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="school" />
     <tag k="gender" v="mixed" />
     <tag k="government_registered" v="moe" />
@@ -3443,7 +3443,7 @@
     <tag k="wb_pb:id" v="21733774" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="68060216" id="5736384028" lat="-1.7793047" lon="37.6314296" timestamp="2019-03-12T12:23:07Z" uid="261050" user="muindre" version="4">
+  <node changeset="75323440" id="5736384028" lat="-1.7793047" lon="37.6314296" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="highway" v="street_lamp" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5736384028/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524647933458jpg/orig.jpg" />
     <tag k="name" v="Malawi Flood Light" />
@@ -3461,7 +3461,7 @@
     <tag k="religion" v="christian" />
     <tag k="wb_pb:id" v="21733804" />
   </node>
-  <node action="modify" changeset="68060251" id="5736384030" lat="-1.7795363" lon="37.6315767" timestamp="2019-03-12T12:24:32Z" uid="261050" user="muindre" version="4">
+  <node changeset="75323440" id="5736384030" lat="-1.7795363" lon="37.6315767" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="amenity" v="drinking_water" />
     <tag k="fee" v="3.0/litre" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5736384030/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524648201880jpg/orig.jpg" />
@@ -3505,7 +3505,7 @@
     <tag k="wb_pb:id" v="21733851" />
     <tag k="wheelchair" v="yes" />
   </node>
-  <node action="modify" changeset="68060400" id="5736384036" lat="-1.7812249" lon="37.6343472" timestamp="2019-03-12T12:30:16Z" uid="261050" user="muindre" version="4">
+  <node changeset="75323440" id="5736384036" lat="-1.7812249" lon="37.6343472" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="5">
     <tag k="description" v="earth_dam" />
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5736384036/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524640417047jpg/orig.jpg" />
     <tag k="is_in:village" v="Malawi" />
@@ -3638,7 +3638,7 @@
     <tag k="opening_hours" v="Mo-Fr 06:00-17:00" />
     <tag k="wb_pb:id" v="21743638" />
   </node>
-  <node action="modify" changeset="68018797" id="6250837620" lat="-1.7695464" lon="37.6664522" timestamp="2019-03-11T11:27:31Z" uid="261050" user="muindre" version="3">
+  <node changeset="75323440" id="6250837620" lat="-1.7695464" lon="37.6664522" timestamp="2019-10-05T16:52:48Z" uid="999" user="mikelmaron" version="4">
     <tag k="amenity" v="school" />
     <tag k="education:type" v="secondary" />
     <tag k="gender" v="male" />

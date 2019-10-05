@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
+<osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-10-05T04:46:01Z"/>
+<meta osm_base="2019-10-05T17:07:02Z"/>
 
   <bounds minlat="-0.0307000" minlon="35.6881000" maxlat="0.0852000" maxlon="35.7553000"/>
 
@@ -47,11 +47,11 @@
     <tag k="name" v="Mission Hospital"/>
     <tag k="wb_pb:id" v="26724364"/>
   </node>
-  <node id="5798751609" lat="0.0055506" lon="35.7035017" version="2" timestamp="2018-08-04T17:42:23Z" changeset="61358766" uid="616774" user="mueschel">
+  <node id="5798751609" lat="0.0055506" lon="35.7035017" version="3" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="cost" v="0.0"/>
     <tag k="funded_by" v="Other"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532594918411.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532595323774.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798751609/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532595323774jpg/orig.jpg"/>
     <tag k="man_made" v="storage_tank"/>
     <tag k="name" v="Benonin Storage Tank"/>
     <tag k="operational_status" v="Operational"/>
@@ -64,10 +64,10 @@
     <tag k="type" v="Green House"/>
     <tag k="wb_pb:id" v="26662099"/>
   </node>
-  <node id="5798751612" lat="0.0256107" lon="35.7255043" version="1" timestamp="2018-07-31T12:45:15Z" changeset="61228698" uid="8556574" user="joshuasang">
+  <node id="5798751612" lat="0.0256107" lon="35.7255043" version="2" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="agriculture"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532605631119.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532605875088.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798751612/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532605875088jpg/orig.jpg"/>
     <tag k="name" v="Kaburandi (Sosion) Cattle Dip"/>
     <tag k="type" v="Cattle dip"/>
     <tag k="wb_pb:id" v="26662079"/>
@@ -92,10 +92,10 @@
     <tag k="type" v="Primary"/>
     <tag k="wb_pb:id" v="26662062"/>
   </node>
-  <node id="5798751615" lat="0.0001721" lon="35.7179869" version="1" timestamp="2018-07-31T12:45:15Z" changeset="61228698" uid="8556574" user="joshuasang">
+  <node id="5798751615" lat="0.0001721" lon="35.7179869" version="2" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="agriculture"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532601103540.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532601416168.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798751615/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532601416168jpg/orig.jpg"/>
     <tag k="name" v="Sinende Cattle Dip"/>
     <tag k="type" v="Cattle dip"/>
     <tag k="wb_pb:id" v="26662034"/>
@@ -115,19 +115,19 @@
     <tag k="office" v="government"/>
     <tag k="wb_pb:id" v="26728761"/>
   </node>
-  <node id="5798782570" lat="0.0554136" lon="35.7282367" version="3" timestamp="2018-08-23T10:25:49Z" changeset="61916632" uid="8556957" user="kenboi">
+  <node id="5798782570" lat="0.0554136" lon="35.7282367" version="4" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="gender" v="Mixed"/>
     <tag k="government_registered" v="MOE (Ministry of Education)"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680306484.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532680805309.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798782570/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532680805309jpg/orig.jpg"/>
     <tag k="name" v="St. Patrics Shimoni Intergrated Primary School"/>
     <tag k="operator" v="Government"/>
     <tag k="wb_pb:id" v="26728748"/>
   </node>
-  <node id="5798782577" lat="0.0591971" lon="35.7260979" version="2" timestamp="2018-08-04T18:33:39Z" changeset="61359658" uid="616774" user="mueschel">
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674148381.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674503455.jpg"/>
+  <node id="5798782577" lat="0.0591971" lon="35.7260979" version="3" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5798782577/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532674148381jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798782577/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532674503455jpg/orig.jpg"/>
     <tag k="leisure" v="stadium"/>
     <tag k="name" v="Eldama Ravine Stadium-Running Tracks and Football Pitch"/>
     <tag k="wb_pb:id" v="26727827"/>
@@ -143,12 +143,12 @@
     <tag k="type" v="Primary"/>
     <tag k="wb_pb:id" v="26664170"/>
   </node>
-  <node id="5798788034" lat="0.0025198" lon="35.7293371" version="1" timestamp="2018-07-31T12:58:07Z" changeset="61229171" uid="8556957" user="kenboi">
+  <node id="5798788034" lat="0.0025198" lon="35.7293371" version="2" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="gender" v="Mixed"/>
     <tag k="government_registered" v="MOE (Ministry of Education)"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231052230903.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231052689752.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798788034/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1231052689752jpg/orig.jpg"/>
     <tag k="name" v="Uhuru Kenyatta High School-kabiyet"/>
     <tag k="operator_type" v="Government"/>
     <tag k="type" v="Secondary"/>
@@ -183,12 +183,12 @@
     <tag k="service_times" v="10:00"/>
     <tag k="wb_pb:id" v="26664118"/>
   </node>
-  <node id="5798788041" lat="-0.0112952" lon="35.7246126" version="2" timestamp="2018-08-02T16:58:50Z" changeset="61304724" uid="5359" user="user_5359">
+  <node id="5798788041" lat="-0.0112952" lon="35.7246126" version="3" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="place_of_worship"/>
     <tag k="building_type" v="Church"/>
     <tag k="denomination" v="evangelical"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231042571403.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231043242009.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798788041/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1231043242009jpg/orig.jpg"/>
     <tag k="name" v="Mosop Full Gospel Church"/>
     <tag k="religion" v="christian"/>
     <tag k="service_times" v="10:00"/>
@@ -214,12 +214,12 @@
     <tag k="operator_type" v="CBO"/>
     <tag k="wb_pb:id" v="26664017"/>
   </node>
-  <node id="5798802346" lat="0.0290389" lon="35.7368921" version="2" timestamp="2018-08-04T18:33:39Z" changeset="61359658" uid="616774" user="mueschel">
+  <node id="5798802346" lat="0.0290389" lon="35.7368921" version="3" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="gender" v="Mixed"/>
     <tag k="government_registered" v="MOE (Ministry of Education)"/>
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686939269.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532687436967.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5798802346/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532686939269jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798802346/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532687436967jpg/orig.jpg"/>
     <tag k="name" v="Sogonin ECDE"/>
     <tag k="operator_type" v="CBO"/>
     <tag k="wb_pb:id" v="26728319"/>
@@ -240,12 +240,12 @@
     <tag k="service_times" v="10:00"/>
     <tag k="wb_pb:id" v="26728301"/>
   </node>
-  <node id="5798802350" lat="0.0128933" lon="35.7426378" version="2" timestamp="2018-08-04T18:33:39Z" changeset="61359658" uid="616774" user="mueschel">
+  <node id="5798802350" lat="0.0128933" lon="35.7426378" version="3" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="gender" v="Mixed"/>
     <tag k="government_registered" v="MOE (Ministry of Education)"/>
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682114870.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532682710793.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5798802350/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532682114870jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798802350/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532682710793jpg/orig.jpg"/>
     <tag k="name" v="Tabare ECDE"/>
     <tag k="operator_type" v="CBO"/>
     <tag k="wb_pb:id" v="26728281"/>
@@ -275,19 +275,19 @@
     <tag k="operator_type" v="CBO"/>
     <tag k="wb_pb:id" v="26728221"/>
   </node>
-  <node id="5798859905" lat="0.0492113" lon="35.7254796" version="2" timestamp="2019-03-16T15:04:16Z" changeset="68205731" uid="74746" user="vogelfreier">
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532610226450.jpg"/>
+  <node id="5798859905" lat="0.0492113" lon="35.7254796" version="3" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5798859905/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532610226450jpg/orig.jpg"/>
     <tag k="leisure" v="garden"/>
     <tag k="name" v="Ravine Garden Square"/>
     <tag k="wb_pb:id" v="26663654"/>
   </node>
-  <node id="5798859907" lat="0.0464489" lon="35.7244200" version="4" timestamp="2018-09-01T17:28:06Z" changeset="62203030" uid="616774" user="mueschel">
+  <node id="5798859907" lat="0.0464489" lon="35.7244200" version="5" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
     <tag k="health_facility:referals" v="Eldoret Referral Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608064458.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532608196635.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798859907/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532608196635jpg/orig.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
     <tag k="medical_service:immunizations" v="yes"/>
@@ -296,13 +296,13 @@
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital- Opd Block"/>
     <tag k="wb_pb:id" v="26663862"/>
   </node>
-  <node id="5798859908" lat="0.0463533" lon="35.7246667" version="4" timestamp="2018-09-01T17:28:06Z" changeset="62203030" uid="616774" user="mueschel">
+  <node id="5798859908" lat="0.0463533" lon="35.7246667" version="5" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
     <tag k="health_facility:referals" v="Eldoret"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607807515.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607913062.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798859908/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532607913062jpg/orig.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
     <tag k="medical_service:immunizations" v="yes"/>
@@ -311,13 +311,13 @@
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital"/>
     <tag k="wb_pb:id" v="26663361"/>
   </node>
-  <node id="5798859910" lat="0.0458721" lon="35.7246483" version="4" timestamp="2018-09-01T17:28:07Z" changeset="62203030" uid="616774" user="mueschel">
+  <node id="5798859910" lat="0.0458721" lon="35.7246483" version="5" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="sometime"/>
     <tag k="health_facility:referals" v="Eldoret Referal Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606676419.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606762137.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798859910/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532606762137jpg/orig.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
     <tag k="medical_service:immunizations" v="yes"/>
@@ -326,13 +326,13 @@
     <tag k="name" v="Eldama Ravine Sub-County Refferal Hospital- Orthopedic Ward"/>
     <tag k="wb_pb:id" v="26663312"/>
   </node>
-  <node id="5798859911" lat="0.0457900" lon="35.7247244" version="4" timestamp="2018-09-01T17:28:07Z" changeset="62203030" uid="616774" user="mueschel">
+  <node id="5798859911" lat="0.0457900" lon="35.7247244" version="5" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="sometime"/>
     <tag k="health_facility:referals" v="Eldoret Referral Hospital"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606346905.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606491571.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798859911/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532606491571jpg/orig.jpg"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
     <tag k="medical_service:immunizations" v="yes"/>
@@ -341,70 +341,70 @@
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital-Laundry"/>
     <tag k="wb_pb:id" v="26663306"/>
   </node>
-  <node id="5798859914" lat="0.0507183" lon="35.7219117" version="2" timestamp="2018-08-04T17:42:24Z" changeset="61358766" uid="616774" user="mueschel">
+  <node id="5798859914" lat="0.0507183" lon="35.7219117" version="3" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="drinking_water"/>
     <tag k="cost" v="3.0"/>
     <tag k="funded_by" v="Other"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603812647.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603916564.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798859914/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532603916564jpg/orig.jpg"/>
     <tag k="name" v="Water Kiosk"/>
     <tag k="operational_status" v="Operational"/>
     <tag k="operator_type" v="Private"/>
     <tag k="wb_pb:id" v="26663249"/>
   </node>
-  <node id="5798859915" lat="0.0504917" lon="35.7218000" version="1" timestamp="2018-07-31T13:19:01Z" changeset="61229814" uid="8556553" user="vintech">
+  <node id="5798859915" lat="0.0504917" lon="35.7218000" version="2" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="gender" v="Mixed"/>
     <tag k="government_registered" v="MOE (Ministry of Education)"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603569979.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532603700659.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798859915/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532603700659jpg/orig.jpg"/>
     <tag k="name" v="Bondeni Nursery School"/>
     <tag k="operator_type" v="Government"/>
     <tag k="type" v="Pre_primary"/>
     <tag k="wb_pb:id" v="26663240"/>
   </node>
-  <node id="5798859916" lat="0.0531211" lon="35.7224572" version="2" timestamp="2018-08-04T17:42:24Z" changeset="61358766" uid="616774" user="mueschel">
+  <node id="5798859916" lat="0.0531211" lon="35.7224572" version="3" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="drinking_water"/>
     <tag k="cost" v="3.0"/>
     <tag k="funded_by" v="Other"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532602780804.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532602925860.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798859916/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532602925860jpg/orig.jpg"/>
     <tag k="name" v="Bondeni Water Kiosk"/>
     <tag k="operational_status" v="Operational"/>
     <tag k="operator_type" v="Private"/>
     <tag k="wb_pb:id" v="26663236"/>
   </node>
-  <node id="5798859918" lat="0.0595421" lon="35.7212654" version="1" timestamp="2018-07-31T13:19:02Z" changeset="61229814" uid="8556553" user="vintech">
+  <node id="5798859918" lat="0.0595421" lon="35.7212654" version="2" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="waste_disposal"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598804250.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532599170722.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798859918/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532599170722jpg/orig.jpg"/>
     <tag k="name" v="Kisarget dumping site"/>
     <tag k="type" v="dumping site"/>
     <tag k="wb_pb:id" v="26663173"/>
   </node>
-  <node id="5798859919" lat="0.0589654" lon="35.7227542" version="1" timestamp="2018-07-31T13:19:02Z" changeset="61229814" uid="8556553" user="vintech">
+  <node id="5798859919" lat="0.0589654" lon="35.7227542" version="2" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598145387.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598375724.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798859919/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532598375724jpg/orig.jpg"/>
     <tag k="industrial" v="slaughterhouse"/>
     <tag k="type" v="Slaughter House"/>
     <tag k="wb_pb:id" v="26662913"/>
   </node>
-  <node id="5798859920" lat="0.0581344" lon="35.7248489" version="2" timestamp="2018-08-04T17:42:24Z" changeset="61358766" uid="616774" user="mueschel">
+  <node id="5798859920" lat="0.0581344" lon="35.7248489" version="3" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="drinking_water"/>
     <tag k="cost" v="3.0"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597260143.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597436439.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798859920/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532597436439jpg/orig.jpg"/>
     <tag k="name" v="Chemususu Water Project"/>
     <tag k="operational_status" v="Operational"/>
     <tag k="operator_type" v="Private"/>
     <tag k="wb_pb:id" v="26662893"/>
   </node>
-  <node id="5798859921" lat="0.0584222" lon="35.7250650" version="2" timestamp="2018-08-04T17:44:57Z" changeset="61358798" uid="616774" user="mueschel">
+  <node id="5798859921" lat="0.0584222" lon="35.7250650" version="3" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="yes"/>
     <tag k="female" v="yes"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596618749.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596770104.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798859921/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532596770104jpg/orig.jpg"/>
     <tag k="male" v="yes"/>
     <tag k="name" v="Eco toilet"/>
     <tag k="operator" v="County government of baringo"/>
@@ -414,37 +414,37 @@
     <tag k="unisex" v="no"/>
     <tag k="wb_pb:id" v="26662882"/>
   </node>
-  <node id="5798859922" lat="0.0602013" lon="35.7258241" version="1" timestamp="2018-07-31T13:19:03Z" changeset="61229814" uid="8556553" user="vintech">
+  <node id="5798859922" lat="0.0602013" lon="35.7258241" version="2" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596063117.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596274336.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798859922/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532596274336jpg/orig.jpg"/>
     <tag k="leisure" v="stadium"/>
     <tag k="name" v="Eldama Ravine Stadium"/>
     <tag k="type" v="Stadium"/>
     <tag k="wb_pb:id" v="26662858"/>
   </node>
-  <node id="5800785536" lat="0.0524096" lon="35.7236454" version="2" timestamp="2018-08-12T12:04:56Z" changeset="61586326" uid="616774" user="mueschel">
+  <node id="5800785536" lat="0.0524096" lon="35.7236454" version="3" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="fee" v="2 KSH / 20 litres"/>
     <tag k="funded_by" v="Government"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532939429676.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532939572754.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5800785536/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532939572754jpg/orig.jpg"/>
     <tag k="man_made" v="storage_tank"/>
     <tag k="name" v="Stage Water Bowser"/>
     <tag k="operational_status" v="Non-operational"/>
     <tag k="operator" v="County Government of Baringo"/>
     <tag k="wb_pb:id" v="26922141"/>
   </node>
-  <node id="5800785538" lat="0.0526206" lon="35.7243828" version="2" timestamp="2019-03-10T14:41:51Z" changeset="67990592" uid="118021" user="maggot27">
+  <node id="5800785538" lat="0.0526206" lon="35.7243828" version="3" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="car_wash"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938302657.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938560980.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5800785538/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532938560980jpg/orig.jpg"/>
     <tag k="name" v="Main Stage Car Wash"/>
     <tag k="wb_pb:id" v="26922849"/>
   </node>
-  <node id="5800785539" lat="0.0526767" lon="35.7244639" version="2" timestamp="2018-08-12T12:04:56Z" changeset="61586326" uid="616774" user="mueschel">
+  <node id="5800785539" lat="0.0526767" lon="35.7244639" version="3" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="fee" v="3 KSH / 20 litres"/>
     <tag k="funded_by" v="CDF"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937915925.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938060932.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5800785539/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532938060932jpg/orig.jpg"/>
     <tag k="man_made" v="water_tower"/>
     <tag k="name" v="Chemesusu Water Project"/>
     <tag k="operational_status" v="Operational"/>
@@ -472,23 +472,23 @@
     <tag k="type" v="bookshop"/>
     <tag k="wb_pb:id" v="26921091"/>
   </node>
-  <node id="5817629651" lat="0.0570641" lon="35.7385896" version="1" timestamp="2018-08-08T09:43:02Z" changeset="61461531" uid="8556957" user="kenboi">
+  <node id="5817629651" lat="0.0570641" lon="35.7385896" version="2" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="gender" v="Mixed"/>
     <tag k="government_registered" v="MOE (Ministry of Education)"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532614878580.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532615141122.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5817629651/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532615141122jpg/orig.jpg"/>
     <tag k="name" v="Kamelilo Secondary Mixed"/>
     <tag k="operator_type" v="Government"/>
     <tag k="type" v="Secondary"/>
     <tag k="wb_pb:id" v="26669317"/>
   </node>
-  <node id="5817629958" lat="0.0444881" lon="35.7391740" version="1" timestamp="2018-08-08T09:43:03Z" changeset="61461531" uid="8556957" user="kenboi">
+  <node id="5817629958" lat="0.0444881" lon="35.7391740" version="2" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="gender" v="Mixed"/>
     <tag k="government_registered" v="MOE (Ministry of Education)"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597764324.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532598196976.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5817629958/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532598196976jpg/orig.jpg"/>
     <tag k="name" v="Kinikwet ECDE"/>
     <tag k="operator_type" v="Government"/>
     <tag k="type" v="Pre_primary"/>
@@ -515,12 +515,12 @@
     <tag k="type" v="Tertiary"/>
     <tag k="wb_pb:id" v="26669251"/>
   </node>
-  <node id="5817629961" lat="0.0437974" lon="35.7389514" version="1" timestamp="2018-08-08T09:43:03Z" changeset="61461531" uid="8556957" user="kenboi">
+  <node id="5817629961" lat="0.0437974" lon="35.7389514" version="2" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="college"/>
     <tag k="gender" v="Mixed"/>
     <tag k="government_registered" v="MOE (Ministry of Education)"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532595795390.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532596227472.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5817629961/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532596227472jpg/orig.jpg"/>
     <tag k="name" v="Kamelilo Vocational Trainning Center"/>
     <tag k="operator_type" v="Government"/>
     <tag k="type" v="Tertiary"/>
@@ -533,12 +533,12 @@
     <tag k="type" v="quarrey"/>
     <tag k="wb_pb:id" v="26669228"/>
   </node>
-  <node id="5817717021" lat="0.0498800" lon="35.7317993" version="4" timestamp="2018-08-23T10:25:50Z" changeset="61916632" uid="8556957" user="kenboi">
+  <node id="5817717021" lat="0.0498800" lon="35.7317993" version="5" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="gender" v="mixed"/>
     <tag k="government_registered" v="MOE (Ministry of Education)"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686099757.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532686350800.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5817717021/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532686350800jpg/orig.jpg"/>
     <tag k="name" v="Koibatek Primary School"/>
     <tag k="operational_status" v="Government"/>
     <tag k="school" v="primary"/>
@@ -583,10 +583,10 @@
     <tag k="name" v="Taidy's Restaurant"/>
     <tag k="wb_pb:id" v="26732971"/>
   </node>
-  <node id="5817717037" lat="0.0549982" lon="35.7413959" version="4" timestamp="2018-08-18T13:55:20Z" changeset="61771146" uid="616774" user="mueschel">
+  <node id="5817717037" lat="0.0549982" lon="35.7413959" version="5" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="funded_by" v="National Government"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674208425.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674422068.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5817717037/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532674422068jpg/orig.jpg"/>
     <tag k="name" v="Chemususu Water Project Offices"/>
     <tag k="office" v="government"/>
     <tag k="operational_status" v="Operational"/>
@@ -692,25 +692,25 @@
     <tag k="school" v="Secondary"/>
     <tag k="wb_pb:id" v="26724348"/>
   </node>
-  <node id="5820417010" lat="0.0452854" lon="35.7252023" version="1" timestamp="2018-08-09T12:48:10Z" changeset="61500377" uid="8556619" user="kbizz">
+  <node id="5820417010" lat="0.0452854" lon="35.7252023" version="2" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="generator:source" v="solar"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532606893111.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607098117.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5820417010/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532607098117jpg/orig.jpg"/>
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital-Power Generator"/>
     <tag k="power" v="generator"/>
     <tag k="wb_pb:id" v="26663837"/>
   </node>
-  <node id="6406116987" lat="0.0528371" lon="35.7242377" version="1" timestamp="2019-04-15T09:44:51Z" changeset="69228296" uid="261050" user="muindre">
+  <node id="6406116987" lat="0.0528371" lon="35.7242377" version="2" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="marketplace"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1533124345492.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1533124583285.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6406116987/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1533124583285jpg/orig.jpg"/>
     <tag k="name" v="Ravine Market:renovations"/>
     <tag k="wb_pb:id" v="27061423"/>
   </node>
-  <node id="6406157185" lat="-0.0059401" lon="35.7329850" version="1" timestamp="2019-04-15T09:44:50Z" changeset="69228296" uid="261050" user="muindre">
+  <node id="6406157185" lat="-0.0059401" lon="35.7329850" version="2" timestamp="2019-10-05T16:48:45Z" changeset="75323339" uid="999" user="mikelmaron">
     <tag k="amenity" v="drinking_water"/>
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1231044684660.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1231044246546.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6406157185/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1231044246546jpg/orig.jpg"/>
     <tag k="name" v="Kabiyet Cattle Dip: Storage tank"/>
     <tag k="wb_pb:id" v="26664086"/>
   </node>

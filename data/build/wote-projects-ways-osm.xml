@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
+<osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-10-05T04:47:02Z"/>
+<meta osm_base="2019-10-05T17:10:01Z"/>
 
   <bounds minlat="-1.8581000" minlon="37.5188000" maxlat="-1.7500000" maxlon="37.6769000"/>
 
@@ -663,7 +663,7 @@
     <tag k="waterway" v="stream"/>
     <tag k="wb_pb:id" v="21639729"/>
   </way>
-  <way id="584611431" version="2" timestamp="2018-07-04T10:38:27Z" changeset="60404750" uid="345975" user="VlIvYur">
+  <way id="584611431" version="3" timestamp="2019-10-05T16:53:02Z" changeset="75323446" uid="999" user="mikelmaron">
     <nd ref="5588006362"/>
     <nd ref="5588006361"/>
     <nd ref="5588006360"/>
@@ -679,14 +679,14 @@
     <nd ref="5588006350"/>
     <nd ref="5588006362"/>
     <tag k="amenity" v="marketplace"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524483189637.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/584611431/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524483189637jpg/orig.jpg"/>
     <tag k="name" v="Marikiti Open Air Market"/>
     <tag k="opening_hours" v="Mo-Fr 06:00-18:00"/>
     <tag k="village" v="Westlands"/>
     <tag k="wb_pb:id" v="21641281"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="584611432" version="3" timestamp="2018-07-04T10:38:28Z" changeset="60404750" uid="345975" user="VlIvYur">
+  <way id="584611432" version="4" timestamp="2019-10-05T16:53:02Z" changeset="75323446" uid="999" user="mikelmaron">
     <nd ref="5588006372"/>
     <nd ref="5588006371"/>
     <nd ref="5588006370"/>
@@ -700,7 +700,7 @@
     <nd ref="5609272154"/>
     <nd ref="5588006372"/>
     <tag k="amenity" v="marketplace"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524484544921.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/584611432/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524484544921jpg/orig.jpg"/>
     <tag k="name" v="Open Air Timber Market"/>
     <tag k="village" v="Wote"/>
     <tag k="wb_pb:id" v="21641347"/>
@@ -716,7 +716,7 @@
     <tag k="wb_pb:id" v="21641271"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="585121314" version="2" timestamp="2018-07-04T10:38:28Z" changeset="60404750" uid="345975" user="VlIvYur">
+  <way id="585121314" version="3" timestamp="2019-10-05T16:53:02Z" changeset="75323446" uid="999" user="mikelmaron">
     <nd ref="5592138026"/>
     <nd ref="5592138025"/>
     <nd ref="5592138024"/>
@@ -735,14 +735,14 @@
     <nd ref="5592126111"/>
     <nd ref="5592138026"/>
     <tag k="amenity" v="stadium"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524649919274.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/585121314/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524649919274jpg/orig.jpg"/>
     <tag k="leisure" v="stadium"/>
     <tag k="name" v="Unoa Stadium"/>
     <tag k="opening_hours" v="Mo-Fr 06:00-17:00"/>
     <tag k="village" v="Unoa"/>
     <tag k="wb_pb:id" v="21744084"/>
   </way>
-  <way id="585121611" version="2" timestamp="2018-07-05T14:07:52Z" changeset="60438483" uid="345975" user="VlIvYur">
+  <way id="585121611" version="3" timestamp="2019-10-05T16:53:02Z" changeset="75323446" uid="999" user="mikelmaron">
     <nd ref="5592140038"/>
     <nd ref="5592140037"/>
     <nd ref="5592140036"/>
@@ -751,7 +751,7 @@
     <nd ref="5592140033"/>
     <nd ref="5592140038"/>
     <tag k="fee" v="no"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524486777124.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/585121611/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524486777124jpg/orig.jpg"/>
     <tag k="landuse" v="reservoir"/>
     <tag k="name" v="Kwa Maluva Sand Dam"/>
     <tag k="opening_hours" v="24/7"/>
@@ -781,7 +781,7 @@
     <tag k="village" v="Kiatine"/>
     <tag k="wb_pb:id" v="21746730"/>
   </way>
-  <way id="585128919" version="2" timestamp="2018-07-05T14:07:52Z" changeset="60438483" uid="345975" user="VlIvYur">
+  <way id="585128919" version="3" timestamp="2019-10-05T16:53:02Z" changeset="75323446" uid="999" user="mikelmaron">
     <nd ref="5592191375"/>
     <nd ref="5592191374"/>
     <nd ref="5592191373"/>
@@ -793,7 +793,7 @@
     <nd ref="5592191367"/>
     <nd ref="5592191366"/>
     <nd ref="5592191375"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524479204826.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/585128919/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1524479204826jpg/orig.jpg"/>
     <tag k="landuse" v="reservoir"/>
     <tag k="name" v="Kwa Kaloki Earth Dam"/>
     <tag k="opening_hours" v="24/7"/>

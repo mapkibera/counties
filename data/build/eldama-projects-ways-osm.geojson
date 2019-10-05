@@ -70,17 +70,17 @@
     "id": "429074919",
     "tags": {
       "barrier": "wall",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607432208.jpg",
+      "image": "https://mapkibera.github.io/counties/data/images/cache/429074919/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532607432208jpg/orig.jpg",
       "name": "Eldama Ravine Sub-County Referral Hospital-Perimeter wall",
       "wb_pb:id": "26663342"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-03-04T09:12:17Z",
-      "version": "4",
-      "changeset": "67759409",
-      "user": "vogelfreier",
-      "uid": "74746"
+      "timestamp": "2019-10-05T16:49:02Z",
+      "version": "5",
+      "changeset": "75323347",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -191,7 +191,7 @@
       "dispensing": "yes",
       "electricity": "always",
       "health_facility:referals": "Eldoret Referral Hospital",
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607265414.jpg",
+      "image": "https://mapkibera.github.io/counties/data/images/cache/571404106/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532607265414jpg/orig.jpg",
       "medical_service:family_planning": "yes",
       "medical_service:general_medical_services": "yes",
       "medical_service:immunizations": "yes",
@@ -202,11 +202,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-03-04T09:12:17Z",
-      "version": "2",
-      "changeset": "67759409",
-      "user": "vogelfreier",
-      "uid": "74746"
+      "timestamp": "2019-10-05T16:49:02Z",
+      "version": "3",
+      "changeset": "75323347",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -4478,18 +4478,18 @@
     "type": "way",
     "id": "612915037",
     "tags": {
-      "image": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124766318.jpg",
+      "image": "https://mapkibera.github.io/counties/data/images/cache/612915037/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1533124766318jpg/orig.jpg",
       "name": "Eldama Ravine Drainage system",
       "waterway": "drain",
       "wb_pb:id": "27061427"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-03-16T15:04:18Z",
-      "version": "4",
-      "changeset": "68205731",
-      "user": "vogelfreier",
-      "uid": "74746"
+      "timestamp": "2019-10-05T16:49:02Z",
+      "version": "5",
+      "changeset": "75323347",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {

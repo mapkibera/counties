@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-10-05T04:46:01Z"/>
+<meta osm_base="2019-10-05T17:07:02Z"/>
 
   <bounds minlat="0.2520000" minlon="35.7760000" maxlat="0.6160000" maxlon="36.0540000"/>
 
@@ -131,7 +131,7 @@
     <tag k="sport" v="soccer"/>
     <tag k="wb_pb:id" v="234"/>
   </way>
-  <way id="724887372" version="2" timestamp="2019-10-05T04:21:51Z" changeset="75308375" uid="999" user="mikelmaron">
+  <way id="724887372" version="3" timestamp="2019-10-05T16:48:13Z" changeset="75323328" uid="999" user="mikelmaron">
     <nd ref="6798389720"/>
     <nd ref="6798389719"/>
     <nd ref="6798389718"/>
@@ -139,8 +139,8 @@
     <nd ref="6798389716"/>
     <nd ref="6798389715"/>
     <nd ref="6798389720"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568287919998.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568288145961.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/724887372/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568287919998jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/724887372/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568288145961jpg/orig.jpg"/>
     <tag k="is_in:village" v="Town A"/>
     <tag k="landuse" v="farmyard"/>
     <tag k="name" v="Marigat Sale Yard"/>
@@ -190,21 +190,21 @@
     <tag k="place" v="farm"/>
     <tag k="wb_pb:id" v="89"/>
   </way>
-  <way id="725071557" version="3" timestamp="2019-10-05T04:21:51Z" changeset="75308375" uid="999" user="mikelmaron">
+  <way id="725071557" version="4" timestamp="2019-10-05T16:48:13Z" changeset="75323328" uid="999" user="mikelmaron">
     <nd ref="6799316010"/>
     <nd ref="6799316009"/>
     <nd ref="6799316008"/>
     <nd ref="6799316007"/>
     <nd ref="6799316010"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568361113022.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568361384761.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/725071557/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568361113022jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/725071557/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568361384761jpg/orig.jpg"/>
     <tag k="is_in:village" v="R5"/>
     <tag k="landuse" v="livestock_dip"/>
     <tag k="man_made" v="livestock_dip"/>
     <tag k="name" v="Kapkiruk Cattle Dip"/>
     <tag k="wb_pb:id" v="162"/>
   </way>
-  <way id="725084564" version="3" timestamp="2019-10-05T04:21:51Z" changeset="75308375" uid="999" user="mikelmaron">
+  <way id="725084564" version="4" timestamp="2019-10-05T16:48:13Z" changeset="75323328" uid="999" user="mikelmaron">
     <nd ref="6799444261"/>
     <nd ref="6799444260"/>
     <nd ref="6799444259"/>
@@ -227,8 +227,8 @@
     <nd ref="6799444242"/>
     <nd ref="6799444261"/>
     <tag k="dam:type" v="earth_dam"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568373930820.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568374706296.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/725084564/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568373930820jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/725084564/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568374706296jpg/orig.jpg"/>
     <tag k="is_in:village" v="Kimao"/>
     <tag k="name" v="Kimao Dam"/>
     <tag k="operational_status" v="operational"/>
@@ -236,42 +236,42 @@
     <tag k="waterway" v="dam"/>
     <tag k="wb_pb:id" v="95"/>
   </way>
-  <way id="726063006" version="2" timestamp="2019-10-05T04:21:51Z" changeset="75308375" uid="999" user="mikelmaron">
+  <way id="726063006" version="3" timestamp="2019-10-05T16:48:13Z" changeset="75323328" uid="999" user="mikelmaron">
     <nd ref="6807332141"/>
     <nd ref="6807332140"/>
     <nd ref="6807332139"/>
     <nd ref="6807332138"/>
     <nd ref="6807332141"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568711216487.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568711350283.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/726063006/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568711216487jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/726063006/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568711350283jpg/orig.jpg"/>
     <tag k="is_in:village" v="Kapkechii"/>
     <tag k="landuse" v="other"/>
     <tag k="name" v="Kapkechii Water Trough"/>
     <tag k="other_agriculture" v="Livestock Water Trough"/>
     <tag k="wb_pb:id" v="101"/>
   </way>
-  <way id="726063007" version="2" timestamp="2019-10-05T04:21:51Z" changeset="75308375" uid="999" user="mikelmaron">
+  <way id="726063007" version="3" timestamp="2019-10-05T16:48:13Z" changeset="75323328" uid="999" user="mikelmaron">
     <nd ref="6807332145"/>
     <nd ref="6807332144"/>
     <nd ref="6807332143"/>
     <nd ref="6807332142"/>
     <nd ref="6807332145"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568712460626.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568712654884.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/726063007/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568712460626jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/726063007/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568712654884jpg/orig.jpg"/>
     <tag k="is_in:village" v="Kipsamisonchun"/>
     <tag k="landuse" v="other"/>
     <tag k="name" v="Kipsamisonchun Water Trough"/>
     <tag k="other_agriculture" v="Livestock Water Trough"/>
     <tag k="wb_pb:id" v="102"/>
   </way>
-  <way id="726069522" version="3" timestamp="2019-10-05T04:21:51Z" changeset="75308375" uid="999" user="mikelmaron">
+  <way id="726069522" version="4" timestamp="2019-10-05T16:48:13Z" changeset="75323328" uid="999" user="mikelmaron">
     <nd ref="6807342573"/>
     <nd ref="6807342572"/>
     <nd ref="6807342571"/>
     <nd ref="6807342570"/>
     <nd ref="6807342573"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568712102339.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568712361474.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/726069522/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568712102339jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/726069522/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568712361474jpg/orig.jpg"/>
     <tag k="is_in:village" v="Kimalel"/>
     <tag k="landuse" v="farmyard"/>
     <tag k="name" v="Kimale Goat Auction"/>
