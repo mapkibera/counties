@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-10-05T03:49:02Z"/>
+<meta osm_base="2019-10-05T04:46:01Z"/>
 
   <bounds minlat="-0.2150000" minlon="35.5210000" maxlat="1.6800000" maxlon="36.4950000"/>
 
@@ -6589,34 +6589,34 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6788190485" lat="-0.0215600" lon="35.9609300" version="1" timestamp="2019-09-11T12:26:31Z" changeset="74352033" uid="10269217" user="Arap Kobilo">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568119257544.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568119447178.jpg"/>
+  <node id="6788190485" lat="-0.0215600" lon="35.9609300" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568119257544.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568119447178.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="leisure" v="stadium"/>
     <tag k="name" v="Mogotio Public Park"/>
     <tag k="wb_pb:id" v="10"/>
   </node>
-  <node id="6788190486" lat="-0.0215000" lon="35.9563700" version="1" timestamp="2019-09-11T12:26:38Z" changeset="74352033" uid="10269217" user="Arap Kobilo">
+  <node id="6788190486" lat="-0.0215000" lon="35.9563700" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568114164051.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568116358543.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568114164051.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568116358543.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="name" v="St. Mary Primary School"/>
     <tag k="operator:description" v="County Government of Baringo"/>
     <tag k="operator:type" v="government"/>
     <tag k="wb_pb:id" v="13"/>
   </node>
-  <node id="6788190487" lat="-0.0275200" lon="35.9549600" version="1" timestamp="2019-09-11T12:26:42Z" changeset="74352033" uid="10269217" user="Arap Kobilo">
+  <node id="6788190487" lat="-0.0275200" lon="35.9549600" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
     <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital and Nakuru PGH"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568111478855.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568111690936.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568111478855.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568111690936.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -6626,13 +6626,13 @@
     <tag k="name" v="Mogotio Sub County Hospital"/>
     <tag k="wb_pb:id" v="4"/>
   </node>
-  <node id="6788190488" lat="-0.0261900" lon="35.9554800" version="1" timestamp="2019-09-11T12:26:46Z" changeset="74352033" uid="10269217" user="Arap Kobilo">
+  <node id="6788190488" lat="-0.0261900" lon="35.9554800" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
     <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital and Nakuru PGH"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568110324915.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568110475948.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568110324915.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568110475948.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -6642,13 +6642,13 @@
     <tag k="name" v="Mogotio Sub County Hospital"/>
     <tag k="wb_pb:id" v="7"/>
   </node>
-  <node id="6788190489" lat="-0.0263400" lon="35.9556600" version="1" timestamp="2019-09-11T12:26:47Z" changeset="74352033" uid="10269217" user="Arap Kobilo">
+  <node id="6788190489" lat="-0.0263400" lon="35.9556600" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
     <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital and Nakuru PGH"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568109993268.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568110151149.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109993268.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568110151149.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -6658,13 +6658,13 @@
     <tag k="name" v="Mogotio Sub County Hospital"/>
     <tag k="wb_pb:id" v="152"/>
   </node>
-  <node id="6788190490" lat="-0.0276200" lon="35.9551431" version="1" timestamp="2019-09-11T12:26:52Z" changeset="74352033" uid="10269217" user="Arap Kobilo">
+  <node id="6788190490" lat="-0.0276200" lon="35.9551431" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
     <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital and Nakuru PGH"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568109232760.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568109376113.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109232760.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109376113.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -6674,13 +6674,13 @@
     <tag k="name" v="Mogotio Sub County Hospital"/>
     <tag k="wb_pb:id" v="3"/>
   </node>
-  <node id="6788190491" lat="-0.0274500" lon="35.9556100" version="1" timestamp="2019-09-11T12:26:56Z" changeset="74352033" uid="10269217" user="Arap Kobilo">
+  <node id="6788190491" lat="-0.0274500" lon="35.9556100" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
     <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital and Nakuru PGH"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568111261168.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568108977395.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568111261168.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568108977395.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -6690,9 +6690,9 @@
     <tag k="name" v="Mogotio Sub County Hospital"/>
     <tag k="wb_pb:id" v="1"/>
   </node>
-  <node id="6788190492" lat="-0.0351800" lon="35.9547400" version="1" timestamp="2019-09-11T12:26:59Z" changeset="74352033" uid="10269217" user="Arap Kobilo">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568106418098.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568106572554.jpg"/>
+  <node id="6788190492" lat="-0.0351800" lon="35.9547400" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568106418098.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568106572554.jpg"/>
     <tag k="is_in:village" v="Logiri"/>
     <tag k="landuse" v="other"/>
     <tag k="name" v="Mogotio Livestock Improvement Center"/>
@@ -6707,9 +6707,9 @@
     <tag k="operational_status" v="operational"/>
     <tag k="operator:type" v="ngo_international"/>
   </node>
-  <node id="6788190500" lat="0.0936850" lon="35.9244300" version="1" timestamp="2019-09-11T12:28:07Z" changeset="74352110" uid="10269217" user="Arap Kobilo">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568096957107.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568097475688.jpg"/>
+  <node id="6788190500" lat="0.0936850" lon="35.9244300" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568096957107.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568097475688.jpg"/>
     <tag k="is_in:village" v="Kures"/>
     <tag k="man_made" v="borehole"/>
     <tag k="name" v="Chepchamus Borehole"/>
@@ -6718,16 +6718,16 @@
     <tag k="operator:type" v="cbo"/>
     <tag k="wb_pb:id" v="35"/>
   </node>
-  <node id="6788190585" lat="-0.0232600" lon="35.9591100" version="1" timestamp="2019-09-11T12:26:33Z" changeset="74352033" uid="10269217" user="Arap Kobilo">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568118354258.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568118674302.jpg"/>
+  <node id="6788190585" lat="-0.0232600" lon="35.9591100" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568118354258.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568118674302.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="name" v="Mogotio Environment Office"/>
     <tag k="wb_pb:id" v="11"/>
   </node>
-  <node id="6788190586" lat="-0.0232900" lon="35.9589000" version="1" timestamp="2019-09-11T12:26:35Z" changeset="74352033" uid="10269217" user="Arap Kobilo">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568117477910.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568117946031.jpg"/>
+  <node id="6788190586" lat="-0.0232900" lon="35.9589000" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568117477910.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568117946031.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="man_made" v="borehole"/>
     <tag k="name" v="Mogotio Water Supply"/>
@@ -6736,13 +6736,13 @@
     <tag k="operator:type" v="cbo"/>
     <tag k="wb_pb:id" v="21"/>
   </node>
-  <node id="6788190587" lat="-0.0275200" lon="35.9548300" version="1" timestamp="2019-09-11T12:26:39Z" changeset="74352033" uid="10269217" user="Arap Kobilo">
+  <node id="6788190587" lat="-0.0275200" lon="35.9548300" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
     <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital and Nakuru PGH"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568112024136.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568112183368.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568112024136.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568112183368.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -6752,13 +6752,13 @@
     <tag k="name" v="Mogotio Sub County Hospital"/>
     <tag k="wb_pb:id" v="8"/>
   </node>
-  <node id="6788190588" lat="-0.0274600" lon="35.9552600" version="1" timestamp="2019-09-11T12:26:50Z" changeset="74352033" uid="10269217" user="Arap Kobilo">
+  <node id="6788190588" lat="-0.0274600" lon="35.9552600" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
     <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital and Nakuru PGH"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568109692158.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568109816579.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109692158.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109816579.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -6774,14 +6774,14 @@
     <tag k="name" v="Rosoga Chief's Office"/>
     <tag k="office" v="administrative"/>
   </node>
-  <node id="6788190593" lat="0.0399950" lon="35.8466700" version="1" timestamp="2019-09-11T12:27:55Z" changeset="74352110" uid="10269217" user="Arap Kobilo">
+  <node id="6788190593" lat="0.0399950" lon="35.8466700" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="often"/>
     <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital"/>
     <tag k="health_facility:type" v="dispensary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568110406012.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568110713181.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568110406012.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568110713181.jpg"/>
     <tag k="is_in:village" v="Kiptoim"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -6791,52 +6791,52 @@
     <tag k="name" v="Kiptoim Dispensary"/>
     <tag k="wb_pb:id" v="63"/>
   </node>
-  <node id="6788190594" lat="0.0472100" lon="35.8751800" version="1" timestamp="2019-09-11T12:28:00Z" changeset="74352110" uid="10269217" user="Arap Kobilo">
+  <node id="6788190594" lat="0.0472100" lon="35.8751800" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="pre_primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568105731808.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568106271041.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568105731808.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568106271041.jpg"/>
     <tag k="is_in:village" v="Bartulkel"/>
     <tag k="name" v="Bartulkel ECDE"/>
     <tag k="operator:description" v="County Government of Baringo"/>
     <tag k="operator:type" v="government"/>
     <tag k="wb_pb:id" v="60"/>
   </node>
-  <node id="6788190595" lat="0.0770230" lon="35.9346600" version="1" timestamp="2019-09-11T12:28:01Z" changeset="74352110" uid="10269217" user="Arap Kobilo">
+  <node id="6788190595" lat="0.0770230" lon="35.9346600" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="pre_primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568101554806.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568101943144.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568101554806.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568101943144.jpg"/>
     <tag k="is_in:village" v="Kiprota"/>
     <tag k="name" v="Kiprota ECDE"/>
     <tag k="operator:description" v="County Government of Baringo"/>
     <tag k="operator:type" v="government"/>
     <tag k="wb_pb:id" v="39"/>
   </node>
-  <node id="6788190596" lat="0.0915580" lon="35.9147500" version="1" timestamp="2019-09-11T12:28:05Z" changeset="74352110" uid="10269217" user="Arap Kobilo">
+  <node id="6788190596" lat="0.0915580" lon="35.9147500" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="pre_primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568099863877.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568100258866.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568099863877.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568100258866.jpg"/>
     <tag k="is_in:village" v="Kures"/>
     <tag k="name" v="Kures ECDE"/>
     <tag k="operator:description" v="County Government of Baringo"/>
     <tag k="operator:type" v="government"/>
     <tag k="wb_pb:id" v="36"/>
   </node>
-  <node id="6788190885" lat="-0.0276700" lon="35.9543200" version="1" timestamp="2019-09-11T12:26:44Z" changeset="74352033" uid="10269217" user="Arap Kobilo">
+  <node id="6788190885" lat="-0.0276700" lon="35.9543200" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
     <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital and Nakuru PGH"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568110791783.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568111069610.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568110791783.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568111069610.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -6846,18 +6846,18 @@
     <tag k="name" v="Mogotio Sub County Hospital"/>
     <tag k="wb_pb:id" v="6"/>
   </node>
-  <node id="6788190886" lat="-0.0316600" lon="35.9563200" version="1" timestamp="2019-09-11T12:26:58Z" changeset="74352033" uid="10269217" user="Arap Kobilo">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568107688871.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568107641437.jpg"/>
+  <node id="6788190886" lat="-0.0316600" lon="35.9563200" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568107688871.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568107641437.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="landuse" v="other"/>
     <tag k="name" v="Mogotio Tannery"/>
     <tag k="other_agriculture" v="Tannery"/>
     <tag k="wb_pb:id" v="25"/>
   </node>
-  <node id="6788190887" lat="0.0395900" lon="35.8463100" version="1" timestamp="2019-09-11T12:27:56Z" changeset="74352110" uid="10269217" user="Arap Kobilo">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568109412804.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568109623618.jpg"/>
+  <node id="6788190887" lat="0.0395900" lon="35.8463100" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109412804.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109623618.jpg"/>
     <tag k="is_in:village" v="Kiptoim"/>
     <tag k="man_made" v="borehole"/>
     <tag k="name" v="Kiptoim Borehole"/>
@@ -6866,13 +6866,13 @@
     <tag k="operator:type" v="cbo"/>
     <tag k="wb_pb:id" v="55"/>
   </node>
-  <node id="6788191285" lat="-0.0400000" lon="35.9429800" version="1" timestamp="2019-09-11T12:27:01Z" changeset="74352033" uid="10269217" user="Arap Kobilo">
+  <node id="6788191285" lat="-0.0400000" lon="35.9429800" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568103841526.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568104076322.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568103841526.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568104076322.jpg"/>
     <tag k="is_in:village" v="Kipsogon"/>
     <tag k="name" v="Logiri Primary School"/>
     <tag k="operator:description" v="Government"/>
@@ -6892,25 +6892,25 @@
     <tag k="man_made" v="livestock_dip"/>
     <tag k="name" v="Logiri Cattle Dip"/>
   </node>
-  <node id="6788192317" lat="-0.0626800" lon="35.9181600" version="1" timestamp="2019-09-11T12:30:33Z" changeset="74352253" uid="10269217" user="Arap Kobilo">
+  <node id="6788192317" lat="-0.0626800" lon="35.9181600" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568026367058.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568026794231.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568026367058.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568026794231.jpg"/>
     <tag k="is_in:village" v="Kipsogon"/>
     <tag k="name" v="Kipsogon Primary School"/>
     <tag k="operator:type" v="government"/>
     <tag k="wb_pb:id" v="16"/>
   </node>
-  <node id="6788192318" lat="-0.0367200" lon="35.9164500" version="1" timestamp="2019-09-11T12:30:33Z" changeset="74352253" uid="10269217" user="Arap Kobilo">
+  <node id="6788192318" lat="-0.0367200" lon="35.9164500" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="pre_primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568031967994.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568032407429.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568031967994.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568032407429.jpg"/>
     <tag k="is_in:village" v="Kipsogon"/>
     <tag k="name" v="Oruyet ECDE"/>
     <tag k="operator:description" v="County Government of Baringo"/>
@@ -6937,13 +6937,13 @@
     <tag k="operator:description" v="Government of Kenya"/>
     <tag k="operator:type" v="government"/>
   </node>
-  <node id="6788193385" lat="0.0195730" lon="35.8564400" version="1" timestamp="2019-09-11T12:27:58Z" changeset="74352110" uid="10269217" user="Arap Kobilo">
+  <node id="6788193385" lat="0.0195730" lon="35.8564400" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="pre_primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568108091421.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568108327545.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568108091421.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568108327545.jpg"/>
     <tag k="is_in:village" v="Olbat"/>
     <tag k="name" v="Olbat ECDE"/>
     <tag k="operator:description" v="County Government of Baringo"/>
@@ -6965,12 +6965,12 @@
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Rosoga Dispensary"/>
   </node>
-  <node id="6788216972" lat="0.1000870" lon="35.8595800" version="1" timestamp="2019-09-11T12:44:55Z" changeset="74353049" uid="10269217" user="Arap Kobilo">
+  <node id="6788216972" lat="0.1000870" lon="35.8595800" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="pre_primary"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568030348372.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568030348372.jpg"/>
     <tag k="is_in:village" v="Rosoga"/>
     <tag k="name" v="Rosoga ECDE"/>
     <tag k="operator:description" v="County Government of Baringo"/>
@@ -6988,14 +6988,14 @@
     <tag k="operator:description" v="Governemnt of Kenya"/>
     <tag k="operator:type" v="government"/>
   </node>
-  <node id="6788216974" lat="0.0791400" lon="35.8614600" version="1" timestamp="2019-09-11T12:44:55Z" changeset="74353049" uid="10269217" user="Arap Kobilo">
+  <node id="6788216974" lat="0.0791400" lon="35.8614600" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="none"/>
     <tag k="health_facility:referrals" v="Eldmaravine Referral Hospital"/>
     <tag k="health_facility:type" v="dispensary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568025761899.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568026103578.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568025761899.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568026103578.jpg"/>
     <tag k="is_in:village" v="Sagasagik"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="no"/>
@@ -7005,13 +7005,13 @@
     <tag k="name" v="Sagasagik Dispensary"/>
     <tag k="wb_pb:id" v="62"/>
   </node>
-  <node id="6788216975" lat="0.0802230" lon="35.8609100" version="1" timestamp="2019-09-11T12:44:55Z" changeset="74353049" uid="10269217" user="Arap Kobilo">
+  <node id="6788216975" lat="0.0802230" lon="35.8609100" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="pre_primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568024296021.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568024541265.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568024296021.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568024541265.jpg"/>
     <tag k="is_in:village" v="Sagasagik"/>
     <tag k="name" v="Sagasagik ECDE"/>
     <tag k="operator:description" v="County Government of Baringo"/>
@@ -7937,13 +7937,13 @@
     <tag k="name" v="Chemolei Posho mill"/>
     <tag k="shop" v="kiosk"/>
   </node>
-  <node id="6799017999" lat="0.1595780" lon="35.7583200" version="1" timestamp="2019-09-16T10:08:38Z" changeset="74522263" uid="10269217" user="Arap Kobilo">
+  <node id="6799017999" lat="0.1595780" lon="35.7583200" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="mgcsd"/>
     <tag k="education:type" v="pre_primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568110863660.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568111180352.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568110863660.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568111180352.jpg"/>
     <tag k="is_in:village" v="Magrip"/>
     <tag k="name" v="Magrip ECDE"/>
     <tag k="operator:description" v="County Government of Baringo"/>
@@ -7956,14 +7956,14 @@
     <tag k="is_in:village" v="Kipsigiryo"/>
     <tag k="name" v="Kipsigiryo Equity agent"/>
   </node>
-  <node id="6799018001" lat="0.1773250" lon="35.7719500" version="1" timestamp="2019-09-16T10:09:06Z" changeset="74522263" uid="10269217" user="Arap Kobilo">
+  <node id="6799018001" lat="0.1773250" lon="35.7719500" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
     <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital"/>
     <tag k="health_facility:type" v="dispensary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568032194416.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568031833110.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568032194416.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568031833110.jpg"/>
     <tag k="is_in:village" v="Kiptaoi"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="no"/>
@@ -8034,13 +8034,13 @@
     <tag k="operator:description" v="Government of Kenya"/>
     <tag k="operator:type" v="government"/>
   </node>
-  <node id="6799024586" lat="0.1679150" lon="35.7521400" version="1" timestamp="2019-09-16T10:08:45Z" changeset="74522263" uid="10269217" user="Arap Kobilo">
+  <node id="6799024586" lat="0.1679150" lon="35.7521400" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568104672826.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568104978746.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568104672826.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568104978746.jpg"/>
     <tag k="is_in:village" v="Chemorgong"/>
     <tag k="name" v="Chemorgong Primary School"/>
     <tag k="operator:description" v="Government of Kenya"/>
@@ -8434,13 +8434,13 @@
     <tag k="religion" v="christian"/>
     <tag k="service_times" v="10:00"/>
   </node>
-  <node id="6799326185" lat="0.0872430" lon="35.8748100" version="1" timestamp="2019-09-16T12:21:43Z" changeset="74528956" uid="10269217" user="Arap Kobilo">
+  <node id="6799326185" lat="0.0872430" lon="35.8748100" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568361407565.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568361313473.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568361407565.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568361313473.jpg"/>
     <tag k="is_in:village" v="Lombala"/>
     <tag k="name" v="Lombala Primary School"/>
     <tag k="operator:description" v="Government of Kenya"/>
@@ -8473,9 +8473,9 @@
     <tag k="operator:description" v="Government of Kenya"/>
     <tag k="operator:type" v="government"/>
   </node>
-  <node id="6799387352" lat="0.2388350" lon="35.7914000" version="1" timestamp="2019-09-16T13:15:12Z" changeset="74532115" uid="10269217" user="Arap Kobilo">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568370674260.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568371006958.jpg"/>
+  <node id="6799387352" lat="0.2388350" lon="35.7914000" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568370674260.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568371006958.jpg"/>
     <tag k="is_in:village" v="Kapkein"/>
     <tag k="man_made" v="borehole"/>
     <tag k="name" v="Kapekein Borehole"/>
@@ -8484,11 +8484,11 @@
     <tag k="operator:type" v="cbo"/>
     <tag k="wb_pb:id" v="44"/>
   </node>
-  <node id="6799387353" lat="0.2377850" lon="35.7903800" version="1" timestamp="2019-09-16T13:15:12Z" changeset="74532115" uid="10269217" user="Arap Kobilo">
+  <node id="6799387353" lat="0.2377850" lon="35.7903800" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="drinking_water"/>
     <tag k="description" v="kiosk"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568370088439.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568370358804.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568370088439.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568370358804.jpg"/>
     <tag k="is_in:village" v="Kapkein"/>
     <tag k="name" v="Kapkein Borehole"/>
     <tag k="operational_status" v="operational"/>
@@ -8518,13 +8518,13 @@
     <tag k="man_made" v="communications_tower"/>
     <tag k="name" v="Kapsok Booster"/>
   </node>
-  <node id="6799387357" lat="0.2145220" lon="35.7811000" version="1" timestamp="2019-09-16T13:15:12Z" changeset="74532115" uid="10269217" user="Arap Kobilo">
+  <node id="6799387357" lat="0.2145220" lon="35.7811000" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568369615441.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568370494470.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568369615441.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568370494470.jpg"/>
     <tag k="is_in:village" v="Kapsok"/>
     <tag k="name" v="Kapsok Primary School"/>
     <tag k="operator:description" v="Government of Kenya"/>
@@ -8542,13 +8542,13 @@
     <tag k="operator:description" v="Government of Kenya"/>
     <tag k="operator:type" v="government"/>
   </node>
-  <node id="6799387359" lat="0.1920500" lon="35.7865900" version="1" timestamp="2019-09-16T13:15:12Z" changeset="74532115" uid="10269217" user="Arap Kobilo">
+  <node id="6799387359" lat="0.1920500" lon="35.7865900" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="mgcsd"/>
     <tag k="education:type" v="pre_primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568364873230.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568365230716.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568364873230.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568365230716.jpg"/>
     <tag k="is_in:village" v="Chepkoyo"/>
     <tag k="name" v="Chepkoyo ECDE"/>
     <tag k="operator:description" v="County Government of Baringo"/>
@@ -8573,11 +8573,11 @@
     <tag k="operator:description" v="Government of Kenya"/>
     <tag k="operator:type" v="government"/>
   </node>
-  <node id="6799387362" lat="0.1699880" lon="35.7574200" version="1" timestamp="2019-09-16T13:15:12Z" changeset="74532115" uid="10269217" user="Arap Kobilo">
+  <node id="6799387362" lat="0.1699880" lon="35.7574200" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="drinking_water"/>
     <tag k="description" v="water_tap"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568287385108.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568287707918.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568287385108.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568287707918.jpg"/>
     <tag k="is_in:village" v="Kaburgei"/>
     <tag k="name" v="Bei Chebo No Irrigation Scheme"/>
     <tag k="operational_status" v="non_operational"/>
@@ -8591,13 +8591,13 @@
     <tag k="name" v="Sore Customer Duka"/>
     <tag k="shop" v="kiosk"/>
   </node>
-  <node id="6799387364" lat="0.2021980" lon="35.7615300" version="1" timestamp="2019-09-16T13:15:12Z" changeset="74532115" uid="10269217" user="Arap Kobilo">
+  <node id="6799387364" lat="0.2021980" lon="35.7615300" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="mgcsd"/>
     <tag k="education:type" v="pre_primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568281615312.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568281990773.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568281615312.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568281990773.jpg"/>
     <tag k="is_in:village" v="Kapkiris"/>
     <tag k="name" v="Kapkiris ECDE"/>
     <tag k="operator:description" v="County Government of Baringo"/>
@@ -8641,9 +8641,9 @@
     <tag k="medical_service:pregnancy_test" v="no"/>
     <tag k="name" v="Sore Dispensary"/>
   </node>
-  <node id="6799387368" lat="0.1899820" lon="35.7498600" version="1" timestamp="2019-09-16T13:15:12Z" changeset="74532115" uid="10269217" user="Arap Kobilo">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568386499642.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568271515860.jpg"/>
+  <node id="6799387368" lat="0.1899820" lon="35.7498600" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568386499642.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568271515860.jpg"/>
     <tag k="is_in:village" v="Kaplaimoi"/>
     <tag k="name" v="Chepkechir River Foot Bridge"/>
     <tag k="operator:funding" v="county_government"/>
@@ -8810,21 +8810,21 @@
     <tag k="name" v="Mogotio Equator"/>
     <tag k="tourism" v="attraction"/>
   </node>
-  <node id="6799533352" lat="-0.0032200" lon="35.9643500" version="2" timestamp="2019-09-24T13:04:23Z" changeset="74857184" uid="616774" user="mueschel">
+  <node id="6799533352" lat="-0.0032200" lon="35.9643500" version="3" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="building" v="office"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568284309964.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568284560450.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568284309964.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568284560450.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="name" v="Mogotio Information Center"/>
     <tag k="wb_pb:id" v="9"/>
   </node>
-  <node id="6799533353" lat="-0.0043100" lon="35.9608200" version="1" timestamp="2019-09-16T13:56:11Z" changeset="74534266" uid="10269217" user="Arap Kobilo">
+  <node id="6799533353" lat="-0.0043100" lon="35.9608200" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="pre_primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568282473447.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568282700155.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568282473447.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568282700155.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="name" v="Kisoyan Cheburet ECD"/>
     <tag k="operator:description" v="County Government of Baringo"/>
@@ -8847,21 +8847,21 @@
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="name" v="Mogotio World Vision"/>
   </node>
-  <node id="6799533356" lat="-0.0234400" lon="35.9645000" version="2" timestamp="2019-09-24T13:04:23Z" changeset="74857184" uid="616774" user="mueschel">
+  <node id="6799533356" lat="-0.0234400" lon="35.9645000" version="3" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="shelter"/>
     <tag k="fixme" v="Boda boda shade"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568277833919.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568278220622.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568277833919.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568278220622.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="name" v="Mogotio Boda boda shade"/>
     <tag k="shelter_type" v="bodaboda"/>
     <tag k="wb_pb:id" v="27"/>
   </node>
-  <node id="6799533357" lat="-0.0215700" lon="35.9636100" version="2" timestamp="2019-09-24T13:04:23Z" changeset="74857184" uid="616774" user="mueschel">
+  <node id="6799533357" lat="-0.0215700" lon="35.9636100" version="3" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="description" v="Mogotio Solar Street Lights"/>
     <tag k="highway" v="street_lamp"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568276589674.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568276784568.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568276589674.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568276784568.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="wb_pb:id" v="28"/>
   </node>
@@ -8879,12 +8879,12 @@
     <tag k="name" v="Mogotio Jumia Mosque"/>
     <tag k="religion" v="islam"/>
   </node>
-  <node id="6799533360" lat="-0.0228700" lon="35.9629200" version="1" timestamp="2019-09-16T13:56:11Z" changeset="74534266" uid="10269217" user="Arap Kobilo">
+  <node id="6799533360" lat="-0.0228700" lon="35.9629200" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="drinking_water"/>
     <tag k="description" v="kiosk"/>
     <tag k="fee" v="5"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568274955837.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568275127413.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568274955837.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568275127413.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="name" v="Mogotio Water Supply"/>
     <tag k="operational_status" v="operational"/>
@@ -8901,30 +8901,30 @@
     <tag k="religion" v="christian"/>
     <tag k="service_times" v="08:30"/>
   </node>
-  <node id="6799533362" lat="-0.0223621" lon="35.9672260" version="1" timestamp="2019-09-16T13:56:11Z" changeset="74534266" uid="10269217" user="Arap Kobilo">
+  <node id="6799533362" lat="-0.0223621" lon="35.9672260" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="marketplace"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568271148676.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568271483973.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568271148676.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568271483973.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="name" v="Mogotio Old Market"/>
     <tag k="wb_pb:id" v="26"/>
   </node>
-  <node id="6799533363" lat="-0.0315200" lon="35.9330500" version="1" timestamp="2019-09-16T13:56:11Z" changeset="74534266" uid="10269217" user="Arap Kobilo">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568269410176.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568269679410.jpg"/>
+  <node id="6799533363" lat="-0.0315200" lon="35.9330500" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568269410176.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568269679410.jpg"/>
     <tag k="is_in:village" v="Kipsogon"/>
     <tag k="name" v="Kipsogon Footbridge"/>
     <tag k="operator:funding" v="County Government of Baringo"/>
     <tag k="wb_pb:id" v="30"/>
   </node>
-  <node id="6799533364" lat="-0.0646200" lon="35.9177400" version="1" timestamp="2019-09-16T13:56:11Z" changeset="74534266" uid="10269217" user="Arap Kobilo">
+  <node id="6799533364" lat="-0.0646200" lon="35.9177400" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="always"/>
     <tag k="health_facility:referrals" v="Eldama Ravine Revaral Hospital and Nakurun PGH"/>
     <tag k="health_facility:type" v="dispensary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568267733949.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568274183497.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568267733949.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568274183497.jpg"/>
     <tag k="is_in:village" v="Kipsogon"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="no"/>
@@ -8934,23 +8934,23 @@
     <tag k="name" v="Kipsogon Health Center"/>
     <tag k="wb_pb:id" v="2"/>
   </node>
-  <node id="6799549393" lat="0.0186680" lon="35.8292100" version="2" timestamp="2019-09-21T09:52:52Z" changeset="74745190" uid="616774" user="mueschel">
+  <node id="6799549393" lat="0.0186680" lon="35.8292100" version="3" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568284714107.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568284999131.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568284714107.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568284999131.jpg"/>
     <tag k="is_in:village" v="Esageri"/>
     <tag k="name" v="Esageri School For Deaf"/>
     <tag k="operator:description" v="Government of Kenya"/>
     <tag k="operator:type" v="government"/>
     <tag k="wb_pb:id" v="170"/>
   </node>
-  <node id="6799549394" lat="0.0193280" lon="35.8288200" version="2" timestamp="2019-09-21T09:52:52Z" changeset="74745190" uid="616774" user="mueschel">
+  <node id="6799549394" lat="0.0193280" lon="35.8288200" version="3" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="cafeteria"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568283892579.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568284357105.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568283892579.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568284357105.jpg"/>
     <tag k="is_in:village" v="Esageri"/>
     <tag k="name" v="Esageri School For Deaf"/>
     <tag k="operator:description" v="Government of Kenya"/>
@@ -8963,9 +8963,9 @@
     <tag k="is_in:village" v="Midworld"/>
     <tag k="name" v="Midworld butchery"/>
   </node>
-  <node id="6799549396" lat="0.0183130" lon="35.8464300" version="1" timestamp="2019-09-16T13:58:40Z" changeset="74534411" uid="10269225" user="Ernet">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568278135835.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568278491972.jpg"/>
+  <node id="6799549396" lat="0.0183130" lon="35.8464300" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568278135835.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568278491972.jpg"/>
     <tag k="is_in:village" v="Sitewet"/>
     <tag k="man_made" v="borehole"/>
     <tag k="name" v="Kiptoim Borehole"/>
@@ -8985,9 +8985,9 @@
     <tag k="operator:description" v="County Government of Baringo"/>
     <tag k="operator:type" v="government"/>
   </node>
-  <node id="6799549398" lat="-0.0083000" lon="35.8885500" version="1" timestamp="2019-09-16T13:58:40Z" changeset="74534411" uid="10269225" user="Ernet">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568275027920.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568275477602.jpg"/>
+  <node id="6799549398" lat="-0.0083000" lon="35.8885500" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568275027920.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568275477602.jpg"/>
     <tag k="is_in:village" v="Lombogishu"/>
     <tag k="man_made" v="borehole"/>
     <tag k="name" v="Lombogishu Borehole"/>
@@ -8996,9 +8996,9 @@
     <tag k="operator:type" v="cbo"/>
     <tag k="wb_pb:id" v="54"/>
   </node>
-  <node id="6799660486" lat="0.0600900" lon="35.9305800" version="1" timestamp="2019-09-16T15:04:06Z" changeset="74537967" uid="10269217" user="Arap Kobilo">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568369757457.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568369937984.jpg"/>
+  <node id="6799660486" lat="0.0600900" lon="35.9305800" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568369757457.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568369937984.jpg"/>
     <tag k="is_in:village" v="Noiwet"/>
     <tag k="man_made" v="borehole"/>
     <tag k="name" v="Noiwet Borehole"/>
@@ -9007,12 +9007,12 @@
     <tag k="operator:type" v="cbo"/>
     <tag k="wb_pb:id" v="76"/>
   </node>
-  <node id="6799660487" lat="0.0224220" lon="35.9362300" version="1" timestamp="2019-09-16T15:04:15Z" changeset="74537967" uid="10269217" user="Arap Kobilo">
+  <node id="6799660487" lat="0.0224220" lon="35.9362300" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="drinking_water"/>
     <tag k="description" v="water_tank"/>
     <tag k="fee" v="3"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568368654568.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568368900983.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568368654568.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568368900983.jpg"/>
     <tag k="is_in:village" v="Chemogoch"/>
     <tag k="name" v="Kuronionde Water Project"/>
     <tag k="operational_status" v="non_operational"/>
@@ -9020,13 +9020,13 @@
     <tag k="operator:type" v="cbo"/>
     <tag k="wb_pb:id" v="23"/>
   </node>
-  <node id="6799660488" lat="0.0004200" lon="35.9203900" version="1" timestamp="2019-09-16T15:04:20Z" changeset="74537967" uid="10269217" user="Arap Kobilo">
+  <node id="6799660488" lat="0.0004200" lon="35.9203900" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568365566168.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568365732151.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568365566168.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568365732151.jpg"/>
     <tag k="is_in:village" v="Ngusero"/>
     <tag k="name" v="Ngusero Primary School"/>
     <tag k="operator:description" v="Government of Kenya"/>
@@ -9039,20 +9039,20 @@
     <tag k="name" v="Soweto Timberyard"/>
     <tag k="shop" v="furniture_store"/>
   </node>
-  <node id="6799722591" lat="-0.0021300" lon="35.9631400" version="1" timestamp="2019-09-16T15:03:52Z" changeset="74537967" uid="10269217" user="Arap Kobilo">
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568374459571.jpg"/>
+  <node id="6799722591" lat="-0.0021300" lon="35.9631400" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568374459571.jpg"/>
     <tag k="industrial" v="slaughterhouse"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="name" v="Mogotio Slaughter House"/>
     <tag k="wb_pb:id" v="31"/>
   </node>
-  <node id="6799722592" lat="0.0156170" lon="35.9543800" version="1" timestamp="2019-09-16T15:03:54Z" changeset="74537967" uid="10269217" user="Arap Kobilo">
+  <node id="6799722592" lat="0.0156170" lon="35.9543800" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568373194479.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568373373745.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568373194479.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568373373745.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="name" v="Lomanira ECDE"/>
     <tag k="operator:description" v="Lomanira Primary School"/>
@@ -9065,12 +9065,12 @@
     <tag k="name" v="Soweto Butchery"/>
     <tag k="shop" v="butcher"/>
   </node>
-  <node id="6799747085" lat="0.0609420" lon="35.9275400" version="1" timestamp="2019-09-16T15:04:03Z" changeset="74537967" uid="10269217" user="Arap Kobilo">
+  <node id="6799747085" lat="0.0609420" lon="35.9275400" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="drinking_water"/>
     <tag k="description" v="kiosk"/>
     <tag k="fee" v="5"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568370904377.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568371317113.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568370904377.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568371317113.jpg"/>
     <tag k="is_in:village" v="Noiwet"/>
     <tag k="name" v="Noiwet Borehole"/>
     <tag k="operational_status" v="non_operational"/>
@@ -9078,9 +9078,9 @@
     <tag k="operator:type" v="cbo"/>
     <tag k="wb_pb:id" v="77"/>
   </node>
-  <node id="6799747885" lat="0.0097220" lon="35.9498300" version="1" timestamp="2019-09-16T15:04:22Z" changeset="74537967" uid="10269217" user="Arap Kobilo">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568363649637.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568367680959.jpg"/>
+  <node id="6799747885" lat="0.0097220" lon="35.9498300" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568363649637.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568367680959.jpg"/>
     <tag k="is_in:village" v="Lomanira"/>
     <tag k="man_made" v="borehole"/>
     <tag k="name" v="Muiya Water Supply"/>
@@ -9095,9 +9095,9 @@
     <tag k="is_in:village" v="Lomanira"/>
     <tag k="name" v="Lomanira Splendor"/>
   </node>
-  <node id="6799748985" lat="0.0040020" lon="35.9498000" version="1" timestamp="2019-09-16T15:04:37Z" changeset="74537967" uid="10269217" user="Arap Kobilo">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568362189884.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568362343564.jpg"/>
+  <node id="6799748985" lat="0.0040020" lon="35.9498000" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568362189884.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568362343564.jpg"/>
     <tag k="is_in:village" v="Lomanira"/>
     <tag k="man_made" v="borehole"/>
     <tag k="name" v="Mogotio Town Borehole"/>
@@ -9538,12 +9538,12 @@
     <tag k="name" v="Marigat KPLC Sub Station"/>
     <tag k="power" v="transformer"/>
   </node>
-  <node id="6807425640" lat="-0.0238200" lon="35.9556200" version="1" timestamp="2019-09-19T08:32:19Z" changeset="74659673" uid="10269217" user="Arap Kobilo">
+  <node id="6807425640" lat="-0.0238200" lon="35.9556200" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="drinking_water"/>
     <tag k="description" v="water_tap"/>
     <tag k="fee" v="5"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568711861988.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568712033874.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568711861988.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568712033874.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="name" v="Mogotio Reticulation System"/>
     <tag k="operational_status" v="non_operational"/>
@@ -9551,10 +9551,10 @@
     <tag k="operator:type" v="cbo"/>
     <tag k="wb_pb:id" v="22"/>
   </node>
-  <node id="6807425641" lat="-0.0239000" lon="35.9593100" version="1" timestamp="2019-09-19T08:32:19Z" changeset="74659673" uid="10269217" user="Arap Kobilo">
+  <node id="6807425641" lat="-0.0239000" lon="35.9593100" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="townhall"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568710645395.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568710898612.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568710645395.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568710898612.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="name" v="Office of the Governor Mogotio"/>
     <tag k="wb_pb:id" v="193"/>
@@ -9592,10 +9592,10 @@
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="name" v="Mogotio Constituency Development Fund"/>
   </node>
-  <node id="6807425646" lat="-0.0264100" lon="35.9584900" version="1" timestamp="2019-09-19T08:32:19Z" changeset="74659673" uid="10269217" user="Arap Kobilo">
+  <node id="6807425646" lat="-0.0264100" lon="35.9584900" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="townhall"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568701770518.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568701463635.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568701770518.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568701463635.jpg"/>
     <tag k="is_in:village" v="Mogotio"/>
     <tag k="name" v="Deputy County Commissioner Office"/>
     <tag k="wb_pb:id" v="192"/>
@@ -9690,7 +9690,7 @@
     <tag k="operator:funding" v="County Government of Baringo"/>
     <tag k="wb_pb:id" v="121"/>
   </node>
-  <node id="6807606139" lat="0.2626200" lon="35.8043883" version="2" timestamp="2019-10-04T20:36:46Z" changeset="75303433" uid="999" user="mikelmaron">
+  <node id="6807606139" lat="0.2626200" lon="35.8043883" version="3" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568369635827.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568369792459.jpg"/>
     <tag k="is_in:village" v="Bekimei"/>
@@ -10032,10 +10032,10 @@
     <tag k="name" v="Koitebes Tailors Shop"/>
     <tag k="shop" v="tailor"/>
   </node>
-  <node id="6808019397" lat="0.1268750" lon="35.8523133" version="2" timestamp="2019-09-26T07:24:38Z" changeset="74941098" uid="616774" user="mueschel">
+  <node id="6808019397" lat="0.1268750" lon="35.8523133" version="3" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="drinking_water"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568871188585.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568871498024.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568871188585.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568871498024.jpg"/>
     <tag k="is_in:village" v="Chemamul"/>
     <tag k="name" v="Matebei Borehole"/>
     <tag k="operator:funding" v="County Government of Baringo"/>
@@ -10087,9 +10087,9 @@
     <tag k="is_in:village" v="Rosy"/>
     <tag k="name" v="Ngoswee ECDE"/>
   </node>
-  <node id="6808019404" lat="0.1705883" lon="35.7859900" version="1" timestamp="2019-09-19T13:11:29Z" changeset="74672845" uid="10269225" user="Ernet">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568811124882.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568811451980.jpg"/>
+  <node id="6808019404" lat="0.1705883" lon="35.7859900" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568811124882.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568811451980.jpg"/>
     <tag k="is_in:village" v="Rosy"/>
     <tag k="name" v="Rossy Water Project"/>
     <tag k="operational_status" v="non_operational"/>
@@ -10097,10 +10097,10 @@
     <tag k="operator:type" v="government"/>
     <tag k="wb_pb:id" v="71"/>
   </node>
-  <node id="6808019405" lat="0.1453500" lon="35.7938150" version="1" timestamp="2019-09-19T13:11:29Z" changeset="74672845" uid="10269225" user="Ernet">
+  <node id="6808019405" lat="0.1453500" lon="35.7938150" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568796633386.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568797184875.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568796633386.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568797184875.jpg"/>
     <tag k="is_in:village" v="Kapterit"/>
     <tag k="name" v="Kapterit Primary School"/>
     <tag k="operator:description" v="Government of Kenya"/>
@@ -10112,13 +10112,13 @@
     <tag k="is_in:village" v="Perkerra"/>
     <tag k="name" v="Cheparan Foot Bridge"/>
   </node>
-  <node id="6808019407" lat="0.1491100" lon="35.8061683" version="1" timestamp="2019-09-19T13:11:29Z" changeset="74672845" uid="10269225" user="Ernet">
+  <node id="6808019407" lat="0.1491100" lon="35.8061683" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="pre_primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568791150227.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568875066339.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568791150227.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568875066339.jpg"/>
     <tag k="is_in:village" v="Perkerra"/>
     <tag k="name" v="Sachangwan ECDE"/>
     <tag k="operator:description" v="County Government of Baringo"/>
@@ -10150,14 +10150,14 @@
     <tag k="name" v="Koitebes Catholic Church"/>
     <tag k="religion" v="christian"/>
   </node>
-  <node id="6808019412" lat="0.1453133" lon="35.8409050" version="1" timestamp="2019-09-19T13:11:29Z" changeset="74672845" uid="10269225" user="Ernet">
+  <node id="6808019412" lat="0.1453133" lon="35.8409050" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="sometime"/>
     <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital"/>
     <tag k="health_facility:type" v="dispensary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568707915178.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568708861541.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568707915178.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568708861541.jpg"/>
     <tag k="is_in:village" v="Koitebes"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -10201,39 +10201,39 @@
     <tag k="operator:description" v="Tuiseru A.I.C church"/>
     <tag k="operator:type" v="religious"/>
   </node>
-  <node id="6808019417" lat="0.1472217" lon="35.8253017" version="2" timestamp="2019-09-25T13:29:20Z" changeset="74910771" uid="616774" user="mueschel">
+  <node id="6808019417" lat="0.1472217" lon="35.8253017" version="3" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568699768780.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568700201877.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568699768780.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568700201877.jpg"/>
     <tag k="is_in:village" v="Chepkokon"/>
     <tag k="operator:description" v="County Government of Baringo"/>
     <tag k="operator:type" v="government"/>
     <tag k="wb_pb:id" v="68"/>
   </node>
-  <node id="6808019418" lat="0.1630700" lon="35.8328300" version="2" timestamp="2019-09-26T07:24:38Z" changeset="74941098" uid="616774" user="mueschel">
+  <node id="6808019418" lat="0.1630700" lon="35.8328300" version="3" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568696524412.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568696908015.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568696524412.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568696908015.jpg"/>
     <tag k="is_in:village" v="Aram"/>
     <tag k="name" v="Aram Primary School"/>
     <tag k="operator:description" v="Government of Kenya"/>
     <tag k="operator:type" v="government"/>
     <tag k="wb_pb:id" v="66"/>
   </node>
-  <node id="6808019419" lat="0.1634367" lon="35.8373417" version="2" timestamp="2019-09-25T13:29:20Z" changeset="74910771" uid="616774" user="mueschel">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568695684111.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568695891449.jpg"/>
+  <node id="6808019419" lat="0.1634367" lon="35.8373417" version="3" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568695684111.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568695891449.jpg"/>
     <tag k="is_in:village" v="Aram"/>
     <tag k="name" v="Tabare Tui Dam"/>
     <tag k="wb_pb:id" v="181"/>
   </node>
-  <node id="6808019420" lat="0.1610283" lon="35.8116217" version="1" timestamp="2019-09-19T13:11:29Z" changeset="74672845" uid="10269225" user="Ernet">
+  <node id="6808019420" lat="0.1610283" lon="35.8116217" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="pre_primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568788890017.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568789055727.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568788890017.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568789055727.jpg"/>
     <tag k="is_in:village" v="Kimngorom"/>
     <tag k="name" v="Kimngorom ECDE"/>
     <tag k="operator:description" v="County Government of Baringo"/>
@@ -10256,9 +10256,9 @@
     <tag k="name" v="Noiwet Primary School"/>
     <tag k="operator:type" v="Government of Kenya"/>
   </node>
-  <node id="6808083472" lat="0.0035830" lon="35.9646000" version="1" timestamp="2019-09-19T13:38:11Z" changeset="74674248" uid="10269217" user="Arap Kobilo">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568806399164.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568806638092.jpg"/>
+  <node id="6808083472" lat="0.0035830" lon="35.9646000" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568806399164.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568806638092.jpg"/>
     <tag k="is_in:village" v="Chemogoch"/>
     <tag k="name" v="Equator Dip Alphega Road"/>
     <tag k="wb_pb:id" v="29"/>
@@ -10287,22 +10287,22 @@
     <tag k="is_in:village" v="Kapkararam"/>
     <tag k="name" v="Kapkararam Primary School"/>
   </node>
-  <node id="6808083476" lat="0.0631770" lon="35.8879200" version="1" timestamp="2019-09-19T13:38:11Z" changeset="74674248" uid="10269217" user="Arap Kobilo">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568800266288.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568800414483.jpg"/>
+  <node id="6808083476" lat="0.0631770" lon="35.8879200" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568800266288.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568800414483.jpg"/>
     <tag k="is_in:village" v="Kapkararam"/>
     <tag k="name" v="Kapkararam"/>
     <tag k="operator:funding" v="County Government of Baringo"/>
     <tag k="operator:type" v="cbo"/>
     <tag k="wb_pb:id" v="78"/>
   </node>
-  <node id="6808083477" lat="0.0739380" lon="35.8961500" version="2" timestamp="2019-09-20T16:42:09Z" changeset="74727447" uid="86504" user="Thomas8122">
+  <node id="6808083477" lat="0.0739380" lon="35.8961500" version="3" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="mgcsd"/>
     <tag k="education:type" v="pre_primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568797638726.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568797953493.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568797638726.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568797953493.jpg"/>
     <tag k="is_in:village" v="Kenet"/>
     <tag k="name" v="Kenet ECD"/>
     <tag k="operator:type" v="government"/>
@@ -10332,18 +10332,18 @@
     <tag k="operator:funding" v="cbo"/>
     <tag k="operator:type" v="cbo"/>
   </node>
-  <node id="6808083481" lat="0.0560070" lon="35.9050800" version="1" timestamp="2019-09-19T13:38:11Z" changeset="74674248" uid="10269217" user="Arap Kobilo">
+  <node id="6808083481" lat="0.0560070" lon="35.9050800" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="amenity" v="clinic"/>
     <tag k="health_facility:referrals" v="Eldama Ravine Referral Hospital"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568794054129.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568794293587.jpg"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568794054129.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568794293587.jpg"/>
     <tag k="is_in:village" v="Ngubereti"/>
     <tag k="name" v="Ngubereti Health Center"/>
     <tag k="wb_pb:id" v="80"/>
   </node>
-  <node id="6808083482" lat="0.0597550" lon="35.9138600" version="1" timestamp="2019-09-19T13:38:11Z" changeset="74674248" uid="10269217" user="Arap Kobilo">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568793306947.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568793533432.jpg"/>
+  <node id="6808083482" lat="0.0597550" lon="35.9138600" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568793306947.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568793533432.jpg"/>
     <tag k="is_in:village" v="Ngubereti"/>
     <tag k="name" v="Ndaramiandet Water Pan"/>
     <tag k="operator:funding" v="County Government of Baringo"/>
@@ -10360,9 +10360,9 @@
     <tag k="name" v="St. Barnabas ACK Ngubereti"/>
     <tag k="service_times" v="10:30"/>
   </node>
-  <node id="6851133548" lat="0.1314130" lon="35.8802200" version="1" timestamp="2019-10-04T11:06:05Z" changeset="75276794" uid="10269225" user="Ernet">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1570017839317.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1570018010382.jpg"/>
+  <node id="6851133548" lat="0.1314130" lon="35.8802200" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570017839317.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570018010382.jpg"/>
     <tag k="is_in:village" v="Sagasagik"/>
     <tag k="name" v="Mogotio - Sagasagik Road"/>
     <tag k="wb_pb:id" v="52"/>

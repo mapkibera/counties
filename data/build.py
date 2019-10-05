@@ -70,7 +70,7 @@ def sync_projects():
 sync_osm(counties)
 
 ##Get project data from Google Sheets
-sync_projects()
+#sync_projects()
 
 ##Transform OSM data into GeoJSON
 convert_geojson(counties)
@@ -81,9 +81,8 @@ match_projects(counties)
 ##Merge Ward Level Matched Data into County Files
 merge_geojson(counties)
 
-#cache_images(counties)
-#cache_images_county('baringo')
-#xml_with_cache_county('marigat')
+##Store images locally, and produce modified XML for upload with new image locations
+cache_images(counties)
 
 ##Filter projects from POI files
 filter_poi(counties)

@@ -1,6 +1,6 @@
 <osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-10-05T01:33:02Z" />
+<meta osm_base="2019-10-05T04:46:01Z" />
 
   <bounds maxlat="0.5916000" maxlon="35.7990000" minlat="0.4353000" minlon="35.6147000" />
 
@@ -2595,14 +2595,14 @@
     <tag k="religion" v="muslim" />
     <tag k="wb_pb:id" v="26192164" />
   </way>
-  <way changeset="61015284" id="610480109" timestamp="2018-07-24T09:39:33Z" uid="8556533" user="zubeda" version="1">
+  <way action="modify" changeset="61015284" id="610480109" timestamp="2018-07-24T09:39:33Z" uid="8556533" user="zubeda" version="1">
     <nd ref="5781399411" />
     <nd ref="5781399410" />
     <nd ref="5781399409" />
     <nd ref="5781399408" />
     <nd ref="5781399411" />
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982660930.jpg" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982824122.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/610480109/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1531982824122jpg/orig.jpg" />
     <tag k="leisure" v="stadium" />
     <tag k="name" v="Kabarnet Stadium" />
     <tag k="type" v="Stadium" />

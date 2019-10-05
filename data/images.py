@@ -81,7 +81,6 @@ def get_image_cache(osm_id, img_type, img_url, cache_size):
   return cache_path + cache_size + fileExtension
 
 def osm_has_cache(img_url):
-  return img_url.find("baringo_county") == -1
   return img_url.find("https://mapkibera.github.io/counties/data/images/cache/") == 0
 
 def cache_images(counties):

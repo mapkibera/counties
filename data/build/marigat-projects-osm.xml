@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-10-05T03:49:02Z"/>
+<meta osm_base="2019-10-05T04:46:01Z"/>
 
   <bounds minlat="0.2520000" minlon="35.7760000" maxlat="0.6160000" maxlon="36.0540000"/>
 
@@ -670,7 +670,7 @@
     <tag k="operator:funding" v="County Government of Baringo"/>
     <tag k="wb_pb:id" v="121"/>
   </node>
-  <node id="6807606139" lat="0.2626200" lon="35.8043883" version="2" timestamp="2019-10-04T20:36:46Z" changeset="75303433" uid="999" user="mikelmaron">
+  <node id="6807606139" lat="0.2626200" lon="35.8043883" version="3" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568369635827.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568369792459.jpg"/>
     <tag k="is_in:village" v="Bekimei"/>
