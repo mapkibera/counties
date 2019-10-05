@@ -1,0 +1,2281 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/6788435693",
+  "properties": {
+    "type": "node",
+    "id": "6788435693",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568026845391.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568026730741.jpg",
+      "is_in:village": "Town A",
+      "name": "St. Paul's Catholic Primary",
+      "operator:description": "St. Teresia Catholic Church",
+      "operator:type": "religious",
+      "wb_pb:id": "106"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.98493,
+      0.469183
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6788436846",
+  "properties": {
+    "type": "node",
+    "id": "6788436846",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568026845391.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568026730741.jpg",
+      "is_in:village": "Town A",
+      "name": "St. Paul's Catholic Primary",
+      "operator:description": "St. Teresia Catholic Church",
+      "operator:type": "religious",
+      "wb_pb:id": "106"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.98493,
+      0.469183
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6788450194",
+  "properties": {
+    "type": "node",
+    "id": "6788450194",
+    "tags": {
+      "amenity": "hospital",
+      "dispensing": "no",
+      "electricity": "none",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568033412053.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568033967704.jpg",
+      "is_in:village": "Town A",
+      "medical_service:family_planning": "no",
+      "medical_service:general_medical_services": "no",
+      "medical_service:immunizations": "no",
+      "medical_service:malaria": "no",
+      "medical_service:pregnancy_test": "no",
+      "name": "Sub County Referral Hospital",
+      "wb_pb:id": "124"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "3",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.98487,
+      0.477413
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6788450200",
+  "properties": {
+    "type": "node",
+    "id": "6788450200",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568029272006.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568027219069.jpg",
+      "is_in:village": "Town A",
+      "name": "Marigat Intergrated Boarding Primary School",
+      "operator:description": "County Goverment of Baringo",
+      "operator:type": "government",
+      "wb_pb:id": "86"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.98304,
+      0.473877
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6788464035",
+  "properties": {
+    "type": "node",
+    "id": "6788464035",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568114806105.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568115360672.jpg",
+      "is_in:village": "Loberer",
+      "name": "Loberer ECDE",
+      "operator:description": "County goverment of Baringo",
+      "operator:type": "government",
+      "wb_pb:id": "156"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.98849,
+      0.554995
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6788464038",
+  "properties": {
+    "type": "node",
+    "id": "6788464038",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568108269181.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109587749.jpg",
+      "is_in:village": "Maoi",
+      "name": "Maoi Boarding Primary School",
+      "operator:description": "Government of Kenya",
+      "operator:type": "government",
+      "wb_pb:id": "91"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.94287,
+      0.394612
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6788464041",
+  "properties": {
+    "type": "node",
+    "id": "6788464041",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568033582620.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568032998385.jpg",
+      "is_in:village": "Parkaren",
+      "name": "Parkaren Primary School",
+      "operator:description": "National Government",
+      "operator:type": "government",
+      "wb_pb:id": "145"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.99,
+      0.437217
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6788466888",
+  "properties": {
+    "type": "node",
+    "id": "6788466888",
+    "tags": {
+      "amenity": "clinic",
+      "dispensing": "yes",
+      "electricity": "always",
+      "health_facility:referrals": "Marigat District Hospital .",
+      "health_facility:type": "dispensary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568114440609.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568114914970.jpg",
+      "is_in:village": "Barsemoi",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
+      "name": "Barsemoi",
+      "wb_pb:id": "148"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.89595,
+      0.57055
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6788466890",
+  "properties": {
+    "type": "node",
+    "id": "6788466890",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568110763273.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568111195065.jpg",
+      "is_in:village": "Kabusa",
+      "name": "Segutionin Primary School",
+      "operator:description": "National Government",
+      "operator:type": "government",
+      "wb_pb:id": "147"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.91219,
+      0.539118
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6788466892",
+  "properties": {
+    "type": "node",
+    "id": "6788466892",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109522954.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109934564.jpg",
+      "is_in:village": "Kabusa",
+      "man_made": "borehole",
+      "name": "Kabusa Borehole Self Help Group",
+      "operational_status": "operational",
+      "operator:funding": "County Government of Baringo",
+      "operator:type": "government",
+      "wb_pb:id": "98"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "3",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.91208,
+      0.537882
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6788466895",
+  "properties": {
+    "type": "node",
+    "id": "6788466895",
+    "tags": {
+      "amenity": "clinic",
+      "dispensing": "yes",
+      "electricity": "often",
+      "health_facility:referrals": "Kabarnet",
+      "health_facility:type": "dispensary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568042432255.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568042618403.jpg",
+      "is_in:village": "Kimalel",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
+      "name": "Kimalel Dispensary",
+      "wb_pb:id": "149"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.89154,
+      0.46485
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6788467271",
+  "properties": {
+    "type": "node",
+    "id": "6788467271",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109638654.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109836407.jpg",
+      "is_in:village": "Bekibon",
+      "man_made": "storage_tank",
+      "name": "Bekibon Water Storage Tank",
+      "operational_status": "operational",
+      "operator:funding": "ngo",
+      "operator:type": "cbo",
+      "wb_pb:id": "154"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "3",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.88582,
+      0.333507
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6788467272",
+  "properties": {
+    "type": "node",
+    "id": "6788467272",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "pre_primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109238228.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109480600.jpg",
+      "is_in:village": "Bekibon",
+      "name": "Bekibon ECDE",
+      "operator:description": "County Government of Baringo",
+      "operator:type": "government",
+      "wb_pb:id": "81"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.88573,
+      0.333495
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6788472319",
+  "properties": {
+    "type": "node",
+    "id": "6788472319",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568106784685.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568106330549.jpg",
+      "is_in:village": "Patkawanin",
+      "name": "Patkawanin Primary School",
+      "operator:description": "Government of Kenya",
+      "operator:type": "government",
+      "wb_pb:id": "83"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.84142,
+      0.482707
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6798389722",
+  "properties": {
+    "type": "node",
+    "id": "6798389722",
+    "tags": {
+      "amenity": "drinking_water",
+      "description": "kiosk",
+      "fee": "3",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568287433738.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568287516392.jpg",
+      "is_in:village": "Kamasula",
+      "name": "Kamagonge Borehole",
+      "operational_status": "operational",
+      "operator:funding": "County Government of Baringo",
+      "operator:type": "government",
+      "wb_pb:id": "104"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.95871,
+      0.469105
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6798389723",
+  "properties": {
+    "type": "node",
+    "id": "6798389723",
+    "tags": {
+      "amenity": "drinking_water",
+      "description": "kiosk",
+      "fee": "3",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568281368850.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568281801024.jpg",
+      "is_in:village": "Sirinyo A",
+      "name": "Kapsamson Borehole",
+      "operational_status": "operational",
+      "operator:funding": "County Government of Baringo",
+      "operator:type": "government",
+      "wb_pb:id": "105"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.97298,
+      0.477078
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6798389724",
+  "properties": {
+    "type": "node",
+    "id": "6798389724",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "pre_primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568280836044.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568290627873.jpg",
+      "is_in:village": "Sirinyo A",
+      "name": "Karianga ECDE",
+      "operator:description": "County Government Of Baringo",
+      "operator:type": "government",
+      "wb_pb:id": "84"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.97381,
+      0.475947
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6798389725",
+  "properties": {
+    "type": "node",
+    "id": "6798389725",
+    "tags": {
+      "amenity": "hospital",
+      "dispensing": "no",
+      "fixme": "mortuary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568276275179.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568279207012.jpg",
+      "is_in:village": "Town A",
+      "medical_service:family_planning": "no",
+      "medical_service:general_medical_services": "no",
+      "medical_service:immunizations": "no",
+      "medical_service:malaria": "no",
+      "medical_service:pregnancy_test": "no",
+      "name": "Marigat Sub County Mortuary",
+      "shop": "funeral_directors",
+      "wb_pb:id": "142"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "3",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.98454,
+      0.475735
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6798389726",
+  "properties": {
+    "type": "node",
+    "id": "6798389726",
+    "tags": {
+      "amenity": "hospital",
+      "dispensing": "yes",
+      "electricity": "none",
+      "health_facility:referrals": "Kabarnet Referral Hospital",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568275540555.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568275645540.jpg",
+      "is_in:village": "TownA",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "no",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
+      "name": "Marigat Sub County Referral Hospital",
+      "wb_pb:id": "143"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "4",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.98434,
+      0.47722
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6798389727",
+  "properties": {
+    "type": "node",
+    "id": "6798389727",
+    "tags": {
+      "amenity": "drinking_water",
+      "description": "kiosk",
+      "fee": "5",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568272428120.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568272972595.jpg",
+      "is_in:village": "Sirinyo C",
+      "name": "Sirinyo Borehole",
+      "operational_status": "operational",
+      "operator:funding": "cbo",
+      "operator:type": "cbo",
+      "wb_pb:id": "90"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.96131,
+      0.492112
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6798591056",
+  "properties": {
+    "type": "node",
+    "id": "6798591056",
+    "tags": {
+      "amenity": "clinic",
+      "dispensing": "yes",
+      "electricity": "often",
+      "health_facility:referrals": "Kabarnet referral hospital",
+      "health_facility:type": "dispensary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568118655277.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568195113388.jpg",
+      "is_in:village": "Bekibon",
+      "medical_service:family_planning": "no",
+      "medical_service:general_medical_services": "no",
+      "medical_service:immunizations": "no",
+      "medical_service:pregnancy_test": "no",
+      "name": "Bekibon Maternity Renovation",
+      "wb_pb:id": "140"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.88607,
+      0.340183
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6798591057",
+  "properties": {
+    "type": "node",
+    "id": "6798591057",
+    "tags": {
+      "amenity": "clinic",
+      "dispensing": "no",
+      "electricity": "none",
+      "health_facility:referrals": "Kabarnet Referral Hospital",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568118263683.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568194798631.jpg",
+      "is_in:village": "Bekibon",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
+      "name": "Bekibon Dispensary",
+      "wb_pb:id": "132"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.88595,
+      0.340027
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6798591059",
+  "properties": {
+    "type": "node",
+    "id": "6798591059",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568115050273.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568115363895.jpg",
+      "is_in:village": "Katkamuma",
+      "man_made": "borehole",
+      "name": "Katkamuma Borehole",
+      "operational_status": "non_operational",
+      "operator:description": "Drilling and equipping",
+      "operator:funding": "County_government",
+      "operator:type": "cbo",
+      "wb_pb:id": "110"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.85101,
+      0.280598
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6798591060",
+  "properties": {
+    "type": "node",
+    "id": "6798591060",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "pre_primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568114680746.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568195598378.jpg",
+      "is_in:village": "Katkamuma",
+      "name": "Katkamuma ECDE",
+      "operator:description": "County Government of Baringo",
+      "operator:type": "government",
+      "wb_pb:id": "190"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.85478,
+      0.281262
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6798591061",
+  "properties": {
+    "type": "node",
+    "id": "6798591061",
+    "tags": {
+      "amenity": "clinic",
+      "dispensing": "yes",
+      "electricity": "often",
+      "health_facility:referrals": "Kabarnet Referral Hospital",
+      "health_facility:type": "dispensary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568113389360.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568195813297.jpg",
+      "is_in:village": "Tinomoi",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
+      "name": "Tinomoi Dispensary",
+      "wb_pb:id": "146"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.8679,
+      0.294875
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6798591062",
+  "properties": {
+    "type": "node",
+    "id": "6798591062",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568112601155.jpg",
+      "is_in:village": "Tinomoi",
+      "name": "Tinomoi Primary School",
+      "operator:type": "government",
+      "wb_pb:id": "191"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.86834,
+      0.288167
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6798722867",
+  "properties": {
+    "type": "node",
+    "id": "6798722867",
+    "tags": {
+      "amenity": "clinic",
+      "dispensing": "yes",
+      "electricity": "sometime",
+      "health_facility:referrals": "Kabarnet District Hospital",
+      "health_facility:type": "dispensary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568280603460.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568280990362.jpg",
+      "is_in:village": "Sogon",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
+      "name": "Sogon Dispensary",
+      "wb_pb:id": "164"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "3",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.81625,
+      0.557633
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6799041929",
+  "properties": {
+    "type": "node",
+    "id": "6799041929",
+    "tags": {
+      "amenity": "drinking_water",
+      "description": "water_tap",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568374755735.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568374995966.jpg",
+      "is_in:village": "Sogon",
+      "name": "Sogon Water Project",
+      "operational_status": "Operational",
+      "operator:funding": "County_government",
+      "operator:type": "government",
+      "wb_pb:id": "118"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.8171322,
+      0.5585011
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6799041933",
+  "properties": {
+    "type": "node",
+    "id": "6799041933",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568369589115.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568369206048.jpg",
+      "is_in:village": "Kabirmet",
+      "name": "Kabirmet Primary School",
+      "operator:description": "Government of Kenya",
+      "operator:type": "government",
+      "wb_pb:id": "165"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.82534,
+      0.584735
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6799074249",
+  "properties": {
+    "type": "node",
+    "id": "6799074249",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568277065972.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568277520636.jpg",
+      "is_in:village": "Ketipterkek",
+      "name": "Ketipterkek Water Drain",
+      "operator:funding": "County Government of Baringo",
+      "waterway": "drain",
+      "wb_pb:id": "157"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "3",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.88415,
+      0.514732
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6799074252",
+  "properties": {
+    "type": "node",
+    "id": "6799074252",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568288643223.jpg",
+      "is_in:village": "Barng'elech",
+      "man_made": "borehole",
+      "name": "Womberechun Borehole",
+      "operational_status": "operational",
+      "operator:funding": "County Government of Baringo",
+      "operator:type": "government",
+      "wb_pb:id": "100"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.89505,
+      0.499897
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6799074253",
+  "properties": {
+    "type": "node",
+    "id": "6799074253",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568288230653.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568288185717.jpg",
+      "is_in:village": "Barng'elech",
+      "name": "Barng'elech Primary School",
+      "operator:description": "Governmet of Kenya",
+      "operator:type": "government",
+      "wb_pb:id": "211"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.89874,
+      0.503823
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6799074261",
+  "properties": {
+    "type": "node",
+    "id": "6799074261",
+    "tags": {
+      "amenity": "clinic",
+      "dispensing": "no",
+      "electricity": "none",
+      "health_facility:referrals": "none",
+      "health_facility:type": "dispensary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568282861970.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568282784464.jpg",
+      "is_in:village": "Kibingor",
+      "medical_service:family_planning": "no",
+      "medical_service:general_medical_services": "no",
+      "medical_service:immunizations": "no",
+      "medical_service:malaria": "no",
+      "medical_service:pregnancy_test": "no",
+      "name": "Kibingor Dispensary",
+      "wb_pb:id": "131"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.86625,
+      0.51215
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6799074263",
+  "properties": {
+    "type": "node",
+    "id": "6799074263",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568279751537.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568279969141.jpg",
+      "is_in:village": "Ngenyin",
+      "name": "Ngenyin Irrigation Scheme",
+      "operator:funding": "County Government of Baringo",
+      "waterway": "drain",
+      "wb_pb:id": "89"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "3",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9141135,
+      0.5258886
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6799316011",
+  "properties": {
+    "type": "node",
+    "id": "6799316011",
+    "tags": {
+      "amenity": "shelter",
+      "description": "Bodaboda shed",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568383234017.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568383267052.jpg",
+      "is_in:village": "Town A",
+      "name": "Ngoswe Bodaboda Shed",
+      "shelter_type": "boda",
+      "wb_pb:id": "228"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "3",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.98298,
+      0.470643
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6799316012",
+  "properties": {
+    "type": "node",
+    "id": "6799316012",
+    "tags": {
+      "amenity": "shelter",
+      "description": "Bodaboda Shed",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568381863874.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568381895690.jpg",
+      "is_in:village": "Town A",
+      "name": "Kamko Bodaboda Shed",
+      "shelter_type": "boda",
+      "wb_pb:id": "227"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "3",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.98045,
+      0.469477
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6799316013",
+  "properties": {
+    "type": "node",
+    "id": "6799316013",
+    "tags": {
+      "amenity": "shelter",
+      "description": "Bodaboda Shed",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568380990521.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568381205606.jpg",
+      "is_in:village": "Town A",
+      "name": "Roundabout Bodaboda Shed",
+      "shelter_type": "boda",
+      "wb_pb:id": "227"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "3",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.97965,
+      0.46944
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6799316015",
+  "properties": {
+    "type": "node",
+    "id": "6799316015",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568379453723.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568379681319.jpg",
+      "is_in:village": "Town A",
+      "name": "Sub County Revenue Office",
+      "office": "government",
+      "wb_pb:id": "227"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.98038,
+      0.471077
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6799316021",
+  "properties": {
+    "type": "node",
+    "id": "6799316021",
+    "tags": {
+      "amenity": "drinking_water",
+      "description": "water_tank",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568364026077.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568363936673.jpg",
+      "is_in:village": "Kampi Ya Kulima",
+      "name": "Ndambul Water Project",
+      "operational_status": "operational",
+      "operator:funding": "County Government of Baringo",
+      "operator:type": "government",
+      "wb_pb:id": "107"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9968,
+      0.476035
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6799316022",
+  "properties": {
+    "type": "node",
+    "id": "6799316022",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "pre_primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568362902589.jpg",
+      "is_in:village": "Ngosonik",
+      "name": "Kamarura ECDE",
+      "operator:description": "Government of Kenya",
+      "operator:type": "government",
+      "wb_pb:id": "161"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.0034,
+      0.481243
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6799316023",
+  "properties": {
+    "type": "node",
+    "id": "6799316023",
+    "tags": {
+      "amenity": "drinking_water",
+      "description": "water_tap",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568360306815.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568360492141.jpg",
+      "is_in:village": "Ng'oswe",
+      "name": "Ng'oswe Borehole",
+      "operational_status": "operational",
+      "operator:funding": "ngo",
+      "wb_pb:id": "223"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.01683,
+      0.467848
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6799444262",
+  "properties": {
+    "type": "node",
+    "id": "6799444262",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "catholic",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568379929450.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568379629709.jpg",
+      "is_in:village": "Koriema",
+      "name": "St. Francis Catholic Church",
+      "religion": "christian",
+      "service_times": "09:00",
+      "wb_pb:id": "127"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.8624,
+      0.456737
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6799444271",
+  "properties": {
+    "type": "node",
+    "id": "6799444271",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568367131233.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568367282445.jpg",
+      "is_in:village": "Mokobe",
+      "name": "Mokobe Primary School",
+      "operator:description": "Government of Kenya",
+      "operator:type": "government",
+      "wb_pb:id": "85"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.85796,
+      0.389233
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6799444272",
+  "properties": {
+    "type": "node",
+    "id": "6799444272",
+    "tags": {
+      "amenity": "clinic",
+      "dispensing": "yes",
+      "electricity": "none",
+      "health_facility:referrals": "Kimalel Hospital",
+      "health_facility:type": "dispensary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568363701901.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568363850818.jpg",
+      "is_in:village": "Sabor",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
+      "name": "Sabor Dispensary",
+      "wb_pb:id": "134"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.86384,
+      0.408687
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6807332153",
+  "properties": {
+    "type": "node",
+    "id": "6807332153",
+    "tags": {
+      "amenity": "shelter",
+      "fixme": "Bodaboda Shed",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568794976888.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568795362752.jpg",
+      "is_in:village": "Town B",
+      "name": "Diet Palace Hotel",
+      "shelter_type": "boda",
+      "wb_pb:id": "227"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "4",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.98821,
+      0.47186
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6807332164",
+  "properties": {
+    "type": "node",
+    "id": "6807332164",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568717158522.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568717296827.jpg",
+      "is_in:village": "Kapchumo",
+      "name": "Kapchumo Primary School",
+      "operator:description": "Government of Kenya",
+      "operator:type": "government",
+      "wb_pb:id": "212"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.87793,
+      0.440833
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6807342578",
+  "properties": {
+    "type": "node",
+    "id": "6807342578",
+    "tags": {
+      "amenity": "drinking_water",
+      "description": "water_tank",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568800518332.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568801138043.jpg",
+      "is_in:village": "Kapkun South",
+      "name": "Mangar Water Project",
+      "operational_status": "non_operational",
+      "operator:funding": "National Government",
+      "operator:type": "County Government of Baringo",
+      "wb_pb:id": "231"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "5",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.91676,
+      0.389952
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6807374987",
+  "properties": {
+    "type": "node",
+    "id": "6807374987",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568711197421.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568711431630.jpg",
+      "is_in:village": "Kimalel",
+      "name": "Kimale Cultural Centre",
+      "tourism": "attraction",
+      "wb_pb:id": "204"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.8971555,
+      0.4637144
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6807374989",
+  "properties": {
+    "type": "node",
+    "id": "6807374989",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568710338080.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568710220259.jpg",
+      "is_in:village": "Kimalel",
+      "name": "Kimalel Cultural Centre",
+      "tourism": "attraction",
+      "wb_pb:id": "203"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.8963868,
+      0.4642808
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6807413173",
+  "properties": {
+    "type": "node",
+    "id": "6807413173",
+    "tags": {
+      "amenity": "community_centre",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568709474853.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568709895471.jpg",
+      "is_in:village": "Town A",
+      "name": "Youth Empowerment Centre",
+      "wb_pb:id": "229"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9814,
+      0.4726
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6807606135",
+  "properties": {
+    "type": "node",
+    "id": "6807606135",
+    "tags": {
+      "amenity": "clinic",
+      "dispensing": "yes",
+      "electricity": "sometime",
+      "health_facility:type": "dispensary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568785076778.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568821884863.jpg",
+      "is_in:village": "Kapkwei",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
+      "name": "Kapkwei Dispensary",
+      "wb_pb:id": "129"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9794883,
+      0.4680133
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6807606136",
+  "properties": {
+    "type": "node",
+    "id": "6807606136",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568385512102.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568385668095.jpg",
+      "is_in:village": "Iliagat",
+      "man_made": "storage_tank",
+      "name": "Tor Bokor Water Project",
+      "operational_status": "non_operational",
+      "operator:funding": "County Government of Baringo",
+      "operator:type": "cbo",
+      "wb_pb:id": "114"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "3",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.83097,
+      0.304285
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6807606138",
+  "properties": {
+    "type": "node",
+    "id": "6807606138",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568372548679.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568372746788.jpg",
+      "is_in:village": "Ememus",
+      "name": "Ememus Spring Protection",
+      "natural": "spring",
+      "operator:funding": "County Government of Baringo",
+      "wb_pb:id": "121"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.7933667,
+      0.2695533
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6807606139",
+  "properties": {
+    "type": "node",
+    "id": "6807606139",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568369635827.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568369792459.jpg",
+      "is_in:village": "Bekimei",
+      "man_made": "storage_tank",
+      "name": "Bekimei Water Project",
+      "operational_status": "non_operational",
+      "operator:funding": "County Government of Baringo",
+      "operator:type": "cbo",
+      "wb_pb:id": "122"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.8043883,
+      0.26262
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6807606140",
+  "properties": {
+    "type": "node",
+    "id": "6807606140",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568283039160.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568283235075.jpg",
+      "is_in:village": "Barbarche",
+      "name": "Barbarche ECDE",
+      "operator:description": "County Government of Baringo",
+      "operator:type": "government",
+      "wb_pb:id": "83"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.8034183,
+      0.371105
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6807606141",
+  "properties": {
+    "type": "node",
+    "id": "6807606141",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568280947524.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568615959517.jpg",
+      "is_in:village": "Kibonjos",
+      "name": "Kibonjos Primary School",
+      "operator:description": "Government of Kenya",
+      "operator:type": "government",
+      "wb_pb:id": "82"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.80557,
+      0.394025
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6807606221",
+  "properties": {
+    "type": "node",
+    "id": "6807606221",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568379530618.jpg",
+      "is_in:village": "Koimugul",
+      "name": "Koimugul Kaptorong Spring",
+      "natural": "spring",
+      "operator:funding": "County Government of Baringo",
+      "wb_pb:id": "123"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "3",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.83767,
+      0.3397633
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6807606395",
+  "properties": {
+    "type": "node",
+    "id": "6807606395",
+    "tags": {
+      "amenity": "clinic",
+      "dispensing": "no",
+      "electricity": "none",
+      "health_facility:type": "dispensary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568382452463.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568617631195.jpg",
+      "is_in:village": "Sereton",
+      "medical_service:family_planning": "no",
+      "medical_service:general_medical_services": "no",
+      "medical_service:immunizations": "no",
+      "medical_service:malaria": "no",
+      "medical_service:pregnancy_test": "no",
+      "name": "Sereton Dispensary",
+      "wb_pb:id": "139"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.8461033,
+      0.32406
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6807606396",
+  "properties": {
+    "type": "node",
+    "id": "6807606396",
+    "tags": {
+      "health_facility:type": "dispensary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568288585397.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568288782553.jpg",
+      "is_in:village": "Sangarau",
+      "medical_service:family_planning": "no",
+      "medical_service:general_medical_services": "no",
+      "medical_service:immunizations": "no",
+      "medical_service:malaria": "no",
+      "medical_service:pregnancy_test": "no",
+      "name": "Sangarau Dispensary",
+      "wb_pb:id": "133"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.7789717,
+      0.2772767
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6807623047",
+  "properties": {
+    "type": "node",
+    "id": "6807623047",
+    "tags": {
+      "amenity": "cafe",
+      "description": "Bodaboda Shed",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568794976888.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568795362752.jpg",
+      "is_in:village": "Town B",
+      "name": "Diet Palace Hotel",
+      "wb_pb:id": "227"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "3",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.98821,
+      0.47186
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6807623058",
+  "properties": {
+    "type": "node",
+    "id": "6807623058",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568717158522.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568717296827.jpg",
+      "is_in:village": "Kapchumo",
+      "name": "Kapchumo Primary School",
+      "operator:description": "Government of Kenya",
+      "operator:type": "government",
+      "wb_pb:id": "212"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.87793,
+      0.440833
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6851133549",
+  "properties": {
+    "type": "node",
+    "id": "6851133549",
+    "tags": {
+      "amenity": "hospital",
+      "dispensing": "no",
+      "electricity": "none",
+      "health_facility:referrals": "Kabarnet Referral Hospital",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569999587056.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569999701964.jpg",
+      "is_in:village": "Town A",
+      "medical_service:family_planning": "no",
+      "medical_service:general_medical_services": "no",
+      "medical_service:immunizations": "no",
+      "medical_service:malaria": "no",
+      "medical_service:pregnancy_test": "no",
+      "name": "Marigat Sub County Hospital Mortuary",
+      "wb_pb:id": "142"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.98489,
+      0.475863
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6851133550",
+  "properties": {
+    "type": "node",
+    "id": "6851133550",
+    "tags": {
+      "amenity": "hospital",
+      "dispensing": "no",
+      "electricity": "none",
+      "health_facility:referrals": "Kabarnet Refferal Hospital",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570000239365.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570000414885.jpg",
+      "is_in:village": "Town A",
+      "medical_service:family_planning": "no",
+      "medical_service:general_medical_services": "no",
+      "medical_service:immunizations": "no",
+      "medical_service:malaria": "no",
+      "medical_service:pregnancy_test": "no",
+      "name": "Marigat Sub County Hospital Ward Block",
+      "wb_pb:id": "138"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9849,
+      0.477392
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6851133551",
+  "properties": {
+    "type": "node",
+    "id": "6851133551",
+    "tags": {
+      "amenity": "hospital",
+      "dispensing": "no",
+      "health_facility:referrals": "Kabarnet Referral Hospital",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570000865185.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570000846382.jpg",
+      "is_in:village": "Town A",
+      "medical_service:family_planning": "no",
+      "medical_service:general_medical_services": "no",
+      "medical_service:immunizations": "no",
+      "medical_service:malaria": "no",
+      "medical_service:pregnancy_test": "no",
+      "name": "Marigat Sub County Hospital Septic Tank",
+      "wb_pb:id": "232"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T20:36:46Z",
+      "version": "2",
+      "changeset": "75303433",
+      "user": "mikelmaron",
+      "uid": "999"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.98518,
+      0.47717
+    ]
+  }
+}
+]
+}

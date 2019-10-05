@@ -1,0 +1,1272 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          35.89874, 
+          0.503823
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799074253", 
+      "properties": {
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The structure is complete and functional but there is inadequate water supply. The ECDE promotes early childhood education in the area. There is no electricity connection", 
+        "Project_Name_or_Title": "Barng'elech ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568288230653.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568288185717.jpg", 
+        "is_in:village": "Barng'elech", 
+        "iterator": 1, 
+        "name": "Barng'elech Primary School", 
+        "operator:description": "Governmet of Kenya", 
+        "operator:type": "government", 
+        "osm:id": "6799074253", 
+        "wb_pb:id": "211"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.89595, 
+          0.57055
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788466888", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The facility is excellent but requires repairing of ceiling, painting of roofs, supply of water and additional staff.", 
+        "Project_Name_or_Title": "Barsemoi Dispensary", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "health_facility:referrals": "Marigat District Hospital .", 
+        "health_facility:type": "dispensary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568114440609.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568114914970.jpg", 
+        "is_in:village": "Barsemoi", 
+        "iterator": 2, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Barsemoi", 
+        "osm:id": "6788466888", 
+        "wb_pb:id": "148"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.88595, 
+          0.340027
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6798591057", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Painting of Bekibon dispensary has improved the appearance of the facility.", 
+        "Project_Name_or_Title": "Bekibon dispensary", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "clinic", 
+        "dispensing": "no", 
+        "electricity": "none", 
+        "health_facility:referrals": "Kabarnet Referral Hospital", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568118263683.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568194798631.jpg", 
+        "is_in:village": "Bekibon", 
+        "iterator": 3, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Bekibon Dispensary", 
+        "osm:id": "6798591057", 
+        "wb_pb:id": "132"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.88573, 
+          0.333495
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788467272", 
+      "properties": {
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "At least it's fairly build, but need of additional class", 
+        "Project_Name_or_Title": "Bekibon ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "pre_primary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109238228.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109480600.jpg", 
+        "is_in:village": "Bekibon", 
+        "iterator": 4, 
+        "name": "Bekibon ECDE", 
+        "operator:description": "County Government of Baringo", 
+        "operator:type": "government", 
+        "osm:id": "6788467272", 
+        "wb_pb:id": "81"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.82534, 
+          0.584735
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799041933", 
+      "properties": {
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The project is not operational since it needs cracked floor repairs, electrification, equiping of desks and chairs.Once these repairs are done the pupils will move from the old classroms that are congested hence having enough space for learning.", 
+        "Project_Name_or_Title": "Kabirmet Primary School", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568369589115.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568369206048.jpg", 
+        "is_in:village": "Kabirmet", 
+        "iterator": 5, 
+        "name": "Kabirmet Primary School", 
+        "operator:description": "Government of Kenya", 
+        "operator:type": "government", 
+        "osm:id": "6799041933", 
+        "wb_pb:id": "165"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.95871, 
+          0.469105
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6798389722", 
+      "properties": {
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "Easy accessible to the community", 
+        "Project_Name_or_Title": "Kamakonge Borehole", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "drinking_water", 
+        "description": "kiosk", 
+        "fee": "3", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568287433738.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568287516392.jpg", 
+        "is_in:village": "Kamasula", 
+        "iterator": 6, 
+        "name": "Kamagonge Borehole", 
+        "operational_status": "operational", 
+        "operator:funding": "County Government of Baringo", 
+        "operator:type": "government", 
+        "osm:id": "6798389722", 
+        "wb_pb:id": "104"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.95871, 
+          0.469105
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6798389722", 
+      "properties": {
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "Easy accessible to the community", 
+        "Project_Name_or_Title": "Kamakonge Borehole", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "drinking_water", 
+        "description": "kiosk", 
+        "fee": "3", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568287433738.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568287516392.jpg", 
+        "is_in:village": "Kamasula", 
+        "iterator": 7, 
+        "name": "Kamagonge Borehole", 
+        "operational_status": "operational", 
+        "operator:funding": "County Government of Baringo", 
+        "operator:type": "government", 
+        "osm:id": "6798389722", 
+        "wb_pb:id": "104"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.0034, 
+          0.481243
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799316022", 
+      "properties": {
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "1.Parents are relived because their children are no longer trekking for long distance 2.The building is well done 3.The floor is well but there are no chairs and desks for the pupils.", 
+        "Project_Name_or_Title": "Kamarura ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "pre_primary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568362902589.jpg", 
+        "is_in:village": "Ngosonik", 
+        "iterator": 8, 
+        "name": "Kamarura ECDE", 
+        "operator:description": "Government of Kenya", 
+        "operator:type": "government", 
+        "osm:id": "6799316022", 
+        "wb_pb:id": "161"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.87793, 
+          0.440833
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6807332164", 
+      "properties": {
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Well built structure. Availability of water. Shortage of teachers. Lack of electricity. Classroom needs some refurnishing.", 
+        "Project_Name_or_Title": "Kapchumo ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568717158522.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568717296827.jpg", 
+        "is_in:village": "Kapchumo", 
+        "iterator": 9, 
+        "name": "Kapchumo Primary School", 
+        "operator:description": "Government of Kenya", 
+        "operator:type": "government", 
+        "osm:id": "6807332164", 
+        "wb_pb:id": "212"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.87520166045922, 
+          0.4191427204297558
+        ], 
+        "type": "Point"
+      }, 
+      "id": "726063006", 
+      "properties": {
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "It provides clean water for the community.", 
+        "Project_Name_or_Title": "Kapkechii Borehole", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568711216487.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568711350283.jpg", 
+        "is_in:village": "Kapkechii", 
+        "iterator": 10, 
+        "landuse": "other", 
+        "name": "Kapkechii Water Trough", 
+        "osm:id": "726063006", 
+        "other_agriculture": "Livestock Water Trough", 
+        "wb_pb:id": "101"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.030314462038746, 
+          0.4686283449446504
+        ], 
+        "type": "Point"
+      }, 
+      "id": "725071557", 
+      "properties": {
+        "Category": "AGLF", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "1.Well built but community wants the cattle dip to be renovated 2.They want a place to put the wastage 3.Fencing is needed", 
+        "Project_Name_or_Title": "Kapkiruk Cattle Dip", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568361113022.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568361384761.jpg", 
+        "is_in:village": "R5", 
+        "iterator": 11, 
+        "landuse": "livestock_dip", 
+        "man_made": "livestock_dip", 
+        "name": "Kapkiruk Cattle Dip", 
+        "osm:id": "725071557", 
+        "wb_pb:id": "162"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.97298, 
+          0.477078
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6798389723", 
+      "properties": {
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "1. Pipes are well fitted. 2. There is distribution of clean water for human consumption.", 
+        "Project_Name_or_Title": "Kapsamson Borehole", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "drinking_water", 
+        "description": "kiosk", 
+        "fee": "3", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568281368850.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568281801024.jpg", 
+        "is_in:village": "Sirinyo A", 
+        "iterator": 12, 
+        "name": "Kapsamson Borehole", 
+        "operational_status": "operational", 
+        "operator:funding": "County Government of Baringo", 
+        "operator:type": "government", 
+        "osm:id": "6798389723", 
+        "wb_pb:id": "105"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.97381, 
+          0.475947
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6798389724", 
+      "properties": {
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The building is complete and it is well done. The floor is in good condition. There is a ramp for easy accessibility for pupils with disability. When the building was done it attracted parents to bring their kids to the school because they now believed that it is a county school.", 
+        "Project_Name_or_Title": "Karianga ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "pre_primary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568280836044.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568290627873.jpg", 
+        "is_in:village": "Sirinyo A", 
+        "iterator": 13, 
+        "name": "Karianga ECDE", 
+        "operator:description": "County Government Of Baringo", 
+        "operator:type": "government", 
+        "osm:id": "6798389724", 
+        "wb_pb:id": "84"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.88415, 
+          0.514732
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799074249", 
+      "properties": {
+        "Category": "ALF", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "1. It provides enough water for irrigating the crops even during dry seasons. 2. It promotes food security in the region.", 
+        "Project_Name_or_Title": "Katepterkek Irrigation Scheme", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568277065972.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568277520636.jpg", 
+        "is_in:village": "Ketipterkek", 
+        "iterator": 14, 
+        "name": "Ketipterkek Water Drain", 
+        "operator:funding": "County Government of Baringo", 
+        "osm:id": "6799074249", 
+        "waterway": "drain", 
+        "wb_pb:id": "157"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.86625, 
+          0.51215
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799074261", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "It is well built but not functional", 
+        "Project_Name_or_Title": "Kibingor Dispensary", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "clinic", 
+        "dispensing": "no", 
+        "electricity": "none", 
+        "health_facility:referrals": "none", 
+        "health_facility:type": "dispensary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568282861970.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568282784464.jpg", 
+        "is_in:village": "Kibingor", 
+        "iterator": 15, 
+        "medical_service:family_planning": "no", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "no", 
+        "medical_service:malaria": "no", 
+        "medical_service:pregnancy_test": "no", 
+        "name": "Kibingor Dispensary", 
+        "osm:id": "6799074261", 
+        "wb_pb:id": "131"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.8963868, 
+          0.4642808
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6807374989", 
+      "properties": {
+        "Category": "SCG", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The tank support is firm to hold the plastic tank.", 
+        "Project_Name_or_Title": "Kimalel Cultural Centre", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568710338080.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568710220259.jpg", 
+        "is_in:village": "Kimalel", 
+        "iterator": 16, 
+        "name": "Kimalel Cultural Centre", 
+        "osm:id": "6807374989", 
+        "tourism": "attraction", 
+        "wb_pb:id": "203"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.8971555, 
+          0.4637144
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6807374987", 
+      "properties": {
+        "Category": "SCG", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The toilet is built with quality materials that are firm.", 
+        "Project_Name_or_Title": "Kimalel Cultural Centre", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568711197421.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568711431630.jpg", 
+        "is_in:village": "Kimalel", 
+        "iterator": 17, 
+        "name": "Kimale Cultural Centre", 
+        "osm:id": "6807374987", 
+        "tourism": "attraction", 
+        "wb_pb:id": "204"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.89154, 
+          0.46485
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788466895", 
+      "properties": {
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The project is excellent just needs more piping and clearing of the bush around it", 
+        "Project_Name_or_Title": "Kimalel Dispensary Borehole", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "often", 
+        "health_facility:referrals": "Kabarnet", 
+        "health_facility:type": "dispensary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568042432255.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568042618403.jpg", 
+        "is_in:village": "Kimalel", 
+        "iterator": 18, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Kimalel Dispensary", 
+        "osm:id": "6788466895", 
+        "wb_pb:id": "149"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.89154, 
+          0.46485
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788466895", 
+      "properties": {
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The project is excellent just needs more piping and clearing of the bush around it", 
+        "Project_Name_or_Title": "Kimalel Dispensary Borehole", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "often", 
+        "health_facility:referrals": "Kabarnet", 
+        "health_facility:type": "dispensary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568042432255.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568042618403.jpg", 
+        "is_in:village": "Kimalel", 
+        "iterator": 19, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Kimalel Dispensary", 
+        "osm:id": "6788466895", 
+        "wb_pb:id": "149"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.89772097238121, 
+          0.46374625138849435
+        ], 
+        "type": "Point"
+      }, 
+      "id": "726069522", 
+      "properties": {
+        "Category": "AGLF", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "Well structured and managed.", 
+        "Project_Name_or_Title": "Kimalel Goat Auction", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568712102339.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568712361474.jpg", 
+        "is_in:village": "Kimalel", 
+        "iterator": 20, 
+        "landuse": "farmyard", 
+        "name": "Kimale Goat Auction", 
+        "osm:id": "726069522", 
+        "wb_pb:id": "88"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.886177142841305, 
+          0.4091319617700078
+        ], 
+        "type": "Point"
+      }, 
+      "id": "726063007", 
+      "properties": {
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "It provides clean water for the community", 
+        "Project_Name_or_Title": "Kipsamisonchun Borehole", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568712460626.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568712654884.jpg", 
+        "is_in:village": "Kipsamisonchun", 
+        "iterator": 21, 
+        "landuse": "other", 
+        "name": "Kipsamisonchun Water Trough", 
+        "osm:id": "726063007", 
+        "other_agriculture": "Livestock Water Trough", 
+        "wb_pb:id": "102"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.8624, 
+          0.456737
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799444262", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "It is well fenced and fully furnished", 
+        "Project_Name_or_Title": "Koriema Dispensary", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "place_of_worship", 
+        "denomination": "catholic", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568379929450.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568379629709.jpg", 
+        "is_in:village": "Koriema", 
+        "iterator": 22, 
+        "name": "St. Francis Catholic Church", 
+        "osm:id": "6799444262", 
+        "religion": "christian", 
+        "service_times": "09:00", 
+        "wb_pb:id": "127"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.98849, 
+          0.554995
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788464035", 
+      "properties": {
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The building is well done and is conducive for learning.", 
+        "Project_Name_or_Title": "Loberer ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568114806105.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568115360672.jpg", 
+        "is_in:village": "Loberer", 
+        "iterator": 23, 
+        "name": "Loberer ECDE", 
+        "operator:description": "County goverment of Baringo", 
+        "operator:type": "government", 
+        "osm:id": "6788464035", 
+        "wb_pb:id": "156"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.94287, 
+          0.394612
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788464038", 
+      "properties": {
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "1. Pupils get clean water for human consumption. 2. Community gets water frequently.", 
+        "Project_Name_or_Title": "Maoi Water Supply", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568108269181.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109587749.jpg", 
+        "is_in:village": "Maoi", 
+        "iterator": 24, 
+        "name": "Maoi Boarding Primary School", 
+        "operator:description": "Government of Kenya", 
+        "operator:type": "government", 
+        "osm:id": "6788464038", 
+        "wb_pb:id": "91"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.98298, 
+          0.470643
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799316011", 
+      "properties": {
+        "Category": "TCI", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "1.Traders want stalls to be build 2.Roofing is well fitted 3.Market shed attract more traders so they have to extend", 
+        "Project_Name_or_Title": "Marigat Market", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "shelter", 
+        "description": "Bodaboda shed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568383234017.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568383267052.jpg", 
+        "is_in:village": "Town A", 
+        "iterator": 25, 
+        "name": "Ngoswe Bodaboda Shed", 
+        "osm:id": "6799316011", 
+        "shelter_type": "boda", 
+        "wb_pb:id": "228"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.98304, 
+          0.473877
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788450200", 
+      "properties": {
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The project is adequate but needs repairing of windows that are broken", 
+        "Project_Name_or_Title": "Marigat Primary ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568029272006.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568027219069.jpg", 
+        "is_in:village": "Town A", 
+        "iterator": 26, 
+        "name": "Marigat Intergrated Boarding Primary School", 
+        "operator:description": "County Goverment of Baringo", 
+        "operator:type": "government", 
+        "osm:id": "6788450200", 
+        "wb_pb:id": "86"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.97106605115503, 
+          0.4607906571412539
+        ], 
+        "type": "Point"
+      }, 
+      "id": "724887372", 
+      "properties": {
+        "Category": "AGLF", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The community is able to buy and sale livestocks on auction day.", 
+        "Project_Name_or_Title": "Marigat Sale Yard", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568287919998.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568288145961.jpg", 
+        "is_in:village": "Town A", 
+        "iterator": 27, 
+        "landuse": "farmyard", 
+        "name": "Marigat Sale Yard", 
+        "osm:id": "724887372", 
+        "wb_pb:id": "87"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.85796, 
+          0.389233
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799444271", 
+      "properties": {
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The structure is well built but the desks are not up to standard. They lack water, electricity and toilets", 
+        "Project_Name_or_Title": "Mokobe ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568367131233.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568367282445.jpg", 
+        "is_in:village": "Mokobe", 
+        "iterator": 28, 
+        "name": "Mokobe Primary School", 
+        "operator:description": "Government of Kenya", 
+        "operator:type": "government", 
+        "osm:id": "6799444271", 
+        "wb_pb:id": "85"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9141135, 
+          0.5258886
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799074263", 
+      "properties": {
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "It provides water for irrigating food crops hence improving food security", 
+        "Project_Name_or_Title": "Ngenyin Irrigation Scheme", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568279751537.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568279969141.jpg", 
+        "is_in:village": "Ngenyin", 
+        "iterator": 29, 
+        "name": "Ngenyin Irrigation Scheme", 
+        "operator:funding": "County Government of Baringo", 
+        "osm:id": "6799074263", 
+        "waterway": "drain", 
+        "wb_pb:id": "89"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.01683, 
+          0.467848
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799316023", 
+      "properties": {
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "1.Supply water to the community 2.The water", 
+        "Project_Name_or_Title": "Ngoswe Borehole", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "drinking_water", 
+        "description": "water_tap", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568360306815.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568360492141.jpg", 
+        "is_in:village": "Ng'oswe", 
+        "iterator": 30, 
+        "name": "Ng'oswe Borehole", 
+        "operational_status": "operational", 
+        "operator:funding": "ngo", 
+        "osm:id": "6799316023", 
+        "wb_pb:id": "223"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.99, 
+          0.437217
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788464041", 
+      "properties": {
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "1. It has generated jobs for teachers. 2. It has also created a conducive environment for the learners", 
+        "Project_Name_or_Title": "Parkarin ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568033582620.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568032998385.jpg", 
+        "is_in:village": "Parkaren", 
+        "iterator": 31, 
+        "name": "Parkaren Primary School", 
+        "operator:description": "National Government", 
+        "operator:type": "government", 
+        "osm:id": "6788464041", 
+        "wb_pb:id": "145"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.84142, 
+          0.482707
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788472319", 
+      "properties": {
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "1. It has promoted early childhood education. 2. It has created a conducive environment for learning. 3. It has accomodated more pupils than before.", 
+        "Project_Name_or_Title": "Patkawanin ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568106784685.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568106330549.jpg", 
+        "is_in:village": "Patkawanin", 
+        "iterator": 32, 
+        "name": "Patkawanin Primary School", 
+        "operator:description": "Government of Kenya", 
+        "operator:type": "government", 
+        "osm:id": "6788472319", 
+        "wb_pb:id": "83"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.836548589515424, 
+          0.4514201064903745
+        ], 
+        "type": "Point"
+      }, 
+      "id": "725084564", 
+      "properties": {
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "1.It stores and supplies water for the community\nKabusa,yes,marigat,ewalel_soi,,,,,,,,kabusa,,,,,,,,PB,Kabusa,Drilling and Equipping,,,,98,,WI,borehole,,completed,operational,,,adequate,The project requires maintainance and installation of gate bulbs", 
+        "Project_Name_or_Title": "Patkawanin/Kimao Water Supply", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "dam:type": "earth_dam", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568373930820.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568374706296.jpg", 
+        "is_in:village": "Kimao", 
+        "iterator": 33, 
+        "name": "Kimao Dam", 
+        "operational_status": "operational", 
+        "operator:funding": "County Government of Baringo", 
+        "osm:id": "725084564", 
+        "waterway": "dam", 
+        "wb_pb:id": "95"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.98045, 
+          0.469477
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799316012", 
+      "properties": {
+        "Category": "LHUD", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The shed offers ample parking and docking for bodaboda riders and passengers", 
+        "Project_Name_or_Title": "Perkerra Bodaboda Shed", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "shelter", 
+        "description": "Bodaboda Shed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568381863874.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568381895690.jpg", 
+        "is_in:village": "Town A", 
+        "iterator": 34, 
+        "name": "Kamko Bodaboda Shed", 
+        "osm:id": "6799316012", 
+        "shelter_type": "boda", 
+        "wb_pb:id": "227"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.98045, 
+          0.469477
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799316012", 
+      "properties": {
+        "Category": "LHUD", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The shed offers ample parking and docking for bodaboda riders and passengers", 
+        "Project_Name_or_Title": "Perkerra Bodaboda Shed", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "shelter", 
+        "description": "Bodaboda Shed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568381863874.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568381895690.jpg", 
+        "is_in:village": "Town A", 
+        "iterator": 35, 
+        "name": "Kamko Bodaboda Shed", 
+        "osm:id": "6799316012", 
+        "shelter_type": "boda", 
+        "wb_pb:id": "227"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.98045, 
+          0.469477
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799316012", 
+      "properties": {
+        "Category": "LHUD", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The shed offers ample parking and docking for bodaboda riders and passengers", 
+        "Project_Name_or_Title": "Perkerra Bodaboda Shed", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "shelter", 
+        "description": "Bodaboda Shed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568381863874.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568381895690.jpg", 
+        "is_in:village": "Town A", 
+        "iterator": 36, 
+        "name": "Kamko Bodaboda Shed", 
+        "osm:id": "6799316012", 
+        "shelter_type": "boda", 
+        "wb_pb:id": "227"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.98045, 
+          0.469477
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799316012", 
+      "properties": {
+        "Category": "LHUD", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The shed offers ample parking and docking for bodaboda riders and passengers", 
+        "Project_Name_or_Title": "Perkerra Bodaboda Shed", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "shelter", 
+        "description": "Bodaboda Shed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568381863874.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568381895690.jpg", 
+        "is_in:village": "Town A", 
+        "iterator": 37, 
+        "name": "Kamko Bodaboda Shed", 
+        "osm:id": "6799316012", 
+        "shelter_type": "boda", 
+        "wb_pb:id": "227"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.86384, 
+          0.408687
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799444272", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "Well furnished", 
+        "Project_Name_or_Title": "Sabor Dispensary", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "none", 
+        "health_facility:referrals": "Kimalel Hospital", 
+        "health_facility:type": "dispensary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568363701901.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568363850818.jpg", 
+        "is_in:village": "Sabor", 
+        "iterator": 38, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Sabor Dispensary", 
+        "osm:id": "6799444272", 
+        "wb_pb:id": "134"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.91219, 
+          0.539118
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788466890", 
+      "properties": {
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The projects needs rennovation of windows panes, floor and desks.", 
+        "Project_Name_or_Title": "Seguitonin ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568110763273.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568111195065.jpg", 
+        "is_in:village": "Kabusa", 
+        "iterator": 39, 
+        "name": "Segutionin Primary School", 
+        "operator:description": "National Government", 
+        "operator:type": "government", 
+        "osm:id": "6788466890", 
+        "wb_pb:id": "147"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.96131, 
+          0.492112
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6798389727", 
+      "properties": {
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Supply clean water to the community but there is leakage with the main tank. There is clean water but the pressure is low", 
+        "Project_Name_or_Title": "Sirinyo Water Supply", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "drinking_water", 
+        "description": "kiosk", 
+        "fee": "5", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568272428120.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568272972595.jpg", 
+        "is_in:village": "Sirinyo C", 
+        "iterator": 40, 
+        "name": "Sirinyo Borehole", 
+        "operational_status": "operational", 
+        "operator:funding": "cbo", 
+        "operator:type": "cbo", 
+        "osm:id": "6798389727", 
+        "wb_pb:id": "90"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.81625, 
+          0.557633
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6798722867", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "It is well equiped and offers all the medical services that community needs but they require a maternity wing.", 
+        "Project_Name_or_Title": "Sogon Dispensary", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "sometime", 
+        "health_facility:referrals": "Kabarnet District Hospital", 
+        "health_facility:type": "dispensary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568280603460.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568280990362.jpg", 
+        "is_in:village": "Sogon", 
+        "iterator": 41, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Sogon Dispensary", 
+        "osm:id": "6798722867", 
+        "wb_pb:id": "164"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.98493, 
+          0.469183
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788435693", 
+      "properties": {
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "1. It provides sufficient water for the locals. 2. The water is clean and safe for human consumption", 
+        "Project_Name_or_Title": "St. Paul's Catholic Borehole", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568026845391.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568026730741.jpg", 
+        "is_in:village": "Town A", 
+        "iterator": 42, 
+        "name": "St. Paul's Catholic Primary", 
+        "operator:description": "St. Teresia Catholic Church", 
+        "operator:type": "religious", 
+        "osm:id": "6788435693", 
+        "wb_pb:id": "106"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "type": "FeatureCollection"
+}

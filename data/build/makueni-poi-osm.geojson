@@ -118,6 +118,84 @@
 },
 {
   "type": "Feature",
+  "id": "node/3835172292",
+  "properties": {
+    "type": "node",
+    "id": "3835172292",
+    "tags": {
+      "ford": "yes"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-07-23T10:57:20Z",
+      "version": "2",
+      "changeset": "72551351",
+      "user": "puzzlefan",
+      "uid": "7532021"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.6211533,
+      -1.5996288
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4673999181",
+  "properties": {
+    "type": "node",
+    "id": "4673999181",
+    "tags": {
+      "ford": "yes"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-07-23T10:57:20Z",
+      "version": "3",
+      "changeset": "72551351",
+      "user": "puzzlefan",
+      "uid": "7532021"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.6170874,
+      -1.5952571
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4673999563",
+  "properties": {
+    "type": "node",
+    "id": "4673999563",
+    "tags": {
+      "ford": "yes"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-07-23T10:57:20Z",
+      "version": "3",
+      "changeset": "72551351",
+      "user": "puzzlefan",
+      "uid": "7532021"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.6092964,
+      -1.5974428
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/5482240208",
   "properties": {
     "type": "node",
@@ -165,6 +243,32 @@
     "coordinates": [
       37.5452132,
       -1.852526
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5558806083",
+  "properties": {
+    "type": "node",
+    "id": "5558806083",
+    "tags": {
+      "highway": "traffic_mirror"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-07-18T17:04:10Z",
+      "version": "2",
+      "changeset": "72399936",
+      "user": "Parque93",
+      "uid": "9625583"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.4414069,
+      -1.6766864
     ]
   }
 },
@@ -5170,38 +5274,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5591966639",
-  "properties": {
-    "type": "node",
-    "id": "5591966639",
-    "tags": {
-      "amenity": "place_of_worship",
-      "building": "church",
-      "denomination": "anglican",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524644030093.jpg",
-      "is_in:village": "Kivandini",
-      "religion": "christian",
-      "wb_pb:id": "21774616"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-09-23T12:05:08Z",
-      "version": "2",
-      "changeset": "62848596",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6183154,
-      -1.8121739
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5591966640",
   "properties": {
     "type": "node",
@@ -5327,37 +5399,6 @@
     "coordinates": [
       37.6192786,
       -1.8113934
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5591972208",
-  "properties": {
-    "type": "node",
-    "id": "5591972208",
-    "tags": {
-      "amenity": "water_point",
-      "fee": "no",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524657410656.jpg",
-      "name": "Kwa Nguluwe Extension Line",
-      "operational_status": "non_operational",
-      "wb_pb:id": "21774436"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-05-13T11:49:27Z",
-      "version": "2",
-      "changeset": "58922389",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6274097,
-      -1.8061663
     ]
   }
 },
@@ -8697,7 +8738,7 @@
     "tags": {
       "amenity": "veterinary",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524657275132.jpg",
-      "man_made": "Livestock_Dip",
+      "man_made": "livestock_dip",
       "name": "Kaiti Cattle Dip",
       "type": "cattle_dip",
       "village": "Nthangu",
@@ -8705,11 +8746,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-07-05T14:07:49Z",
-      "version": "3",
-      "changeset": "60438483",
-      "user": "VlIvYur",
-      "uid": "345975"
+      "timestamp": "2019-04-25T02:29:26Z",
+      "version": "4",
+      "changeset": "69546440",
+      "user": "Warin61",
+      "uid": "1830192"
     }
   },
   "geometry": {
@@ -17056,18 +17097,18 @@
     "id": "5637519132",
     "tags": {
       "name": "Wananchi General Store",
-      "opening_hours_1": "24/7",
+      "opening_hours": "24/7",
       "shop": "kiosk",
       "type": "kiosk",
       "wb_pb:id": "22951639"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-05-23T13:47:34Z",
-      "version": "1",
-      "changeset": "59212330",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-04-15T19:42:43Z",
+      "version": "2",
+      "changeset": "69247940",
+      "user": "Josef73",
+      "uid": "213831"
     }
   },
   "geometry": {
@@ -18255,7 +18296,6 @@
     "type": "node",
     "id": "5641419268",
     "tags": {
-      "amenity": "other",
       "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973429538.jpg",
       "name": "Book Shop",
       "shop": "books",
@@ -18263,11 +18303,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-03-10T08:21:21Z",
-      "version": "2",
-      "changeset": "67981431",
-      "user": "maggot27",
-      "uid": "118021"
+      "timestamp": "2019-07-24T12:09:43Z",
+      "version": "3",
+      "changeset": "72599080",
+      "user": "fondolucy",
+      "uid": "265690"
     }
   },
   "geometry": {
@@ -24049,39 +24089,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5736301179",
-  "properties": {
-    "type": "node",
-    "id": "5736301179",
-    "tags": {
-      "amenity": "place_of_worship",
-      "building": "church",
-      "denomination": "anglican",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524644030093.jpg",
-      "is_in:village": "Kivandini",
-      "name": "AIC Kivandini",
-      "religion": "christian",
-      "wb_pb:id": "21774616"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-09-23T12:05:14Z",
-      "version": "2",
-      "changeset": "62848596",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6183154,
-      -1.8121739
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5736301180",
   "properties": {
     "type": "node",
@@ -24190,18 +24197,18 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651516134.jpg",
       "is_in:village": "Unoa",
       "name": "Makueni multiplex bible college",
-      "operator": "Wote aic",
+      "operator": "Wote AIC",
       "operator_type": "pre_primary",
       "school": "tertiary",
       "wb_pb:id": "21744676"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-09-23T12:05:14Z",
-      "version": "3",
-      "changeset": "62848596",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2019-07-25T09:40:52Z",
+      "version": "4",
+      "changeset": "72635464",
+      "user": "fondolucy",
+      "uid": "265690"
     }
   },
   "geometry": {
@@ -24820,38 +24827,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5736384053",
-  "properties": {
-    "type": "node",
-    "id": "5736384053",
-    "tags": {
-      "amenity": "place_of_worship",
-      "denomination": "evangelical",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643739817.jpg",
-      "is_in:village": "Muambani",
-      "name": "Muambani Redeemed Gospel Church",
-      "religion": "christian",
-      "wb_pb:id": "21736037"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-09-23T12:05:15Z",
-      "version": "2",
-      "changeset": "62848596",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.6460625,
-      -1.8065225
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5736384054",
   "properties": {
     "type": "node",
@@ -25093,32 +25068,6 @@
     "coordinates": [
       37.5613465,
       -1.801642
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5736386827",
-  "properties": {
-    "type": "node",
-    "id": "5736386827",
-    "tags": {
-      "power": "portal"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-03T11:42:58Z",
-      "version": "1",
-      "changeset": "60376229",
-      "user": "fondolucy",
-      "uid": "265690"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      37.5632104,
-      -1.7973796
     ]
   }
 },
@@ -25383,6 +25332,104 @@
     "coordinates": [
       37.5663663,
       -1.7979787
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6400253087",
+  "properties": {
+    "type": "node",
+    "id": "6400253087",
+    "tags": {
+      "amenity": "drinking_water",
+      "fee": "no",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973607038.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973713555.jpg",
+      "name": "Kyangoma Water tank",
+      "opening_hours": "24_7",
+      "operational_status": "operational",
+      "type": "water_tank",
+      "wb_pb:id": "22950222"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-04-21T15:09:18Z",
+      "version": "2",
+      "changeset": "69427151",
+      "user": "mueschel",
+      "uid": "616774"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.43708,
+      -1.6554475
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6400253088",
+  "properties": {
+    "type": "node",
+    "id": "6400253088",
+    "tags": {
+      "cost_per_litre": "2.0",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526642478277.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526642648799.jpg",
+      "man_made": "water_well",
+      "name": "Matondoni borehole",
+      "operational_status": "non_operational",
+      "type": "borehole",
+      "wb_pb:id": "22761986"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-04-12T09:49:11Z",
+      "version": "1",
+      "changeset": "69143676",
+      "user": "muindre",
+      "uid": "261050"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.4058017,
+      -1.6602933
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6400271885",
+  "properties": {
+    "type": "node",
+    "id": "6400271885",
+    "tags": {
+      "amenity": "drinking_water",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983904704.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526984129492.jpg",
+      "name": "Ebenezer Dispensary:Water tank",
+      "type": "water_tank",
+      "wb_pb:id": "22951663"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-04-12T09:49:12Z",
+      "version": "1",
+      "changeset": "69143676",
+      "user": "muindre",
+      "uid": "261050"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.4685656,
+      -1.63039
     ]
   }
 }

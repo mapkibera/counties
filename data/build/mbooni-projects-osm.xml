@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
+<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-03-31T01:07:02Z"/>
+<meta osm_base="2019-10-05T01:33:02Z"/>
 
   <bounds minlat="-1.6894000" minlon="37.3803000" maxlat="-1.6140000" maxlon="37.4834000"/>
 
@@ -1160,9 +1160,9 @@
     <tag k="wb_pb:id" v="22951640"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5637519132" lat="-1.6255690" lon="37.4682428" version="1" timestamp="2018-05-23T13:47:34Z" changeset="59212330" uid="261050" user="muindre">
+  <node id="5637519132" lat="-1.6255690" lon="37.4682428" version="2" timestamp="2019-04-15T19:42:43Z" changeset="69247940" uid="213831" user="Josef73">
     <tag k="name" v="Wananchi General Store"/>
-    <tag k="opening_hours_1" v="24/7"/>
+    <tag k="opening_hours" v="24/7"/>
     <tag k="shop" v="kiosk"/>
     <tag k="type" v="kiosk"/>
     <tag k="wb_pb:id" v="22951639"/>
@@ -1483,8 +1483,7 @@
     <tag k="wb_pb:id" v="22959170"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5641419268" lat="-1.6616594" lon="37.4468878" version="2" timestamp="2019-03-10T08:21:21Z" changeset="67981431" uid="118021" user="maggot27">
-    <tag k="amenity" v="other"/>
+  <node id="5641419268" lat="-1.6616594" lon="37.4468878" version="3" timestamp="2019-07-24T12:09:43Z" changeset="72599080" uid="265690" user="fondolucy">
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973429538.jpg"/>
     <tag k="name" v="Book Shop"/>
     <tag k="shop" v="books"/>
@@ -2437,6 +2436,35 @@
     <tag k="operator:type" v="government"/>
     <tag k="type" v="primary"/>
     <tag k="wb_pb:id" v="22950192"/>
+  </node>
+  <node id="6400253087" lat="-1.6554475" lon="37.4370800" version="2" timestamp="2019-04-21T15:09:18Z" changeset="69427151" uid="616774" user="mueschel">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="fee" v="no"/>
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973607038.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973713555.jpg"/>
+    <tag k="name" v="Kyangoma Water tank"/>
+    <tag k="opening_hours" v="24_7"/>
+    <tag k="operational_status" v="operational"/>
+    <tag k="type" v="water_tank"/>
+    <tag k="wb_pb:id" v="22950222"/>
+  </node>
+  <node id="6400253088" lat="-1.6602933" lon="37.4058017" version="1" timestamp="2019-04-12T09:49:11Z" changeset="69143676" uid="261050" user="muindre">
+    <tag k="cost_per_litre" v="2.0"/>
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526642478277.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526642648799.jpg"/>
+    <tag k="man_made" v="water_well"/>
+    <tag k="name" v="Matondoni borehole"/>
+    <tag k="operational_status" v="non_operational"/>
+    <tag k="type" v="borehole"/>
+    <tag k="wb_pb:id" v="22761986"/>
+  </node>
+  <node id="6400271885" lat="-1.6303900" lon="37.4685656" version="1" timestamp="2019-04-12T09:49:12Z" changeset="69143676" uid="261050" user="muindre">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983904704.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526984129492.jpg"/>
+    <tag k="name" v="Ebenezer Dispensary:Water tank"/>
+    <tag k="type" v="water_tank"/>
+    <tag k="wb_pb:id" v="22951663"/>
   </node>
 
 </osm>

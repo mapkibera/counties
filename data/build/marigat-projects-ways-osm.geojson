@@ -1,0 +1,843 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/189801212",
+  "properties": {
+    "type": "way",
+    "id": "189801212",
+    "tags": {
+      "amenity": "marketplace",
+      "is_in:village": "Town A",
+      "name": "Marigat Market Stalls",
+      "project:eurosha_2012": "yes",
+      "wb_pb:id": "235"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T11:06:05Z",
+      "version": "2",
+      "changeset": "75276794",
+      "user": "Ernet",
+      "uid": "10269225"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.9799175,
+          0.4707197
+        ],
+        [
+          35.9799733,
+          0.4713014
+        ],
+        [
+          35.9798779,
+          0.4713093
+        ],
+        [
+          35.9798444,
+          0.4709808
+        ],
+        [
+          35.9798355,
+          0.4707276
+        ],
+        [
+          35.9799175,
+          0.4707197
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/206620138",
+  "properties": {
+    "type": "way",
+    "id": "206620138",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1569998944292.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1569999096525.jpg",
+      "is_in:village": "Town A",
+      "leisure": "playground",
+      "name": "Marigat Playground",
+      "project:eurosha_2012": "yes",
+      "source": "Bing",
+      "source:date": "2011-03-04",
+      "sport": "soccer",
+      "wb_pb:id": "234"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T11:06:05Z",
+      "version": "2",
+      "changeset": "75276794",
+      "user": "Ernet",
+      "uid": "10269225"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.9850294,
+          0.4752684
+        ],
+        [
+          35.984439,
+          0.4740243
+        ],
+        [
+          35.9845207,
+          0.4739855
+        ],
+        [
+          35.9851596,
+          0.4736824
+        ],
+        [
+          35.985327,
+          0.4740352
+        ],
+        [
+          35.9854648,
+          0.4743256
+        ],
+        [
+          35.9857553,
+          0.4750123
+        ],
+        [
+          35.9850294,
+          0.4752684
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/724887372",
+  "properties": {
+    "type": "way",
+    "id": "724887372",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568287919998.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568288145961.jpg",
+      "is_in:village": "Town A",
+      "landuse": "farmyard",
+      "name": "Marigat Sale Yard",
+      "wb_pb:id": "87"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-09-16T08:27:47Z",
+      "version": "1",
+      "changeset": "74518257",
+      "user": "Ernet",
+      "uid": "10269225"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.9707346,
+          0.4608396
+        ],
+        [
+          35.970993,
+          0.4605267
+        ],
+        [
+          35.9710206,
+          0.4604932
+        ],
+        [
+          35.9710514,
+          0.4604559
+        ],
+        [
+          35.9713975,
+          0.4607417
+        ],
+        [
+          35.9710807,
+          0.4611254
+        ],
+        [
+          35.9707346,
+          0.4608396
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/725043182",
+  "properties": {
+    "type": "way",
+    "id": "725043182",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568277065972.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568277520636.jpg",
+      "is_in:village": "Ketipterkek",
+      "name": "Ketipterkek Irrigation Scheme",
+      "operator:funding": "County Government of Baringo",
+      "place": "farm",
+      "wb_pb:id": "157"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-09-16T10:43:12Z",
+      "version": "1",
+      "changeset": "74524076",
+      "user": "Ernet",
+      "uid": "10269225"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.8849311,
+          0.5146339
+        ],
+        [
+          35.8852315,
+          0.5142691
+        ],
+        [
+          35.886755,
+          0.515063
+        ],
+        [
+          35.8879566,
+          0.5145052
+        ],
+        [
+          35.8895659,
+          0.5151489
+        ],
+        [
+          35.8906173,
+          0.5151703
+        ],
+        [
+          35.8901667,
+          0.5160286
+        ],
+        [
+          35.8897161,
+          0.5157497
+        ],
+        [
+          35.8892226,
+          0.5167152
+        ],
+        [
+          35.8875489,
+          0.516801
+        ],
+        [
+          35.8868408,
+          0.516801
+        ],
+        [
+          35.8860683,
+          0.5161573
+        ],
+        [
+          35.885489,
+          0.5147412
+        ],
+        [
+          35.8849311,
+          0.5146339
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/725043183",
+  "properties": {
+    "type": "way",
+    "id": "725043183",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568279751537.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568279969141.jpg",
+      "is_in:village": "Ngenyin",
+      "name": "Ngenyin Irrigation Scheme",
+      "operator:funding": "County Government of Baringo",
+      "place": "farm",
+      "wb_pb:id": "89"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-09-16T10:43:12Z",
+      "version": "1",
+      "changeset": "74524076",
+      "user": "Ernet",
+      "uid": "10269225"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.9136951,
+          0.5253087
+        ],
+        [
+          35.9139204,
+          0.5249332
+        ],
+        [
+          35.9152937,
+          0.5262206
+        ],
+        [
+          35.9160662,
+          0.525888
+        ],
+        [
+          35.9164846,
+          0.5260918
+        ],
+        [
+          35.9189844,
+          0.5290099
+        ],
+        [
+          35.9164953,
+          0.531338
+        ],
+        [
+          35.9159052,
+          0.5289456
+        ],
+        [
+          35.9148002,
+          0.5284199
+        ],
+        [
+          35.9142959,
+          0.5272934
+        ],
+        [
+          35.9135663,
+          0.526242
+        ],
+        [
+          35.9136951,
+          0.5253087
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/725071557",
+  "properties": {
+    "type": "way",
+    "id": "725071557",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568361113022.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568361384761.jpg",
+      "is_in:village": "R5",
+      "landuse": "livestock_dip",
+      "man_made": "livestock_dip",
+      "name": "Kapkiruk Cattle Dip",
+      "wb_pb:id": "162"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-09-21T09:52:52Z",
+      "version": "2",
+      "changeset": "74745190",
+      "user": "mueschel",
+      "uid": "616774"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          36.0302527,
+          0.468651
+        ],
+        [
+          36.0302584,
+          0.4685939
+        ],
+        [
+          36.030377,
+          0.4686057
+        ],
+        [
+          36.0303713,
+          0.4686628
+        ],
+        [
+          36.0302527,
+          0.468651
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/725084564",
+  "properties": {
+    "type": "way",
+    "id": "725084564",
+    "tags": {
+      "dam:type": "earth_dam",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568373930820.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568374706296.jpg",
+      "is_in:village": "Kimao",
+      "name": "Kimao Dam",
+      "operational_status": "operational",
+      "operator:funding": "County Government of Baringo",
+      "waterway": "dam",
+      "wb_pb:id": "95"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-09-24T12:05:49Z",
+      "version": "2",
+      "changeset": "74853881",
+      "user": "mueschel",
+      "uid": "616774"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.8350527,
+          0.451851
+        ],
+        [
+          35.8363616,
+          0.4498018
+        ],
+        [
+          35.8365548,
+          0.4498018
+        ],
+        [
+          35.8367586,
+          0.4500379
+        ],
+        [
+          35.8370805,
+          0.4498984
+        ],
+        [
+          35.8370805,
+          0.4496946
+        ],
+        [
+          35.8372092,
+          0.4496946
+        ],
+        [
+          35.8380782,
+          0.4501773
+        ],
+        [
+          35.8380139,
+          0.4506172
+        ],
+        [
+          35.8374023,
+          0.4514111
+        ],
+        [
+          35.8368015,
+          0.4526771
+        ],
+        [
+          35.8367693,
+          0.4529989
+        ],
+        [
+          35.8362007,
+          0.4540289
+        ],
+        [
+          35.8360827,
+          0.4539752
+        ],
+        [
+          35.8360934,
+          0.4530419
+        ],
+        [
+          35.8357501,
+          0.452484
+        ],
+        [
+          35.8357823,
+          0.4522265
+        ],
+        [
+          35.8355462,
+          0.4520012
+        ],
+        [
+          35.8353317,
+          0.4522909
+        ],
+        [
+          35.8351064,
+          0.4522587
+        ],
+        [
+          35.8350527,
+          0.451851
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/726063006",
+  "properties": {
+    "type": "way",
+    "id": "726063006",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568711216487.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568711350283.jpg",
+      "is_in:village": "Kapkechii",
+      "landuse": "other",
+      "name": "Kapkechii Water Trough",
+      "other_agriculture": "Livestock Water Trough",
+      "wb_pb:id": "101"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-09-19T07:47:18Z",
+      "version": "1",
+      "changeset": "74657592",
+      "user": "Arap Kobilo",
+      "uid": "10269217"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.8751751,
+          0.419164
+        ],
+        [
+          35.8751754,
+          0.4191211
+        ],
+        [
+          35.875229,
+          0.4191214
+        ],
+        [
+          35.8752287,
+          0.4191644
+        ],
+        [
+          35.8751751,
+          0.419164
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/726063007",
+  "properties": {
+    "type": "way",
+    "id": "726063007",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568712460626.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568712654884.jpg",
+      "is_in:village": "Kipsamisonchun",
+      "landuse": "other",
+      "name": "Kipsamisonchun Water Trough",
+      "other_agriculture": "Livestock Water Trough",
+      "wb_pb:id": "102"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-09-19T07:47:18Z",
+      "version": "1",
+      "changeset": "74657592",
+      "user": "Arap Kobilo",
+      "uid": "10269217"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.8861371,
+          0.4091645
+        ],
+        [
+          35.8861377,
+          0.4090987
+        ],
+        [
+          35.8862195,
+          0.4090995
+        ],
+        [
+          35.8862189,
+          0.4091652
+        ],
+        [
+          35.8861371,
+          0.4091645
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/726069522",
+  "properties": {
+    "type": "way",
+    "id": "726069522",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568712102339.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568712361474.jpg",
+      "is_in:village": "Kimalel",
+      "landuse": "farmyard",
+      "name": "Kimale Goat Auction",
+      "wb_pb:id": "88"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-09-21T09:52:52Z",
+      "version": "2",
+      "changeset": "74745190",
+      "user": "mueschel",
+      "uid": "616774"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.8956706,
+          0.4648968
+        ],
+        [
+          35.8965289,
+          0.4622576
+        ],
+        [
+          35.8997476,
+          0.4627082
+        ],
+        [
+          35.8990502,
+          0.4651114
+        ],
+        [
+          35.8956706,
+          0.4648968
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/726100503",
+  "properties": {
+    "type": "way",
+    "id": "726100503",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568712460626.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568712654884.jpg",
+      "is_in:village": "Kipsamisonchun",
+      "landuse": "other",
+      "name": "Kipsamisonchun Water Trough",
+      "other_agriculture": "Livestock Water Trough",
+      "wb_pb:id": "102"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-09-19T10:14:38Z",
+      "version": "1",
+      "changeset": "74664028",
+      "user": "Arap Kobilo",
+      "uid": "10269217"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.8863124,
+          0.4092659
+        ],
+        [
+          35.8863193,
+          0.4092557
+        ],
+        [
+          35.8863544,
+          0.4092793
+        ],
+        [
+          35.8863475,
+          0.4092895
+        ],
+        [
+          35.8863124,
+          0.4092659
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/726100504",
+  "properties": {
+    "type": "way",
+    "id": "726100504",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568711216487.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568711350283.jpg",
+      "is_in:village": "Kapkechii",
+      "landuse": "other",
+      "name": "Kapkechii Water Trough",
+      "other_agriculture": "Livestock Water Trough",
+      "wb_pb:id": "101"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-09-19T10:14:38Z",
+      "version": "1",
+      "changeset": "74664028",
+      "user": "Arap Kobilo",
+      "uid": "10269217"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.8751783,
+          0.4191652
+        ],
+        [
+          35.8751758,
+          0.4191317
+        ],
+        [
+          35.8751902,
+          0.4191306
+        ],
+        [
+          35.8751928,
+          0.4191641
+        ],
+        [
+          35.8751783,
+          0.4191652
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/731560946",
+  "properties": {
+    "type": "way",
+    "id": "731560946",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "wire",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1569997673559.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1569997863738.jpg",
+      "name": "Youth Empowerment Centre Fence",
+      "wb_pb:id": "233"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-04T11:06:05Z",
+      "version": "1",
+      "changeset": "75276794",
+      "user": "Ernet",
+      "uid": "10269225"
+    }
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        35.9812278,
+        0.4738551
+      ],
+      [
+        35.9819519,
+        0.4734152
+      ],
+      [
+        35.98266,
+        0.472793
+      ],
+      [
+        35.9823757,
+        0.4723209
+      ],
+      [
+        35.9821182,
+        0.471924
+      ],
+      [
+        35.9815335,
+        0.472514
+      ],
+      [
+        35.9806108,
+        0.4729164
+      ],
+      [
+        35.9812278,
+        0.4738551
+      ]
+    ]
+  }
+}
+]
+}

@@ -242,19 +242,18 @@
       "properties": {
         "id": "584632677", 
         "meta": {
-          "changeset": "68533797", 
-          "timestamp": "2019-03-26T06:33:04Z", 
-          "uid": "9320580", 
-          "user": "Okavango77", 
-          "version": "3"
+          "changeset": "73116499", 
+          "timestamp": "2019-08-07T14:54:52Z", 
+          "uid": "7532021", 
+          "user": "puzzlefan", 
+          "version": "4"
         }, 
         "relations": [], 
         "tags": {
+          "highway": "secondary", 
           "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524475650366.jpg", 
           "is_in:village": "Nziu", 
-          "layer": "-1", 
           "name": "Culvert-Kilumwa", 
-          "tunnel": "culvert", 
           "wb_pb:id": "21641271", 
           "wheelchair": "yes"
         }, 
@@ -295,8 +294,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.59478515, 
-          -1.7622613500000002
+          37.594722, 
+          -1.7623381999999999
         ], 
         "type": "Point"
       }, 

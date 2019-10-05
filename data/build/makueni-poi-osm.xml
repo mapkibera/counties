@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
+<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-03-31T01:08:02Z"/>
+<meta osm_base="2019-10-05T01:33:02Z"/>
 
   <bounds minlat="-1.8769500" minlon="37.3700000" maxlat="-1.5900700" maxlon="37.7359800"/>
 
@@ -28,11 +28,23 @@
     <tag k="addr:street" v="Machakos-Wote Road"/>
     <tag k="amenity" v="fuel"/>
   </node>
+  <node id="3835172292" lat="-1.5996288" lon="37.6211533" version="2" timestamp="2019-07-23T10:57:20Z" changeset="72551351" uid="7532021" user="puzzlefan">
+    <tag k="ford" v="yes"/>
+  </node>
+  <node id="4673999181" lat="-1.5952571" lon="37.6170874" version="3" timestamp="2019-07-23T10:57:20Z" changeset="72551351" uid="7532021" user="puzzlefan">
+    <tag k="ford" v="yes"/>
+  </node>
+  <node id="4673999563" lat="-1.5974428" lon="37.6092964" version="3" timestamp="2019-07-23T10:57:20Z" changeset="72551351" uid="7532021" user="puzzlefan">
+    <tag k="ford" v="yes"/>
+  </node>
   <node id="5482240208" lat="-1.7969222" lon="37.6016294" version="2" timestamp="2019-03-08T13:13:57Z" changeset="67922186" uid="9389056" user="Simbirsk">
     <tag k="ford" v="yes"/>
   </node>
   <node id="5503373073" lat="-1.8525260" lon="37.5452132" version="3" timestamp="2019-03-20T11:26:19Z" changeset="68331775" uid="9389056" user="Simbirsk">
     <tag k="ford" v="yes"/>
+  </node>
+  <node id="5558806083" lat="-1.6766864" lon="37.4414069" version="2" timestamp="2019-07-18T17:04:10Z" changeset="72399936" uid="9625583" user="Parque93">
+    <tag k="highway" v="traffic_mirror"/>
   </node>
   <node id="5561357956" lat="-1.7842514" lon="37.6331565" version="3" timestamp="2018-09-14T16:00:35Z" changeset="62587456" uid="385046" user="Palolo">
     <tag k="leisure" v="picnic_table"/>
@@ -1400,15 +1412,6 @@
     <tag k="operational_status" v="operational"/>
     <tag k="wb_pb:id" v="21753491"/>
   </node>
-  <node id="5591966639" lat="-1.8121739" lon="37.6183154" version="2" timestamp="2018-09-23T12:05:08Z" changeset="62848596" uid="616774" user="mueschel">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="building" v="church"/>
-    <tag k="denomination" v="anglican"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524644030093.jpg"/>
-    <tag k="is_in:village" v="Kivandini"/>
-    <tag k="religion" v="christian"/>
-    <tag k="wb_pb:id" v="21774616"/>
-  </node>
   <node id="5591966640" lat="-1.8195468" lon="37.6359400" version="2" timestamp="2018-05-13T12:02:44Z" changeset="58922623" uid="616774" user="mueschel">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524648095187.jpg"/>
     <tag k="man_made" v="water_well"/>
@@ -1446,14 +1449,6 @@
     <tag k="type" v="pre_primary"/>
     <tag k="village" v="Kivandini"/>
     <tag k="wb_pb:id" v="21775666"/>
-  </node>
-  <node id="5591972208" lat="-1.8061663" lon="37.6274097" version="2" timestamp="2018-05-13T11:49:27Z" changeset="58922389" uid="616774" user="mueschel">
-    <tag k="amenity" v="water_point"/>
-    <tag k="fee" v="no"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524657410656.jpg"/>
-    <tag k="name" v="Kwa Nguluwe Extension Line"/>
-    <tag k="operational_status" v="non_operational"/>
-    <tag k="wb_pb:id" v="21774436"/>
   </node>
   <node id="5591972210" lat="-1.8113536" lon="37.6192793" version="2" timestamp="2018-05-20T11:11:18Z" changeset="59120602" uid="616774" user="mueschel">
     <tag k="content" v="water"/>
@@ -2459,10 +2454,10 @@
     <tag k="wb_pb:id" v="21746905"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5592178611" lat="-1.7588931" lon="37.6298979" version="3" timestamp="2018-07-05T14:07:49Z" changeset="60438483" uid="345975" user="VlIvYur">
+  <node id="5592178611" lat="-1.7588931" lon="37.6298979" version="4" timestamp="2019-04-25T02:29:26Z" changeset="69546440" uid="1830192" user="Warin61">
     <tag k="amenity" v="veterinary"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524657275132.jpg"/>
-    <tag k="man_made" v="Livestock_Dip"/>
+    <tag k="man_made" v="livestock_dip"/>
     <tag k="name" v="Kaiti Cattle Dip"/>
     <tag k="type" v="cattle_dip"/>
     <tag k="village" v="Nthangu"/>
@@ -4494,9 +4489,9 @@
     <tag k="wb_pb:id" v="22951640"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5637519132" lat="-1.6255690" lon="37.4682428" version="1" timestamp="2018-05-23T13:47:34Z" changeset="59212330" uid="261050" user="muindre">
+  <node id="5637519132" lat="-1.6255690" lon="37.4682428" version="2" timestamp="2019-04-15T19:42:43Z" changeset="69247940" uid="213831" user="Josef73">
     <tag k="name" v="Wananchi General Store"/>
-    <tag k="opening_hours_1" v="24/7"/>
+    <tag k="opening_hours" v="24/7"/>
     <tag k="shop" v="kiosk"/>
     <tag k="type" v="kiosk"/>
     <tag k="wb_pb:id" v="22951639"/>
@@ -4843,8 +4838,7 @@
     <tag k="wb_pb:id" v="22959170"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5641419268" lat="-1.6616594" lon="37.4468878" version="2" timestamp="2019-03-10T08:21:21Z" changeset="67981431" uid="118021" user="maggot27">
-    <tag k="amenity" v="other"/>
+  <node id="5641419268" lat="-1.6616594" lon="37.4468878" version="3" timestamp="2019-07-24T12:09:43Z" changeset="72599080" uid="265690" user="fondolucy">
     <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973429538.jpg"/>
     <tag k="name" v="Book Shop"/>
     <tag k="shop" v="books"/>
@@ -6525,16 +6519,6 @@
     <tag k="operational_status" v="operational"/>
     <tag k="wb_pb:id" v="21754118"/>
   </node>
-  <node id="5736301179" lat="-1.8121739" lon="37.6183154" version="2" timestamp="2018-09-23T12:05:14Z" changeset="62848596" uid="616774" user="mueschel">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="building" v="church"/>
-    <tag k="denomination" v="anglican"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524644030093.jpg"/>
-    <tag k="is_in:village" v="Kivandini"/>
-    <tag k="name" v="AIC Kivandini"/>
-    <tag k="religion" v="christian"/>
-    <tag k="wb_pb:id" v="21774616"/>
-  </node>
   <node id="5736301180" lat="-1.8195468" lon="37.6359400" version="2" timestamp="2018-07-14T14:49:47Z" changeset="60713861" uid="616774" user="mueschel">
     <tag k="fee" v="0.400000/litre"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524648095187.jpg"/>
@@ -6563,14 +6547,14 @@
     <tag k="social_facility" v="food_bank"/>
     <tag k="wb_pb:id" v="21744586"/>
   </node>
-  <node id="5736384021" lat="-1.7841120" lon="37.6300298" version="3" timestamp="2018-09-23T12:05:14Z" changeset="62848596" uid="616774" user="mueschel">
+  <node id="5736384021" lat="-1.7841120" lon="37.6300298" version="4" timestamp="2019-07-25T09:40:52Z" changeset="72635464" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
     <tag k="gender" v="mixed"/>
     <tag k="government_registered" v="moe"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651516134.jpg"/>
     <tag k="is_in:village" v="Unoa"/>
     <tag k="name" v="Makueni multiplex bible college"/>
-    <tag k="operator" v="Wote aic"/>
+    <tag k="operator" v="Wote AIC"/>
     <tag k="operator_type" v="pre_primary"/>
     <tag k="school" v="tertiary"/>
     <tag k="wb_pb:id" v="21744676"/>
@@ -6744,15 +6728,6 @@
     <tag k="opening_hours" v="24/7"/>
     <tag k="wb_pb:id" v="21745062"/>
   </node>
-  <node id="5736384053" lat="-1.8065225" lon="37.6460625" version="2" timestamp="2018-09-23T12:05:15Z" changeset="62848596" uid="616774" user="mueschel">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="denomination" v="evangelical"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643739817.jpg"/>
-    <tag k="is_in:village" v="Muambani"/>
-    <tag k="name" v="Muambani Redeemed Gospel Church"/>
-    <tag k="religion" v="christian"/>
-    <tag k="wb_pb:id" v="21736037"/>
-  </node>
   <node id="5736384054" lat="-1.7739008" lon="37.6447858" version="2" timestamp="2018-07-05T14:07:50Z" changeset="60438483" uid="345975" user="VlIvYur">
     <tag k="amenity" v="drinking_water"/>
     <tag k="charge" v="5/litre"/>
@@ -6815,9 +6790,6 @@
   <node id="5736386826" lat="-1.8016420" lon="37.5613465" version="1" timestamp="2018-07-03T11:42:58Z" changeset="60376229" uid="265690" user="fondolucy">
     <tag k="power" v="transformer"/>
   </node>
-  <node id="5736386827" lat="-1.7973796" lon="37.5632104" version="1" timestamp="2018-07-03T11:42:58Z" changeset="60376229" uid="265690" user="fondolucy">
-    <tag k="power" v="portal"/>
-  </node>
   <node id="5736386841" lat="-1.8007631" lon="37.5606431" version="1" timestamp="2018-07-03T11:42:58Z" changeset="60376229" uid="265690" user="fondolucy">
     <tag k="power" v="portal"/>
   </node>
@@ -6874,6 +6846,35 @@
     <tag k="man_made" v="water_well"/>
     <tag k="name" v="Kitikyumu borehole"/>
     <tag k="wb_pb:id" v="21640000"/>
+  </node>
+  <node id="6400253087" lat="-1.6554475" lon="37.4370800" version="2" timestamp="2019-04-21T15:09:18Z" changeset="69427151" uid="616774" user="mueschel">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="fee" v="no"/>
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973607038.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526973713555.jpg"/>
+    <tag k="name" v="Kyangoma Water tank"/>
+    <tag k="opening_hours" v="24_7"/>
+    <tag k="operational_status" v="operational"/>
+    <tag k="type" v="water_tank"/>
+    <tag k="wb_pb:id" v="22950222"/>
+  </node>
+  <node id="6400253088" lat="-1.6602933" lon="37.4058017" version="1" timestamp="2019-04-12T09:49:11Z" changeset="69143676" uid="261050" user="muindre">
+    <tag k="cost_per_litre" v="2.0"/>
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526642478277.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526642648799.jpg"/>
+    <tag k="man_made" v="water_well"/>
+    <tag k="name" v="Matondoni borehole"/>
+    <tag k="operational_status" v="non_operational"/>
+    <tag k="type" v="borehole"/>
+    <tag k="wb_pb:id" v="22761986"/>
+  </node>
+  <node id="6400271885" lat="-1.6303900" lon="37.4685656" version="1" timestamp="2019-04-12T09:49:12Z" changeset="69143676" uid="261050" user="muindre">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526983904704.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526984129492.jpg"/>
+    <tag k="name" v="Ebenezer Dispensary:Water tank"/>
+    <tag k="type" v="water_tank"/>
+    <tag k="wb_pb:id" v="22951663"/>
   </node>
 
 </osm>

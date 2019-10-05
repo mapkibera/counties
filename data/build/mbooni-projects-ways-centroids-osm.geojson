@@ -1,0 +1,36 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.44670640705684, 
+          -1.662454284261516
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/590969063", 
+      "properties": {
+        "id": "590969063", 
+        "meta": {
+          "changeset": "67989408", 
+          "timestamp": "2019-03-10T14:00:03Z", 
+          "uid": "118021", 
+          "user": "maggot27", 
+          "version": "3"
+        }, 
+        "relations": [], 
+        "tags": {
+          "amenity": "parking_space", 
+          "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1526982218112.jpg", 
+          "name": "Kikima Market Packing Space", 
+          "opening_hours": "24/7", 
+          "wb_pb:id": "22956668", 
+          "wheelchair": "yes"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "type": "FeatureCollection"
+}

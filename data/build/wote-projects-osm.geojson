@@ -4021,38 +4021,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/5591966639",
-      "properties": {
-        "type": "node",
-        "id": "5591966639",
-        "tags": {
-          "amenity": "place_of_worship",
-          "building": "church",
-          "denomination": "anglican",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524644030093.jpg",
-          "is_in:village": "Kivandini",
-          "religion": "christian",
-          "wb_pb:id": "21774616"
-        },
-        "relations": [],
-        "meta": {
-          "timestamp": "2018-09-23T12:05:08Z",
-          "version": "2",
-          "changeset": "62848596",
-          "user": "mueschel",
-          "uid": "616774"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.6183154,
-          -1.8121739
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/5591966640",
       "properties": {
         "type": "node",
@@ -4178,37 +4146,6 @@
         "coordinates": [
           37.6192786,
           -1.8113934
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5591972208",
-      "properties": {
-        "type": "node",
-        "id": "5591972208",
-        "tags": {
-          "amenity": "water_point",
-          "fee": "no",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524657410656.jpg",
-          "name": "Kwa Nguluwe Extension Line",
-          "operational_status": "non_operational",
-          "wb_pb:id": "21774436"
-        },
-        "relations": [],
-        "meta": {
-          "timestamp": "2018-05-13T11:49:27Z",
-          "version": "2",
-          "changeset": "58922389",
-          "user": "mueschel",
-          "uid": "616774"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.6274097,
-          -1.8061663
         ]
       }
     },
@@ -7457,7 +7394,7 @@
         "tags": {
           "amenity": "veterinary",
           "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524657275132.jpg",
-          "man_made": "Livestock_Dip",
+          "man_made": "livestock_dip",
           "name": "Kaiti Cattle Dip",
           "type": "cattle_dip",
           "village": "Nthangu",
@@ -7465,11 +7402,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2018-07-05T14:07:49Z",
-          "version": "3",
-          "changeset": "60438483",
-          "user": "VlIvYur",
-          "uid": "345975"
+          "timestamp": "2019-04-25T02:29:26Z",
+          "version": "4",
+          "changeset": "69546440",
+          "user": "Warin61",
+          "uid": "1830192"
         }
       },
       "geometry": {
@@ -11160,39 +11097,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/5736301179",
-      "properties": {
-        "type": "node",
-        "id": "5736301179",
-        "tags": {
-          "amenity": "place_of_worship",
-          "building": "church",
-          "denomination": "anglican",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524644030093.jpg",
-          "is_in:village": "Kivandini",
-          "name": "AIC Kivandini",
-          "religion": "christian",
-          "wb_pb:id": "21774616"
-        },
-        "relations": [],
-        "meta": {
-          "timestamp": "2018-09-23T12:05:14Z",
-          "version": "2",
-          "changeset": "62848596",
-          "user": "mueschel",
-          "uid": "616774"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.6183154,
-          -1.8121739
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/5736301180",
       "properties": {
         "type": "node",
@@ -11301,18 +11205,18 @@
           "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524651516134.jpg",
           "is_in:village": "Unoa",
           "name": "Makueni multiplex bible college",
-          "operator": "Wote aic",
+          "operator": "Wote AIC",
           "operator_type": "pre_primary",
           "school": "tertiary",
           "wb_pb:id": "21744676"
         },
         "relations": [],
         "meta": {
-          "timestamp": "2018-09-23T12:05:14Z",
-          "version": "3",
-          "changeset": "62848596",
-          "user": "mueschel",
-          "uid": "616774"
+          "timestamp": "2019-07-25T09:40:52Z",
+          "version": "4",
+          "changeset": "72635464",
+          "user": "fondolucy",
+          "uid": "265690"
         }
       },
       "geometry": {
@@ -11931,38 +11835,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/5736384053",
-      "properties": {
-        "type": "node",
-        "id": "5736384053",
-        "tags": {
-          "amenity": "place_of_worship",
-          "denomination": "evangelical",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524643739817.jpg",
-          "is_in:village": "Muambani",
-          "name": "Muambani Redeemed Gospel Church",
-          "religion": "christian",
-          "wb_pb:id": "21736037"
-        },
-        "relations": [],
-        "meta": {
-          "timestamp": "2018-09-23T12:05:15Z",
-          "version": "2",
-          "changeset": "62848596",
-          "user": "mueschel",
-          "uid": "616774"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.6460625,
-          -1.8065225
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/5736384054",
       "properties": {
         "type": "node",
@@ -12486,19 +12358,18 @@
       "properties": {
         "id": "584632677",
         "meta": {
-          "changeset": "68533797",
-          "timestamp": "2019-03-26T06:33:04Z",
-          "uid": "9320580",
-          "user": "Okavango77",
-          "version": "3"
+          "changeset": "73116499",
+          "timestamp": "2019-08-07T14:54:52Z",
+          "uid": "7532021",
+          "user": "puzzlefan",
+          "version": "4"
         },
         "relations": [],
         "tags": {
+          "highway": "secondary",
           "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524475650366.jpg",
           "is_in:village": "Nziu",
-          "layer": "-1",
           "name": "Culvert-Kilumwa",
-          "tunnel": "culvert",
           "wb_pb:id": "21641271",
           "wheelchair": "yes"
         },
@@ -12539,8 +12410,8 @@
     {
       "geometry": {
         "coordinates": [
-          37.59478515,
-          -1.7622613500000002
+          37.594722,
+          -1.7623381999999999
         ],
         "type": "Point"
       },

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
+<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-03-31T01:07:02Z"/>
+<meta osm_base="2019-10-05T01:33:02Z"/>
 
   <bounds minlat="-1.8581000" minlon="37.5188000" maxlat="-1.7500000" maxlon="37.6769000"/>
 
-  <node id="318598600" lat="-1.7681226" lon="37.5981535" version="2" timestamp="2018-05-04T10:12:57Z" changeset="58674569" uid="265690" user="fondolucy"/>
+  <node id="318598600" lat="-1.7682763" lon="37.5980272" version="3" timestamp="2019-06-21T09:59:20Z" changeset="71474751" uid="343553" user="mathias_on_the_road"/>
   <node id="318598610" lat="-1.7813435" lon="37.6146662" version="3" timestamp="2018-05-04T10:12:57Z" changeset="58674569" uid="265690" user="fondolucy"/>
   <node id="2141391495" lat="-1.8224112" lon="37.5369289" version="2" timestamp="2018-04-30T10:49:59Z" changeset="58551014" uid="261050" user="muindre"/>
   <node id="5482181209" lat="-1.7968653" lon="37.6015516" version="3" timestamp="2019-03-08T12:01:19Z" changeset="67919827" uid="9389044" user="JemaaElFna"/>
@@ -706,14 +706,13 @@
     <tag k="wb_pb:id" v="21641347"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="584632677" version="3" timestamp="2019-03-26T06:33:04Z" changeset="68533797" uid="9320580" user="Okavango77">
+  <way id="584632677" version="4" timestamp="2019-08-07T14:54:52Z" changeset="73116499" uid="7532021" user="puzzlefan">
     <nd ref="5588128976"/>
     <nd ref="2141391495"/>
+    <tag k="highway" v="secondary"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1524475650366.jpg"/>
     <tag k="is_in:village" v="Nziu"/>
-    <tag k="layer" v="-1"/>
     <tag k="name" v="Culvert-Kilumwa"/>
-    <tag k="tunnel" v="culvert"/>
     <tag k="wb_pb:id" v="21641271"/>
     <tag k="wheelchair" v="yes"/>
   </way>

@@ -235,16 +235,17 @@
       "properties": {
         "id": "615199419", 
         "meta": {
-          "changeset": "66360215", 
-          "timestamp": "2019-01-16T11:42:53Z", 
-          "uid": "18069", 
-          "user": "Claudius Henrichs", 
-          "version": "2"
+          "changeset": "69228296", 
+          "timestamp": "2019-04-15T09:44:54Z", 
+          "uid": "261050", 
+          "user": "muindre", 
+          "version": "3"
         }, 
         "relations": [], 
         "tags": {
           "amenity": "marketplace", 
           "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070076102.jpg", 
+          "image:project": "water_well", 
           "name": "Kabarnet Public Market", 
           "wb_pb:id": "26235610"
         }, 
@@ -255,8 +256,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.712698950000004, 
-          0.5441637500000001
+          35.712681849999996, 
+          0.54420345
         ], 
         "type": "Point"
       }, 
@@ -264,16 +265,16 @@
       "properties": {
         "id": "33402014", 
         "meta": {
-          "changeset": "61184291", 
-          "timestamp": "2018-07-30T07:34:51Z", 
-          "uid": "8556619", 
-          "user": "kbizz", 
-          "version": "17"
+          "changeset": "72441519", 
+          "timestamp": "2019-07-19T17:47:27Z", 
+          "uid": "9625586", 
+          "user": "Candelaria16", 
+          "version": "19"
         }, 
         "relations": [], 
         "tags": {
           "AUTO_ID": "6891", 
-          "highway": "track", 
+          "highway": "unclassified", 
           "name": "Ngolong-Kapkwokwon Road", 
           "source": "Africover", 
           "wb_pb:id": "26126316"
@@ -285,8 +286,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.73783365, 
-          0.4859158
+          35.73784715, 
+          0.48591525
         ], 
         "type": "Point"
       }, 
@@ -294,16 +295,16 @@
       "properties": {
         "id": "213201869", 
         "meta": {
-          "changeset": "61190223", 
-          "timestamp": "2018-07-30T10:38:33Z", 
-          "uid": "8556619", 
-          "user": "kbizz", 
-          "version": "12"
+          "changeset": "73164406", 
+          "timestamp": "2019-08-08T17:06:29Z", 
+          "uid": "8484094", 
+          "user": "rightmate", 
+          "version": "16"
         }, 
         "relations": [], 
         "tags": {
-          "highway": "residential", 
-          "name": "SDA(mzee moja)-Kaprogonya Road", 
+          "description": "SDA(mzee moja) - Kaprogonya Road", 
+          "highway": "unclassified", 
           "wb_pb:id": "26126034"
         }, 
         "type": "way"
@@ -313,8 +314,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.743164300000004, 
-          0.479807
+          35.743179049999995, 
+          0.479803
         ], 
         "type": "Point"
       }, 
@@ -322,17 +323,17 @@
       "properties": {
         "id": "265633860", 
         "meta": {
-          "changeset": "61190260", 
-          "timestamp": "2018-07-30T10:39:08Z", 
-          "uid": "8556619", 
-          "user": "kbizz", 
-          "version": "14"
+          "changeset": "72425713", 
+          "timestamp": "2019-07-19T11:12:46Z", 
+          "uid": "9447030", 
+          "user": "Liamuiga", 
+          "version": "20"
         }, 
         "relations": [], 
         "tags": {
           "bicycle": "yes", 
           "foot": "yes", 
-          "highway": "residential", 
+          "highway": "unclassified", 
           "horse": "yes", 
           "maxspeed": "40", 
           "name": "cerials road", 
@@ -347,8 +348,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.744739100000004, 
-          0.52903415
+          35.7447552, 
+          0.5290609500000001
         ], 
         "type": "Point"
       }, 
@@ -356,16 +357,16 @@
       "properties": {
         "id": "442423692", 
         "meta": {
-          "changeset": "61187420", 
-          "timestamp": "2018-07-30T09:10:14Z", 
-          "uid": "8556619", 
-          "user": "kbizz", 
-          "version": "8"
+          "changeset": "73166843", 
+          "timestamp": "2019-08-08T18:18:51Z", 
+          "uid": "8484094", 
+          "user": "rightmate", 
+          "version": "11"
         }, 
         "relations": [], 
         "tags": {
+          "description": "Kapchomuswo - Ngolong - Kapkokwon - Muchukwo Road", 
           "highway": "unclassified", 
-          "name": "Kapchomuswo-ngolong-kapkokwon-Muchukwo Road", 
           "wb_pb:id": "26126316"
         }, 
         "type": "way"
@@ -375,8 +376,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.6789715, 
-          0.54047545
+          35.68077475, 
+          0.5457857500000001
         ], 
         "type": "Point"
       }, 
@@ -384,11 +385,11 @@
       "properties": {
         "id": "568891980", 
         "meta": {
-          "changeset": "61184496", 
-          "timestamp": "2018-07-30T07:41:17Z", 
-          "uid": "261050", 
-          "user": "muindre", 
-          "version": "8"
+          "changeset": "72316117", 
+          "timestamp": "2019-07-16T17:31:55Z", 
+          "uid": "8484099", 
+          "user": "guzzle123", 
+          "version": "11"
         }, 
         "relations": [], 
         "tags": {
@@ -403,8 +404,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.7541971, 
-          0.5676453
+          35.75426455, 
+          0.5676186000000001
         ], 
         "type": "Point"
       }, 
@@ -412,11 +413,11 @@
       "properties": {
         "id": "569304918", 
         "meta": {
-          "changeset": "61186132", 
-          "timestamp": "2018-07-30T08:31:55Z", 
-          "uid": "8556619", 
-          "user": "kbizz", 
-          "version": "3"
+          "changeset": "72441909", 
+          "timestamp": "2019-07-19T18:00:17Z", 
+          "uid": "9625586", 
+          "user": "Candelaria16", 
+          "version": "7"
         }, 
         "relations": [], 
         "tags": {
@@ -431,8 +432,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.7477909, 
-          0.51176815
+          35.74779595, 
+          0.5118126000000001
         ], 
         "type": "Point"
       }, 
@@ -440,15 +441,15 @@
       "properties": {
         "id": "569542040", 
         "meta": {
-          "changeset": "61190041", 
-          "timestamp": "2018-07-30T10:31:17Z", 
-          "uid": "8556619", 
-          "user": "kbizz", 
-          "version": "5"
+          "changeset": "72294189", 
+          "timestamp": "2019-07-16T08:51:34Z", 
+          "uid": "9446755", 
+          "user": "Comayagua", 
+          "version": "9"
         }, 
         "relations": [], 
         "tags": {
-          "highway": "unclassified", 
+          "highway": "residential", 
           "name": "Kator-Emkos-Seguton Road", 
           "wb_pb:id": "26247311"
         }, 
@@ -459,8 +460,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.73384805, 
-          0.4968188
+          35.73385135, 
+          0.49678449999999996
         ], 
         "type": "Point"
       }, 
@@ -468,15 +469,15 @@
       "properties": {
         "id": "569546596", 
         "meta": {
-          "changeset": "61191849", 
-          "timestamp": "2018-07-30T11:31:23Z", 
-          "uid": "8556619", 
-          "user": "kbizz", 
-          "version": "4"
+          "changeset": "71846004", 
+          "timestamp": "2019-07-03T06:23:32Z", 
+          "uid": "9446755", 
+          "user": "Comayagua", 
+          "version": "6"
         }, 
         "relations": [], 
         "tags": {
-          "highway": "track", 
+          "highway": "unclassified", 
           "name": "Kaptimbor Cifika Road", 
           "wb_pb:id": "26240426"
         }, 
@@ -487,8 +488,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.74928475, 
-          0.5081222000000001
+          35.7493327, 
+          0.5081625999999999
         ], 
         "type": "Point"
       }, 
@@ -496,18 +497,22 @@
       "properties": {
         "id": "610473680", 
         "meta": {
-          "changeset": "61014407", 
-          "timestamp": "2018-07-24T09:18:10Z", 
-          "uid": "261050", 
-          "user": "muindre", 
-          "version": "1"
+          "changeset": "72162646", 
+          "timestamp": "2019-07-12T05:21:10Z", 
+          "uid": "9446755", 
+          "user": "Comayagua", 
+          "version": "3"
         }, 
         "relations": [], 
         "tags": {
-          "barrier": "sump_buster", 
+          "embankment": "yes", 
+          "highway": "residential", 
           "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531988761195.jpg", 
           "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531989146378.jpg", 
-          "name": "Kator-Emkos Road slab", 
+          "lanes": "1", 
+          "name": "Airstrip Road", 
+          "oneway": "yes", 
+          "surface": "asphalt", 
           "wb_pb:id": "26193696"
         }, 
         "type": "way"
@@ -517,8 +522,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.6484814, 
-          0.51151515
+          35.6485316, 
+          0.51151795
         ], 
         "type": "Point"
       }, 
@@ -526,11 +531,11 @@
       "properties": {
         "id": "612213856", 
         "meta": {
-          "changeset": "61444814", 
-          "timestamp": "2018-08-07T19:17:30Z", 
-          "uid": "385046", 
-          "user": "Palolo", 
-          "version": "2"
+          "changeset": "71674996", 
+          "timestamp": "2019-06-27T14:25:20Z", 
+          "uid": "9625560", 
+          "user": "Maboneng", 
+          "version": "3"
         }, 
         "relations": [], 
         "tags": {
@@ -545,8 +550,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.635224449999995, 
-          0.5203134
+          35.63521005, 
+          0.5204238999999999
         ], 
         "type": "Point"
       }, 
@@ -554,15 +559,15 @@
       "properties": {
         "id": "612213857", 
         "meta": {
-          "changeset": "61187426", 
-          "timestamp": "2018-07-30T09:10:24Z", 
-          "uid": "261050", 
-          "user": "muindre", 
-          "version": "1"
+          "changeset": "71673605", 
+          "timestamp": "2019-06-27T13:45:52Z", 
+          "uid": "9625560", 
+          "user": "Maboneng", 
+          "version": "3"
         }, 
         "relations": [], 
         "tags": {
-          "highway": "path", 
+          "highway": "unclassified", 
           "name": "Kakwane-Kipkokon Road", 
           "wb_pb:id": "26186484"
         }, 
@@ -573,8 +578,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.73551245, 
-          0.49329375
+          35.73553525, 
+          0.4932267
         ], 
         "type": "Point"
       }, 
@@ -582,46 +587,17 @@
       "properties": {
         "id": "612244613", 
         "meta": {
-          "changeset": "61190133", 
-          "timestamp": "2018-07-30T10:34:21Z", 
-          "uid": "8556619", 
-          "user": "kbizz", 
-          "version": "1"
+          "changeset": "70906688", 
+          "timestamp": "2019-06-04T03:35:08Z", 
+          "uid": "9446755", 
+          "user": "Comayagua", 
+          "version": "2"
         }, 
         "relations": [], 
         "tags": {
-          "highway": "unclassified", 
+          "highway": "path", 
           "name": "Dam-ICT Centre Road", 
           "wb_pb:id": "26192122"
-        }, 
-        "type": "way"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.7386221, 
-          0.49982954999999996
-        ], 
-        "type": "Point"
-      }, 
-      "id": "way/612244781", 
-      "properties": {
-        "id": "612244781", 
-        "meta": {
-          "changeset": "61190152", 
-          "timestamp": "2018-07-30T10:35:59Z", 
-          "uid": "8556619", 
-          "user": "kbizz", 
-          "version": "1"
-        }, 
-        "relations": [], 
-        "tags": {
-          "bridge": "yes", 
-          "highway": "unclassified", 
-          "name": "Chebao Bridge", 
-          "wb_pb:id": "26192057"
         }, 
         "type": "way"
       }, 
@@ -678,6 +654,118 @@
           "man_made": "pipeline", 
           "name": "Kabarnet Soi Water Piping Project", 
           "wb_pb:id": "26240486"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.682089399999995, 
+          0.54369545
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/704813986", 
+      "properties": {
+        "id": "704813986", 
+        "meta": {
+          "changeset": "72299890", 
+          "timestamp": "2019-07-16T11:18:46Z", 
+          "uid": "9447030", 
+          "user": "Liamuiga", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "path", 
+          "name": "Cheplogoi-Chesongo Road", 
+          "wb_pb:id": "26128800"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.67675175, 
+          0.54452245
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/704813987", 
+      "properties": {
+        "id": "704813987", 
+        "meta": {
+          "changeset": "72299890", 
+          "timestamp": "2019-07-16T11:18:46Z", 
+          "uid": "9447030", 
+          "user": "Liamuiga", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "name": "Cheplogoi-Chesongo Road", 
+          "wb_pb:id": "26128800"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.67641935, 
+          0.53995405
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/704813988", 
+      "properties": {
+        "id": "704813988", 
+        "meta": {
+          "changeset": "72304508", 
+          "timestamp": "2019-07-16T13:04:02Z", 
+          "uid": "9447030", 
+          "user": "Liamuiga", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "path", 
+          "name": "Cheplogoi-Chesongo Road", 
+          "wb_pb:id": "26128800"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6755515, 
+          0.5419996
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/704851674", 
+      "properties": {
+        "id": "704851674", 
+        "meta": {
+          "changeset": "72304508", 
+          "timestamp": "2019-07-16T13:04:02Z", 
+          "uid": "9447030", 
+          "user": "Liamuiga", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "name": "Cheplogoi-Chesongo Road", 
+          "wb_pb:id": "26128800"
         }, 
         "type": "way"
       }, 

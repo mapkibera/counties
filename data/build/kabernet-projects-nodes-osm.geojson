@@ -3,37 +3,6 @@
 "features": [
 {
   "type": "Feature",
-  "id": "node/5779163470",
-  "properties": {
-    "type": "node",
-    "id": "5779163470",
-    "tags": {
-      "amenity": "school",
-      "gender": "Mixed",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992171358.jpg",
-      "name": "Kiplabal Primary School",
-      "operator": "Government",
-      "wb_pb:id": "26186289"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-23T11:56:47Z",
-      "version": "1",
-      "changeset": "60983991",
-      "user": "Eryque",
-      "uid": "8556496"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6895939,
-      0.4527117
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5779163471",
   "properties": {
     "type": "node",
@@ -1407,40 +1376,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5779318654",
-  "properties": {
-    "type": "node",
-    "id": "5779318654",
-    "tags": {
-      "amenity": "school",
-      "funded_by": "CDF",
-      "gender": "Mixed",
-      "government_registered": "MOE (Ministry of Education)",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531912380061.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531912610331.jpg",
-      "name": "ECDE Oinabmoi",
-      "operator_type": "Government",
-      "wb_pb:id": "26127217"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-23T13:32:40Z",
-      "version": "1",
-      "changeset": "60987580",
-      "user": "Eryque",
-      "uid": "8556496"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6566103,
-      0.4581368
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5779318657",
   "properties": {
     "type": "node",
@@ -1529,40 +1464,6 @@
     "coordinates": [
       35.6804863,
       0.4597673
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5779318661",
-  "properties": {
-    "type": "node",
-    "id": "5779318661",
-    "tags": {
-      "building_type": "Steel",
-      "funded_by": "County Government",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906502887.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906820235.jpg",
-      "name": "Mild steel Railing at Cheploch Gorge",
-      "opening_hours": "24/7",
-      "tourism": "attraction",
-      "wb_pb:id": "26127128",
-      "wheelchair": "no"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-23T13:32:43Z",
-      "version": "1",
-      "changeset": "60987580",
-      "user": "Eryque",
-      "uid": "8556496"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6488504,
-      0.4528956
     ]
   }
 },
@@ -3424,36 +3325,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5781399434",
-  "properties": {
-    "type": "node",
-    "id": "5781399434",
-    "tags": {
-      "historic": "monument",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531980571771.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531980817355.jpg",
-      "name": "Kabarnet Town Monument",
-      "wb_pb:id": "26190962"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-24T09:39:33Z",
-      "version": "1",
-      "changeset": "61015284",
-      "user": "zubeda",
-      "uid": "8556533"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.7452144,
-      0.4945177
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5781399435",
   "properties": {
     "type": "node",
@@ -3856,103 +3727,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5781534448",
-  "properties": {
-    "type": "node",
-    "id": "5781534448",
-    "tags": {
-      "amenity": "social_facility",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531921596324.jpg",
-      "name": "Salawa Boda Boda Shade",
-      "social_facility": "shelter",
-      "wb_pb:id": "26129079"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-24T10:26:43Z",
-      "version": "1",
-      "changeset": "61017233",
-      "user": "muindre",
-      "uid": "261050"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6647454,
-      0.4946827
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5781535853",
-  "properties": {
-    "type": "node",
-    "id": "5781535853",
-    "tags": {
-      "amenity": "school",
-      "gender": "Mixed",
-      "government_registered": "MOE (Ministry of Education)",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531917051252.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531917329441.jpg",
-      "name": "Metipmoso ECDE",
-      "operational_status": "not operational",
-      "operator_type": "Government",
-      "wb_pb:id": "26128968"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-24T10:26:43Z",
-      "version": "1",
-      "changeset": "61017233",
-      "user": "muindre",
-      "uid": "261050"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6252702,
-      0.531335
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5781535854",
-  "properties": {
-    "type": "node",
-    "id": "5781535854",
-    "tags": {
-      "amenity": "school",
-      "government_registered": "MOE (Ministry of Education)",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531912176458.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531912139037.jpg",
-      "name": "Kaptara Primary School",
-      "operational_status": "Operational",
-      "operator_type": "Government",
-      "wb_pb:id": "26128927"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-24T10:26:44Z",
-      "version": "1",
-      "changeset": "61017233",
-      "user": "muindre",
-      "uid": "261050"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6470255,
-      0.5493158
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5781535855",
   "properties": {
     "type": "node",
@@ -4040,38 +3814,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5781535860",
-  "properties": {
-    "type": "node",
-    "id": "5781535860",
-    "tags": {
-      "amenity": "Agriculture",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531914404142.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531914767962.jpg",
-      "name": "Kaptara Sale Yard",
-      "operational_status": "operational",
-      "type": "Sales Yard",
-      "wb_pb:id": "26128939"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-24T10:26:44Z",
-      "version": "1",
-      "changeset": "61017233",
-      "user": "muindre",
-      "uid": "261050"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.647044,
-      0.5484213
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5781605129",
   "properties": {
     "type": "node",
@@ -4102,39 +3844,6 @@
     "coordinates": [
       35.6280339,
       0.5194983
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5781605133",
-  "properties": {
-    "type": "node",
-    "id": "5781605133",
-    "tags": {
-      "funded_by": "National Government",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992482316.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992929577.jpg",
-      "man_made": "water_well",
-      "name": "Kapyemit Borehole",
-      "operater": "Government",
-      "operational_status": "Non-Operational",
-      "wb_pb:id": "26186746"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-24T11:08:24Z",
-      "version": "1",
-      "changeset": "61018700",
-      "user": "muindre",
-      "uid": "261050"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6642169,
-      0.5325974
     ]
   }
 },
@@ -4504,38 +4213,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/5783441492",
-  "properties": {
-    "type": "node",
-    "id": "5783441492",
-    "tags": {
-      "amenity": "school",
-      "gender": "Mixed",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531989071325.jpg",
-      "name": "Kapteno Primary School",
-      "operator_type": "Government",
-      "type": "Primary",
-      "wb_pb:id": "26186271"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-25T08:16:06Z",
-      "version": "1",
-      "changeset": "61046533",
-      "user": "muindre",
-      "uid": "261050"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.697499,
-      0.4487374
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5783441494",
   "properties": {
     "type": "node",
@@ -4561,66 +4238,6 @@
     "coordinates": [
       35.6959445,
       0.4766533
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5783508715",
-  "properties": {
-    "type": "node",
-    "id": "5783508715",
-    "tags": {
-      "amenity": "hospital",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904607593.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904867750.jpg",
-      "name": "Salawa Health Centre",
-      "wb_pb:id": "26128566"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-25T08:31:37Z",
-      "version": "1",
-      "changeset": "61047187",
-      "user": "kbizz",
-      "uid": "8556619"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.660675,
-      0.4964151
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5783508716",
-  "properties": {
-    "type": "node",
-    "id": "5783508716",
-    "tags": {
-      "amenity": "clinic",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531903148638.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904211458.jpg",
-      "name": "Salawa Health Centre",
-      "wb_pb:id": "26128534"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-25T08:31:37Z",
-      "version": "1",
-      "changeset": "61047187",
-      "user": "kbizz",
-      "uid": "8556619"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6609404,
-      0.4967626
     ]
   }
 },
@@ -4654,189 +4271,6 @@
     "coordinates": [
       35.6652574,
       0.4915569
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5783508718",
-  "properties": {
-    "type": "node",
-    "id": "5783508718",
-    "tags": {
-      "amenity": "place_of_worship",
-      "denomination": "protestant",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531917567694.jpg",
-      "name": "A.I.C Salawa",
-      "religion": "christian",
-      "service_times": "10:00",
-      "wb_pb:id": "26128705"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-28T15:40:33Z",
-      "version": "2",
-      "changeset": "61145545",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6651621,
-      0.4981067
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5783508720",
-  "properties": {
-    "type": "node",
-    "id": "5783508720",
-    "tags": {
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531914965400.jpg",
-      "name": "Kalyet Kiosk",
-      "shop": "kiosk",
-      "wb_pb:id": "26128640"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-25T08:31:38Z",
-      "version": "1",
-      "changeset": "61047187",
-      "user": "kbizz",
-      "uid": "8556619"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.663579,
-      0.4949647
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5783508721",
-  "properties": {
-    "type": "node",
-    "id": "5783508721",
-    "tags": {
-      "amenity": "cafe",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531914831517.jpg",
-      "name": "Kalyet Hotel",
-      "wb_pb:id": "26128628"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-25T08:31:38Z",
-      "version": "1",
-      "changeset": "61047187",
-      "user": "kbizz",
-      "uid": "8556619"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.663575,
-      0.4949177
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5783508723",
-  "properties": {
-    "type": "node",
-    "id": "5783508723",
-    "tags": {
-      "amenity": "toilets",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904332835.jpg",
-      "toilets:disposal": "pit latrine",
-      "wb_pb:id": "26128555"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-25T08:31:38Z",
-      "version": "1",
-      "changeset": "61047187",
-      "user": "kbizz",
-      "uid": "8556619"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6608974,
-      0.4968816
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5783508729",
-  "properties": {
-    "type": "node",
-    "id": "5783508729",
-    "tags": {
-      "amenity": "school",
-      "gender": "Mixed",
-      "government_registered": "MOE (Ministry of Education)",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916018334.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916391710.jpg",
-      "name": "Salawa Primary School ECDE",
-      "operator_type": "Government",
-      "wb_pb:id": "26128658"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-25T08:31:39Z",
-      "version": "1",
-      "changeset": "61047187",
-      "user": "kbizz",
-      "uid": "8556619"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6641752,
-      0.496739
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5783508734",
-  "properties": {
-    "type": "node",
-    "id": "5783508734",
-    "tags": {
-      "amenity": "waste_basket",
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531905811016.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906089508.jpg",
-      "name": "Disposal pit",
-      "type": "Agriculture",
-      "wb_pb:id": "26128576"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-25T08:31:39Z",
-      "version": "1",
-      "changeset": "61047187",
-      "user": "kbizz",
-      "uid": "8556619"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6555617,
-      0.4950332
     ]
   }
 },
@@ -4899,38 +4333,6 @@
     "coordinates": [
       35.6891608,
       0.5140858
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5783571614",
-  "properties": {
-    "type": "node",
-    "id": "5783571614",
-    "tags": {
-      "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532073995654.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074062854.jpg",
-      "man_made": "water_well",
-      "name": "Magonoi Borehole",
-      "operational_status": "Non-operational",
-      "operator_type": "Government",
-      "wb_pb:id": "26240500"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2018-07-29T12:33:49Z",
-      "version": "2",
-      "changeset": "61163593",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.6931006,
-      0.517875
     ]
   }
 },
@@ -5358,6 +4760,36 @@
     "coordinates": [
       35.7427341,
       0.4850803
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6406115787",
+  "properties": {
+    "type": "node",
+    "id": "6406115787",
+    "tags": {
+      "amenity": "townhall",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1531917205088.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1531919215224.jpg",
+      "name": "YEPC kabarnet",
+      "wb_pb:id": "26199372"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-04-15T09:44:54Z",
+      "version": "1",
+      "changeset": "69228296",
+      "user": "muindre",
+      "uid": "261050"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.7415513,
+      0.4922563
     ]
   }
 }

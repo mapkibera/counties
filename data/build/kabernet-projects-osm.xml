@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
+<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-03-31T01:07:02Z"/>
+<meta osm_base="2019-10-05T01:33:02Z"/>
 
   <bounds minlat="0.4353000" minlon="35.6147000" maxlat="0.5916000" maxlon="35.7990000"/>
 
-  <node id="5779163470" lat="0.4527117" lon="35.6895939" version="1" timestamp="2018-07-23T11:56:47Z" changeset="60983991" uid="8556496" user="Eryque">
-    <tag k="amenity" v="school"/>
-    <tag k="gender" v="Mixed"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992171358.jpg"/>
-    <tag k="name" v="Kiplabal Primary School"/>
-    <tag k="operator" v="Government"/>
-    <tag k="wb_pb:id" v="26186289"/>
-  </node>
   <node id="5779163471" lat="0.4487374" lon="35.6974990" version="1" timestamp="2018-07-23T11:56:47Z" changeset="60983991" uid="8556496" user="Eryque">
     <tag k="amenity" v="school"/>
     <tag k="gender" v="Mixed"/>
@@ -420,17 +412,6 @@
     <tag k="type" v="Sales Yard"/>
     <tag k="wb_pb:id" v="26128939"/>
   </node>
-  <node id="5779318654" lat="0.4581368" lon="35.6566103" version="1" timestamp="2018-07-23T13:32:40Z" changeset="60987580" uid="8556496" user="Eryque">
-    <tag k="amenity" v="school"/>
-    <tag k="funded_by" v="CDF"/>
-    <tag k="gender" v="Mixed"/>
-    <tag k="government_registered" v="MOE (Ministry of Education)"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531912380061.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531912610331.jpg"/>
-    <tag k="name" v="ECDE Oinabmoi"/>
-    <tag k="operator_type" v="Government"/>
-    <tag k="wb_pb:id" v="26127217"/>
-  </node>
   <node id="5779318657" lat="0.4568360" lon="35.6565525" version="1" timestamp="2018-07-23T13:32:41Z" changeset="60987580" uid="8556496" user="Eryque">
     <tag k="amenity" v="water_point"/>
     <tag k="funded_by" v="County Government Of Baringo"/>
@@ -454,17 +435,6 @@
     <tag k="operator_type" v="Government"/>
     <tag k="pipeline" v="marker"/>
     <tag k="wb_pb:id" v="26127261"/>
-  </node>
-  <node id="5779318661" lat="0.4528956" lon="35.6488504" version="1" timestamp="2018-07-23T13:32:43Z" changeset="60987580" uid="8556496" user="Eryque">
-    <tag k="building_type" v="Steel"/>
-    <tag k="funded_by" v="County Government"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906502887.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906820235.jpg"/>
-    <tag k="name" v="Mild steel Railing at Cheploch Gorge"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="tourism" v="attraction"/>
-    <tag k="wb_pb:id" v="26127128"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="5779324089" lat="0.5000056" lon="35.6879383" version="2" timestamp="2018-08-04T17:42:22Z" changeset="61358766" uid="616774" user="mueschel">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531993769407.jpg"/>
@@ -1011,13 +981,6 @@
     <tag k="operator_type" v="County Government Of Baringo"/>
     <tag k="wb_pb:id" v="26191727"/>
   </node>
-  <node id="5781399434" lat="0.4945177" lon="35.7452144" version="1" timestamp="2018-07-24T09:39:33Z" changeset="61015284" uid="8556533" user="zubeda">
-    <tag k="historic" v="monument"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531980571771.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531980817355.jpg"/>
-    <tag k="name" v="Kabarnet Town Monument"/>
-    <tag k="wb_pb:id" v="26190962"/>
-  </node>
   <node id="5781399435" lat="0.4985753" lon="35.7357593" version="1" timestamp="2018-07-24T09:39:33Z" changeset="61015284" uid="8556533" user="zubeda">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531989660530.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531989437374.jpg"/>
@@ -1121,34 +1084,6 @@
     <tag k="shop" v="alcohol"/>
     <tag k="wb_pb:id" v="26236313"/>
   </node>
-  <node id="5781534448" lat="0.4946827" lon="35.6647454" version="1" timestamp="2018-07-24T10:26:43Z" changeset="61017233" uid="261050" user="muindre">
-    <tag k="amenity" v="social_facility"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531921596324.jpg"/>
-    <tag k="name" v="Salawa Boda Boda Shade"/>
-    <tag k="social_facility" v="shelter"/>
-    <tag k="wb_pb:id" v="26129079"/>
-  </node>
-  <node id="5781535853" lat="0.5313350" lon="35.6252702" version="1" timestamp="2018-07-24T10:26:43Z" changeset="61017233" uid="261050" user="muindre">
-    <tag k="amenity" v="school"/>
-    <tag k="gender" v="Mixed"/>
-    <tag k="government_registered" v="MOE (Ministry of Education)"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531917051252.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531917329441.jpg"/>
-    <tag k="name" v="Metipmoso ECDE"/>
-    <tag k="operational_status" v="not operational"/>
-    <tag k="operator_type" v="Government"/>
-    <tag k="wb_pb:id" v="26128968"/>
-  </node>
-  <node id="5781535854" lat="0.5493158" lon="35.6470255" version="1" timestamp="2018-07-24T10:26:44Z" changeset="61017233" uid="261050" user="muindre">
-    <tag k="amenity" v="school"/>
-    <tag k="government_registered" v="MOE (Ministry of Education)"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531912176458.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531912139037.jpg"/>
-    <tag k="name" v="Kaptara Primary School"/>
-    <tag k="operational_status" v="Operational"/>
-    <tag k="operator_type" v="Government"/>
-    <tag k="wb_pb:id" v="26128927"/>
-  </node>
   <node id="5781535855" lat="0.5496269" lon="35.6487386" version="1" timestamp="2018-07-24T10:26:44Z" changeset="61017233" uid="261050" user="muindre">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531911446160.jpg"/>
     <tag k="name" v="Kaptara Center"/>
@@ -1167,15 +1102,6 @@
     <tag k="place" v="town"/>
     <tag k="wb_pb:id" v="26128812"/>
   </node>
-  <node id="5781535860" lat="0.5484213" lon="35.6470440" version="1" timestamp="2018-07-24T10:26:44Z" changeset="61017233" uid="261050" user="muindre">
-    <tag k="amenity" v="Agriculture"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531914404142.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531914767962.jpg"/>
-    <tag k="name" v="Kaptara Sale Yard"/>
-    <tag k="operational_status" v="operational"/>
-    <tag k="type" v="Sales Yard"/>
-    <tag k="wb_pb:id" v="26128939"/>
-  </node>
   <node id="5781605129" lat="0.5194983" lon="35.6280339" version="1" timestamp="2018-07-24T11:08:23Z" changeset="61018700" uid="261050" user="muindre">
     <tag k="amenity" v="school"/>
     <tag k="gender" v="Mixed"/>
@@ -1187,16 +1113,6 @@
     <tag k="operator:type" v="Government"/>
     <tag k="type" v="Primary"/>
     <tag k="wb_pb:id" v="26186434"/>
-  </node>
-  <node id="5781605133" lat="0.5325974" lon="35.6642169" version="1" timestamp="2018-07-24T11:08:24Z" changeset="61018700" uid="261050" user="muindre">
-    <tag k="funded_by" v="National Government"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992482316.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531992929577.jpg"/>
-    <tag k="man_made" v="water_well"/>
-    <tag k="name" v="Kapyemit Borehole"/>
-    <tag k="operater" v="Government"/>
-    <tag k="operational_status" v="Non-Operational"/>
-    <tag k="wb_pb:id" v="26186746"/>
   </node>
   <node id="5781630322" lat="0.4961907" lon="35.7504427" version="1" timestamp="2018-07-24T11:29:06Z" changeset="61019341" uid="8556619" user="kbizz">
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074696929.jpg"/>
@@ -1286,35 +1202,12 @@
     <tag k="operator" v="Government"/>
     <tag k="wb_pb:id" v="26186289"/>
   </node>
-  <node id="5783441492" lat="0.4487374" lon="35.6974990" version="1" timestamp="2018-07-25T08:16:06Z" changeset="61046533" uid="261050" user="muindre">
-    <tag k="amenity" v="school"/>
-    <tag k="gender" v="Mixed"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531989071325.jpg"/>
-    <tag k="name" v="Kapteno Primary School"/>
-    <tag k="operator_type" v="Government"/>
-    <tag k="type" v="Primary"/>
-    <tag k="wb_pb:id" v="26186271"/>
-  </node>
   <node id="5783441494" lat="0.4766533" lon="35.6959445" version="2" timestamp="2018-07-30T13:21:21Z" changeset="61195695" uid="8556575" user="Maigong">
     <tag k="amenity" v="waste_disposal"/>
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531997557353.jpg"/>
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531998056536.jpg"/>
     <tag k="name" v="Lolowa Dumpsite"/>
     <tag k="wb_pb:id" v="26186314"/>
-  </node>
-  <node id="5783508715" lat="0.4964151" lon="35.6606750" version="1" timestamp="2018-07-25T08:31:37Z" changeset="61047187" uid="8556619" user="kbizz">
-    <tag k="amenity" v="hospital"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904607593.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904867750.jpg"/>
-    <tag k="name" v="Salawa Health Centre"/>
-    <tag k="wb_pb:id" v="26128566"/>
-  </node>
-  <node id="5783508716" lat="0.4967626" lon="35.6609404" version="1" timestamp="2018-07-25T08:31:37Z" changeset="61047187" uid="8556619" user="kbizz">
-    <tag k="amenity" v="clinic"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531903148638.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904211458.jpg"/>
-    <tag k="name" v="Salawa Health Centre"/>
-    <tag k="wb_pb:id" v="26128534"/>
   </node>
   <node id="5783508717" lat="0.4915569" lon="35.6652574" version="2" timestamp="2018-07-28T15:40:33Z" changeset="61145545" uid="616774" user="mueschel">
     <tag k="amenity" v="place_of_worship"/>
@@ -1325,51 +1218,6 @@
     <tag k="religion" v="christian"/>
     <tag k="service_times" v="08:00"/>
     <tag k="wb_pb:id" v="26128727"/>
-  </node>
-  <node id="5783508718" lat="0.4981067" lon="35.6651621" version="2" timestamp="2018-07-28T15:40:33Z" changeset="61145545" uid="616774" user="mueschel">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="denomination" v="protestant"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531917567694.jpg"/>
-    <tag k="name" v="A.I.C Salawa"/>
-    <tag k="religion" v="christian"/>
-    <tag k="service_times" v="10:00"/>
-    <tag k="wb_pb:id" v="26128705"/>
-  </node>
-  <node id="5783508720" lat="0.4949647" lon="35.6635790" version="1" timestamp="2018-07-25T08:31:38Z" changeset="61047187" uid="8556619" user="kbizz">
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531914965400.jpg"/>
-    <tag k="name" v="Kalyet Kiosk"/>
-    <tag k="shop" v="kiosk"/>
-    <tag k="wb_pb:id" v="26128640"/>
-  </node>
-  <node id="5783508721" lat="0.4949177" lon="35.6635750" version="1" timestamp="2018-07-25T08:31:38Z" changeset="61047187" uid="8556619" user="kbizz">
-    <tag k="amenity" v="cafe"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531914831517.jpg"/>
-    <tag k="name" v="Kalyet Hotel"/>
-    <tag k="wb_pb:id" v="26128628"/>
-  </node>
-  <node id="5783508723" lat="0.4968816" lon="35.6608974" version="1" timestamp="2018-07-25T08:31:38Z" changeset="61047187" uid="8556619" user="kbizz">
-    <tag k="amenity" v="toilets"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904332835.jpg"/>
-    <tag k="toilets:disposal" v="pit latrine"/>
-    <tag k="wb_pb:id" v="26128555"/>
-  </node>
-  <node id="5783508729" lat="0.4967390" lon="35.6641752" version="1" timestamp="2018-07-25T08:31:39Z" changeset="61047187" uid="8556619" user="kbizz">
-    <tag k="amenity" v="school"/>
-    <tag k="gender" v="Mixed"/>
-    <tag k="government_registered" v="MOE (Ministry of Education)"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916018334.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531916391710.jpg"/>
-    <tag k="name" v="Salawa Primary School ECDE"/>
-    <tag k="operator_type" v="Government"/>
-    <tag k="wb_pb:id" v="26128658"/>
-  </node>
-  <node id="5783508734" lat="0.4950332" lon="35.6555617" version="1" timestamp="2018-07-25T08:31:39Z" changeset="61047187" uid="8556619" user="kbizz">
-    <tag k="amenity" v="waste_basket"/>
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531905811016.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531906089508.jpg"/>
-    <tag k="name" v="Disposal pit"/>
-    <tag k="type" v="Agriculture"/>
-    <tag k="wb_pb:id" v="26128576"/>
   </node>
   <node id="5783571611" lat="0.5220088" lon="35.7181783" version="1" timestamp="2018-07-25T08:49:43Z" changeset="61048025" uid="261050" user="muindre">
     <tag k="bridge:support" v="abutment"/>
@@ -1386,15 +1234,6 @@
     <tag k="operator" v="County Government of Baringo"/>
     <tag k="operator_type" v="Government"/>
     <tag k="wb_pb:id" v="26240526"/>
-  </node>
-  <node id="5783571614" lat="0.5178750" lon="35.6931006" version="2" timestamp="2018-07-29T12:33:49Z" changeset="61163593" uid="616774" user="mueschel">
-    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532073995654.jpg"/>
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074062854.jpg"/>
-    <tag k="man_made" v="water_well"/>
-    <tag k="name" v="Magonoi Borehole"/>
-    <tag k="operational_status" v="Non-operational"/>
-    <tag k="operator_type" v="Government"/>
-    <tag k="wb_pb:id" v="26240500"/>
   </node>
   <node id="5783571615" lat="0.5211017" lon="35.7185067" version="1" timestamp="2018-07-25T08:49:43Z" changeset="61048025" uid="261050" user="muindre">
     <tag k="amenity" v="cattle_dip"/>
@@ -1500,6 +1339,13 @@
     <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531904495659.jpg"/>
     <tag k="name" v="Kabarnet Refferal Hopital-ICU"/>
     <tag k="wb_pb:id" v="26199364"/>
+  </node>
+  <node id="6406115787" lat="0.4922563" lon="35.7415513" version="1" timestamp="2019-04-15T09:44:54Z" changeset="69228296" uid="261050" user="muindre">
+    <tag k="amenity" v="townhall"/>
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1531917205088.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1531919215224.jpg"/>
+    <tag k="name" v="YEPC kabarnet"/>
+    <tag k="wb_pb:id" v="26199372"/>
   </node>
 
 </osm>
