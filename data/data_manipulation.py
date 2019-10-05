@@ -41,7 +41,7 @@ def merge_geojson(counties):
   for county in counties:
     wards = ""
     for ward in counties[county]['wards']:
-      wards = 'build/' + ward + "-projects-matched.geojson "
+      wards = wards + 'build/' + ward + "-projects-matched.geojson "
     os.system("geojson-merge " + wards + "> " + "site/"  + county + "-projects-matched-merged.geojson")
 
 def build_centroid(infile, outfile):

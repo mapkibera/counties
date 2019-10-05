@@ -3,7 +3,7 @@
 import os
 import logging
 from utils import url2file
-from images import cache_images
+from images import cache_images, cache_images_county
 from data_manipulation import sync_osm, convert_geojson, merge_geojson, build_centroid, match_projects, filter_poi, number_projects, create_index
 
 logging.basicConfig(level=logging.INFO)
@@ -61,22 +61,23 @@ def sync_projects():
 
   #mogotio, marigat
   url2file('https://docs.google.com/spreadsheets/d/e/2PACX-1vRsaDg2M7vaqMGegAr6pt2-Ud3oCvDxezcVj5VNtGYNlPeR-V_Nd39MFpCsmf9y-ImPTUx0m9yIKsnT/pub?gid=1039418752&single=true&output=csv', 'build/baringo-sept-projects.csv')
-  os.system("grep mogotio build/baringo-sept-projects.csv > build/mogotio-projects.csv")
-  os.system("grep marigat build/baringo-sept-projects.csv > build/marigat-projects.csv")
+  os.system("grep -i mogotio build/baringo-sept-projects.csv > build/mogotio-projects.csv")
+  os.system("grep -i marigat build/baringo-sept-projects.csv > build/marigat-projects.csv")
 
   logging.info("sync_projects complete")
 
-sync_osm(counties)
-sync_projects()
-convert_geojson(counties)
-match_projects(counties)
-merge_geojson(counties)
+#sync_osm(counties)
+#sync_projects()
+#convert_geojson(counties)
+#match_projects(counties)
+#merge_geojson(counties)
 
+cache_images_county('baringo')
 #baringo_with_image_cache = cache_images('baringo-projects-matched-merged.geojson')
 #writefile('baringo-projects-matched-merged.geojson', baringo_with_image_cache)
 #makueni_with_image_cache = cache_images('makueni-projects-matched-merged.geojson')
 #writefile('makueni-projects-matched-merged.geojson', makueni_with_image_cache)
 
-filter_poi(counties)
-number_projects(counties)
-create_index(counties)
+#filter_poi(counties)
+#number_projects(counties)
+#create_index(counties)

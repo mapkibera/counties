@@ -14,12 +14,14 @@ def writefile(file_name, buf):
   myFile.write(buf)
   myFile.close()
 
-def url2file(url,file_name):
+def url2file(url,file_name,cookies=None):
   logging.info("url2file start: " + url)
 
-  req = urllib2.Request(url)
+  opener = urllib2.build_opener()
+  if cookies:
+    opener.addheaders.append(('Cookie', cookies))
   try:
-    rsp = urllib2.urlopen(req)
+    rsp = opener.open(url)
   except urllib2.HTTPError, err:
     print str(err.code) + " " + url
     return
