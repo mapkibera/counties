@@ -217,7 +217,7 @@ function cleanLabel(str){
 }
 
 map.on('style.load', function() {
-  loadProjects(); loadBoundary();
+  loadBoundary();
 });
 map.on('render', function() {
   if (map.getLayer('projects-layer')) {
@@ -297,13 +297,14 @@ function loadPOI() {
     return;
   }
 
-  getJSON({url:'{{page.poi}}'}, function(err,poi){
-    var ptsWithin = turf.pointsWithinPolygon(poi, map.getSource('boundary')._data);
+  getJSON({url:'{{page.poi}}'}, function(err,result){
+    var ptsWithin = turf.pointsWithinPolygon(result, map.getSource('boundary')._data);
     map.addSource('poi', {
       'type': 'geojson',
         'data': ptsWithin
     });
     addPoiLayer();
+    loadProjects();
   });
 
 }

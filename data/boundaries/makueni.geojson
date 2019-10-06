@@ -6163,42 +6163,6 @@
         ]
       },
       "id": "relation/3492708"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/44910351",
-        "@relations": [
-          {
-            "role": "admin_centre",
-            "rel": 3492708,
-            "reltags": {
-              "CONSTITUEN": "KIBWEZI WEST",
-              "CONST_CODE": "87",
-              "COUNTY_COD": "17",
-              "COUNTY_NAM": "MAKUENI",
-              "ID_": "6213",
-              "ISO3166-2": "KE-23",
-              "OBJECTID": "34",
-              "Shape_Area": "0.66459009423",
-              "Shape_Leng": "5.74677892114",
-              "admin_level": "4",
-              "boundary": "administrative",
-              "name": "Makueni",
-              "type": "boundary",
-              "wikidata": "Q473717"
-            }
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.6290353,
-          -1.7803167
-        ]
-      },
-      "id": "node/44910351"
     }
   ]
 }
