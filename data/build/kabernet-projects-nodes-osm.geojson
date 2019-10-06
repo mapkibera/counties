@@ -2773,7 +2773,7 @@
     "tags": {
       "fee": "5.0 KSH",
       "image:pointofinterest": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531988004813.jpg",
-      "image:project": "http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/\\1531988212032.jpg",
+      "image:project": "https://mapkibera.github.io/counties/data/images/cache/5781138884/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1531988212032jpg/orig.jpg",
       "man_made": "water_well",
       "name": "Kipsoit Borehole",
       "operational_status": "operational",
@@ -2782,11 +2782,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2018-08-20T12:27:50Z",
-      "version": "4",
-      "changeset": "61821713",
-      "user": "kenboi",
-      "uid": "8556957"
+      "timestamp": "2019-10-06T00:25:56Z",
+      "version": "6",
+      "changeset": "75330296",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {

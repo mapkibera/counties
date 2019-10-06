@@ -1,6 +1,6 @@
 <osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-10-05T17:17:02Z" />
+<meta osm_base="2019-10-06T00:28:02Z" />
 
   <bounds maxlat="0.5916000" maxlon="35.7990000" minlat="0.4353000" minlon="35.6147000" />
 
@@ -812,10 +812,10 @@
     <tag k="name" v="Magonoi Dispensary" />
     <tag k="wb_pb:id" v="26240541" />
   </node>
-  <node changeset="61821713" id="5781138884" lat="0.5110565" lon="35.6506129" timestamp="2018-08-20T12:27:50Z" uid="8556957" user="kenboi" version="4">
+  <node changeset="75330296" id="5781138884" lat="0.5110565" lon="35.6506129" timestamp="2019-10-06T00:25:56Z" uid="999" user="mikelmaron" version="6">
     <tag k="fee" v="5.0 KSH" />
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531988004813.jpg" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/\1531988212032.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5781138884/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1531988212032jpg/orig.jpg" />
     <tag k="man_made" v="water_well" />
     <tag k="name" v="Kipsoit Borehole" />
     <tag k="operational_status" v="operational" />

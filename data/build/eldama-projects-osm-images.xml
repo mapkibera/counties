@@ -1,6 +1,6 @@
-<osm generator="Overpass API 0.7.55.1009 5e627b63" version="0.6">
+<osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-10-05T17:16:02Z" />
+<meta osm_base="2019-10-06T00:28:02Z" />
 
   <bounds maxlat="0.0852000" maxlon="35.7553000" minlat="-0.0307000" minlon="35.6881000" />
 
@@ -131,12 +131,12 @@
     <tag k="name" v="Eldama Ravine Stadium-Running Tracks and Football Pitch" />
     <tag k="wb_pb:id" v="26727827" />
   </node>
-  <node changeset="61229171" id="5798788033" lat="0.0017840" lon="35.7286833" timestamp="2018-07-31T12:58:07Z" uid="8556957" user="kenboi" version="1">
+  <node changeset="75330291" id="5798788033" lat="0.0017840" lon="35.7286833" timestamp="2019-10-06T00:25:33Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="school" />
     <tag k="gender" v="Mixed" />
     <tag k="government_registered" v="MOE (Ministry of Education)" />
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231053153471.jpg" />
-    <tag k="image:project" v="1231053714486.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798788033/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1231053714486jpg/orig.jpg" />
     <tag k="name" v="Kabiyet Primary School" />
     <tag k="operator_type" v="Government" />
     <tag k="type" v="Primary" />
@@ -153,12 +153,12 @@
     <tag k="type" v="Secondary" />
     <tag k="wb_pb:id" v="26664159" />
   </node>
-  <node changeset="61229171" id="5798788035" lat="0.0025515" lon="35.7291730" timestamp="2018-07-31T12:58:07Z" uid="8556957" user="kenboi" version="1">
+  <node changeset="75330291" id="5798788035" lat="0.0025515" lon="35.7291730" timestamp="2019-10-06T00:25:33Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="school" />
     <tag k="gender" v="Mixed" />
     <tag k="government_registered" v="MOE (Ministry of Education)" />
-    <tag k="image:pointofinterest" v="1231051464836.jpg" />
-    <tag k="image:project" v="1231052002481.jpg" />
+    <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1231051464836.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5798788035/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1231052002481jpg/orig.jpg" />
     <tag k="name" v="Uhuru High School Kabiyet Laboratory" />
     <tag k="operator_type" v="Government" />
     <tag k="type" v="Secondary" />
