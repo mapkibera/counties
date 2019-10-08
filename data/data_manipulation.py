@@ -99,6 +99,8 @@ def match_projects_ward(ward):
          feature.properties['tags']['Project_Name_or_Title'] = project_name
          if 'Project_Description' in row:
            feature.properties['tags']['Project_Description'] = row['Project_Description']
+         if 'Additional_Project_Details' in row:
+           feature.properties['tags']['Project_Description'] = row['Additional_Project_Details']
          feature.properties['tags']['Category'] = row['Category']
          feature.properties['tags']['What_is_the_project_s_apparent_status'] = row['What_is_the_project_s_apparent_status']
          feature.properties['tags']['In_your_opinion_is_the_project_quality'] = row['In_your_opinion_is_the_project_quality']
@@ -107,6 +109,8 @@ def match_projects_ward(ward):
            feature.properties['tags']['Project_Name_for_Print'] = row['Project_Name_for_Print']
          if 'type_of_facility_for print' in row and row['type_of_facility_for print'] != '':
            feature.properties['tags']['type_of_facility_for print'] = row['type_of_facility_for print']
+         if 'Budgeted sum' in row:
+           feature.properties['tags']['Budgeted sum'] = row['Budgeted sum']
 
          feature.properties['tags']['osm:id'] = feature.properties['id']
 

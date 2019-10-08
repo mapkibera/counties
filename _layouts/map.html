@@ -486,11 +486,16 @@ function addProjectLayer() {
             }
           }
           var image = e.features[0].properties.image || e.features[0].properties['image:project'] || e.features[0].properties['image:pointofinterest'];
-          return "<strong><a target='_blank_' href='https://www.openstreetmap.org/node/" + e.features[0].properties['osm:id'] + "'>" + e.features[0].properties['name'] + "</a></strong><br/>" +
-            e.features[0].properties['Project_Description'] + "<br/>" +
-            "<em>" +  e.features[0].properties['Please_add_any_details_about_y'] + "</em>"
-            + "<img src='" + image + "'/>";
-        });
+          return "<table style='border-spacing: 10px'>" +
+            "<tr><td>Project Name</td><td><strong><a target='_blank_' href='https://www.openstreetmap.org/node/" + e.features[0].properties['osm:id'] + "'>" + e.features[0].properties['name'] + "</a></strong></td></tr>" +
+            "<tr><td>Project Description</td><td><strong>" + e.features[0].properties['Project_Description'] + "</strong></td></tr>" +
+            "<tr><td>Project Status</td><td><strong>" + e.features[0].properties['What_is_the_project_s_apparent_status'] + "</strong></td></tr>" +
+            "<tr><td>Opinion</td><td><strong>" + e.features[0].properties['In_your_opinion_is_the_project_quality'] + "</strong></td></tr>" +
+            "<tr><td>Comment</td><td><strong>" + e.features[0].properties['Please_add_any_details_about_y'] + "</strong></td></tr>" +
+            (e.features[0].properties['Budgeted sum'] ?
+              "<tr><td>Budget</td><td><strong>" + e.features[0].properties['Budgeted sum'] + "</strong></td></tr>" : "")
+            + "<tr><td colspan='2'><img src='" + image + "'/></td></tr></table>";
+          });
 
       if (parent) {
         parent.postMessage(e.features[0].properties['wb_pb:id'], "*");
@@ -507,7 +512,10 @@ function loadProjects() {
   getJSON({url:'{{page.projects}}'}, function(err,response){
     var result = [];
     var cleanCategory = {
-      'EDU': 'Education, Sports, Culture and Social services'
+      'EDU': 'Education and Vocational Training',
+      'CA': 'County Assembly',
+      'GO': "The Governor's Office",
+      'FIEC': 'County Finance and Economic Planning'
     };
     response.features.forEach(function(project){
       project.properties['Category'] = cleanCategory[ project.properties['Category'] ] || project.properties['Category'];
