@@ -325,6 +325,37 @@
     {
       "geometry": {
         "coordinates": [
+          35.81724806271581, 
+          0.16439135206691893
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/732580852", 
+      "properties": {
+        "id": "732580852", 
+        "meta": {
+          "changeset": "75408431", 
+          "timestamp": "2019-10-08T10:33:36Z", 
+          "uid": "10269225", 
+          "user": "Ernet", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "amenity": "parking_space", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568717611495.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568873988611.jpg", 
+          "is_in:village": "Kimngorom", 
+          "name": "Kimngorom Boda Boda Shed", 
+          "wb_pb:id": "69"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.729648600000004, 
           0.046509499999999995
         ], 
@@ -1426,8 +1457,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.85958825, 
-          0.07976884999999999
+          35.85569355, 
+          0.0753406
         ], 
         "type": "Point"
       }, 
@@ -1435,20 +1466,20 @@
       "properties": {
         "id": "726132058", 
         "meta": {
-          "changeset": "75323740", 
-          "timestamp": "2019-10-05T17:16:08Z", 
-          "uid": "999", 
-          "user": "mikelmaron", 
-          "version": "3"
+          "changeset": "75448156", 
+          "timestamp": "2019-10-09T09:05:48Z", 
+          "uid": "10269225", 
+          "user": "Ernet", 
+          "version": "4"
         }, 
         "relations": [], 
         "tags": {
           "highway": "unclassified", 
-          "image": "https://mapkibera.github.io/counties/data/images/cache/726132058/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568790802827jpg/orig.jpg", 
-          "image:project": "https://mapkibera.github.io/counties/data/images/cache/726132058/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568790895337jpg/orig.jpg", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570017839317.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570018010382.jpg", 
           "is_in:village": "Sagasagik", 
-          "name": "Emining Sagasagik Road", 
-          "wb_pb:id": "177"
+          "name": "Mogotio Sagasagik Road", 
+          "wb_pb:id": "52"
         }, 
         "type": "way"
       }, 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
+<osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-10-06T00:28:02Z"/>
+<meta osm_base="2019-11-04T01:38:02Z"/>
 
   <bounds minlat="-0.0816000" minlon="35.6889000" maxlat="0.2642000" maxlon="35.9805000"/>
 
@@ -1613,13 +1613,6 @@
     <tag k="name" v="Ndaramiandet Water Pan"/>
     <tag k="operator:funding" v="County Government of Baringo"/>
     <tag k="wb_pb:id" v="75"/>
-  </node>
-  <node id="6851133548" lat="0.1314130" lon="35.8802200" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570017839317.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570018010382.jpg"/>
-    <tag k="is_in:village" v="Sagasagik"/>
-    <tag k="name" v="Mogotio - Sagasagik Road"/>
-    <tag k="wb_pb:id" v="52"/>
   </node>
 
 </osm>

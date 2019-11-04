@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
+<osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-10-06T00:28:02Z"/>
+<meta osm_base="2019-11-04T01:38:02Z"/>
 
   <bounds minlat="0.2520000" minlon="35.7760000" maxlat="0.6160000" maxlon="36.0540000"/>
 
@@ -98,6 +98,16 @@
   <node id="6851133533" lat="0.4739855" lon="35.9845207" version="1" timestamp="2019-10-04T11:06:05Z" changeset="75276794" uid="10269225" user="Ernet"/>
   <node id="6851133534" lat="0.4740352" lon="35.9853270" version="1" timestamp="2019-10-04T11:06:05Z" changeset="75276794" uid="10269225" user="Ernet"/>
   <node id="6851133535" lat="0.4743256" lon="35.9854648" version="1" timestamp="2019-10-04T11:06:05Z" changeset="75276794" uid="10269225" user="Ernet"/>
+  <node id="6860048890" lat="0.4642263" lon="35.8980685" version="1" timestamp="2019-10-08T10:33:36Z" changeset="75408431" uid="10269225" user="Ernet"/>
+  <node id="6860048891" lat="0.4648164" lon="35.8990985" version="1" timestamp="2019-10-08T10:33:36Z" changeset="75408431" uid="10269225" user="Ernet"/>
+  <node id="6860048892" lat="0.4648754" lon="35.8957243" version="1" timestamp="2019-10-08T10:33:36Z" changeset="75408431" uid="10269225" user="Ernet"/>
+  <node id="6860048893" lat="0.4640976" lon="35.8959442" version="1" timestamp="2019-10-08T10:33:36Z" changeset="75408431" uid="10269225" user="Ernet"/>
+  <node id="6860048894" lat="0.4635450" lon="35.8961910" version="1" timestamp="2019-10-08T10:33:36Z" changeset="75408431" uid="10269225" user="Ernet"/>
+  <node id="6860048895" lat="0.4650899" lon="35.8990502" version="1" timestamp="2019-10-08T10:33:36Z" changeset="75408431" uid="10269225" user="Ernet"/>
+  <node id="6869476811" lat="0.2720819" lon="35.8093286" version="1" timestamp="2019-10-11T09:25:20Z" changeset="75553076" uid="10269225" user="Ernet"/>
+  <node id="6869476812" lat="0.2720577" lon="35.8093565" version="1" timestamp="2019-10-11T09:25:20Z" changeset="75553076" uid="10269225" user="Ernet"/>
+  <node id="6869476813" lat="0.2720045" lon="35.8093103" version="1" timestamp="2019-10-11T09:25:20Z" changeset="75553076" uid="10269225" user="Ernet"/>
+  <node id="6869476814" lat="0.2720287" lon="35.8092824" version="1" timestamp="2019-10-11T09:25:20Z" changeset="75553076" uid="10269225" user="Ernet"/>
   <way id="189801212" version="3" timestamp="2019-10-05T04:21:51Z" changeset="75308375" uid="999" user="mikelmaron">
     <nd ref="6851133525"/>
     <nd ref="2004048263"/>
@@ -320,6 +330,38 @@
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569997863738.jpg"/>
     <tag k="name" v="Youth Empowerment Centre Fence"/>
     <tag k="wb_pb:id" v="233"/>
+  </way>
+  <way id="732580859" version="1" timestamp="2019-10-08T10:33:36Z" changeset="75408431" uid="10269225" user="Ernet">
+    <nd ref="6860048895"/>
+    <nd ref="6860048891"/>
+    <nd ref="6860048890"/>
+    <nd ref="6860048894"/>
+    <nd ref="6860048893"/>
+    <nd ref="6860048892"/>
+    <nd ref="6860048895"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="fence_type" v="wire"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568710669334.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568725442931.jpg"/>
+    <tag k="is_in:village" v="Kimalel"/>
+    <tag k="name" v="Kimalel Cultural Centre Fence"/>
+    <tag k="wb_pb:id" v="202"/>
+  </way>
+  <way id="733524528" version="1" timestamp="2019-10-11T09:25:20Z" changeset="75553076" uid="10269225" user="Ernet">
+    <nd ref="6869476814"/>
+    <nd ref="6869476813"/>
+    <nd ref="6869476812"/>
+    <nd ref="6869476811"/>
+    <nd ref="6869476814"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568367819721.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568367819721.jpg"/>
+    <tag k="is_in:village" v="Tuliongoi"/>
+    <tag k="man_made" v="borehole"/>
+    <tag k="name" v="Tuliongoi Borehole"/>
+    <tag k="operational_status" v="non_operational"/>
+    <tag k="operator:funding" v="County Government of Baringo"/>
+    <tag k="operator:type" v="cbo"/>
+    <tag k="wb_pb:id" v="111"/>
   </way>
 
 </osm>

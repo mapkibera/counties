@@ -1,0 +1,2435 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          35.07664275296176, 
+          1.2530936529958143
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/737830348", 
+      "properties": {
+        "id": "737830348", 
+        "meta": {
+          "changeset": "76239085", 
+          "timestamp": "2019-10-26T10:00:17Z", 
+          "uid": "616774", 
+          "user": "mueschel", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571732898534.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571733506043.jpg", 
+          "is_in:village": "Lityei", 
+          "landuse": "livestock_dip", 
+          "man_made": "livestock_dip", 
+          "name": "Lityei Cattle Dip", 
+          "wb_pb:id": "256"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.07279987367674, 
+          1.2525625282588306
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/737830349", 
+      "properties": {
+        "id": "737830349", 
+        "meta": {
+          "changeset": "76093637", 
+          "timestamp": "2019-10-23T10:01:40Z", 
+          "uid": "10380936", 
+          "user": "CHENAA", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571730868650.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731176794.jpg", 
+          "is_in:village": "Lityei", 
+          "leisure": "playground", 
+          "name": "Lityei Galib Mohammed Primary School Playground", 
+          "wb_pb:id": "258"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.132064648967585, 
+          1.3683360896404975
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/737849798", 
+      "properties": {
+        "id": "737849798", 
+        "meta": {
+          "changeset": "76098277", 
+          "timestamp": "2019-10-23T11:19:44Z", 
+          "uid": "10380766", 
+          "user": "Isaac Lonika", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571735952009.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571736436847.jpg", 
+          "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571736477433.jpg", 
+          "is_in:village": "Chepkechir Center", 
+          "landuse": "livestock_dip", 
+          "man_made": "livestock_dip", 
+          "name": "Chepkechir Cattle Dip", 
+          "wb_pb:id": "137"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.12662213359045, 
+          1.4158670670741023
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/737849799", 
+      "properties": {
+        "id": "737849799", 
+        "meta": {
+          "changeset": "76098277", 
+          "timestamp": "2019-10-23T11:19:44Z", 
+          "uid": "10380766", 
+          "user": "Isaac Lonika", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571394121541.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571394589876.jpg", 
+          "is_in:village": "Lotongot", 
+          "landuse": "livestock_dip", 
+          "man_made": "livestock_dip", 
+          "name": "Emboasis Cattle Dip", 
+          "wb_pb:id": "34"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.095272271439256, 
+          1.1967655963797008
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/737862246", 
+      "properties": {
+        "id": "737862246", 
+        "meta": {
+          "changeset": "76100501", 
+          "timestamp": "2019-10-23T12:10:47Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571744923150.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745085240.jpg", 
+          "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745117264.jpg", 
+          "is_in:village": "Murkwijit", 
+          "landuse": "dairy", 
+          "name": "Murkwijit Cooling Plant", 
+          "product": "dairy", 
+          "wb_pb:id": "217"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.03871575501197, 
+          1.2193983510930344
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/737862247", 
+      "properties": {
+        "id": "737862247", 
+        "meta": {
+          "changeset": "76100501", 
+          "timestamp": "2019-10-23T12:10:47Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571397440773.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571397635803.jpg", 
+          "is_in:village": "Keringet", 
+          "landuse": "other", 
+          "name": "FADC Sunflower Oil Processing Project", 
+          "other_agriculture": "Sunflower oil processing project", 
+          "wb_pb:id": "220"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0931628108671, 
+          1.255784849166682
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/737862250", 
+      "properties": {
+        "id": "737862250", 
+        "meta": {
+          "changeset": "76100501", 
+          "timestamp": "2019-10-23T12:10:47Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734249560.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734567147.jpg", 
+          "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734619235.jpg", 
+          "is_in:village": "Makutano", 
+          "leisure": "stadium", 
+          "name": "Makutano Stadium", 
+          "wb_pb:id": "280"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.09403295365496, 
+          1.2554848350532215
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/737862251", 
+      "properties": {
+        "id": "737862251", 
+        "meta": {
+          "changeset": "76100501", 
+          "timestamp": "2019-10-23T12:10:47Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734746529.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734958568.jpg", 
+          "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734973262.jpg", 
+          "is_in:village": "Makutano", 
+          "leisure": "stadium", 
+          "name": "Makutano Sports Stadium", 
+          "wb_pb:id": "280"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.04480126723583, 
+          1.1953895084027206
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/737862252", 
+      "properties": {
+        "id": "737862252", 
+        "meta": {
+          "changeset": "76100501", 
+          "timestamp": "2019-10-23T12:10:47Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571387999719.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571394473581.jpg", 
+          "is_in:village": "Keringet", 
+          "landuse": "livestock_dip", 
+          "man_made": "livestock_dip", 
+          "name": "Keringet Cattle Dip", 
+          "wb_pb:id": "242"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.08394031238329, 
+          1.2211491957983398
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/737862253", 
+      "properties": {
+        "id": "737862253", 
+        "meta": {
+          "changeset": "76100501", 
+          "timestamp": "2019-10-23T12:10:47Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747431834.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747744278.jpg", 
+          "is_in:village": "Psigirio", 
+          "landuse": "livestock_dip", 
+          "man_made": "livestock_dip", 
+          "name": "Psigirio Cattle Dip", 
+          "wb_pb:id": "300"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.11303752861737, 
+          1.2497827298902198
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/737868495", 
+      "properties": {
+        "id": "737868495", 
+        "meta": {
+          "changeset": "76102015", 
+          "timestamp": "2019-10-23T12:38:03Z", 
+          "uid": "10380888", 
+          "user": "Hillarious", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571391589927.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571391963131.jpg", 
+          "is_in:village": "Mwotot", 
+          "landuse": "Other", 
+          "name": "County Tree Nursery", 
+          "other_agriculture": "Tree nursery", 
+          "wb_pb:id": "124"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.04943372784874, 
+          1.240421579532419
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/739507816", 
+      "properties": {
+        "id": "739507816", 
+        "meta": {
+          "changeset": "76289728", 
+          "timestamp": "2019-10-28T09:16:24Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571987329249.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571987472999.jpg", 
+          "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571987490083.jpg", 
+          "is_in:village": "Tartar", 
+          "landuse": "livestock_dip", 
+          "man_made": "livestock_dip", 
+          "name": "Tartar Cattle Dip", 
+          "wb_pb:id": "311"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.098632906002486, 
+          1.2242290089772148
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/739507818", 
+      "properties": {
+        "id": "739507818", 
+        "meta": {
+          "changeset": "76289728", 
+          "timestamp": "2019-10-28T09:16:24Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907060899.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907241154.jpg", 
+          "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907259374.jpg", 
+          "is_in:village": "Kamuino", 
+          "landuse": "livestock_dip", 
+          "man_made": "livestock_dip", 
+          "name": "Kamuino Cattle Dip", 
+          "wb_pb:id": "229"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.16131045815238, 
+          1.2517346060358832
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/739512351", 
+      "properties": {
+        "id": "739512351", 
+        "meta": {
+          "changeset": "76290756", 
+          "timestamp": "2019-10-28T09:41:53Z", 
+          "uid": "10380870", 
+          "user": "loitalima", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571989719622.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571990273229.jpg", 
+          "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571990293300.jpg", 
+          "is_in:village": "Kalomoywo", 
+          "landuse": "livestock_dip", 
+          "man_made": "livestock_dip", 
+          "name": "Kalomoywo Cattle Dip", 
+          "wb_pb:id": "45"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.07143083361892, 
+          1.2855780079883385
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/739524514", 
+      "properties": {
+        "id": "739524514", 
+        "meta": {
+          "changeset": "76294057", 
+          "timestamp": "2019-10-28T10:54:43Z", 
+          "uid": "10380870", 
+          "user": "loitalima", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571387346538.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/IMG_20191018_112900-15_14_11.jpg", 
+          "is_in:village": "Kishaunet", 
+          "landuse": "other", 
+          "name": "Kishaunet Showground", 
+          "other_agriculture": "Showground", 
+          "wb_pb:id": "251"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.08005695490689, 
+          1.27910299825792
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/739524516", 
+      "properties": {
+        "id": "739524516", 
+        "meta": {
+          "changeset": "76294057", 
+          "timestamp": "2019-10-28T10:54:43Z", 
+          "uid": "10380870", 
+          "user": "loitalima", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571385975742.jpg", 
+          "is_in:village": "Kishaunet", 
+          "landuse": "livestock_dip", 
+          "man_made": "livestock_dip", 
+          "name": "Kishaunet Cattle Dip", 
+          "wb_pb:id": "246"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.07143083361892, 
+          1.2855780079883385
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/739527393", 
+      "properties": {
+        "id": "739527393", 
+        "meta": {
+          "changeset": "76294598", 
+          "timestamp": "2019-10-28T11:08:20Z", 
+          "uid": "10380760", 
+          "user": "LOPOT", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571387346538.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/IMG_20191018_112900-15_14_11.jpg", 
+          "is_in:village": "Kishaunet", 
+          "landuse": "other", 
+          "name": "Kishaunet Showground", 
+          "other_agriculture": "Showground", 
+          "wb_pb:id": "251"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.08005695490689, 
+          1.27910299825792
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/739527395", 
+      "properties": {
+        "id": "739527395", 
+        "meta": {
+          "changeset": "76294598", 
+          "timestamp": "2019-10-28T11:08:20Z", 
+          "uid": "10380760", 
+          "user": "LOPOT", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571385975742.jpg", 
+          "is_in:village": "Kishaunet", 
+          "landuse": "livestock_dip", 
+          "man_made": "livestock_dip", 
+          "name": "Kishaunet Cattle Dip", 
+          "wb_pb:id": "246"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.116892889741386, 
+          1.241413534109891
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/739531381", 
+      "properties": {
+        "id": "739531381", 
+        "meta": {
+          "changeset": "76295280", 
+          "timestamp": "2019-10-28T11:25:52Z", 
+          "uid": "10380856", 
+          "user": "benard lokeris", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "barrier": "wall", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571902752598.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571902972983.jpg", 
+          "is_in:village": "Mwotot", 
+          "name": "West Pokot County Recidence Wall", 
+          "wb_pb:id": "140"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.09044473556265, 
+          1.2544881832591617
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/739532656", 
+      "properties": {
+        "id": "739532656", 
+        "meta": {
+          "changeset": "76295494", 
+          "timestamp": "2019-10-28T11:31:03Z", 
+          "uid": "10380936", 
+          "user": "CHENAA", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "barrier": "wall", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907348672.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907592480.jpg", 
+          "is_in:village": "Makutano", 
+          "name": "Makutano primary wall", 
+          "wb_pb:id": "278"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.10167338884835, 
+          1.335536679701031
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/739535763", 
+      "properties": {
+        "id": "739535763", 
+        "meta": {
+          "changeset": "76296206", 
+          "timestamp": "2019-10-28T11:48:24Z", 
+          "uid": "10380888", 
+          "user": "Hillarious", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "is_in:village": "Lokwamuke", 
+          "landuse": "livestock_dip", 
+          "man_made": "livestock_dip", 
+          "name": "Katungui Cattle Dip", 
+          "wb_pb:id": "86"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0956968, 
+          1.19667305
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/252283602", 
+      "properties": {
+        "id": "252283602", 
+        "meta": {
+          "changeset": "76484582", 
+          "timestamp": "2019-11-01T09:39:33Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "6"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350038499.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350188140.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Murkwijit-Tomkokalya Road", 
+          "surface": "earth", 
+          "wb_pb:id": "288", 
+          "width": "12"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.103511999999995, 
+          1.2539325
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/252283608", 
+      "properties": {
+        "id": "252283608", 
+        "meta": {
+          "changeset": "76489296", 
+          "timestamp": "2019-11-01T11:12:50Z", 
+          "uid": "10380856", 
+          "user": "benard lokeris", 
+          "version": "5"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image:project": "image=https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342574959.jpg", 
+          "maintenance": "kura", 
+          "name": "Catholic-sakas-cereal-Makutano Road", 
+          "surface": "paved", 
+          "wb_pb:id": "width=15metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0732162, 
+          1.20083545
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/252283615", 
+      "properties": {
+        "id": "252283615", 
+        "meta": {
+          "changeset": "76484582", 
+          "timestamp": "2019-11-01T09:39:33Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "5"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572348898133.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572349083244.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Keringet-Kanglikwan-Murkwijit Road", 
+          "surface": "dirt", 
+          "wb_pb:id": "286", 
+          "width": "15"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.06772435, 
+          1.20962905
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/252283627", 
+      "properties": {
+        "id": "252283627", 
+        "meta": {
+          "changeset": "76484582", 
+          "timestamp": "2019-11-01T09:39:33Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "4"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340796951.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340980000.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Kammorrow-Kanglikwan Road", 
+          "surface": "dirt", 
+          "wb_pb:id": "228", 
+          "width": "12"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.144495, 
+          1.29042965
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/252283633", 
+      "properties": {
+        "id": "252283633", 
+        "meta": {
+          "changeset": "76484064", 
+          "timestamp": "2019-11-01T09:28:15Z", 
+          "uid": "10380870", 
+          "user": "loitalima", 
+          "version": "5"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347428636.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347681951.jpg", 
+          "maintenance": "county_government", 
+          "name": "Kaprom _ Roponywo road", 
+          "surface": "earth", 
+          "wb_pb:id": "107", 
+          "width": "9 metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.07933935, 
+          1.26450855
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/263645920", 
+      "properties": {
+        "id": "263645920", 
+        "meta": {
+          "changeset": "76484210", 
+          "timestamp": "2019-11-01T09:31:37Z", 
+          "uid": "4873427", 
+          "user": "shazomojah", 
+          "version": "5"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350538249.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350644110.jpg", 
+          "maintenance": "kerra", 
+          "name": "Nasokol-Kaplelach Koror Road", 
+          "surface": "earth", 
+          "wb_pb:id": "291", 
+          "width": "9"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.03637405, 
+          1.2863598
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/693695937", 
+      "properties": {
+        "id": "693695937", 
+        "meta": {
+          "changeset": "76484210", 
+          "timestamp": "2019-11-01T09:31:37Z", 
+          "uid": "4873427", 
+          "user": "shazomojah", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344077605.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344459914.jpg", 
+          "maintenance": "kerra", 
+          "name": "Kamito-Kamayech Serowo Road", 
+          "surface": "earth", 
+          "wb_pb:id": "226", 
+          "width": "9"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.09143105, 
+          1.30308445
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/694202682", 
+      "properties": {
+        "id": "694202682", 
+        "meta": {
+          "changeset": "76484387", 
+          "timestamp": "2019-11-01T09:35:19Z", 
+          "uid": "10380888", 
+          "user": "Hillarious", 
+          "version": "4"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572432768291.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572432963240.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Sukut emboasis koboch road", 
+          "surface": "dirt", 
+          "wb_pb:id": "111", 
+          "width": "9"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1205109, 
+          1.35186045
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/694206759", 
+      "properties": {
+        "id": "694206759", 
+        "meta": {
+          "changeset": "76485146", 
+          "timestamp": "2019-11-01T09:52:11Z", 
+          "uid": "10380766", 
+          "user": "Isaac Lonika", 
+          "version": "3"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "residential", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344186262.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344687835.jpg", 
+          "maintenance": "county_government", 
+          "name": "Kapkoris-Chepkechir-Emboasis", 
+          "surface": "earth", 
+          "wb_pb:id": "78", 
+          "width": "15 metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.089780000000005, 
+          1.2543411500000001
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/694421306", 
+      "properties": {
+        "id": "694421306", 
+        "meta": {
+          "changeset": "76489469", 
+          "timestamp": "2019-11-01T11:11:23Z", 
+          "uid": "10380936", 
+          "user": "CHENAA", 
+          "version": "3"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572352324576.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572352569978.jpg", 
+          "maintenance": "county_government", 
+          "name": "TangaTanga Town View Lityei Road", 
+          "surface": "earth", 
+          "wb_pb:id": "310", 
+          "width": "12 metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.07348105, 
+          1.24576515
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/694421308", 
+      "properties": {
+        "id": "694421308", 
+        "meta": {
+          "changeset": "76489469", 
+          "timestamp": "2019-11-01T11:11:23Z", 
+          "uid": "10380936", 
+          "user": "CHENAA", 
+          "version": "7"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347985469.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572348020472.jpg", 
+          "maintenance": "county_government", 
+          "name": "Kaplelach Koror Road.", 
+          "surface": "earth", 
+          "wb_pb:id": "240", 
+          "width": "12 metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.08767865, 
+          1.2535037500000001
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/694428651", 
+      "properties": {
+        "id": "694428651", 
+        "meta": {
+          "changeset": "76489469", 
+          "timestamp": "2019-11-01T11:11:23Z", 
+          "uid": "10380936", 
+          "user": "CHENAA", 
+          "version": "5"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350608493.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350894401.jpg", 
+          "maintenance": "county_government", 
+          "name": "Makutano Primary Paul Kide Residence Road.", 
+          "surface": "dirt", 
+          "wb_pb:id": "279", 
+          "width": "12 metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0868327, 
+          1.2518714
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/694449607", 
+      "properties": {
+        "id": "694449607", 
+        "meta": {
+          "changeset": "76489469", 
+          "timestamp": "2019-11-01T11:11:23Z", 
+          "uid": "10380936", 
+          "user": "CHENAA", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353381900.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353598574.jpg", 
+          "maintenance": "county_government", 
+          "name": "Lutheran Shalom School road.", 
+          "surface": "earth", 
+          "wb_pb:id": "273", 
+          "width": "12 metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1196385, 
+          1.2396821
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/695294186", 
+      "properties": {
+        "id": "695294186", 
+        "meta": {
+          "changeset": "76489296", 
+          "timestamp": "2019-11-01T11:12:50Z", 
+          "uid": "10380856", 
+          "user": "benard lokeris", 
+          "version": "3"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341998595.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342021066.jpg", 
+          "maintenance": "kura", 
+          "name": "Kapenguria Office Road", 
+          "surface": "paved", 
+          "wb_pb:id": "121", 
+          "width": "9 metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1160155, 
+          1.2433831
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/695294188", 
+      "properties": {
+        "id": "695294188", 
+        "meta": {
+          "changeset": "76489296", 
+          "timestamp": "2019-11-01T11:12:50Z", 
+          "uid": "10380856", 
+          "user": "benard lokeris", 
+          "version": "4"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341998595.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342021066.jpg", 
+          "maintenance": "kura", 
+          "name": "Kapenguria Office Road", 
+          "surface": "paved", 
+          "wb_pb:id": "121", 
+          "width": "9 metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.12083945, 
+          1.25965095
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/695295337", 
+      "properties": {
+        "id": "695295337", 
+        "meta": {
+          "changeset": "76484387", 
+          "timestamp": "2019-11-01T09:35:19Z", 
+          "uid": "10380888", 
+          "user": "Hillarious", 
+          "version": "8"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572343601716.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344135921.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Karas-Rainbow Road", 
+          "surface": "dirt", 
+          "wb_pb:id": "82", 
+          "width": "9"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1590026, 
+          1.2505383
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/695603233", 
+      "properties": {
+        "id": "695603233", 
+        "meta": {
+          "changeset": "76484387", 
+          "timestamp": "2019-11-01T09:35:19Z", 
+          "uid": "10380888", 
+          "user": "Hillarious", 
+          "version": "5"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337804785.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337925036.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Karas-Cheptapesha-Katiporot - Kalamoywo Road", 
+          "surface": "dirt", 
+          "wb_pb:id": "83", 
+          "width": "9"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.12482995, 
+          1.29704305
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/696115061", 
+      "properties": {
+        "id": "696115061", 
+        "meta": {
+          "changeset": "76484064", 
+          "timestamp": "2019-11-01T09:28:15Z", 
+          "uid": "10380870", 
+          "user": "loitalima", 
+          "version": "5"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572423416920.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572423918673.jpg", 
+          "maintenance": "county_government", 
+          "name": "Kapkoris Chemwayam Road", 
+          "surface": "earth", 
+          "wb_pb:id": "77", 
+          "width": "9 metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.12286655, 
+          1.28138975
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/696115062", 
+      "properties": {
+        "id": "696115062", 
+        "meta": {
+          "changeset": "76484387", 
+          "timestamp": "2019-11-01T09:35:19Z", 
+          "uid": "10380888", 
+          "user": "Hillarious", 
+          "version": "5"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340124535.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340283252.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Tukumo -Karas Road", 
+          "surface": "dirt", 
+          "wb_pb:id": "84", 
+          "width": "9"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.129943600000004, 
+          1.27854045
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/696138181", 
+      "properties": {
+        "id": "696138181", 
+        "meta": {
+          "changeset": "76484387", 
+          "timestamp": "2019-11-01T09:35:19Z", 
+          "uid": "10380888", 
+          "user": "Hillarious", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342494596.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342601408.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Kasowil -Tukumo -Karas Road", 
+          "surface": "dirt", 
+          "wb_pb:id": "84", 
+          "width": "9"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1513025, 
+          1.2949317
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/696156198", 
+      "properties": {
+        "id": "696156198", 
+        "meta": {
+          "changeset": "76484064", 
+          "timestamp": "2019-11-01T09:28:15Z", 
+          "uid": "10380870", 
+          "user": "loitalima", 
+          "version": "5"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340188552.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340467873.jpg", 
+          "maintenance": "county_government", 
+          "name": "Sakat Kaprom Road", 
+          "surface": "earth", 
+          "wb_pb:id": "110", 
+          "width": "12 metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1485147, 
+          1.28379385
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/696198489", 
+      "properties": {
+        "id": "696198489", 
+        "meta": {
+          "changeset": "76489653", 
+          "timestamp": "2019-11-01T11:14:30Z", 
+          "uid": "10380856", 
+          "user": "benard lokeris", 
+          "version": "7"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427213674.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427691105.jpg", 
+          "maintenance": "county_government", 
+          "name": "Roponywo Kakomtin Road", 
+          "surface": "earth", 
+          "wb_pb:id": "47", 
+          "width": "6 metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.125757300000004, 
+          1.29493265
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/696214507", 
+      "properties": {
+        "id": "696214507", 
+        "meta": {
+          "changeset": "76484064", 
+          "timestamp": "2019-11-01T09:28:15Z", 
+          "uid": "10380870", 
+          "user": "loitalima", 
+          "version": "5"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572425189724.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572425566397.jpg", 
+          "maintenance": "county_government", 
+          "name": "Kaproris Ptop Parua Chemwayam Road", 
+          "surface": "earth", 
+          "wb_pb:id": "72", 
+          "width": "9 metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.05246005, 
+          1.24816685
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/696411080", 
+      "properties": {
+        "id": "696411080", 
+        "meta": {
+          "changeset": "76489469", 
+          "timestamp": "2019-11-01T11:11:23Z", 
+          "uid": "10380936", 
+          "user": "CHENAA", 
+          "version": "3"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572339241663.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572339579311.jpg", 
+          "maintenance": "county_government", 
+          "name": "Tartar-Parpelo-Kilimameri Box Culvert.", 
+          "surface": "earth", 
+          "wb_pb:id": "314", 
+          "width": "12 metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.096201699999995, 
+          1.2097554499999998
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/698061539", 
+      "properties": {
+        "id": "698061539", 
+        "meta": {
+          "changeset": "76484582", 
+          "timestamp": "2019-11-01T09:39:33Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572352093068.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572352303286.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Psigirio-Tomkokalya-Talau Road", 
+          "surface": "dirt", 
+          "wb_pb:id": "54", 
+          "width": "12"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.11270035, 
+          1.24823885
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/737868496", 
+      "properties": {
+        "id": "737868496", 
+        "meta": {
+          "changeset": "76200765", 
+          "timestamp": "2019-10-25T11:01:06Z", 
+          "uid": "616774", 
+          "user": "mueschel", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "barrier": "wall", 
+          "description": "Ardhi Pouse perimeter Wall", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571384658077.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571385450319.jpg", 
+          "is_in:village": "Mwotot", 
+          "wb_pb:id": "5"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1129618, 
+          1.2462974
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/737868497", 
+      "properties": {
+        "id": "737868497", 
+        "meta": {
+          "changeset": "76102015", 
+          "timestamp": "2019-10-23T12:38:03Z", 
+          "uid": "10380888", 
+          "user": "Hillarious", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571394651418.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571395036910.jpg", 
+          "is_in:village": "Mwotot", 
+          "name": "West Pokot Kilimo Perimeter Wall", 
+          "wb_pb:id": "125"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1174921, 
+          1.2417656
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/737868498", 
+      "properties": {
+        "id": "737868498", 
+        "meta": {
+          "changeset": "76102015", 
+          "timestamp": "2019-10-23T12:38:03Z", 
+          "uid": "10380888", 
+          "user": "Hillarious", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731686159.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731844690.jpg", 
+          "is_in:village": "Mwotot", 
+          "name": "West Pokot County Tourism Office Parking shade", 
+          "wb_pb:id": "128"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.12126325, 
+          1.2364936000000002
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/739531380", 
+      "properties": {
+        "id": "739531380", 
+        "meta": {
+          "changeset": "76295280", 
+          "timestamp": "2019-10-28T11:25:52Z", 
+          "uid": "10380856", 
+          "user": "benard lokeris", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "amenity": "hospital", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915483075.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915669888.jpg", 
+          "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571915700216.jpg", 
+          "is_in:village": "Mwotot", 
+          "name": "Kapenguria Referral Hospital", 
+          "wb_pb:id": "55"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1031094, 
+          1.2217763000000001
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/739555017", 
+      "properties": {
+        "id": "739555017", 
+        "meta": {
+          "changeset": "76300067", 
+          "timestamp": "2019-10-28T13:27:43Z", 
+          "uid": "10380856", 
+          "user": "benard lokeris", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571989440356.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571989733477.jpg", 
+          "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571989763620.jpg", 
+          "is_in:village": "Chewoyet", 
+          "name": "Kamarketch Bridge", 
+          "operator:funding": "county_government", 
+          "wb_pb:id": "46"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.05403905, 
+          1.300163
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740921089", 
+      "properties": {
+        "id": "740921089", 
+        "meta": {
+          "changeset": "76484210", 
+          "timestamp": "2019-11-01T09:31:37Z", 
+          "uid": "4873427", 
+          "user": "shazomojah", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347619518.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347715270.jpg", 
+          "maintenance": "kerra", 
+          "name": "Kapchepkai-Kodongou Road", 
+          "surface": "earth", 
+          "wb_pb:id": "223", 
+          "width": "9"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.054949699999995, 
+          1.2815626
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740921090", 
+      "properties": {
+        "id": "740921090", 
+        "meta": {
+          "changeset": "76484210", 
+          "timestamp": "2019-11-01T09:31:37Z", 
+          "uid": "4873427", 
+          "user": "shazomojah", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344950383.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572346582894.jpg", 
+          "maintenance": "kerra", 
+          "name": "Lopalal road", 
+          "surface": "earth", 
+          "wb_pb:id": "272"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.04422085, 
+          1.28186625
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740921091", 
+      "properties": {
+        "id": "740921091", 
+        "meta": {
+          "changeset": "76484210", 
+          "timestamp": "2019-11-01T09:31:37Z", 
+          "uid": "4873427", 
+          "user": "shazomojah", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344077605.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344459914.jpg", 
+          "maintenance": "kerra", 
+          "name": "Kamito-Kamayech Serowo Road", 
+          "surface": "earth", 
+          "wb_pb:id": "226", 
+          "width": "9"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.050003649999994, 
+          1.2859851
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740921092", 
+      "properties": {
+        "id": "740921092", 
+        "meta": {
+          "changeset": "76484210", 
+          "timestamp": "2019-11-01T09:31:37Z", 
+          "uid": "4873427", 
+          "user": "shazomojah", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344950383.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572346582894.jpg", 
+          "maintenance": "kerra", 
+          "name": "Lopalal road", 
+          "surface": "earth", 
+          "wb_pb:id": "272", 
+          "width": "9"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0655363, 
+          1.2859308
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740921093", 
+      "properties": {
+        "id": "740921093", 
+        "meta": {
+          "changeset": "76484210", 
+          "timestamp": "2019-11-01T09:31:37Z", 
+          "uid": "4873427", 
+          "user": "shazomojah", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344077605.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344459914.jpg", 
+          "maintenance": "kerra", 
+          "name": "Kamito-Kamayech Serowo Road", 
+          "surface": "earth", 
+          "wb_pb:id": "226", 
+          "width": "9"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.083376099999995, 
+          1.2706385500000001
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740921094", 
+      "properties": {
+        "id": "740921094", 
+        "meta": {
+          "changeset": "76484210", 
+          "timestamp": "2019-11-01T09:31:37Z", 
+          "uid": "4873427", 
+          "user": "shazomojah", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572349089840.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572349222261.jpg", 
+          "maintenance": "kerra", 
+          "name": "Kishaunet-Nasokol Road", 
+          "surface": "earth", 
+          "wb_pb:id": "292", 
+          "width": "9"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1468019, 
+          1.2609086
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740921539", 
+      "properties": {
+        "id": "740921539", 
+        "meta": {
+          "changeset": "76484387", 
+          "timestamp": "2019-11-01T09:35:19Z", 
+          "uid": "10380888", 
+          "user": "Hillarious", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337092318.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337257846.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Karas -Cheptapesha-Kalomoywo", 
+          "surface": "dirt", 
+          "wb_pb:id": "83", 
+          "width": "9"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.135084649999996, 
+          1.2618779999999998
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740921541", 
+      "properties": {
+        "id": "740921541", 
+        "meta": {
+          "changeset": "76484387", 
+          "timestamp": "2019-11-01T09:35:19Z", 
+          "uid": "10380888", 
+          "user": "Hillarious", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572336461112.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572336594284.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Karas-Kalomoyo Road", 
+          "surface": "dirt", 
+          "wb_pb:id": "81", 
+          "width": "9"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0909332, 
+          1.25090755
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740923102", 
+      "properties": {
+        "id": "740923102", 
+        "meta": {
+          "changeset": "76484582", 
+          "timestamp": "2019-11-01T09:39:33Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "residential", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357062734.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357188239.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Superfoam-Daraja Road", 
+          "surface": "earth", 
+          "wb_pb:id": "307", 
+          "width": "12"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.074261250000006, 
+          1.233162
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740923103", 
+      "properties": {
+        "id": "740923103", 
+        "meta": {
+          "changeset": "76484582", 
+          "timestamp": "2019-11-01T09:39:33Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572356090217.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572356260767.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Kaa Tartar-Cormolee Road", 
+          "surface": "dirt", 
+          "wb_pb:id": "57", 
+          "width": "12"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.04898715, 
+          1.21278405
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740923104", 
+      "properties": {
+        "id": "740923104", 
+        "meta": {
+          "changeset": "76484582", 
+          "timestamp": "2019-11-01T09:39:33Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341888484.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342020569.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Keringet Town Roads", 
+          "surface": "earth", 
+          "wb_pb:id": "245", 
+          "width": "12"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.08827505, 
+          1.2070911500000001
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740923105", 
+      "properties": {
+        "id": "740923105", 
+        "meta": {
+          "changeset": "76484582", 
+          "timestamp": "2019-11-01T09:39:33Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572355315203.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572355415803.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Bondeni Road", 
+          "surface": "earth", 
+          "wb_pb:id": "208", 
+          "width": "12"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0753811, 
+          1.22016135
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740923106", 
+      "properties": {
+        "id": "740923106", 
+        "meta": {
+          "changeset": "76484582", 
+          "timestamp": "2019-11-01T09:39:33Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353768976.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353928542.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Kwa Chief-Chepangang Road", 
+          "surface": "earth", 
+          "wb_pb:id": "254", 
+          "width": "12"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.048124599999994, 
+          1.2028422
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740923107", 
+      "properties": {
+        "id": "740923107", 
+        "meta": {
+          "changeset": "76484582", 
+          "timestamp": "2019-11-01T09:39:33Z", 
+          "uid": "10380829", 
+          "user": "SIWA Jnr", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341447069.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341609674.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Kanglikwan-Kisii Road", 
+          "surface": "earth", 
+          "wb_pb:id": "223", 
+          "width": "12"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1064906, 
+          1.36749875
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740924218", 
+      "properties": {
+        "id": "740924218", 
+        "meta": {
+          "changeset": "76485146", 
+          "timestamp": "2019-11-01T09:52:11Z", 
+          "uid": "10380766", 
+          "user": "Isaac Lonika", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357162313.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357446912.jpg", 
+          "maintenance": "county_government", 
+          "name": "Tingwo-Kormonot-Kopoch Road", 
+          "surface": "earth", 
+          "wb_pb:id": "157", 
+          "width": "12 metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1291637, 
+          1.40850565
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740924219", 
+      "properties": {
+        "id": "740924219", 
+        "meta": {
+          "changeset": "76485041", 
+          "timestamp": "2019-11-01T09:49:26Z", 
+          "uid": "10380766", 
+          "user": "Isaac Lonika", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "residential", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344186262.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344687835.jpg", 
+          "maintenance": "county_government", 
+          "name": "Kapkoris-Chepkechir-Emboasis Road", 
+          "surface": "earth", 
+          "waterway": "weir", 
+          "wb_pb:id": "78", 
+          "width": "15_metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.12727005, 
+          1.40912405
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740924220", 
+      "properties": {
+        "id": "740924220", 
+        "meta": {
+          "changeset": "76485041", 
+          "timestamp": "2019-11-01T09:49:26Z", 
+          "uid": "10380766", 
+          "user": "Isaac Lonika", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "residential", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344186262.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344687835.jpg", 
+          "maintenance": "county_governm", 
+          "name": "Kapkoris-Chepkechir-Emboasis", 
+          "surface": "earth", 
+          "wb_pb:id": "78", 
+          "width": "15_m"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.09465025, 
+          1.2575275000000001
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740942612", 
+      "properties": {
+        "id": "740942612", 
+        "meta": {
+          "changeset": "76489469", 
+          "timestamp": "2019-11-01T11:11:23Z", 
+          "uid": "10380936", 
+          "user": "CHENAA", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572435474880.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572435704662.jpg", 
+          "maintenance": "County_Government", 
+          "name": "Total-Kcb Olive tree Road.", 
+          "surface": "dirt", 
+          "wb_pb:id": "315", 
+          "width": "12 metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0860633, 
+          1.2493463999999999
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740942613", 
+      "properties": {
+        "id": "740942613", 
+        "meta": {
+          "changeset": "76489469", 
+          "timestamp": "2019-11-01T11:11:23Z", 
+          "uid": "10380936", 
+          "user": "CHENAA", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "wb_pb:id": "240", 
+          "width": "12_metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.087272299999995, 
+          1.257318
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740942615", 
+      "properties": {
+        "id": "740942615", 
+        "meta": {
+          "changeset": "76524824", 
+          "timestamp": "2019-11-02T10:58:54Z", 
+          "uid": "616774", 
+          "user": "mueschel", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image:project": "image=https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572426126236.jpg", 
+          "maintenance": "county_government", 
+          "name": "Makutano Juakali -Lityei road", 
+          "surface": "earth", 
+          "wb_pb:id": "width=12_metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0895434, 
+          1.2579668499999999
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740942616", 
+      "properties": {
+        "id": "740942616", 
+        "meta": {
+          "changeset": "76524824", 
+          "timestamp": "2019-11-02T10:58:54Z", 
+          "uid": "616774", 
+          "user": "mueschel", 
+          "version": "2"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image:project": "image=https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572426126236.jpg", 
+          "maintenance": "county_government", 
+          "name": "Makutano Juakali -Lityei road", 
+          "surface": "earth", 
+          "wb_pb:id": "width=12_metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1196287, 
+          1.2490711
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740942814", 
+      "properties": {
+        "id": "740942814", 
+        "meta": {
+          "changeset": "76489296", 
+          "timestamp": "2019-11-01T11:12:50Z", 
+          "uid": "10380856", 
+          "user": "benard lokeris", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "tertiary", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572335163086.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572335425826.jpg", 
+          "maintenance": "county_government", 
+          "name": "Kapenguria- kakrut road", 
+          "surface": "dirt", 
+          "wb_pb:id": "70", 
+          "width": "9 metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.12024195, 
+          1.22888665
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740942815", 
+      "properties": {
+        "id": "740942815", 
+        "meta": {
+          "changeset": "76489296", 
+          "timestamp": "2019-11-01T11:12:50Z", 
+          "uid": "10380856", 
+          "user": "benard lokeris", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "tertiary", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572336953317.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337126314.jpg", 
+          "maintenance": "county_government", 
+          "name": "Aramaket -Kasurum Road", 
+          "surface": "dirt", 
+          "wb_pb:id": "3", 
+          "width": "9 metres"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.11990105, 
+          1.22574035
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/740942816", 
+      "properties": {
+        "id": "740942816", 
+        "meta": {
+          "changeset": "76489296", 
+          "timestamp": "2019-11-01T11:12:50Z", 
+          "uid": "10380856", 
+          "user": "benard lokeris", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "highway": "unclassified", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571997453379.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571997754070.jpg", 
+          "is_in:village": "Chewoyet", 
+          "name": "Aramaket-Kapsurum Bridge", 
+          "operator:funding": "county_governm", 
+          "surface": "ground", 
+          "wb_pb:id": "154"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "type": "FeatureCollection"
+}

@@ -5082,36 +5082,6 @@
       0.059755
     ]
   }
-},
-{
-  "type": "Feature",
-  "id": "node/6851133548",
-  "properties": {
-    "type": "node",
-    "id": "6851133548",
-    "tags": {
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570017839317.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570018010382.jpg",
-      "is_in:village": "Sagasagik",
-      "name": "Mogotio - Sagasagik Road",
-      "wb_pb:id": "52"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-10-05T04:40:17Z",
-      "version": "2",
-      "changeset": "75308508",
-      "user": "mikelmaron",
-      "uid": "999"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.88022,
-      0.131413
-    ]
-  }
 }
 ]
 }

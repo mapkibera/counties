@@ -369,8 +369,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.5414674, 
-          0.0636947
+          35.5414611, 
+          0.0637006
         ], 
         "type": "Point"
       }, 
@@ -408,6 +408,21 @@
       "id": "1628879744", 
       "properties": {
         "osm:id": "1628879744", 
+        "railway": "level_crossing"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.5716617, 
+          -0.0070598
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1976998848", 
+      "properties": {
+        "osm:id": "1976998848", 
         "railway": "level_crossing"
       }, 
       "type": "Feature"
@@ -485,7 +500,6 @@
         "amenity": "fuel", 
         "brand": "Oilibya", 
         "brand:wikidata": "Q7081491", 
-        "brand:wikipedia": "en:Oilibya", 
         "fuel:diesel": "yes", 
         "osm:id": "2025998274", 
         "project:eurosha_2012": "yes", 
@@ -8412,8 +8426,8 @@
     {
       "geometry": {
         "coordinates": [
-          35.5429776, 
-          0.0653306
+          35.5429771, 
+          0.065331
         ], 
         "type": "Point"
       }, 
@@ -12551,27 +12565,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.86637, 
-          0.294292
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6788467269", 
-      "properties": {
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568113918684.jpg", 
-        "is_in:village": "Tinomoi", 
-        "man_made": "borehole", 
-        "name": "Tinomoi Borehole", 
-        "operational_status": "non_operational", 
-        "operator:funding": "County Government of Baringo", 
-        "operator:type": "cbo", 
-        "osm:id": "6788467269"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           35.88879, 
           0.305877
         ], 
@@ -12589,29 +12582,6 @@
         "operator:description": "Yaat community organization", 
         "operator:type": "cbo", 
         "osm:id": "6788467270"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.90661, 
-          0.363628
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6788467273", 
-      "properties": {
-        "amenity": "drinking_water", 
-        "description": "water_tank", 
-        "fee": "5", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568108100971.jpg", 
-        "is_in:village": "Buiwon", 
-        "name": "Buiwon Borehole", 
-        "operational_status": "operational", 
-        "operator:funding": "County Government of Baringo", 
-        "operator:type": "cbo", 
-        "osm:id": "6788467273"
       }, 
       "type": "Feature"
     }, 
@@ -14218,12 +14188,10 @@
       "id": "6799533359", 
       "properties": {
         "amenity": "place_of_worship", 
-        "denomination": "Muslim", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568275471319.jpg", 
-        "is_in:village": "Mogotio", 
         "name": "Mogotio Jumia Mosque", 
         "osm:id": "6799533359", 
-        "religion": "islam"
+        "religion": "muslim"
       }, 
       "type": "Feature"
     }, 
@@ -14516,10 +14484,9 @@
         "amenity": "place_of_worship", 
         "denomination": "shia", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568794544302.jpg", 
-        "is_in:village": "Town B", 
         "name": "Marigat Mosque", 
         "osm:id": "6807332155", 
-        "religion": "islam", 
+        "religion": "muslim", 
         "service_times": "05:30"
       }, 
       "type": "Feature"
@@ -15542,27 +15509,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.8092733, 
-          0.27201
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6807606991", 
-      "properties": {
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568367819721.jpg", 
-        "is_in:village": "Tuliongoi", 
-        "man_made": "borehole", 
-        "name": "Tuliongoi Borehole", 
-        "operational_status": "non_operational", 
-        "operator:funding": "County Government of Baringo", 
-        "operator:type": "cbo", 
-        "osm:id": "6807606991"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           35.8066367, 
           0.3859867
         ], 
@@ -15739,27 +15685,6 @@
         "name": "Umoja Shop", 
         "osm:id": "6807623048", 
         "shop": "kiosk"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.98784, 
-          0.472005
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6807623049", 
-      "properties": {
-        "amenity": "place_of_worship", 
-        "denomination": "shia", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568794544302.jpg", 
-        "is_in:village": "Town B", 
-        "name": "Marigat Mosque", 
-        "osm:id": "6807623049", 
-        "religion": "islam", 
-        "service_times": "05:30"
       }, 
       "type": "Feature"
     }, 
@@ -16567,6 +16492,212 @@
         "name": "St. Barnabas ACK Ngubereti", 
         "osm:id": "6808083484", 
         "service_times": "10:30"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.99485, 
+          0.47134
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6860048896", 
+      "properties": {
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "tertiary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568800445328.jpg", 
+        "is_in:village": "Town C", 
+        "name": "Kenya Forestry Research Institute", 
+        "operator:description": "Government of Kenya", 
+        "operator:type": "government", 
+        "osm:id": "6860048896"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9942566, 
+          0.4690453
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6860048897", 
+      "properties": {
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "tertiary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568799548565.jpg", 
+        "is_in:village": "Town C", 
+        "name": "Kenya Agricultural and Livestock Research Organization", 
+        "operator:description": "Government of Kenya", 
+        "operator:type": "government", 
+        "osm:id": "6860048897"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.99231, 
+          0.472575
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6860048898", 
+      "properties": {
+        "amenity": "place_of_worship", 
+        "denomination": "evangelical", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568798645572.jpg", 
+        "is_in:village": "Town C", 
+        "name": "Deliverance Church Marigat", 
+        "osm:id": "6860048898", 
+        "religion": "christian", 
+        "service_times": "09:00"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.99039, 
+          0.474423
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6860048899", 
+      "properties": {
+        "is_in:village": "Town B", 
+        "name": "Starlight Mini Shop", 
+        "osm:id": "6860048899", 
+        "shop": "kiosk"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.8576655, 
+          -0.2091045
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6915929181", 
+      "properties": {
+        "amenity": "restaurant", 
+        "name": "Pems Lounge & Grill Salgaa,", 
+        "osm:id": "6915929181"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.8545752, 
+          -0.2090209
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6916068188", 
+      "properties": {
+        "addr:street": "Nairobi Road", 
+        "amenity": "fuel", 
+        "name": "Doxa Oil", 
+        "osm:id": "6916068188"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.8550446, 
+          -0.2092623
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6916068189", 
+      "properties": {
+        "addr:street": "Nairobi Road", 
+        "amenity": "fuel", 
+        "name": "Kobil Petrol", 
+        "osm:id": "6916068189"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.8524241, 
+          -0.2081706
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6916068190", 
+      "properties": {
+        "addr:city": "Rongai", 
+        "addr:street": "Nairobi Road", 
+        "amenity": "restaurant", 
+        "name": "Paleos Bar And Grill", 
+        "osm:id": "6916068190"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.851083, 
+          -0.2072667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6916068191", 
+      "properties": {
+        "addr:city": "Rongai", 
+        "addr:street": "Nairobi Road", 
+        "amenity": "fuel", 
+        "name": "Salgaa Petrol Station", 
+        "osm:id": "6916068191"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.6939918, 
+          -0.1587195
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6916068202", 
+      "properties": {
+        "addr:city": "Mau Summit", 
+        "addr:street": "Nairobi Road", 
+        "amenity": "fuel", 
+        "name": "Total-Mau Summit", 
+        "osm:id": "6916068202"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.5440396, 
+          0.0649428
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924642277", 
+      "properties": {
+        "addr:street": "Nakuru - Eldoret Road", 
+        "amenity": "place_of_worship", 
+        "name": "Timboroa Catholic Church", 
+        "osm:id": "6924642277", 
+        "religion": "christian"
       }, 
       "type": "Feature"
     }

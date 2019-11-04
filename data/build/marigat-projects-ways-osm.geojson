@@ -780,6 +780,60 @@
 },
 {
   "type": "Feature",
+  "id": "way/733524528",
+  "properties": {
+    "type": "way",
+    "id": "733524528",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568367819721.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568367819721.jpg",
+      "is_in:village": "Tuliongoi",
+      "man_made": "borehole",
+      "name": "Tuliongoi Borehole",
+      "operational_status": "non_operational",
+      "operator:funding": "County Government of Baringo",
+      "operator:type": "cbo",
+      "wb_pb:id": "111"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-11T09:25:20Z",
+      "version": "1",
+      "changeset": "75553076",
+      "user": "Ernet",
+      "uid": "10269225"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.8092824,
+          0.2720287
+        ],
+        [
+          35.8093103,
+          0.2720045
+        ],
+        [
+          35.8093565,
+          0.2720577
+        ],
+        [
+          35.8093286,
+          0.2720819
+        ],
+        [
+          35.8092824,
+          0.2720287
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/731560946",
   "properties": {
     "type": "way",
@@ -835,6 +889,64 @@
       [
         35.9812278,
         0.4738551
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/732580859",
+  "properties": {
+    "type": "way",
+    "id": "732580859",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "wire",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568710669334.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568725442931.jpg",
+      "is_in:village": "Kimalel",
+      "name": "Kimalel Cultural Centre Fence",
+      "wb_pb:id": "202"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-08T10:33:36Z",
+      "version": "1",
+      "changeset": "75408431",
+      "user": "Ernet",
+      "uid": "10269225"
+    }
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        35.8990502,
+        0.4650899
+      ],
+      [
+        35.8990985,
+        0.4648164
+      ],
+      [
+        35.8980685,
+        0.4642263
+      ],
+      [
+        35.896191,
+        0.463545
+      ],
+      [
+        35.8959442,
+        0.4640976
+      ],
+      [
+        35.8957243,
+        0.4648754
+      ],
+      [
+        35.8990502,
+        0.4650899
       ]
     ]
   }

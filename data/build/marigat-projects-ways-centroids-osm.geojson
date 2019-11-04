@@ -388,6 +388,40 @@
     {
       "geometry": {
         "coordinates": [
+          35.80931881876108, 
+          0.2720431952287751
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/733524528", 
+      "properties": {
+        "id": "733524528", 
+        "meta": {
+          "changeset": "75553076", 
+          "timestamp": "2019-10-11T09:25:20Z", 
+          "uid": "10269225", 
+          "user": "Ernet", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568367819721.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568367819721.jpg", 
+          "is_in:village": "Tuliongoi", 
+          "man_made": "borehole", 
+          "name": "Tuliongoi Borehole", 
+          "operational_status": "non_operational", 
+          "operator:funding": "County Government of Baringo", 
+          "operator:type": "cbo", 
+          "wb_pb:id": "111"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.9812278, 
           0.4738551
         ], 
@@ -411,6 +445,38 @@
           "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569997863738.jpg", 
           "name": "Youth Empowerment Centre Fence", 
           "wb_pb:id": "233"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.8990502, 
+          0.4650899
+        ], 
+        "type": "Point"
+      }, 
+      "id": "way/732580859", 
+      "properties": {
+        "id": "732580859", 
+        "meta": {
+          "changeset": "75408431", 
+          "timestamp": "2019-10-08T10:33:36Z", 
+          "uid": "10269225", 
+          "user": "Ernet", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "barrier": "fence", 
+          "fence_type": "wire", 
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568710669334.jpg", 
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568725442931.jpg", 
+          "is_in:village": "Kimalel", 
+          "name": "Kimalel Cultural Centre Fence", 
+          "wb_pb:id": "202"
         }, 
         "type": "way"
       }, 

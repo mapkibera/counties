@@ -2278,6 +2278,221 @@
       }
     },
     {
+      "type": "Feature",
+      "id": "node/6857038975",
+      "properties": {
+        "type": "node",
+        "id": "6857038975",
+        "tags": {
+          "amenity": "clinic",
+          "dispensing": "no",
+          "electricity": "none",
+          "health_facility:referrals": "Marigat Sub County Hospital",
+          "health_facility:type": "dispensary",
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570174081862.jpg",
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570174237667.jpg",
+          "is_in:village": "Maoi",
+          "medical_service:family_planning": "no",
+          "medical_service:general_medical_services": "no",
+          "medical_service:immunizations": "no",
+          "medical_service:malaria": "no",
+          "medical_service:pregnancy_test": "no",
+          "name": "Maoi Dispensary",
+          "wb_pb:id": "136"
+        },
+        "relations": [],
+        "meta": {
+          "timestamp": "2019-10-07T09:38:52Z",
+          "version": "1",
+          "changeset": "75366091",
+          "user": "fondolucy",
+          "uid": "265690"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9461,
+          0.39505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6860048900",
+      "properties": {
+        "type": "node",
+        "id": "6860048900",
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568712869671.jpg",
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568713075342.jpg",
+          "is_in:village": "Kimalel",
+          "man_made": "septic_tank",
+          "name": "Kimalel Cultural Centre Septic Tank",
+          "wb_pb:id": "206"
+        },
+        "relations": [],
+        "meta": {
+          "timestamp": "2019-10-08T10:33:36Z",
+          "version": "1",
+          "changeset": "75408431",
+          "user": "Ernet",
+          "uid": "10269225"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8959009,
+          0.4646896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6860048901",
+      "properties": {
+        "type": "node",
+        "id": "6860048901",
+        "tags": {
+          "amenity": "clinic",
+          "dispensing": "yes",
+          "electricity": "sometime",
+          "health_facility:referrals": "Kabarnet Referral Hospital",
+          "health_facility:type": "dispensary",
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568786021669.jpg",
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568822943938.jpg",
+          "is_in:village": "Sirwet",
+          "medical_service:family_planning": "yes",
+          "medical_service:general_medical_services": "yes",
+          "medical_service:immunizations": "yes",
+          "medical_service:malaria": "yes",
+          "medical_service:pregnancy_test": "yes",
+          "name": "Kapkures Dispensary",
+          "wb_pb:id": "135"
+        },
+        "relations": [],
+        "meta": {
+          "timestamp": "2019-10-08T10:33:36Z",
+          "version": "1",
+          "changeset": "75408431",
+          "user": "Ernet",
+          "uid": "10269225"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9832474,
+          0.4751274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6863434742",
+      "properties": {
+        "type": "node",
+        "id": "6863434742",
+        "tags": {
+          "amenity": "drinking_water",
+          "description": "water_tank",
+          "fee": "2",
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568108100971.jpg",
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568108100971-13_27_46.jpg",
+          "is_in:village": "Buiwon",
+          "name": "Buiwon Borehole",
+          "operational_status": "operational",
+          "operator:funding": "county_government",
+          "operator:type": "cbo",
+          "wb_pb:id": "113"
+        },
+        "relations": [],
+        "meta": {
+          "timestamp": "2019-10-09T12:27:40Z",
+          "version": "1",
+          "changeset": "75460143",
+          "user": "Ernet",
+          "uid": "10269225"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9066147,
+          0.363628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6863434743",
+      "properties": {
+        "type": "node",
+        "id": "6863434743",
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568116058927.jpg",
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568116058927-13_15_6.jpg",
+          "is_in:village": "Tebei",
+          "man_made": "borehole",
+          "name": "Tebei Borehole",
+          "operational_status": "non_operational",
+          "operator:funding": "county_government",
+          "operator:type": "cbo",
+          "wb_pb:id": "109"
+        },
+        "relations": [],
+        "meta": {
+          "timestamp": "2019-10-09T12:27:40Z",
+          "version": "1",
+          "changeset": "75460143",
+          "user": "Ernet",
+          "uid": "10269225"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8393105,
+          0.2734571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6863434744",
+      "properties": {
+        "type": "node",
+        "id": "6863434744",
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568113918684.jpg",
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568113918684-12_32_47.jpg",
+          "is_in:village": "Tinomoi",
+          "man_made": "borehole",
+          "name": "Tinomoi Borehole",
+          "operational_status": "non_operational",
+          "operator:funding": "county_government",
+          "operator:type": "cbo",
+          "wb_pb:id": "108"
+        },
+        "relations": [],
+        "meta": {
+          "timestamp": "2019-10-09T12:27:40Z",
+          "version": "1",
+          "changeset": "75460143",
+          "user": "Ernet",
+          "uid": "10269225"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.86637,
+          0.294292
+        ]
+      }
+    },
+    {
       "geometry": {
         "coordinates": [
           35.979898765962695,
@@ -2665,6 +2880,40 @@
     {
       "geometry": {
         "coordinates": [
+          35.80931881876108,
+          0.2720431952287751
+        ],
+        "type": "Point"
+      },
+      "id": "way/733524528",
+      "properties": {
+        "id": "733524528",
+        "meta": {
+          "changeset": "75553076",
+          "timestamp": "2019-10-11T09:25:20Z",
+          "uid": "10269225",
+          "user": "Ernet",
+          "version": "1"
+        },
+        "relations": [],
+        "tags": {
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568367819721.jpg",
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568367819721.jpg",
+          "is_in:village": "Tuliongoi",
+          "man_made": "borehole",
+          "name": "Tuliongoi Borehole",
+          "operational_status": "non_operational",
+          "operator:funding": "County Government of Baringo",
+          "operator:type": "cbo",
+          "wb_pb:id": "111"
+        },
+        "type": "way"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           35.9812278,
           0.4738551
         ],
@@ -2688,6 +2937,38 @@
           "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569997863738.jpg",
           "name": "Youth Empowerment Centre Fence",
           "wb_pb:id": "233"
+        },
+        "type": "way"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.8990502,
+          0.4650899
+        ],
+        "type": "Point"
+      },
+      "id": "way/732580859",
+      "properties": {
+        "id": "732580859",
+        "meta": {
+          "changeset": "75408431",
+          "timestamp": "2019-10-08T10:33:36Z",
+          "uid": "10269225",
+          "user": "Ernet",
+          "version": "1"
+        },
+        "relations": [],
+        "tags": {
+          "barrier": "fence",
+          "fence_type": "wire",
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568710669334.jpg",
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568725442931.jpg",
+          "is_in:village": "Kimalel",
+          "name": "Kimalel Cultural Centre Fence",
+          "wb_pb:id": "202"
         },
         "type": "way"
       },

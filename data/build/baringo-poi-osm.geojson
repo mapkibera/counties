@@ -3605,18 +3605,18 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-01-06T16:00:35Z",
-      "version": "3",
-      "changeset": "66073393",
-      "user": "Ido Marom",
-      "uid": "2778924"
+      "timestamp": "2019-10-24T17:09:12Z",
+      "version": "4",
+      "changeset": "76166994",
+      "user": "badenk",
+      "uid": "3072104"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      35.5414674,
-      0.0636947
+      35.5414611,
+      0.0637006
     ]
   }
 },
@@ -3750,6 +3750,32 @@
     "coordinates": [
       35.9668553,
       0.4476871
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1976998848",
+  "properties": {
+    "type": "node",
+    "id": "1976998848",
+    "tags": {
+      "railway": "level_crossing"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-21T11:09:01Z",
+      "version": "2",
+      "changeset": "75991099",
+      "user": "AWFCloin",
+      "uid": "5236234"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.5716617,
+      -0.0070598
     ]
   }
 },
@@ -10769,7 +10795,6 @@
       "amenity": "fuel",
       "brand": "Oilibya",
       "brand:wikidata": "Q7081491",
-      "brand:wikipedia": "en:Oilibya",
       "fuel:diesel": "yes",
       "project:eurosha_2012": "yes",
       "shop": "kiosk",
@@ -10778,11 +10803,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-08-07T04:09:52Z",
-      "version": "2",
-      "changeset": "73091167",
-      "user": "sommerluk",
-      "uid": "1700634"
+      "timestamp": "2019-10-31T23:24:35Z",
+      "version": "3",
+      "changeset": "76470631",
+      "user": "Burisma",
+      "uid": "10261343"
     }
   },
   "geometry": {
@@ -31037,18 +31062,18 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-06-21T13:21:27Z",
-      "version": "2",
-      "changeset": "71481612",
-      "user": "Sodermalm",
-      "uid": "9625494"
+      "timestamp": "2019-10-24T17:09:12Z",
+      "version": "3",
+      "changeset": "76166994",
+      "user": "badenk",
+      "uid": "3072104"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      35.5429776,
-      0.0653306
+      35.5429771,
+      0.065331
     ]
   }
 },
@@ -39267,38 +39292,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6788467269",
-  "properties": {
-    "type": "node",
-    "id": "6788467269",
-    "tags": {
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568113918684.jpg",
-      "is_in:village": "Tinomoi",
-      "man_made": "borehole",
-      "name": "Tinomoi Borehole",
-      "operational_status": "non_operational",
-      "operator:funding": "County Government of Baringo",
-      "operator:type": "cbo"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-09-11T13:48:41Z",
-      "version": "1",
-      "changeset": "74356423",
-      "user": "Gilbert Korir",
-      "uid": "10269208"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.86637,
-      0.294292
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6788467270",
   "properties": {
     "type": "node",
@@ -39398,40 +39391,6 @@
     "coordinates": [
       35.88573,
       0.333495
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6788467273",
-  "properties": {
-    "type": "node",
-    "id": "6788467273",
-    "tags": {
-      "amenity": "drinking_water",
-      "description": "water_tank",
-      "fee": "5",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568108100971.jpg",
-      "is_in:village": "Buiwon",
-      "name": "Buiwon Borehole",
-      "operational_status": "operational",
-      "operator:funding": "County Government of Baringo",
-      "operator:type": "cbo"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-09-11T13:48:41Z",
-      "version": "1",
-      "changeset": "74356423",
-      "user": "Gilbert Korir",
-      "uid": "10269208"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.90661,
-      0.363628
     ]
   }
 },
@@ -43513,19 +43472,17 @@
     "id": "6799533359",
     "tags": {
       "amenity": "place_of_worship",
-      "denomination": "Muslim",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568275471319.jpg",
-      "is_in:village": "Mogotio",
       "name": "Mogotio Jumia Mosque",
-      "religion": "islam"
+      "religion": "muslim"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-09-16T13:56:11Z",
-      "version": "1",
-      "changeset": "74534266",
-      "user": "Arap Kobilo",
-      "uid": "10269217"
+      "timestamp": "2019-10-23T20:56:02Z",
+      "version": "2",
+      "changeset": "76124191",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -44571,18 +44528,17 @@
       "amenity": "place_of_worship",
       "denomination": "shia",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568794544302.jpg",
-      "is_in:village": "Town B",
       "name": "Marigat Mosque",
-      "religion": "islam",
+      "religion": "muslim",
       "service_times": "05:30"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-09-19T07:47:18Z",
-      "version": "1",
-      "changeset": "74657592",
-      "user": "Arap Kobilo",
-      "uid": "10269217"
+      "timestamp": "2019-10-23T20:56:42Z",
+      "version": "2",
+      "changeset": "76124204",
+      "user": "Claudius Henrichs",
+      "uid": "18069"
     }
   },
   "geometry": {
@@ -46723,38 +46679,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6807606991",
-  "properties": {
-    "type": "node",
-    "id": "6807606991",
-    "tags": {
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568367819721.jpg",
-      "is_in:village": "Tuliongoi",
-      "man_made": "borehole",
-      "name": "Tuliongoi Borehole",
-      "operational_status": "non_operational",
-      "operator:funding": "County Government of Baringo",
-      "operator:type": "cbo"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-09-19T10:13:17Z",
-      "version": "1",
-      "changeset": "74663883",
-      "user": "Arap Kobilo",
-      "uid": "10269217"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.8092733,
-      0.27201
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6807606992",
   "properties": {
     "type": "node",
@@ -47074,38 +46998,6 @@
     "coordinates": [
       35.98828,
       0.472068
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6807623049",
-  "properties": {
-    "type": "node",
-    "id": "6807623049",
-    "tags": {
-      "amenity": "place_of_worship",
-      "denomination": "shia",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568794544302.jpg",
-      "is_in:village": "Town B",
-      "name": "Marigat Mosque",
-      "religion": "islam",
-      "service_times": "05:30"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-09-19T10:14:38Z",
-      "version": "1",
-      "changeset": "74664028",
-      "user": "Arap Kobilo",
-      "uid": "10269217"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.98784,
-      0.472005
     ]
   }
 },
@@ -48860,36 +48752,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6851133548",
-  "properties": {
-    "type": "node",
-    "id": "6851133548",
-    "tags": {
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570017839317.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570018010382.jpg",
-      "is_in:village": "Sagasagik",
-      "name": "Mogotio - Sagasagik Road",
-      "wb_pb:id": "52"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-10-05T04:40:17Z",
-      "version": "2",
-      "changeset": "75308508",
-      "user": "mikelmaron",
-      "uid": "999"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.88022,
-      0.131413
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6851133549",
   "properties": {
     "type": "node",
@@ -49001,6 +48863,548 @@
     "coordinates": [
       35.98518,
       0.47717
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6857038975",
+  "properties": {
+    "type": "node",
+    "id": "6857038975",
+    "tags": {
+      "amenity": "clinic",
+      "dispensing": "no",
+      "electricity": "none",
+      "health_facility:referrals": "Marigat Sub County Hospital",
+      "health_facility:type": "dispensary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570174081862.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570174237667.jpg",
+      "is_in:village": "Maoi",
+      "medical_service:family_planning": "no",
+      "medical_service:general_medical_services": "no",
+      "medical_service:immunizations": "no",
+      "medical_service:malaria": "no",
+      "medical_service:pregnancy_test": "no",
+      "name": "Maoi Dispensary",
+      "wb_pb:id": "136"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-07T09:38:52Z",
+      "version": "1",
+      "changeset": "75366091",
+      "user": "fondolucy",
+      "uid": "265690"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9461,
+      0.39505
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6860048896",
+  "properties": {
+    "type": "node",
+    "id": "6860048896",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "tertiary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568800445328.jpg",
+      "is_in:village": "Town C",
+      "name": "Kenya Forestry Research Institute",
+      "operator:description": "Government of Kenya",
+      "operator:type": "government"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-08T10:33:36Z",
+      "version": "1",
+      "changeset": "75408431",
+      "user": "Ernet",
+      "uid": "10269225"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.99485,
+      0.47134
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6860048897",
+  "properties": {
+    "type": "node",
+    "id": "6860048897",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "tertiary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568799548565.jpg",
+      "is_in:village": "Town C",
+      "name": "Kenya Agricultural and Livestock Research Organization",
+      "operator:description": "Government of Kenya",
+      "operator:type": "government"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-08T10:33:36Z",
+      "version": "1",
+      "changeset": "75408431",
+      "user": "Ernet",
+      "uid": "10269225"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9942566,
+      0.4690453
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6860048898",
+  "properties": {
+    "type": "node",
+    "id": "6860048898",
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "evangelical",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568798645572.jpg",
+      "is_in:village": "Town C",
+      "name": "Deliverance Church Marigat",
+      "religion": "christian",
+      "service_times": "09:00"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-08T10:33:36Z",
+      "version": "1",
+      "changeset": "75408431",
+      "user": "Ernet",
+      "uid": "10269225"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.99231,
+      0.472575
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6860048899",
+  "properties": {
+    "type": "node",
+    "id": "6860048899",
+    "tags": {
+      "is_in:village": "Town B",
+      "name": "Starlight Mini Shop",
+      "shop": "kiosk"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-08T10:33:36Z",
+      "version": "1",
+      "changeset": "75408431",
+      "user": "Ernet",
+      "uid": "10269225"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.99039,
+      0.474423
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6860048900",
+  "properties": {
+    "type": "node",
+    "id": "6860048900",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568712869671.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568713075342.jpg",
+      "is_in:village": "Kimalel",
+      "man_made": "septic_tank",
+      "name": "Kimalel Cultural Centre Septic Tank",
+      "wb_pb:id": "206"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-08T10:33:36Z",
+      "version": "1",
+      "changeset": "75408431",
+      "user": "Ernet",
+      "uid": "10269225"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.8959009,
+      0.4646896
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6860048901",
+  "properties": {
+    "type": "node",
+    "id": "6860048901",
+    "tags": {
+      "amenity": "clinic",
+      "dispensing": "yes",
+      "electricity": "sometime",
+      "health_facility:referrals": "Kabarnet Referral Hospital",
+      "health_facility:type": "dispensary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568786021669.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568822943938.jpg",
+      "is_in:village": "Sirwet",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
+      "name": "Kapkures Dispensary",
+      "wb_pb:id": "135"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-08T10:33:36Z",
+      "version": "1",
+      "changeset": "75408431",
+      "user": "Ernet",
+      "uid": "10269225"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9832474,
+      0.4751274
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6863434742",
+  "properties": {
+    "type": "node",
+    "id": "6863434742",
+    "tags": {
+      "amenity": "drinking_water",
+      "description": "water_tank",
+      "fee": "2",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568108100971.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568108100971-13_27_46.jpg",
+      "is_in:village": "Buiwon",
+      "name": "Buiwon Borehole",
+      "operational_status": "operational",
+      "operator:funding": "county_government",
+      "operator:type": "cbo",
+      "wb_pb:id": "113"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-09T12:27:40Z",
+      "version": "1",
+      "changeset": "75460143",
+      "user": "Ernet",
+      "uid": "10269225"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9066147,
+      0.363628
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6863434743",
+  "properties": {
+    "type": "node",
+    "id": "6863434743",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568116058927.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568116058927-13_15_6.jpg",
+      "is_in:village": "Tebei",
+      "man_made": "borehole",
+      "name": "Tebei Borehole",
+      "operational_status": "non_operational",
+      "operator:funding": "county_government",
+      "operator:type": "cbo",
+      "wb_pb:id": "109"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-09T12:27:40Z",
+      "version": "1",
+      "changeset": "75460143",
+      "user": "Ernet",
+      "uid": "10269225"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.8393105,
+      0.2734571
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6863434744",
+  "properties": {
+    "type": "node",
+    "id": "6863434744",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568113918684.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568113918684-12_32_47.jpg",
+      "is_in:village": "Tinomoi",
+      "man_made": "borehole",
+      "name": "Tinomoi Borehole",
+      "operational_status": "non_operational",
+      "operator:funding": "county_government",
+      "operator:type": "cbo",
+      "wb_pb:id": "108"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-09T12:27:40Z",
+      "version": "1",
+      "changeset": "75460143",
+      "user": "Ernet",
+      "uid": "10269225"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.86637,
+      0.294292
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6915929181",
+  "properties": {
+    "type": "node",
+    "id": "6915929181",
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Pems Lounge & Grill Salgaa,"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-25T14:10:45Z",
+      "version": "1",
+      "changeset": "76212583",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.8576655,
+      -0.2091045
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6916068188",
+  "properties": {
+    "type": "node",
+    "id": "6916068188",
+    "tags": {
+      "addr:street": "Nairobi Road",
+      "amenity": "fuel",
+      "name": "Doxa Oil"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-25T14:40:26Z",
+      "version": "1",
+      "changeset": "76214668",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.8545752,
+      -0.2090209
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6916068189",
+  "properties": {
+    "type": "node",
+    "id": "6916068189",
+    "tags": {
+      "addr:street": "Nairobi Road",
+      "amenity": "fuel",
+      "name": "Kobil Petrol"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-25T14:40:26Z",
+      "version": "1",
+      "changeset": "76214668",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.8550446,
+      -0.2092623
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6916068190",
+  "properties": {
+    "type": "node",
+    "id": "6916068190",
+    "tags": {
+      "addr:city": "Rongai",
+      "addr:street": "Nairobi Road",
+      "amenity": "restaurant",
+      "name": "Paleos Bar And Grill"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-25T14:40:26Z",
+      "version": "1",
+      "changeset": "76214668",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.8524241,
+      -0.2081706
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6916068191",
+  "properties": {
+    "type": "node",
+    "id": "6916068191",
+    "tags": {
+      "addr:city": "Rongai",
+      "addr:street": "Nairobi Road",
+      "amenity": "fuel",
+      "name": "Salgaa Petrol Station"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-25T14:40:26Z",
+      "version": "1",
+      "changeset": "76214668",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.851083,
+      -0.2072667
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6916068202",
+  "properties": {
+    "type": "node",
+    "id": "6916068202",
+    "tags": {
+      "addr:city": "Mau Summit",
+      "addr:street": "Nairobi Road",
+      "amenity": "fuel",
+      "name": "Total-Mau Summit"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-25T14:40:26Z",
+      "version": "1",
+      "changeset": "76214668",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.6939918,
+      -0.1587195
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6924642277",
+  "properties": {
+    "type": "node",
+    "id": "6924642277",
+    "tags": {
+      "addr:street": "Nakuru - Eldoret Road",
+      "amenity": "place_of_worship",
+      "name": "Timboroa Catholic Church",
+      "religion": "christian"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-10-28T13:29:15Z",
+      "version": "1",
+      "changeset": "76300127",
+      "user": "DingoKG",
+      "uid": "6318104"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.5440396,
+      0.0649428
     ]
   }
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-10-06T00:27:02Z"/>
+<meta osm_base="2019-11-04T01:38:02Z"/>
 
   <bounds minlat="0.2520000" minlon="35.7760000" maxlat="0.6160000" maxlon="36.0540000"/>
 
@@ -808,6 +808,83 @@
     <tag k="medical_service:pregnancy_test" v="no"/>
     <tag k="name" v="Marigat Sub County Hospital Septic Tank"/>
     <tag k="wb_pb:id" v="232"/>
+  </node>
+  <node id="6857038975" lat="0.3950500" lon="35.9461000" version="1" timestamp="2019-10-07T09:38:52Z" changeset="75366091" uid="265690" user="fondolucy">
+    <tag k="amenity" v="clinic"/>
+    <tag k="dispensing" v="no"/>
+    <tag k="electricity" v="none"/>
+    <tag k="health_facility:referrals" v="Marigat Sub County Hospital"/>
+    <tag k="health_facility:type" v="dispensary"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570174081862.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570174237667.jpg"/>
+    <tag k="is_in:village" v="Maoi"/>
+    <tag k="medical_service:family_planning" v="no"/>
+    <tag k="medical_service:general_medical_services" v="no"/>
+    <tag k="medical_service:immunizations" v="no"/>
+    <tag k="medical_service:malaria" v="no"/>
+    <tag k="medical_service:pregnancy_test" v="no"/>
+    <tag k="name" v="Maoi Dispensary"/>
+    <tag k="wb_pb:id" v="136"/>
+  </node>
+  <node id="6860048900" lat="0.4646896" lon="35.8959009" version="1" timestamp="2019-10-08T10:33:36Z" changeset="75408431" uid="10269225" user="Ernet">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568712869671.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568713075342.jpg"/>
+    <tag k="is_in:village" v="Kimalel"/>
+    <tag k="man_made" v="septic_tank"/>
+    <tag k="name" v="Kimalel Cultural Centre Septic Tank"/>
+    <tag k="wb_pb:id" v="206"/>
+  </node>
+  <node id="6860048901" lat="0.4751274" lon="35.9832474" version="1" timestamp="2019-10-08T10:33:36Z" changeset="75408431" uid="10269225" user="Ernet">
+    <tag k="amenity" v="clinic"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="electricity" v="sometime"/>
+    <tag k="health_facility:referrals" v="Kabarnet Referral Hospital"/>
+    <tag k="health_facility:type" v="dispensary"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568786021669.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568822943938.jpg"/>
+    <tag k="is_in:village" v="Sirwet"/>
+    <tag k="medical_service:family_planning" v="yes"/>
+    <tag k="medical_service:general_medical_services" v="yes"/>
+    <tag k="medical_service:immunizations" v="yes"/>
+    <tag k="medical_service:malaria" v="yes"/>
+    <tag k="medical_service:pregnancy_test" v="yes"/>
+    <tag k="name" v="Kapkures Dispensary"/>
+    <tag k="wb_pb:id" v="135"/>
+  </node>
+  <node id="6863434742" lat="0.3636280" lon="35.9066147" version="1" timestamp="2019-10-09T12:27:40Z" changeset="75460143" uid="10269225" user="Ernet">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="description" v="water_tank"/>
+    <tag k="fee" v="2"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568108100971.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568108100971-13_27_46.jpg"/>
+    <tag k="is_in:village" v="Buiwon"/>
+    <tag k="name" v="Buiwon Borehole"/>
+    <tag k="operational_status" v="operational"/>
+    <tag k="operator:funding" v="county_government"/>
+    <tag k="operator:type" v="cbo"/>
+    <tag k="wb_pb:id" v="113"/>
+  </node>
+  <node id="6863434743" lat="0.2734571" lon="35.8393105" version="1" timestamp="2019-10-09T12:27:40Z" changeset="75460143" uid="10269225" user="Ernet">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568116058927.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568116058927-13_15_6.jpg"/>
+    <tag k="is_in:village" v="Tebei"/>
+    <tag k="man_made" v="borehole"/>
+    <tag k="name" v="Tebei Borehole"/>
+    <tag k="operational_status" v="non_operational"/>
+    <tag k="operator:funding" v="county_government"/>
+    <tag k="operator:type" v="cbo"/>
+    <tag k="wb_pb:id" v="109"/>
+  </node>
+  <node id="6863434744" lat="0.2942920" lon="35.8663700" version="1" timestamp="2019-10-09T12:27:40Z" changeset="75460143" uid="10269225" user="Ernet">
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568113918684.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568113918684-12_32_47.jpg"/>
+    <tag k="is_in:village" v="Tinomoi"/>
+    <tag k="man_made" v="borehole"/>
+    <tag k="name" v="Tinomoi Borehole"/>
+    <tag k="operational_status" v="non_operational"/>
+    <tag k="operator:funding" v="county_government"/>
+    <tag k="operator:type" v="cbo"/>
+    <tag k="wb_pb:id" v="108"/>
   </node>
 
 </osm>
