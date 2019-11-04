@@ -37,6 +37,15 @@ counties = {
         'bbox': '35.6889,-0.0816,35.9805,0.2642'
       }
     }
+  },
+
+  'west_pokot': {
+    'bbox': '34.9640,1.16104,35.17823,1.42259',
+    'wards': {
+        'west_pokot_all': {
+          'bbox': '34.9640,1.16104,35.17823,1.42259'
+        }
+    }
   }
 }
 
@@ -64,22 +73,25 @@ def sync_projects():
   os.system("grep -i mogotio build/baringo-sept-projects.csv > build/mogotio-projects.csv")
   os.system("grep -i marigat build/baringo-sept-projects.csv > build/marigat-projects.csv")
 
+  #west pokot
+
+  url2file('https://docs.google.com/spreadsheets/d/e/2PACX-1vST8fNcolIi00ureHIsuhQxZiLX8rs4F-8Z90pjz-lKYE6c4nnCQ6V86qH8aCMS516e24FfUtA75jXx/pub?gid=1664997779&single=true&output=csv', 'build/west_pokot_all-projects.csv')
   logging.info("sync_projects complete")
 
 ##Get data from OSM
-#sync_osm(counties)
+sync_osm(counties)
 
 ##Get project data from Google Sheets
-#sync_projects()
+sync_projects()
 
 ##Transform OSM data into GeoJSON
-#convert_geojson(counties)
+convert_geojson(counties)
 
 ##Match Project Data to OSM
-#match_projects(counties)
+match_projects(counties)
 
 ##Merge Ward Level Matched Data into County Files
-#merge_geojson(counties)
+merge_geojson(counties)
 
 ##Store images locally, and produce modified XML for upload with new image locations
 cache_images(counties)
