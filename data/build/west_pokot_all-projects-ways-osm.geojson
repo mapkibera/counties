@@ -211,6 +211,84 @@
 },
 {
   "type": "Feature",
+  "id": "way/737853028",
+  "properties": {
+    "type": "way",
+    "id": "737853028",
+    "tags": {
+      "amenity": "water_or_irrigation",
+      "dam_type": "earth_dam",
+      "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571741952448.jpg",
+      "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571811559793.jpg",
+      "is_in_village": "Lokornoi",
+      "name": "Kariwo dam",
+      "operational_status": "operational",
+      "operator_funding": "national_government",
+      "wb_pb:id": "161"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-05T10:41:58Z",
+      "version": "2",
+      "changeset": "76639088",
+      "user": "shazomojah",
+      "uid": "4873427"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.0068992,
+          1.278999
+        ],
+        [
+          35.0072452,
+          1.2793825
+        ],
+        [
+          35.0071648,
+          1.2797311
+        ],
+        [
+          35.0070816,
+          1.279833
+        ],
+        [
+          35.0067544,
+          1.2798544
+        ],
+        [
+          35.0065693,
+          1.2797981
+        ],
+        [
+          35.0063065,
+          1.279605
+        ],
+        [
+          35.0064433,
+          1.279471
+        ],
+        [
+          35.0064138,
+          1.2792725
+        ],
+        [
+          35.006572,
+          1.2791492
+        ],
+        [
+          35.0068992,
+          1.278999
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/737862246",
   "properties": {
     "type": "way",
@@ -1398,6 +1476,78 @@
         [
           35.1016805,
           1.3356406
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/742185879",
+  "properties": {
+    "type": "way",
+    "id": "742185879",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571992858266.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571993235541.jpg",
+      "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571993259472.jpg",
+      "is_in:village": "Kishaunet",
+      "name": "Kishaunet Show Ground",
+      "tourism": "attraction",
+      "wb_pb:id": "250"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-05T13:18:01Z",
+      "version": "1",
+      "changeset": "76648572",
+      "user": "benard lokeris",
+      "uid": "10380856"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.0699311,
+          1.2861399
+        ],
+        [
+          35.0699955,
+          1.2855366
+        ],
+        [
+          35.0701725,
+          1.2846812
+        ],
+        [
+          35.0717148,
+          1.284834
+        ],
+        [
+          35.0715405,
+          1.2853301
+        ],
+        [
+          35.0717014,
+          1.2853945
+        ],
+        [
+          35.0717121,
+          1.2858691
+        ],
+        [
+          35.0715914,
+          1.2859227
+        ],
+        [
+          35.0715592,
+          1.2862955
+        ],
+        [
+          35.0699311,
+          1.2861399
         ]
       ]
     ]
@@ -7338,7 +7488,7 @@
       ],
       [
         35.1208556,
-        1.2392475
+        1.2392234
       ],
       [
         35.1208079,
@@ -11895,24 +12045,24 @@
     "type": "LineString",
     "coordinates": [
       [
-        35.1174921,
-        1.2417656
+        35.1174903,
+        1.2417668
       ],
       [
-        35.1175417,
-        1.2418165
+        35.1175421,
+        1.241814
       ],
       [
-        35.1176423,
-        1.2417146
+        35.1176163,
+        1.2417325
       ],
       [
-        35.117586,
-        1.2416704
+        35.1175644,
+        1.2416853
       ],
       [
-        35.1174921,
-        1.2417656
+        35.1174903,
+        1.2417668
       ]
     ]
   }
@@ -11934,11 +12084,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-28T11:25:52Z",
-      "version": "1",
-      "changeset": "76295280",
-      "user": "benard lokeris",
-      "uid": "10380856"
+      "timestamp": "2019-11-04T09:35:13Z",
+      "version": "2",
+      "changeset": "76579464",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
@@ -11949,12 +12099,24 @@
         1.2352118
       ],
       [
-        35.1208234,
-        1.2359304
+        35.1215489,
+        1.2353392
       ],
       [
-        35.1206839,
-        1.2375287
+        35.1213196,
+        1.2355201
+      ],
+      [
+        35.1208502,
+        1.2359036
+      ],
+      [
+        35.1207295,
+        1.2367161
+      ],
+      [
+        35.1206517,
+        1.2373946
       ],
       [
         35.1207268,
@@ -12015,15 +12177,15 @@
       "name": "Kapchepkai-Kodongou Road",
       "surface": "earth",
       "wb_pb:id": "223",
-      "width": "9"
+      "width": "9 metres"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-01T09:31:37Z",
-      "version": "1",
-      "changeset": "76484210",
-      "user": "shazomojah",
-      "uid": "4873427"
+      "timestamp": "2019-11-04T10:34:02Z",
+      "version": "2",
+      "changeset": "76583040",
+      "user": "benard lokeris",
+      "uid": "10380856"
     }
   },
   "geometry": {
@@ -13678,15 +13840,15 @@
       "name": "Superfoam-Daraja Road",
       "surface": "earth",
       "wb_pb:id": "307",
-      "width": "12"
+      "width": "12 metres"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-01T09:39:33Z",
-      "version": "1",
-      "changeset": "76484582",
-      "user": "SIWA Jnr",
-      "uid": "10380829"
+      "timestamp": "2019-11-04T11:38:25Z",
+      "version": "2",
+      "changeset": "76587155",
+      "user": "fondolucy",
+      "uid": "265690"
     }
   },
   "geometry": {
@@ -15883,6 +16045,106 @@
       [
         35.1200454,
         1.2257607
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/743230500",
+  "properties": {
+    "type": "way",
+    "id": "743230500",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734395171.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571736915992.jpg",
+      "is_in:village": "Mwotot",
+      "name": "West Pokot Investment and Cooperative Development Fence",
+      "wb_pb:id": "130"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-08T09:04:40Z",
+      "version": "1",
+      "changeset": "76796038",
+      "user": "shazomojah",
+      "uid": "4873427"
+    }
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        35.1175678,
+        1.2416109
+      ],
+      [
+        35.1177927,
+        1.241401
+      ],
+      [
+        35.118163,
+        1.2417977
+      ],
+      [
+        35.1179381,
+        1.2420076
+      ],
+      [
+        35.1175678,
+        1.2416109
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/743230501",
+  "properties": {
+    "type": "way",
+    "id": "743230501",
+    "tags": {
+      "barrier": "fence",
+      "fence_type": "chain_link",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731164574.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731499168.jpg",
+      "is_in:village": "Mwotot",
+      "name": "West Pokot County Tourism fence",
+      "wb_pb:id": "127"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-08T09:04:40Z",
+      "version": "1",
+      "changeset": "76796038",
+      "user": "shazomojah",
+      "uid": "4873427"
+    }
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        35.1176041,
+        1.2423609
+      ],
+      [
+        35.1179347,
+        1.2420048
+      ],
+      [
+        35.1175405,
+        1.2416389
+      ],
+      [
+        35.1172099,
+        1.241995
+      ],
+      [
+        35.1176041,
+        1.2423609
       ]
     ]
   }

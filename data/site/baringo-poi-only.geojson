@@ -720,6 +720,21 @@
     {
       "geometry": {
         "coordinates": [
+          35.6964729, 
+          -0.0245676
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2139440842", 
+      "properties": {
+        "osm:id": "2139440842", 
+        "railway": "level_crossing"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.6288472, 
           1.2752247
         ], 

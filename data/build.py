@@ -79,10 +79,10 @@ def sync_projects():
   logging.info("sync_projects complete")
 
 ##Get data from OSM
-sync_osm(counties)
+#sync_osm(counties)
 
 ##Get project data from Google Sheets
-sync_projects()
+#sync_projects()
 
 ##Transform OSM data into GeoJSON
 convert_geojson(counties)

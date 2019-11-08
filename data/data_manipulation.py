@@ -32,8 +32,10 @@ def convert_geojson(counties):
     for ward in counties[county]['wards']:
       os.system("osmtogeojson -e build/" + ward + "-projects-osm.xml > build/" + ward + "-projects-nodes-osm.geojson")
       os.system("osmtogeojson -e build/" + ward + "-projects-ways-osm.xml > build/" + ward + "-projects-ways-osm.geojson")
-      build_centroid("build/" + ward + "-projects-ways-osm.geojson", "build/" + ward + "-projects-ways-centroids-osm.geojson")
-      os.system("geojson-merge build/" + ward + "-projects-nodes-osm.geojson build/" + ward + "-projects-ways-centroids-osm.geojson > build/" + ward + "-projects-osm.geojson")
+      #build_centroid("build/" + ward + "-projects-ways-osm.geojson", "build/" + ward + "-projects-ways-centroids-osm.geojson")
+      ways_only("build/" + ward + "-projects-ways-osm.geojson", "build/" + ward + "-projects-ways-only-osm.geojson")
+      #os.system("geojson-merge build/" + ward + "-projects-nodes-osm.geojson build/" + ward + "-projects-ways-centroids-osm.geojson > build/" + ward + "-projects-osm.geojson")
+      os.system("geojson-merge build/" + ward + "-projects-nodes-osm.geojson build/" + ward + "-projects-ways-only-osm.geojson > build/" + ward + "-projects-osm.geojson")
 
   logging.info("convert_geojson complete")
 
@@ -56,6 +58,20 @@ def build_centroid(infile, outfile):
         result['features'].append( { "type": "Feature", "id": feature["id"], "properties": feature.properties, "geometry": centroid(feature.geometry) })
     if feature['geometry']['type'] == "LineString":
         result['features'].append( { "type": "Feature", "id": feature["id"], "properties": feature.properties, "geometry": midpoint(feature.geometry) })
+
+  dump = geojson.dumps(result, sort_keys=True, indent=2)
+  writefile(outfile,dump)
+
+def ways_only(infile, outfile):
+  result = {}
+  result['type'] = 'FeatureCollection'
+  result['features'] = []
+
+  g = geojson.loads(readfile(infile))
+
+  for feature in g.features:
+    if feature['geometry']['type'] != "Point":
+        result['features'].append( feature )
 
   dump = geojson.dumps(result, sort_keys=True, indent=2)
   writefile(outfile,dump)
@@ -93,6 +109,7 @@ def match_projects_ward(ward):
        project_name = row['Project_Name']
 
     for feature in osm.features:
+       print "WARN: " + feature.properties['id']
        if feature.properties['tags']['wb_pb:id'] == id and found_match == False:
          found_match = True
 

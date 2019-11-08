@@ -3806,15 +3806,16 @@
       "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571748134699.jpg",
       "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571811405561.jpg",
       "is_in_village": "Cheptuya",
-      "name": "Cheptuya mixed secondary school water tank"
+      "name": "Cheptuya mixed secondary school water tank",
+      "wb_pb:id": "164"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-23T11:32:20Z",
-      "version": "1",
-      "changeset": "76098990",
-      "user": "Wafula_Wafula",
-      "uid": "10381136"
+      "timestamp": "2019-11-05T10:54:22Z",
+      "version": "2",
+      "changeset": "76639909",
+      "user": "shazomojah",
+      "uid": "4873427"
     }
   },
   "geometry": {
@@ -3839,15 +3840,16 @@
       "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747713230.jpg",
       "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747976679.jpg",
       "is_in_village": "Cheptuya",
-      "name": "Cheptuya Mixed Secondary Dairy Cows project"
+      "name": "Cheptuya Mixed Secondary Dairy Cows project",
+      "wb_pb:id": "163"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-23T11:32:20Z",
-      "version": "1",
-      "changeset": "76098990",
-      "user": "Wafula_Wafula",
-      "uid": "10381136"
+      "timestamp": "2019-11-05T10:54:22Z",
+      "version": "2",
+      "changeset": "76639909",
+      "user": "shazomojah",
+      "uid": "4873427"
     }
   },
   "geometry": {
@@ -3872,16 +3874,17 @@
       "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747102468.jpg",
       "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747254094.jpg",
       "is_in_village": "Cheptuya",
-      "name": "Cheptuya Mixed Secondary School",
-      "operator_type": "government"
+      "name": "Cheptuya Mixed Secondary School-Borehole",
+      "operator_type": "government",
+      "wb_pb:id": "162"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-23T11:32:20Z",
-      "version": "1",
-      "changeset": "76098990",
-      "user": "Wafula_Wafula",
-      "uid": "10381136"
+      "timestamp": "2019-11-05T10:51:05Z",
+      "version": "2",
+      "changeset": "76639671",
+      "user": "shazomojah",
+      "uid": "4873427"
     }
   },
   "geometry": {
@@ -4069,15 +4072,16 @@
       "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571735843966.jpg",
       "is_in_village": "Mortome",
       "name": "Mortome primary school",
-      "operator_type": "government"
+      "operator_type": "government",
+      "wb_pb:id": "160"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-23T11:32:20Z",
-      "version": "1",
-      "changeset": "76098990",
-      "user": "Wafula_Wafula",
-      "uid": "10381136"
+      "timestamp": "2019-11-05T10:38:39Z",
+      "version": "2",
+      "changeset": "76638877",
+      "user": "shazomojah",
+      "uid": "4873427"
     }
   },
   "geometry": {
@@ -6180,15 +6184,16 @@
     "tags": {
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571739988737.jpg",
       "is_in:village": "Mwotot",
-      "name": "Kenya Red Cross kapenguria office"
+      "name": "Kenya Red Cross kapenguria office",
+      "office": "ngo"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-23T12:38:03Z",
-      "version": "1",
-      "changeset": "76102015",
-      "user": "Hillarious",
-      "uid": "10380888"
+      "timestamp": "2019-11-08T09:04:40Z",
+      "version": "2",
+      "changeset": "76796038",
+      "user": "shazomojah",
+      "uid": "4873427"
     }
   },
   "geometry": {
@@ -6359,38 +6364,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6909005392",
-  "properties": {
-    "type": "node",
-    "id": "6909005392",
-    "tags": {
-      "barrier": "fence",
-      "fence_type": "chain_link",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734395171.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571736915992.jpg",
-      "is_in:village": "Mwotot",
-      "name": "West Pokot Investment and Cooperative Development Fence",
-      "wb_pb:id": "130"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-10-23T12:38:03Z",
-      "version": "1",
-      "changeset": "76102015",
-      "user": "Hillarious",
-      "uid": "10380888"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.11788,
-      1.2415583
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6909005393",
   "properties": {
     "type": "node",
@@ -6406,18 +6379,18 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-23T12:38:03Z",
-      "version": "1",
-      "changeset": "76102015",
-      "user": "Hillarious",
-      "uid": "10380888"
+      "timestamp": "2019-11-08T09:04:40Z",
+      "version": "2",
+      "changeset": "76796038",
+      "user": "shazomojah",
+      "uid": "4873427"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      35.1178117,
-      1.241555
+      35.1178171,
+      1.2416301
     ]
   }
 },
@@ -6455,45 +6428,19 @@
 },
 {
   "type": "Feature",
-  "id": "node/6909005395",
-  "properties": {
-    "type": "node",
-    "id": "6909005395",
-    "tags": {
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731164574.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731499168.jpg",
-      "is_in:village": "Mwotot",
-      "name": "West Pokot County Tourism fence",
-      "wb_pb:id": "127"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-10-23T12:38:03Z",
-      "version": "1",
-      "changeset": "76102015",
-      "user": "Hillarious",
-      "uid": "10380888"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.1174917,
-      1.2421733
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6909005396",
   "properties": {
     "type": "node",
     "id": "6909005396",
     "tags": {
+      "access": "yes",
+      "amenity": "toilets",
+      "female": "yes",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571730593947.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571730870332.jpg",
       "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571730889049.jpg",
       "is_in:village": "Mwotot",
+      "male": "yes",
       "name": "West Pokot County Tourism Office pit latrine",
       "opening_hours": "Mo-Fr 6:00-18:00",
       "toilets:num_chambers": "3",
@@ -6501,11 +6448,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-23T12:38:03Z",
-      "version": "1",
-      "changeset": "76102015",
-      "user": "Hillarious",
-      "uid": "10380888"
+      "timestamp": "2019-11-08T09:04:40Z",
+      "version": "2",
+      "changeset": "76796038",
+      "user": "shazomojah",
+      "uid": "4873427"
     }
   },
   "geometry": {
@@ -6525,7 +6472,7 @@
     "tags": {
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571729257262.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571729847824.jpg",
-      "image_project_inside": "1571730011731.jpg",
+      "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571730011731.jpg",
       "is_in:village": "Mwotot",
       "name": "West Pokot County Tourism Office",
       "office": "government",
@@ -6533,11 +6480,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-23T12:38:03Z",
-      "version": "1",
-      "changeset": "76102015",
-      "user": "Hillarious",
-      "uid": "10380888"
+      "timestamp": "2019-11-08T09:04:40Z",
+      "version": "2",
+      "changeset": "76796038",
+      "user": "shazomojah",
+      "uid": "4873427"
     }
   },
   "geometry": {
@@ -10626,15 +10573,15 @@
       "is_in:village": "Mwotot",
       "name": "West Pokot County Commissioners Office",
       "office": "government",
-      "wb_pb:id": "29"
+      "wb_pb:id": "22"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-28T11:25:52Z",
-      "version": "1",
-      "changeset": "76295280",
-      "user": "benard lokeris",
-      "uid": "10380856"
+      "timestamp": "2019-11-04T09:35:13Z",
+      "version": "2",
+      "changeset": "76579464",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {
@@ -10686,17 +10633,17 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571903746726.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571903979718.jpg",
       "is_in:village": "Mwotot",
-      "name": "West Pokot County Renovation of Residential Block B",
+      "name": "West Pokot County Renovation of Residential Block A",
       "office": "government",
       "wb_pb:id": "40"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-28T11:25:52Z",
-      "version": "1",
-      "changeset": "76295280",
-      "user": "benard lokeris",
-      "uid": "10380856"
+      "timestamp": "2019-11-08T09:04:40Z",
+      "version": "2",
+      "changeset": "76796038",
+      "user": "shazomojah",
+      "uid": "4873427"
     }
   },
   "geometry": {
@@ -10944,15 +10891,15 @@
     "tags": {
       "is_in:village": "Bendera",
       "name": "Classic Furniture Store",
-      "shop": "furniture_store"
+      "shop": "furniture"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-28T11:16:32Z",
-      "version": "1",
-      "changeset": "76294907",
-      "user": "Hillarious",
-      "uid": "10380888"
+      "timestamp": "2019-11-04T11:26:06Z",
+      "version": "2",
+      "changeset": "76586373",
+      "user": "benard lokeris",
+      "uid": "10380856"
     }
   },
   "geometry": {
@@ -12695,13 +12642,13 @@
     "tags": {
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571987325058.jpg",
       "name": "Maflo Furniture",
-      "shop": "furniture_store"
+      "shop": "furniture"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-28T13:27:43Z",
-      "version": "1",
-      "changeset": "76300067",
+      "timestamp": "2019-11-04T11:24:26Z",
+      "version": "2",
+      "changeset": "76586253",
       "user": "benard lokeris",
       "uid": "10380856"
     }
@@ -14106,15 +14053,16 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572429783696.jpg",
       "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572429893588.jpg",
       "is_in:village": "Makutano",
-      "name": "Kapenguria Town Toilet Project"
+      "name": "Kapenguria Town Toilet Project",
+      "wb_pb:id": "167"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-31T07:44:39Z",
-      "version": "1",
-      "changeset": "76432880",
-      "user": "Hillarious",
-      "uid": "10380888"
+      "timestamp": "2019-11-05T12:28:11Z",
+      "version": "3",
+      "changeset": "76645503",
+      "user": "shazomojah",
+      "uid": "4873427"
     }
   },
   "geometry": {
@@ -16775,17 +16723,17 @@
       "amenity": "shelter",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427965325.jpg",
       "is_in:village": "Makutano.",
-      "name": "Kacheliba Bodaboda Shade.",
+      "name": "Kacheliba Bodaboda Shed",
       "shelter_type": "boda",
       "wb_pb:id": "156"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-31T08:08:01Z",
-      "version": "1",
-      "changeset": "76434005",
-      "user": "CHENAA",
-      "uid": "10380936"
+      "timestamp": "2019-11-05T12:23:40Z",
+      "version": "2",
+      "changeset": "76645246",
+      "user": "shazomojah",
+      "uid": "4873427"
     }
   },
   "geometry": {
@@ -18241,39 +18189,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6936808410",
-  "properties": {
-    "type": "node",
-    "id": "6936808410",
-    "tags": {
-      "highway": "unclassified",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357162313.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357446912.jpg",
-      "maintenance": "county_governm",
-      "name": "Tingwo-Kormonot-Kopoch",
-      "surface": "earth",
-      "wb_pb:id": "0",
-      "width": "12_m"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-11-02T10:58:54Z",
-      "version": "2",
-      "changeset": "76524824",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.1187833,
-      1.3572483
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6936808411",
   "properties": {
     "type": "node",
@@ -18302,39 +18217,6 @@
     "coordinates": [
       35.1110933,
       1.29693
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6936808412",
-  "properties": {
-    "type": "node",
-    "id": "6936808412",
-    "tags": {
-      "highway": "residential",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357062734.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357188239.jpg",
-      "maintenance": "county_governm",
-      "name": "Superfoam-Daraja Road",
-      "surface": "earth",
-      "wb_pb:id": "307",
-      "width": "12_m"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-11-02T10:58:54Z",
-      "version": "2",
-      "changeset": "76524824",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.0914367,
-      1.25072
     ]
   }
 },
@@ -18632,72 +18514,6 @@
     "coordinates": [
       35.07693,
       1.2128633
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6936808422",
-  "properties": {
-    "type": "node",
-    "id": "6936808422",
-    "tags": {
-      "highway": "unclassified",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353381900.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353598574.jpg",
-      "maintenance": "county_governm",
-      "name": "Lutheran Shalom School road.",
-      "surface": "earth",
-      "wb_pb:id": "273",
-      "width": "12_m"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-11-02T10:58:54Z",
-      "version": "2",
-      "changeset": "76524824",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.0873217,
-      1.2527
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6936808424",
-  "properties": {
-    "type": "node",
-    "id": "6936808424",
-    "tags": {
-      "highway": "unclassified",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350608493.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350894401.jpg",
-      "maintenance": "county_governm",
-      "name": "Makutano Primary Paul Kide Residence Road.",
-      "surface": "dirt",
-      "wb_pb:id": "279",
-      "width": "12_m"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-11-02T10:58:54Z",
-      "version": "2",
-      "changeset": "76524824",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.0840867,
-      1.252305
     ]
   }
 },
@@ -19033,39 +18849,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6936808435",
-  "properties": {
-    "type": "node",
-    "id": "6936808435",
-    "tags": {
-      "highway": "unclassified",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347619518.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347715270.jpg",
-      "maintenance": "kerra",
-      "name": "Kapchepkai - Kodongou Road",
-      "surface": "earth",
-      "wb_pb:id": "223",
-      "width": "9_m"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-11-02T10:58:54Z",
-      "version": "2",
-      "changeset": "76524824",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.050875,
-      1.293855
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6936808436",
   "properties": {
     "type": "node",
@@ -19229,39 +19012,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6936808441",
-  "properties": {
-    "type": "node",
-    "id": "6936808441",
-    "tags": {
-      "highway": "tertiary",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572335163086.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572335425826.jpg",
-      "maintenance": "county_governm",
-      "name": "Kapenguria- kakrut road",
-      "surface": "dirt",
-      "wb_pb:id": "70",
-      "width": "9_m"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-11-02T10:58:54Z",
-      "version": "2",
-      "changeset": "76524824",
-      "user": "mueschel",
-      "uid": "616774"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.114685,
-      1.2525017
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6936842850",
   "properties": {
     "type": "node",
@@ -19285,6 +19035,248 @@
     "coordinates": [
       35.1057917,
       1.2599791
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6948364836",
+  "properties": {
+    "type": "node",
+    "id": "6948364836",
+    "tags": {
+      "amenity": "clinic",
+      "health_facility:type": "dispensary",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571999835930.jpg",
+      "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571999874856.jpg",
+      "is_in:village": "Kishaunet",
+      "name": "Kishaunet Dispensary",
+      "wb_pb:id": "248"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-05T13:18:01Z",
+      "version": "1",
+      "changeset": "76648572",
+      "user": "benard lokeris",
+      "uid": "10380856"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.0816467,
+      1.2788167
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6948364837",
+  "properties": {
+    "type": "node",
+    "id": "6948364837",
+    "tags": {
+      "amenity": "clinic",
+      "dispensing": "yes",
+      "electricity": "always",
+      "health_facility:referrals": "Kapenguria Referral Hospital",
+      "health_facility:type": "dispensary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571999130069.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571999400843.jpg",
+      "is_in:village": "Kishaunet",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunizations": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
+      "name": "Kishaunet Dispensary",
+      "wb_pb:id": "247"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-05T13:18:01Z",
+      "version": "1",
+      "changeset": "76648572",
+      "user": "benard lokeris",
+      "uid": "10380856"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.08168,
+      1.2787817
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6948364838",
+  "properties": {
+    "type": "node",
+    "id": "6948364838",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571998549643.jpg",
+      "is_in:village": "Kishaunet",
+      "man_made": "storage_tank",
+      "name": "Kishaunet Dispensary Storage Tank",
+      "operational_status": "non_operational",
+      "operator:funding": "national_government"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-05T13:18:01Z",
+      "version": "1",
+      "changeset": "76648572",
+      "user": "benard lokeris",
+      "uid": "10380856"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.08161,
+      1.278645
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6948364839",
+  "properties": {
+    "type": "node",
+    "id": "6948364839",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571997862317.jpg",
+      "is_in:village": "Kishaunet",
+      "man_made": "borehole",
+      "name": "Kishaunet Borehole",
+      "operational_status": "operational"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-05T13:18:01Z",
+      "version": "1",
+      "changeset": "76648572",
+      "user": "benard lokeris",
+      "uid": "10380856"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.0805217,
+      1.2793483
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6948364840",
+  "properties": {
+    "type": "node",
+    "id": "6948364840",
+    "tags": {
+      "amenity": "toilets",
+      "charge": "0",
+      "fee": "yes",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571995174936.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571995392418.jpg",
+      "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571995418653.jpg",
+      "is_in:village": "Kishaunet",
+      "name": "Kishaunet Public Toilet",
+      "opening_hours": "24/7",
+      "operator:description": "County government",
+      "toilets:disposal": "pit_latrine",
+      "toilets:handwashing": "no",
+      "toilets:num_chambers": "2",
+      "wb_pb:id": "166"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-05T13:18:01Z",
+      "version": "1",
+      "changeset": "76648572",
+      "user": "benard lokeris",
+      "uid": "10380856"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.08058,
+      1.280635
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6948364841",
+  "properties": {
+    "type": "node",
+    "id": "6948364841",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "secondary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571992037350.jpg",
+      "is_in:village": "Kamito",
+      "name": "St Albert Kamito Boys Secondary School",
+      "operator:description": "Catholic",
+      "operator:type": "government"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-05T13:18:01Z",
+      "version": "1",
+      "changeset": "76648572",
+      "user": "benard lokeris",
+      "uid": "10380856"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.0626683,
+      1.2881083
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6948364842",
+  "properties": {
+    "type": "node",
+    "id": "6948364842",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571989861048.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571990635421.jpg",
+      "is_in:village": "Kodongou",
+      "name": "Kodongou Primary School",
+      "operator:description": "ELCK",
+      "operator:type": "government",
+      "wb_pb:id": "253"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-05T13:18:01Z",
+      "version": "1",
+      "changeset": "76648572",
+      "user": "benard lokeris",
+      "uid": "10380856"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.048385,
+      1.2931433
     ]
   }
 }

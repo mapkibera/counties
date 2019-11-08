@@ -11184,6 +11184,32 @@
 },
 {
   "type": "Feature",
+  "id": "node/2139440842",
+  "properties": {
+    "type": "node",
+    "id": "2139440842",
+    "tags": {
+      "railway": "level_crossing"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-06T14:38:20Z",
+      "version": "2",
+      "changeset": "76707593",
+      "user": "AWFCloin",
+      "uid": "5236234"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.6964729,
+      -0.0245676
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2139441559",
   "properties": {
     "type": "node",

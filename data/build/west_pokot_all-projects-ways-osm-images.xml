@@ -1,6 +1,6 @@
-<osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
+<osm generator="Overpass API 0.7.55.1009 5e627b63" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-04T01:38:02Z" />
+<meta osm_base="2019-11-08T20:13:02Z" />
 
   <bounds maxlat="1.4225900" maxlon="35.1782300" minlat="1.1610400" minlon="34.9640000" />
 
@@ -1243,7 +1243,7 @@
   <node changeset="71022976" id="6532018494" lat="1.2629955" lon="35.1289719" timestamp="2019-06-07T13:00:13Z" uid="9625524" user="ShockoeBottom" version="1" />
   <node changeset="71022976" id="6532018495" lat="1.2631551" lon="35.1291369" timestamp="2019-06-07T13:00:13Z" uid="9625524" user="ShockoeBottom" version="1" />
   <node changeset="71022976" id="6532018496" lat="1.2630679" lon="35.1290631" timestamp="2019-06-07T13:00:13Z" uid="9625524" user="ShockoeBottom" version="1" />
-  <node changeset="76489296" id="6532107090" lat="1.2392475" lon="35.1208556" timestamp="2019-11-01T11:12:50Z" uid="10380856" user="benard lokeris" version="2" />
+  <node changeset="76579464" id="6532107090" lat="1.2392234" lon="35.1208556" timestamp="2019-11-04T09:35:13Z" uid="261050" user="muindre" version="3" />
   <node changeset="76489296" id="6532107114" lat="1.2392569" lon="35.1208079" timestamp="2019-11-01T11:12:50Z" uid="10380856" user="benard lokeris" version="2" />
   <node changeset="76489296" id="6532107115" lat="1.2392864" lon="35.1207657" timestamp="2019-11-01T11:12:50Z" uid="10380856" user="benard lokeris" version="2" />
   <node changeset="76489296" id="6532107116" lat="1.2393300" lon="35.1206919" timestamp="2019-11-01T11:12:50Z" uid="10380856" user="benard lokeris" version="2" />
@@ -2407,6 +2407,16 @@
   <node changeset="76098277" id="6908733051" lat="1.4156908" lon="35.1267042" timestamp="2019-10-23T11:19:44Z" uid="10380766" user="Isaac Lonika" version="1" />
   <node changeset="76098277" id="6908733052" lat="1.4156742" lon="35.1266015" timestamp="2019-10-23T11:19:44Z" uid="10380766" user="Isaac Lonika" version="1" />
   <node changeset="76098277" id="6908733053" lat="1.4160434" lon="35.1265417" timestamp="2019-10-23T11:19:44Z" uid="10380766" user="Isaac Lonika" version="1" />
+  <node changeset="76098990" id="6908782520" lat="1.2793825" lon="35.0072452" timestamp="2019-10-23T11:32:20Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76098990" id="6908782521" lat="1.2797311" lon="35.0071648" timestamp="2019-10-23T11:32:20Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76098990" id="6908782522" lat="1.2798330" lon="35.0070816" timestamp="2019-10-23T11:32:20Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76098990" id="6908782523" lat="1.2798544" lon="35.0067544" timestamp="2019-10-23T11:32:20Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76098990" id="6908782524" lat="1.2797981" lon="35.0065693" timestamp="2019-10-23T11:32:20Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76098990" id="6908782525" lat="1.2796050" lon="35.0063065" timestamp="2019-10-23T11:32:20Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76098990" id="6908782526" lat="1.2794710" lon="35.0064433" timestamp="2019-10-23T11:32:20Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76098990" id="6908782527" lat="1.2792725" lon="35.0064138" timestamp="2019-10-23T11:32:20Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76098990" id="6908782528" lat="1.2791492" lon="35.0065720" timestamp="2019-10-23T11:32:20Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76098990" id="6908782529" lat="1.2789990" lon="35.0068992" timestamp="2019-10-23T11:32:20Z" uid="10381136" user="Wafula_Wafula" version="1" />
   <node changeset="76100501" id="6908909007" lat="1.1968224" lon="35.0952418" timestamp="2019-10-23T12:10:47Z" uid="10380829" user="SIWA Jnr" version="1" />
   <node changeset="76100501" id="6908909008" lat="1.1967666" lon="35.0953234" timestamp="2019-10-23T12:10:47Z" uid="10380829" user="SIWA Jnr" version="1" />
   <node changeset="76100501" id="6908909009" lat="1.1967081" lon="35.0952834" timestamp="2019-10-23T12:10:47Z" uid="10380829" user="SIWA Jnr" version="1" />
@@ -2446,10 +2456,10 @@
   <node changeset="76102015" id="6909005270" lat="1.2461902" lon="35.1136565" timestamp="2019-10-23T12:38:03Z" uid="10380888" user="Hillarious" version="1" />
   <node changeset="76102015" id="6909005271" lat="1.2465522" lon="35.1135010" timestamp="2019-10-23T12:38:03Z" uid="10380888" user="Hillarious" version="1" />
   <node changeset="76102015" id="6909005272" lat="1.2462974" lon="35.1129618" timestamp="2019-10-23T12:38:03Z" uid="10380888" user="Hillarious" version="1" />
-  <node changeset="76102015" id="6909005273" lat="1.2416704" lon="35.1175860" timestamp="2019-10-23T12:38:03Z" uid="10380888" user="Hillarious" version="1" />
-  <node changeset="76102015" id="6909005274" lat="1.2417146" lon="35.1176423" timestamp="2019-10-23T12:38:03Z" uid="10380888" user="Hillarious" version="1" />
-  <node changeset="76102015" id="6909005275" lat="1.2418165" lon="35.1175417" timestamp="2019-10-23T12:38:03Z" uid="10380888" user="Hillarious" version="1" />
-  <node changeset="76102015" id="6909005276" lat="1.2417656" lon="35.1174921" timestamp="2019-10-23T12:38:03Z" uid="10380888" user="Hillarious" version="1" />
+  <node changeset="76796038" id="6909005273" lat="1.2416853" lon="35.1175644" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="2" />
+  <node changeset="76796038" id="6909005274" lat="1.2417325" lon="35.1176163" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="2" />
+  <node changeset="76796038" id="6909005275" lat="1.2418140" lon="35.1175421" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="2" />
+  <node changeset="76796038" id="6909005276" lat="1.2417668" lon="35.1174903" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="2" />
   <node changeset="76289728" id="6924165730" lat="1.2403765" lon="35.0493217" timestamp="2019-10-28T09:16:24Z" uid="10380829" user="SIWA Jnr" version="1" />
   <node changeset="76289728" id="6924165731" lat="1.2404080" lon="35.0494122" timestamp="2019-10-28T09:16:24Z" uid="10380829" user="SIWA Jnr" version="1" />
   <node changeset="76289728" id="6924165732" lat="1.2404026" lon="35.0495987" timestamp="2019-10-28T09:16:24Z" uid="10380829" user="SIWA Jnr" version="1" />
@@ -2543,8 +2553,8 @@
   <node changeset="76295494" id="6924410783" lat="1.2542349" lon="35.0914049" timestamp="2019-10-28T11:31:03Z" uid="10380936" user="CHENAA" version="1" />
   <node changeset="76295494" id="6924410784" lat="1.2529853" lon="35.0905412" timestamp="2019-10-28T11:31:03Z" uid="10380936" user="CHENAA" version="1" />
   <node changeset="76295280" id="6924413627" lat="1.2377754" lon="35.1207268" timestamp="2019-10-28T11:25:52Z" uid="10380856" user="benard lokeris" version="1" />
-  <node changeset="76295280" id="6924413628" lat="1.2375287" lon="35.1206839" timestamp="2019-10-28T11:25:52Z" uid="10380856" user="benard lokeris" version="1" />
-  <node changeset="76295280" id="6924413629" lat="1.2359304" lon="35.1208234" timestamp="2019-10-28T11:25:52Z" uid="10380856" user="benard lokeris" version="1" />
+  <node changeset="76579464" id="6924413628" lat="1.2373946" lon="35.1206517" timestamp="2019-11-04T09:35:13Z" uid="261050" user="muindre" version="2" />
+  <node changeset="76579464" id="6924413629" lat="1.2359036" lon="35.1208502" timestamp="2019-11-04T09:35:13Z" uid="261050" user="muindre" version="2" />
   <node changeset="76295280" id="6924413630" lat="1.2352118" lon="35.1217997" timestamp="2019-10-28T11:25:52Z" uid="10380856" user="benard lokeris" version="1" />
   <node changeset="76295280" id="6924413631" lat="1.2423716" lon="35.1165265" timestamp="2019-10-28T11:25:52Z" uid="10380856" user="benard lokeris" version="1" />
   <node changeset="76295280" id="6924413632" lat="1.2421892" lon="35.1157057" timestamp="2019-10-28T11:25:52Z" uid="10380856" user="benard lokeris" version="1" />
@@ -3348,6 +3358,26 @@
   <node changeset="76489296" id="6936974861" lat="1.2389472" lon="35.1208006" timestamp="2019-11-01T11:12:50Z" uid="10380856" user="benard lokeris" version="1" />
   <node changeset="76489296" id="6936974862" lat="1.2390840" lon="35.1208408" timestamp="2019-11-01T11:12:50Z" uid="10380856" user="benard lokeris" version="1" />
   <node changeset="76489296" id="6936974863" lat="1.2427972" lon="35.1164912" timestamp="2019-11-01T11:12:50Z" uid="10380856" user="benard lokeris" version="1" />
+  <node changeset="76579464" id="6944638621" lat="1.2367161" lon="35.1207295" timestamp="2019-11-04T09:35:13Z" uid="261050" user="muindre" version="1" />
+  <node changeset="76579464" id="6944638622" lat="1.2355201" lon="35.1213196" timestamp="2019-11-04T09:35:13Z" uid="261050" user="muindre" version="1" />
+  <node changeset="76579464" id="6944638623" lat="1.2353392" lon="35.1215489" timestamp="2019-11-04T09:35:13Z" uid="261050" user="muindre" version="1" />
+  <node changeset="76648572" id="6948364827" lat="1.2855366" lon="35.0699955" timestamp="2019-11-05T13:18:01Z" uid="10380856" user="benard lokeris" version="1" />
+  <node changeset="76648572" id="6948364828" lat="1.2846812" lon="35.0701725" timestamp="2019-11-05T13:18:01Z" uid="10380856" user="benard lokeris" version="1" />
+  <node changeset="76648572" id="6948364829" lat="1.2848340" lon="35.0717148" timestamp="2019-11-05T13:18:01Z" uid="10380856" user="benard lokeris" version="1" />
+  <node changeset="76648572" id="6948364830" lat="1.2853301" lon="35.0715405" timestamp="2019-11-05T13:18:01Z" uid="10380856" user="benard lokeris" version="1" />
+  <node changeset="76648572" id="6948364831" lat="1.2853945" lon="35.0717014" timestamp="2019-11-05T13:18:01Z" uid="10380856" user="benard lokeris" version="1" />
+  <node changeset="76648572" id="6948364832" lat="1.2858691" lon="35.0717121" timestamp="2019-11-05T13:18:01Z" uid="10380856" user="benard lokeris" version="1" />
+  <node changeset="76648572" id="6948364833" lat="1.2859227" lon="35.0715914" timestamp="2019-11-05T13:18:01Z" uid="10380856" user="benard lokeris" version="1" />
+  <node changeset="76648572" id="6948364834" lat="1.2862955" lon="35.0715592" timestamp="2019-11-05T13:18:01Z" uid="10380856" user="benard lokeris" version="1" />
+  <node changeset="76648572" id="6948364835" lat="1.2861399" lon="35.0699311" timestamp="2019-11-05T13:18:01Z" uid="10380856" user="benard lokeris" version="1" />
+  <node changeset="76796038" id="6956972297" lat="1.2420076" lon="35.1179381" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="1" />
+  <node changeset="76796038" id="6956972298" lat="1.2417977" lon="35.1181630" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="1" />
+  <node changeset="76796038" id="6956972299" lat="1.2414010" lon="35.1177927" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="1" />
+  <node changeset="76796038" id="6956972300" lat="1.2416109" lon="35.1175678" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="1" />
+  <node changeset="76796038" id="6956972301" lat="1.2419950" lon="35.1172099" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="1" />
+  <node changeset="76796038" id="6956972302" lat="1.2416389" lon="35.1175405" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="1" />
+  <node changeset="76796038" id="6956972303" lat="1.2420048" lon="35.1179347" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="1" />
+  <node changeset="76796038" id="6956972304" lat="1.2423609" lon="35.1176041" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="1" />
   <way changeset="76484582" id="252283602" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="6">
     <nd ref="2583717319" />
     <nd ref="6555843784" />
@@ -6052,6 +6082,28 @@
     <tag k="name" v="Emboasis Cattle Dip" />
     <tag k="wb_pb:id" v="34" />
   </way>
+  <way changeset="76639088" id="737853028" timestamp="2019-11-05T10:41:58Z" uid="4873427" user="shazomojah" version="2">
+    <nd ref="6908782529" />
+    <nd ref="6908782528" />
+    <nd ref="6908782527" />
+    <nd ref="6908782526" />
+    <nd ref="6908782525" />
+    <nd ref="6908782524" />
+    <nd ref="6908782523" />
+    <nd ref="6908782522" />
+    <nd ref="6908782521" />
+    <nd ref="6908782520" />
+    <nd ref="6908782529" />
+    <tag k="amenity" v="water_or_irrigation" />
+    <tag k="dam_type" v="earth_dam" />
+    <tag k="image_pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571741952448.jpg" />
+    <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571811559793.jpg" />
+    <tag k="is_in_village" v="Lokornoi" />
+    <tag k="name" v="Kariwo dam" />
+    <tag k="operational_status" v="operational" />
+    <tag k="operator_funding" v="national_government" />
+    <tag k="wb_pb:id" v="161" />
+  </way>
   <way changeset="76100501" id="737862246" timestamp="2019-10-23T12:10:47Z" uid="10380829" user="SIWA Jnr" version="1">
     <nd ref="6908909010" />
     <nd ref="6908909009" />
@@ -6346,9 +6398,12 @@
     <tag k="name" v="Kishaunet Cattle Dip" />
     <tag k="wb_pb:id" v="246" />
   </way>
-  <way changeset="76295280" id="739531380" timestamp="2019-10-28T11:25:52Z" uid="10380856" user="benard lokeris" version="1">
+  <way changeset="76579464" id="739531380" timestamp="2019-11-04T09:35:13Z" uid="261050" user="muindre" version="2">
     <nd ref="6924413630" />
+    <nd ref="6944638623" />
+    <nd ref="6944638622" />
     <nd ref="6924413629" />
+    <nd ref="6944638621" />
     <nd ref="6924413628" />
     <nd ref="6924413627" />
     <tag k="amenity" v="hospital" />
@@ -6426,7 +6481,7 @@
     <tag k="operator:funding" v="county_government" />
     <tag k="wb_pb:id" v="46" />
   </way>
-  <way changeset="76484210" id="740921089" timestamp="2019-11-01T09:31:37Z" uid="4873427" user="shazomojah" version="1">
+  <way changeset="76583040" id="740921089" timestamp="2019-11-04T10:34:02Z" uid="10380856" user="benard lokeris" version="2">
     <nd ref="6936768134" />
     <nd ref="6936768133" />
     <nd ref="6936768132" />
@@ -6496,7 +6551,7 @@
     <tag k="name" v="Kapchepkai-Kodongou Road" />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="223" />
-    <tag k="width" v="9" />
+    <tag k="width" v="9 metres" />
   </way>
   <way changeset="76484210" id="740921090" timestamp="2019-11-01T09:31:37Z" uid="4873427" user="shazomojah" version="1">
     <nd ref="6936768286" />
@@ -6859,7 +6914,7 @@
     <tag k="wb_pb:id" v="81" />
     <tag k="width" v="9" />
   </way>
-  <way changeset="76484582" id="740923102" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="1">
+  <way changeset="76587155" id="740923102" timestamp="2019-11-04T11:38:25Z" uid="265690" user="fondolucy" version="2">
     <nd ref="380138365" />
     <nd ref="6936774884" />
     <nd ref="6936774883" />
@@ -6882,7 +6937,7 @@
     <tag k="name" v="Superfoam-Daraja Road" />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="307" />
-    <tag k="width" v="12" />
+    <tag k="width" v="12 metres" />
   </way>
   <way changeset="76484582" id="740923103" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="1">
     <nd ref="2583718151" />
@@ -7443,6 +7498,53 @@
     <tag k="operator:funding" v="county_governm" />
     <tag k="surface" v="ground" />
     <tag k="wb_pb:id" v="154" />
+  </way>
+  <way changeset="76648572" id="742185879" timestamp="2019-11-05T13:18:01Z" uid="10380856" user="benard lokeris" version="1">
+    <nd ref="6948364835" />
+    <nd ref="6948364834" />
+    <nd ref="6948364833" />
+    <nd ref="6948364832" />
+    <nd ref="6948364831" />
+    <nd ref="6948364830" />
+    <nd ref="6948364829" />
+    <nd ref="6948364828" />
+    <nd ref="6948364827" />
+    <nd ref="6948364835" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571992858266.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571993235541.jpg" />
+    <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571993259472.jpg" />
+    <tag k="is_in:village" v="Kishaunet" />
+    <tag k="name" v="Kishaunet Show Ground" />
+    <tag k="tourism" v="attraction" />
+    <tag k="wb_pb:id" v="250" />
+  </way>
+  <way changeset="76796038" id="743230500" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="1">
+    <nd ref="6956972300" />
+    <nd ref="6956972299" />
+    <nd ref="6956972298" />
+    <nd ref="6956972297" />
+    <nd ref="6956972300" />
+    <tag k="barrier" v="fence" />
+    <tag k="fence_type" v="chain_link" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734395171.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571736915992.jpg" />
+    <tag k="is_in:village" v="Mwotot" />
+    <tag k="name" v="West Pokot Investment and Cooperative Development Fence" />
+    <tag k="wb_pb:id" v="130" />
+  </way>
+  <way changeset="76796038" id="743230501" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="1">
+    <nd ref="6956972304" />
+    <nd ref="6956972303" />
+    <nd ref="6956972302" />
+    <nd ref="6956972301" />
+    <nd ref="6956972304" />
+    <tag k="barrier" v="fence" />
+    <tag k="fence_type" v="chain_link" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731164574.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731499168.jpg" />
+    <tag k="is_in:village" v="Mwotot" />
+    <tag k="name" v="West Pokot County Tourism fence" />
+    <tag k="wb_pb:id" v="127" />
   </way>
 
 </osm>

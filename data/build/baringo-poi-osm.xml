@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-04T01:38:02Z"/>
+<meta osm_base="2019-11-08T20:13:02Z"/>
 
   <bounds minlat="-0.2150000" minlon="35.5210000" maxlat="1.6800000" maxlon="36.4950000"/>
 
@@ -1524,6 +1524,9 @@
     <tag k="railway" v="level_crossing"/>
   </node>
   <node id="2139440828" lat="-0.0124937" lon="35.7237652" version="3" timestamp="2019-06-28T12:22:04Z" changeset="71705972" uid="9535312" user="Ningaloo7">
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="2139440842" lat="-0.0245676" lon="35.6964729" version="2" timestamp="2019-11-06T14:38:20Z" changeset="76707593" uid="5236234" user="AWFCloin">
     <tag k="railway" v="level_crossing"/>
   </node>
   <node id="2139441559" lat="1.2752247" lon="35.6288472" version="2" timestamp="2019-05-29T08:10:38Z" changeset="70723405" uid="9447089" user="CayosCochinos">

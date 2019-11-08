@@ -1944,73 +1944,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.010975, 
-          1.25334
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6908782531", 
-      "properties": {
-        "amenity": "school", 
-        "education_gender_type": "mixed", 
-        "education_government_registere": "moe", 
-        "education_type": "secondary", 
-        "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571748134699.jpg", 
-        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571811405561.jpg", 
-        "is_in_village": "Cheptuya", 
-        "name": "Cheptuya mixed secondary school water tank", 
-        "osm:id": "6908782531"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.010765, 
-          1.253265
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6908782532", 
-      "properties": {
-        "amenity": "school", 
-        "education_gender_type": "mixed", 
-        "education_government_registere": "moe", 
-        "education_type": "secondary", 
-        "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747713230.jpg", 
-        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747976679.jpg", 
-        "is_in_village": "Cheptuya", 
-        "name": "Cheptuya Mixed Secondary Dairy Cows project", 
-        "osm:id": "6908782532"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.0104467, 
-          1.253335
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6908782533", 
-      "properties": {
-        "amenity": "school", 
-        "education_gender_type": "mixed", 
-        "education_government_registere": "moe", 
-        "education_type": "secondary", 
-        "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747102468.jpg", 
-        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747254094.jpg", 
-        "is_in_village": "Cheptuya", 
-        "name": "Cheptuya Mixed Secondary School", 
-        "operator_type": "government", 
-        "osm:id": "6908782533"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           35.009645, 
           1.2550867
         ], 
@@ -2112,29 +2045,6 @@
         "name": "Cheptuya Chiefs Office", 
         "office": "administrative", 
         "osm:id": "6908782538"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          34.977055, 
-          1.2631183
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6908782539", 
-      "properties": {
-        "amenity": "school", 
-        "education_gender_type": "mixed", 
-        "education_government_registere": "moe", 
-        "education_type": "primary", 
-        "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571735314332.jpg", 
-        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571735843966.jpg", 
-        "is_in_village": "Mortome", 
-        "name": "Mortome primary school", 
-        "operator_type": "government", 
-        "osm:id": "6908782539"
       }, 
       "type": "Feature"
     }, 
@@ -2999,6 +2909,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571739988737.jpg", 
         "is_in:village": "Mwotot", 
         "name": "Kenya Red Cross kapenguria office", 
+        "office": "ngo", 
         "osm:id": "6909005386"
       }, 
       "type": "Feature"
@@ -4425,7 +4336,7 @@
         "is_in:village": "Bendera", 
         "name": "Classic Furniture Store", 
         "osm:id": "6924416529", 
-        "shop": "furniture_store"
+        "shop": "furniture"
       }, 
       "type": "Feature"
     }, 
@@ -5145,7 +5056,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571987325058.jpg", 
         "name": "Maflo Furniture", 
         "osm:id": "6924662883", 
-        "shop": "furniture_store"
+        "shop": "furniture"
       }, 
       "type": "Feature"
     }, 
@@ -6010,25 +5921,6 @@
         "name": "Memory", 
         "osm:id": "6934156164", 
         "shop": "variety_store"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.0953152, 
-          1.2576775
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6934156165", 
-      "properties": {
-        "amenity": "toilets", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572429783696.jpg", 
-        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572429893588.jpg", 
-        "is_in:village": "Makutano", 
-        "name": "Kapenguria Town Toilet Project", 
-        "osm:id": "6934156165"
       }, 
       "type": "Feature"
     }, 
@@ -8380,6 +8272,68 @@
         "is_in:village": "Makutano", 
         "name": "4.2.2 Grill and Lounge", 
         "osm:id": "6936842850"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.08161, 
+          1.278645
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6948364838", 
+      "properties": {
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571998549643.jpg", 
+        "is_in:village": "Kishaunet", 
+        "man_made": "storage_tank", 
+        "name": "Kishaunet Dispensary Storage Tank", 
+        "operational_status": "non_operational", 
+        "operator:funding": "national_government", 
+        "osm:id": "6948364838"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0805217, 
+          1.2793483
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6948364839", 
+      "properties": {
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571997862317.jpg", 
+        "is_in:village": "Kishaunet", 
+        "man_made": "borehole", 
+        "name": "Kishaunet Borehole", 
+        "operational_status": "operational", 
+        "osm:id": "6948364839"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0626683, 
+          1.2881083
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6948364841", 
+      "properties": {
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "secondary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571992037350.jpg", 
+        "is_in:village": "Kamito", 
+        "name": "St Albert Kamito Boys Secondary School", 
+        "operator:description": "Catholic", 
+        "operator:type": "government", 
+        "osm:id": "6948364841"
       }, 
       "type": "Feature"
     }

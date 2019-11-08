@@ -61,35 +61,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.0813683, 
-          1.225635
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6936808413", 
-      "properties": {
-        "Category": "RPWTI", 
-        "In_your_opinion_is_the_project_quality": "adequate", 
-        "Please_add_any_details_about_y": "The project is completed and operational", 
-        "Project_Description": "Proposed improvement and maintenance of Kaa Tartar-Cormole Road", 
-        "Project_Name_or_Title": "Kaa Tartar-Cormole Road", 
-        "What_is_the_project_s_apparent_status": "completed", 
-        "highway": "unclassified", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572356090217.jpg", 
-        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572356260767.jpg", 
-        "iterator": 3, 
-        "maintenance": "county_governm", 
-        "name": "Kaa Tartar-Cormolee Road", 
-        "osm:id": "6936808413", 
-        "surface": "dirt", 
-        "wb_pb:id": "57", 
-        "width": "12_m"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           35.0751917, 
           1.281695
         ], 
@@ -106,7 +77,7 @@
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344077605.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344459914.jpg", 
-        "iterator": 4, 
+        "iterator": 3, 
         "maintenance": "kerra", 
         "name": "Kamito-Kamayech Serowo Road", 
         "osm:id": "6936808437", 
@@ -135,7 +106,7 @@
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340796951.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340980000.jpg", 
-        "iterator": 5, 
+        "iterator": 4, 
         "maintenance": "county_governm", 
         "name": "Kammorrow-Kanglikwan Road", 
         "osm:id": "6936808421", 
@@ -148,12 +119,258 @@
     {
       "geometry": {
         "coordinates": [
-          35.114685, 
-          1.2525017
+          [
+            35.1144107, 
+            1.2525135
+          ], 
+          [
+            35.1153195, 
+            1.2518295
+          ], 
+          [
+            35.1155528, 
+            1.2516632
+          ], 
+          [
+            35.1156923, 
+            1.2515479
+          ], 
+          [
+            35.1158345, 
+            1.2513897
+          ], 
+          [
+            35.1158908, 
+            1.2512932
+          ], 
+          [
+            35.1159391, 
+            1.2511886
+          ], 
+          [
+            35.1159766, 
+            1.2510653
+          ], 
+          [
+            35.1160035, 
+            1.2509285
+          ], 
+          [
+            35.1160088, 
+            1.2508025
+          ], 
+          [
+            35.1160061, 
+            1.250537
+          ], 
+          [
+            35.116049, 
+            1.2499578
+          ], 
+          [
+            35.1160812, 
+            1.2497164
+          ], 
+          [
+            35.1161027, 
+            1.2495528
+          ], 
+          [
+            35.1161228, 
+            1.2494677
+          ], 
+          [
+            35.1161329, 
+            1.2494275
+          ], 
+          [
+            35.1161476, 
+            1.2493873
+          ], 
+          [
+            35.1161758, 
+            1.249337
+          ], 
+          [
+            35.1162341, 
+            1.2492659
+          ], 
+          [
+            35.1163468, 
+            1.2491265
+          ], 
+          [
+            35.1165909, 
+            1.2488932
+          ], 
+          [
+            35.1166491, 
+            1.2488268
+          ], 
+          [
+            35.1166874, 
+            1.2487832
+          ], 
+          [
+            35.1168644, 
+            1.2486223
+          ], 
+          [
+            35.1170012, 
+            1.2485178
+          ], 
+          [
+            35.1171005, 
+            1.2484641
+          ], 
+          [
+            35.1172346, 
+            1.2484239
+          ], 
+          [
+            35.1173928, 
+            1.2484051
+          ], 
+          [
+            35.1176932, 
+            1.2483756
+          ], 
+          [
+            35.1180097, 
+            1.2483408
+          ], 
+          [
+            35.1184416, 
+            1.2483488
+          ], 
+          [
+            35.1184791, 
+            1.2483488
+          ], 
+          [
+            35.1186642, 
+            1.2483488
+          ], 
+          [
+            35.1187849, 
+            1.2483354
+          ], 
+          [
+            35.1188399, 
+            1.248326
+          ], 
+          [
+            35.1188976, 
+            1.2483006
+          ], 
+          [
+            35.1189981, 
+            1.2482483
+          ], 
+          [
+            35.1191135, 
+            1.2481812
+          ], 
+          [
+            35.119152, 
+            1.2481572
+          ], 
+          [
+            35.1192791, 
+            1.248078
+          ], 
+          [
+            35.1195607, 
+            1.2478896
+          ], 
+          [
+            35.1196533, 
+            1.2478246
+          ], 
+          [
+            35.1197471, 
+            1.2477488
+          ], 
+          [
+            35.1198189, 
+            1.2476764
+          ], 
+          [
+            35.1200496, 
+            1.2474706
+          ], 
+          [
+            35.1201877, 
+            1.2473714
+          ], 
+          [
+            35.120354, 
+            1.2472494
+          ], 
+          [
+            35.1205686, 
+            1.2471005
+          ], 
+          [
+            35.120708, 
+            1.247004
+          ], 
+          [
+            35.1208448, 
+            1.246933
+          ], 
+          [
+            35.1214617, 
+            1.2466273
+          ], 
+          [
+            35.1220947, 
+            1.2463028
+          ], 
+          [
+            35.1223549, 
+            1.2461338
+          ], 
+          [
+            35.1225668, 
+            1.24604
+          ], 
+          [
+            35.1227492, 
+            1.2459837
+          ], 
+          [
+            35.1230013, 
+            1.2459059
+          ], 
+          [
+            35.1235405, 
+            1.2457611
+          ], 
+          [
+            35.1238087, 
+            1.2457128
+          ], 
+          [
+            35.1241386, 
+            1.2457021
+          ], 
+          [
+            35.1244658, 
+            1.2456538
+          ], 
+          [
+            35.124664, 
+            1.245622
+          ], 
+          [
+            35.1248467, 
+            1.2456287
+          ]
         ], 
-        "type": "Point"
+        "type": "LineString"
       }, 
-      "id": "6936808441", 
+      "id": "740942814", 
       "properties": {
         "Category": "RPWTI", 
         "In_your_opinion_is_the_project_quality": "adequate", 
@@ -164,12 +381,70 @@
         "highway": "tertiary", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572335163086.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572335425826.jpg", 
-        "iterator": 6, 
-        "maintenance": "county_governm", 
+        "iterator": 5, 
+        "maintenance": "county_government", 
         "name": "Kapenguria- kakrut road", 
-        "osm:id": "6936808441", 
+        "osm:id": "740942814", 
         "surface": "dirt", 
         "wb_pb:id": "70", 
+        "width": "9 metres"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1198783, 
+          1.2897983
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6936808403", 
+      "properties": {
+        "Category": "RPWTI", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "It needs urgent maintentance\nIt has facilitated easy transportation for the community", 
+        "Project_Description": "Kapkoris-Chemwacham Road", 
+        "Project_Name_or_Title": "Kapkoris-Chemwacham Road", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "highway": "unclassified", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572423416920.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572423918673.jpg", 
+        "iterator": 6, 
+        "maintenance": "county_governm", 
+        "name": "Kapkoris Chemwayam Road", 
+        "osm:id": "6936808403", 
+        "surface": "earth", 
+        "wb_pb:id": "77", 
+        "width": "9_m"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1262217, 
+          1.30194
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6936808402", 
+      "properties": {
+        "Category": "RPWTI", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "It is poorly maintained \nIt has to some extent made transportation easy in the Community", 
+        "Project_Description": "Kapkoris Chemwayam and Ptoparua Road", 
+        "Project_Name_or_Title": "Kapkoris-Chemwanyam and Ptop Parua Road", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "highway": "unclassified", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572425189724.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572425566397.jpg", 
+        "iterator": 7, 
+        "maintenance": "county_governm", 
+        "name": "Ptoparua Chemwayam Kaproris Road", 
+        "osm:id": "6936808402", 
+        "surface": "earth", 
+        "wb_pb:id": "72", 
         "width": "9_m"
       }, 
       "type": "Feature"
@@ -186,14 +461,14 @@
       "properties": {
         "Category": "RPWTI", 
         "In_your_opinion_is_the_project_quality": "adequate", 
-        "Please_add_any_details_about_y": "Physical observation-The road was fairly maintained \n Impact-The road promotes easy accessibility of business in connecting local centers to main town", 
+        "Please_add_any_details_about_y": "Physical observation: The road was fairly maintained \nImpact: The road promotes easy accessibility of business in connecting local centers to main town", 
         "Project_Description": "Road improvement and maintenance works", 
-        "Project_Name_or_Title": "Kapkoris-Chepkechir-Emboasis", 
+        "Project_Name_or_Title": "Kapkoris-Chepkechir-Emboasis Road", 
         "What_is_the_project_s_apparent_status": "completed", 
         "highway": "residential", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344186262.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344687835.jpg", 
-        "iterator": 7, 
+        "iterator": 8, 
         "maintenance": "county_governm", 
         "name": "Kapkoris-Chepkechir-Emboasis", 
         "osm:id": "6936808411", 
@@ -222,71 +497,13 @@
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347985469.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572348020472.jpg", 
-        "iterator": 8, 
+        "iterator": 9, 
         "maintenance": "county_governm", 
         "name": "Kaplelach Koror Road.", 
         "osm:id": "6936808425", 
         "surface": "earth", 
         "wb_pb:id": "240", 
         "width": "12_m"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.1448583, 
-          1.3048717
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6936808408", 
-      "properties": {
-        "Category": "RPWTI", 
-        "In_your_opinion_is_the_project_quality": "adequate", 
-        "Please_add_any_details_about_y": "Destroyed by rain water cutting drainage ways\n Very helpful in mobility", 
-        "Project_Description": "Kaprom Roponywo road", 
-        "Project_Name_or_Title": "Kaprom _Roponywo road", 
-        "What_is_the_project_s_apparent_status": "completed", 
-        "highway": "unclassified", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347428636.jpg", 
-        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347681951.jpg", 
-        "iterator": 9, 
-        "maintenance": "county_governm", 
-        "name": "Kaprom _ Roponywo road", 
-        "osm:id": "6936808408", 
-        "surface": "earth", 
-        "wb_pb:id": "107", 
-        "width": "9_m"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.1198783, 
-          1.2897983
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6936808403", 
-      "properties": {
-        "Category": "RPWTI", 
-        "In_your_opinion_is_the_project_quality": "adequate", 
-        "Please_add_any_details_about_y": "Needs urgent maintentance\n It has facilitated easy transportation for the community", 
-        "Project_Description": "Kapkoris Chemwayam Road", 
-        "Project_Name_or_Title": "KaprorisChemwayam", 
-        "What_is_the_project_s_apparent_status": "completed", 
-        "highway": "unclassified", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572423416920.jpg", 
-        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572423918673.jpg", 
-        "iterator": 10, 
-        "maintenance": "county_governm", 
-        "name": "Kapkoris Chemwayam Road", 
-        "osm:id": "6936808403", 
-        "surface": "earth", 
-        "wb_pb:id": "77", 
-        "width": "9_m"
       }, 
       "type": "Feature"
     }, 
@@ -309,7 +526,7 @@
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572336461112.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572336594284.jpg", 
-        "iterator": 11, 
+        "iterator": 10, 
         "maintenance": "county_governm", 
         "name": "Karas-Kalomoyo Road", 
         "osm:id": "6936808432", 
@@ -338,12 +555,41 @@
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572343601716.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344135921.jpg", 
-        "iterator": 12, 
+        "iterator": 11, 
         "maintenance": "county_governm", 
         "name": "Karas-Rainbow Road", 
         "osm:id": "6936808427", 
         "surface": "dirt", 
         "wb_pb:id": "82", 
+        "width": "9_m"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1547283, 
+          1.257165
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6936808430", 
+      "properties": {
+        "Category": "RPWTI", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "The drainage system is still poor", 
+        "Project_Description": "Proposed improvement and maintainance works", 
+        "Project_Name_or_Title": "Karas-Cheptapesha-Katiporot-Kalomoywo Road", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "highway": "unclassified", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337804785.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337925036.jpg", 
+        "iterator": 12, 
+        "maintenance": "county_governm", 
+        "name": "Karas-Cheptapesha-Katiporot - Kalamoywo Road", 
+        "osm:id": "6936808430", 
+        "surface": "dirt", 
+        "wb_pb:id": "83", 
         "width": "9_m"
       }, 
       "type": "Feature"
@@ -380,28 +626,28 @@
     {
       "geometry": {
         "coordinates": [
-          35.1547283, 
-          1.257165
+          35.13296, 
+          1.2810383
         ], 
         "type": "Point"
       }, 
-      "id": "6936808430", 
+      "id": "6936808428", 
       "properties": {
         "Category": "RPWTI", 
         "In_your_opinion_is_the_project_quality": "poor", 
-        "Please_add_any_details_about_y": "The drainage system is still poor", 
-        "Project_Description": "Proposed improvement and maintainance works", 
-        "Project_Name_or_Title": "Karas-Cheptapesha-Katiporot-Kalomoywo Road", 
+        "Please_add_any_details_about_y": "There was nothing done to the road", 
+        "Project_Description": "Improvement and Maintainance works", 
+        "Project_Name_or_Title": "Kasowil-Tukumo-Karas Road", 
         "What_is_the_project_s_apparent_status": "completed", 
         "highway": "unclassified", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337804785.jpg", 
-        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337925036.jpg", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342494596.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342601408.jpg", 
         "iterator": 14, 
         "maintenance": "county_governm", 
-        "name": "Karas-Cheptapesha-Katiporot - Kalamoywo Road", 
-        "osm:id": "6936808430", 
+        "name": "Kasowil -Tukumo -Karas Road", 
+        "osm:id": "6936808428", 
         "surface": "dirt", 
-        "wb_pb:id": "83", 
+        "wb_pb:id": "84", 
         "width": "9_m"
       }, 
       "type": "Feature"
@@ -438,35 +684,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.13296, 
-          1.2810383
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6936808428", 
-      "properties": {
-        "Category": "RPWTI", 
-        "In_your_opinion_is_the_project_quality": "poor", 
-        "Please_add_any_details_about_y": "There was nothing done to the road", 
-        "Project_Description": "Improvement and Maintainance works", 
-        "Project_Name_or_Title": "Kasowil-Tukumo-Karas Road", 
-        "What_is_the_project_s_apparent_status": "completed", 
-        "highway": "unclassified", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342494596.jpg", 
-        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342601408.jpg", 
-        "iterator": 16, 
-        "maintenance": "county_governm", 
-        "name": "Kasowil -Tukumo -Karas Road", 
-        "osm:id": "6936808428", 
-        "surface": "dirt", 
-        "wb_pb:id": "84", 
-        "width": "9_m"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           35.049005, 
           1.212385
         ], 
@@ -478,12 +695,12 @@
         "In_your_opinion_is_the_project_quality": "adequate", 
         "Please_add_any_details_about_y": "Project is completed, need to be maintained", 
         "Project_Description": "Keringet Town Roads", 
-        "Project_Name_or_Title": "Keringet Town Roads", 
+        "Project_Name_or_Title": "Keringet Town Road", 
         "What_is_the_project_s_apparent_status": "completed", 
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341888484.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342020569.jpg", 
-        "iterator": 17, 
+        "iterator": 16, 
         "maintenance": "county_governm", 
         "name": "Keringet Town Roads", 
         "osm:id": "6936808419", 
@@ -512,7 +729,7 @@
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341447069.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341609674.jpg", 
-        "iterator": 18, 
+        "iterator": 17, 
         "maintenance": "county_governm", 
         "name": "Kanglikwan-Kisii Road", 
         "osm:id": "6936808420", 
@@ -534,14 +751,14 @@
       "properties": {
         "Category": "LHPPUD", 
         "In_your_opinion_is_the_project_quality": "adequate", 
-        "Please_add_any_details_about_y": "Road completed, \n renovation and maintenance need to be done", 
+        "Please_add_any_details_about_y": "Road completed, renovation and maintenance need to be done", 
         "Project_Description": "Kwa Chief Chepangang Road", 
         "Project_Name_or_Title": "Kwa Chief-Chepangang Road", 
         "What_is_the_project_s_apparent_status": "completed", 
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353768976.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353928542.jpg", 
-        "iterator": 19, 
+        "iterator": 18, 
         "maintenance": "county_governm", 
         "name": "Kwa Chief-Chepangang Road", 
         "osm:id": "6936808415", 
@@ -570,7 +787,7 @@
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344950383.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572346582894.jpg", 
-        "iterator": 20, 
+        "iterator": 19, 
         "maintenance": "kerra", 
         "name": "Lopalal road", 
         "osm:id": "6936808436", 
@@ -583,12 +800,118 @@
     {
       "geometry": {
         "coordinates": [
-          35.0873217, 
-          1.2527
+          [
+            35.084517, 
+            1.2528753
+          ], 
+          [
+            35.0848523, 
+            1.252288
+          ], 
+          [
+            35.08504, 
+            1.2519984
+          ], 
+          [
+            35.0851178, 
+            1.2519394
+          ], 
+          [
+            35.085142, 
+            1.2518885
+          ], 
+          [
+            35.0851661, 
+            1.2518268
+          ], 
+          [
+            35.0852707, 
+            1.2517035
+          ], 
+          [
+            35.0853109, 
+            1.2516954
+          ], 
+          [
+            35.0853512, 
+            1.2517142
+          ], 
+          [
+            35.0860727, 
+            1.252465
+          ], 
+          [
+            35.0864589, 
+            1.2527841
+          ], 
+          [
+            35.086998, 
+            1.2532011
+          ], 
+          [
+            35.0870413, 
+            1.2532212
+          ], 
+          [
+            35.0870725, 
+            1.253234
+          ], 
+          [
+            35.0871295, 
+            1.2531381
+          ], 
+          [
+            35.0873923, 
+            1.2525321
+          ], 
+          [
+            35.0874835, 
+            1.2523578
+          ], 
+          [
+            35.0875157, 
+            1.252331
+          ], 
+          [
+            35.087572, 
+            1.252331
+          ], 
+          [
+            35.0876176, 
+            1.2523658
+          ], 
+          [
+            35.0876605, 
+            1.2523899
+          ], 
+          [
+            35.0877061, 
+            1.2523765
+          ], 
+          [
+            35.087741, 
+            1.2523068
+          ], 
+          [
+            35.0880012, 
+            1.2517732
+          ], 
+          [
+            35.088138, 
+            1.2515587
+          ], 
+          [
+            35.0882506, 
+            1.2514836
+          ], 
+          [
+            35.0891484, 
+            1.2508675
+          ]
         ], 
-        "type": "Point"
+        "type": "LineString"
       }, 
-      "id": "6936808422", 
+      "id": "694449607", 
       "properties": {
         "Category": "RPWTI", 
         "In_your_opinion_is_the_project_quality": "adequate", 
@@ -599,25 +922,131 @@
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353381900.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353598574.jpg", 
-        "iterator": 21, 
-        "maintenance": "county_governm", 
+        "iterator": 20, 
+        "maintenance": "county_government", 
         "name": "Lutheran Shalom School road.", 
-        "osm:id": "6936808422", 
+        "osm:id": "694449607", 
         "surface": "earth", 
         "wb_pb:id": "273", 
-        "width": "12_m"
+        "width": "12 metres"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          35.0840867, 
-          1.252305
+          [
+            35.0839189, 
+            1.2518027
+          ], 
+          [
+            35.0840557, 
+            1.2523041
+          ], 
+          [
+            35.0842112, 
+            1.2525482
+          ], 
+          [
+            35.084254, 
+            1.2525913
+          ], 
+          [
+            35.084517, 
+            1.2528753
+          ], 
+          [
+            35.0846672, 
+            1.2529826
+          ], 
+          [
+            35.0847557, 
+            1.2530818
+          ], 
+          [
+            35.084804, 
+            1.2532293
+          ], 
+          [
+            35.0849166, 
+            1.253771
+          ], 
+          [
+            35.085032, 
+            1.2542241
+          ], 
+          [
+            35.0852278, 
+            1.2545996
+          ], 
+          [
+            35.0853109, 
+            1.2548409
+          ], 
+          [
+            35.0853968, 
+            1.2552673
+          ], 
+          [
+            35.0854102, 
+            1.2553182
+          ], 
+          [
+            35.0854504, 
+            1.2553557
+          ], 
+          [
+            35.0855362, 
+            1.2554148
+          ], 
+          [
+            35.0862282, 
+            1.255817
+          ], 
+          [
+            35.0868103, 
+            1.2561522
+          ], 
+          [
+            35.0869887, 
+            1.2563064
+          ], 
+          [
+            35.0872207, 
+            1.256112
+          ], 
+          [
+            35.0876605, 
+            1.2560101
+          ], 
+          [
+            35.0881755, 
+            1.2560101
+          ], 
+          [
+            35.0891278, 
+            1.2560529
+          ], 
+          [
+            35.0895273, 
+            1.2560636
+          ], 
+          [
+            35.0898626, 
+            1.2559806
+          ], 
+          [
+            35.0906539, 
+            1.2555649
+          ], 
+          [
+            35.0914384, 
+            1.2552048
+          ]
         ], 
-        "type": "Point"
+        "type": "LineString"
       }, 
-      "id": "6936808424", 
+      "id": "694428651", 
       "properties": {
         "Category": "RPWTI", 
         "In_your_opinion_is_the_project_quality": "adequate", 
@@ -628,13 +1057,13 @@
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350608493.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350894401.jpg", 
-        "iterator": 22, 
-        "maintenance": "county_governm", 
+        "iterator": 21, 
+        "maintenance": "county_government", 
         "name": "Makutano Primary Paul Kide Residence Road.", 
-        "osm:id": "6936808424", 
+        "osm:id": "694428651", 
         "surface": "dirt", 
         "wb_pb:id": "279", 
-        "width": "12_m"
+        "width": "12 metres"
       }, 
       "type": "Feature"
     }, 
@@ -657,7 +1086,7 @@
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572348898133.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572349083244.jpg", 
-        "iterator": 23, 
+        "iterator": 22, 
         "maintenance": "county_governm", 
         "name": "Keringet-Kanglikwan-Murkwijit Road", 
         "osm:id": "6936808418", 
@@ -679,14 +1108,14 @@
       "properties": {
         "Category": "RPWTI", 
         "In_your_opinion_is_the_project_quality": "adequate", 
-        "Please_add_any_details_about_y": "Project completed and operational\n It needs to be murrummed or tarmacked", 
+        "Please_add_any_details_about_y": "Project completed and operational\nIt needs to be murrummed or tarmacked", 
         "Project_Description": "Murkwijit-Tomkokalya Road", 
         "Project_Name_or_Title": "Murkwijit-Tomkokalya Road", 
         "What_is_the_project_s_apparent_status": "completed", 
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350038499.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350188140.jpg", 
-        "iterator": 24, 
+        "iterator": 23, 
         "maintenance": "county_governm", 
         "name": "Murkwijit-Tomkokalya Road", 
         "osm:id": "6936808417", 
@@ -715,7 +1144,7 @@
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350538249.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350644110.jpg", 
-        "iterator": 25, 
+        "iterator": 24, 
         "maintenance": "kerra", 
         "name": "Nasokol-Kaplelach Koror Road", 
         "osm:id": "6936808433", 
@@ -744,7 +1173,7 @@
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572349089840.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572349222261.jpg", 
-        "iterator": 26, 
+        "iterator": 25, 
         "maintenance": "kerra", 
         "name": "Kishaunet -Nasokol Road", 
         "osm:id": "6936808434", 
@@ -773,75 +1202,12 @@
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341998595.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342021066.jpg", 
-        "iterator": 27, 
+        "iterator": 26, 
         "maintenance": "kura", 
         "name": "Kapenguria Office Road", 
         "osm:id": "6936808439", 
         "surface": "paved", 
         "wb_pb:id": "121", 
-        "width": "9_m"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.1214333, 
-          1.2372683
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6924413655", 
-      "properties": {
-        "Category": "RPWTI", 
-        "In_your_opinion_is_the_project_quality": "adequate", 
-        "Please_add_any_details_about_y": "Project completed, further improvement and maintenance to be done", 
-        "Project_Description": "Proposed Improvement and Maintenance Works, Psigirio-Tomkokalya-Talau Road", 
-        "Project_Name_or_Title": "Psigirio-Tomkokalya-Talau Road", 
-        "What_is_the_project_s_apparent_status": "completed", 
-        "amenity": "hospital", 
-        "dispensing": "yes", 
-        "electricity": "often", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571912747633.jpg", 
-        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571912983148.jpg", 
-        "is_in:village": "Mwotot", 
-        "iterator": 28, 
-        "medical_service:family_planning": "yes", 
-        "medical_service:general_medical_services": "yes", 
-        "medical_service:immunizations": "yes", 
-        "medical_service:malaria": "yes", 
-        "medical_service:pregnancy_test": "yes", 
-        "name": "Kapenguria County Referral Hospital", 
-        "osm:id": "6924413655", 
-        "wb_pb:id": "54"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.1262217, 
-          1.30194
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6936808402", 
-      "properties": {
-        "Category": "RPWTI", 
-        "In_your_opinion_is_the_project_quality": "adequate", 
-        "Please_add_any_details_about_y": "It is poorly maintained \n It has to some extent made transportation easy in the Community", 
-        "Project_Description": "Kapkoris Chemwayam and Ptoparua Road", 
-        "Project_Name_or_Title": "Ptoparua Chemwayam Kapkoris Road", 
-        "What_is_the_project_s_apparent_status": "completed", 
-        "highway": "unclassified", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572425189724.jpg", 
-        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572425566397.jpg", 
-        "iterator": 29, 
-        "maintenance": "county_governm", 
-        "name": "Ptoparua Chemwayam Kaproris Road", 
-        "osm:id": "6936808402", 
-        "surface": "earth", 
-        "wb_pb:id": "72", 
         "width": "9_m"
       }, 
       "type": "Feature"
@@ -858,20 +1224,49 @@
       "properties": {
         "Category": "RPWTI", 
         "In_your_opinion_is_the_project_quality": "poor", 
-        "Please_add_any_details_about_y": "Poor maintenance due to heavy rains\n The road is in a bad state", 
+        "Please_add_any_details_about_y": "Poor maintenance due to heavy rains\nThe road is in a bad state", 
         "Project_Description": "Roponywo Kakomtin Road", 
         "Project_Name_or_Title": "Roponywo Kakomtin Road", 
         "What_is_the_project_s_apparent_status": "completed", 
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427213674.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427691105.jpg", 
-        "iterator": 30, 
+        "iterator": 27, 
         "maintenance": "county_governm", 
         "name": "Roponywo Kakomtin Road", 
         "osm:id": "6936808404", 
         "surface": "earth", 
         "wb_pb:id": "47", 
         "width": "6_m"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1448583, 
+          1.3048717
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6936808408", 
+      "properties": {
+        "Category": "RPWTI", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Destroyed by rain water cutting drainage ways\nVery helpful in mobility", 
+        "Project_Description": "Kaprom Roponywo road", 
+        "Project_Name_or_Title": "Roponywo-Kaprom Road", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "highway": "unclassified", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347428636.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347681951.jpg", 
+        "iterator": 28, 
+        "maintenance": "county_governm", 
+        "name": "Kaprom _ Roponywo road", 
+        "osm:id": "6936808408", 
+        "surface": "earth", 
+        "wb_pb:id": "107", 
+        "width": "9_m"
       }, 
       "type": "Feature"
     }, 
@@ -887,14 +1282,14 @@
       "properties": {
         "Category": "RPWTI", 
         "In_your_opinion_is_the_project_quality": "poor", 
-        "Please_add_any_details_about_y": "Road washed by rain water \n There is no drainage facilities such as culverts", 
+        "Please_add_any_details_about_y": "Road washed by rain water \nThere is no drainage facilities such as culverts", 
         "Project_Description": "lmprovement and maintenance works.", 
-        "Project_Name_or_Title": "Sakat Kaprom Road", 
+        "Project_Name_or_Title": "Skat-Kaprom Road", 
         "What_is_the_project_s_apparent_status": "completed", 
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340188552.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340467873.jpg", 
-        "iterator": 31, 
+        "iterator": 29, 
         "maintenance": "county_governm", 
         "name": "Sakat Kaprom Road", 
         "osm:id": "6936808409", 
@@ -907,29 +1302,87 @@
     {
       "geometry": {
         "coordinates": [
-          35.0914367, 
-          1.25072
+          [
+            35.0911636, 
+            1.25179
+          ], 
+          [
+            35.0912628, 
+            1.2517169
+          ], 
+          [
+            35.0913727, 
+            1.2516337
+          ], 
+          [
+            35.0917295, 
+            1.2514755
+          ], 
+          [
+            35.091818, 
+            1.251446
+          ], 
+          [
+            35.0917509, 
+            1.251312
+          ], 
+          [
+            35.0916946, 
+            1.2511859
+          ], 
+          [
+            35.0916463, 
+            1.2510706
+          ], 
+          [
+            35.0915524, 
+            1.2509365
+          ], 
+          [
+            35.0913164, 
+            1.2506228
+          ], 
+          [
+            35.0911501, 
+            1.2503546
+          ], 
+          [
+            35.091075, 
+            1.2501803
+          ], 
+          [
+            35.0910482, 
+            1.2500945
+          ], 
+          [
+            35.0909033, 
+            1.2500623
+          ], 
+          [
+            35.0907028, 
+            1.2500251
+          ]
         ], 
-        "type": "Point"
+        "type": "LineString"
       }, 
-      "id": "6936808412", 
+      "id": "740923102", 
       "properties": {
         "Category": "LHPPUD", 
         "In_your_opinion_is_the_project_quality": "adequate", 
         "Please_add_any_details_about_y": "The project is complete and operational", 
-        "Project_Description": "Superfoam-Daraja Road", 
-        "Project_Name_or_Title": "Superfoam-Daraja Road", 
+        "Project_Description": "Superform-Daraja Road", 
+        "Project_Name_or_Title": "Superform-Daraja Road", 
         "What_is_the_project_s_apparent_status": "completed", 
         "highway": "residential", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357062734.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357188239.jpg", 
-        "iterator": 32, 
+        "iterator": 30, 
         "maintenance": "county_governm", 
         "name": "Superfoam-Daraja Road", 
-        "osm:id": "6936808412", 
+        "osm:id": "740923102", 
         "surface": "earth", 
         "wb_pb:id": "307", 
-        "width": "12_m"
+        "width": "12 metres"
       }, 
       "type": "Feature"
     }, 
@@ -952,7 +1405,7 @@
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572339241663.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572339579311.jpg", 
-        "iterator": 33, 
+        "iterator": 31, 
         "maintenance": "county_governm", 
         "name": "Tartar-Parpelo-Kilimameri Box Culvert.", 
         "osm:id": "6936808426", 
@@ -965,54 +1418,53 @@
     {
       "geometry": {
         "coordinates": [
-          35.13739, 
-          1.279125
+          [
+            35.0938237, 
+            1.2569855
+          ], 
+          [
+            35.094012, 
+            1.2573374
+          ], 
+          [
+            35.0942132, 
+            1.2577263
+          ], 
+          [
+            35.0944331, 
+            1.2581821
+          ], 
+          [
+            35.0946289, 
+            1.2583001
+          ], 
+          [
+            35.0948086, 
+            1.2583055
+          ], 
+          [
+            35.0953048, 
+            1.2581553
+          ], 
+          [
+            35.0954768, 
+            1.2580695
+          ]
         ], 
-        "type": "Point"
-      }, 
-      "id": "6908747817", 
-      "properties": {
-        "Category": "RPWTI", 
-        "In_your_opinion_is_the_project_quality": "adequate", 
-        "Please_add_any_details_about_y": "Physical observation-The road is well graded\n Impact-Eased transportation of agricultural hence business engagement", 
-        "Project_Description": "Grading of Tingwo-Kormonot-Kopoch road", 
-        "Project_Name_or_Title": "Tingwo-Kormonot-Kopoch Road", 
-        "What_is_the_project_s_apparent_status": "completed", 
-        "amenity": "school", 
-        "education:gender_type": "mixed", 
-        "education:government_registered": "moe", 
-        "education:type": "pre_primary", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731537923.jpg", 
-        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731849944.jpg", 
-        "is_in:village": "Roponywo", 
-        "iterator": 34, 
-        "name": "Roponywo Primary School", 
-        "operator:type": "government", 
-        "osm:id": "6908747817", 
-        "wb_pb:id": "0"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.09465025, 
-          1.2575275000000001
-        ], 
-        "type": "Point"
+        "type": "LineString"
       }, 
       "id": "740942612", 
       "properties": {
         "Category": "LHPPUD", 
         "In_your_opinion_is_the_project_quality": "adequate", 
-        "Please_add_any_details_about_y": "The murram was well put.\n it will link several town areas.", 
+        "Please_add_any_details_about_y": "The murram was well put.\nIt will link several town areas.", 
         "Project_Description": "Total -KCB -Olive tree road.", 
-        "Project_Name_or_Title": "Total -KCB Olive tree road.", 
+        "Project_Name_or_Title": "Total-KCB-Olive Tree Road.", 
         "What_is_the_project_s_apparent_status": "completed", 
         "highway": "unclassified", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572435474880.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572435704662.jpg", 
-        "iterator": 35, 
+        "iterator": 32, 
         "maintenance": "County_Government", 
         "name": "Total-Kcb Olive tree Road.", 
         "osm:id": "740942612", 

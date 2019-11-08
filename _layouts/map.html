@@ -10,6 +10,7 @@
     <script src="https://cdn.jsdelivr.net/npm/@turf/turf@5/turf.min.js"></script>
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.47.0/mapbox-gl.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.47.0/mapbox-gl.css' rel='stylesheet' />
+    <script src='../js/util.js'></script>
 
     <style>
         body { margin:0; padding:0; overflow:hidden;}
@@ -87,7 +88,11 @@
 </div>
 
 <script>
+
+<!-- MAP AND UI INITIALIZATION -->
+
 mapboxgl.accessToken = 'pk.eyJ1IjoibWlrZWxtYXJvbiIsImEiOiJjaWZlY25lZGQ2cTJjc2trbmdiZDdjYjllIn0.Wx1n0X7aeCQyDTnK6_mrGw';
+
 var osm_style = {
   "version": 8,
   "sprite": "mapbox://sprites/mapbox/streets-v9",
@@ -111,15 +116,17 @@ var osm_style = {
     "maxzoom": 18
   }]
 };
+
 var map = new mapboxgl.Map({
     container: 'map', // container id
     style: osm_style,
-    //style: 'mapbox://styles/mapbox/streets-v9', //stylesheet location
     center: [{{page.lon}}, {{page.lat}}], // starting position
     zoom: {{page.zoom}}, // starting zoom
     hash: true
 });
+
 map.addControl(new mapboxgl.NavigationControl());
+
 function switchLayer(layer) {
     var layerId = layer.target.id;
     if (layerId == "streets") {
@@ -128,7 +135,6 @@ function switchLayer(layer) {
       map.setStyle('mapbox://styles/mapbox/' + layerId + '-v9');
     }
 }
-
 
 function switchPOI() {
   var visibility = map.getLayoutProperty('poi-layer', 'visibility');
@@ -147,78 +153,18 @@ inputs[0].onclick = switchLayer;
 inputs[1].onclick = switchLayer;
 inputs[2].onclick = switchPOI;
 
-
 var selectedPoiId;
 var selectedProjectId;
 
-class AJAXError extends Error {
-    constructor(message, status, url) {
-        super(message);
-        this.status = status;
-        this.url = url;
-
-        // work around for https://github.com/Rich-Harris/buble/issues/40
-        this.name = this.constructor.name;
-        this.message = message;
-    }
-
-    toString() {
-        return `${this.name}: ${this.message} (${this.status}): ${this.url}`;
-    }
+function deselect() {
+  if (selectedProjectId) {
+    map.setFeatureState({source: 'projects', id: selectedProjectId}, { selected: false});
+  }
+  if (selectedPoiId) {
+    map.setFeatureState({source: 'poi', id: selectedPoiId}, { selected: false});
+  }
 }
 
-function makeRequest(requestParameters) {
-    const xhr = new window.XMLHttpRequest();
-
-    xhr.open('GET', requestParameters.url, true);
-    for (const k in requestParameters.headers) {
-        xhr.setRequestHeader(k, requestParameters.headers[k]);
-    }
-    xhr.withCredentials = requestParameters.credentials === 'include';
-    return xhr;
-};
-
-function getJSON(requestParameters, callback) {
-    const xhr = makeRequest(requestParameters);
-    xhr.setRequestHeader('Accept', 'application/json');
-    xhr.onerror = function() {
-        callback(new Error(xhr.statusText));
-    };
-    xhr.onload = function() {
-        if (xhr.status >= 200 && xhr.status < 300 && xhr.response) {
-            let data;
-            try {
-                data = JSON.parse(xhr.response);
-            } catch (err) {
-                return callback(err);
-            }
-            callback(null, data);
-        } else {
-            if (xhr.status === 401 && requestParameters.url.match(/mapbox.com/)) {
-                callback(new AJAXError(`${xhr.statusText}: you may have provided an invalid Mapbox access token. See https://www.mapbox.com/api-documentation/#access-tokens`, xhr.status, requestParameters.url));
-            } else {
-                callback(new AJAXError(xhr.statusText, xhr.status, requestParameters.url));
-            }
-        }
-    };
-    xhr.send();
-    return xhr;
-};
-
-function getSecondPart(str) {
-  return str.split(' - ')[1];
-}
-
-function cleanLabel(str){
-  str = str.charAt(0).toUpperCase() + str.slice(1);
-  str = str.replace(/_/g,' ');
-  str = str.replace(/ s /g, "'s ");
-  return str;
-}
-
-map.on('style.load', function() {
-  loadBoundary();
-});
 map.on('render', function() {
   if (map.getLayer('projects-layer')) {
     var features = map.queryRenderedFeatures({ layers: ['projects-layer'] });
@@ -227,6 +173,96 @@ map.on('render', function() {
   }
 });
 
+<!-- LOAD BOUNDARY -->
+map.on('style.load', function() {
+  loadBoundary();
+});
+
+function loadBoundary() {
+  if (map.getSource('boundary')) {
+    addBoundaryLayer();
+    return;
+  }
+
+  getJSON({url:'{{page.boundary}}'}, function(err,boundary){
+    map.addSource('boundary', {
+      'type': 'geojson',
+      'data': boundary
+    });
+    addBoundaryLayer();
+    loadPOI(); /* load POI after boundary, because we filter poi to boundary interior */
+  });
+}
+
+function addBoundaryLayer() {
+  map.addLayer({
+    'id': 'boundary-layer',
+    'type': 'line',
+    'source': 'boundary',
+    "filter": [
+      "==",
+      "$type",
+      "Polygon"
+    ],
+    "layout": {},
+    "paint": {
+      "line-color": "hsl(301, 44%, 71%)",
+      "line-width": 3
+    }
+  });
+  map.addLayer({
+    "id": "boundary-text",
+    "type": "symbol",
+    "source": "boundary",
+    "filter": [
+      "==",
+      "$type",
+      "Polygon"
+    ],
+    "layout": {
+      "visibility": "visible",
+      "symbol-placement": "line",
+      "text-rotation-alignment": "map",
+      "text-offset": [
+        0,
+        1
+      ],
+      "text-field": [
+        "to-string",
+        [
+          "get",
+          "name"
+        ]
+      ],
+      "text-font": [
+        "Open Sans Italic",
+        "Arial Unicode MS Regular"
+      ]
+    },
+    "paint": {
+      "text-opacity": 1
+    }
+  });
+}
+
+<!-- LOAD POI -->
+
+function loadPOI() {
+  if (map.getSource('poi')) {
+    addPoiLayer();
+    return;
+  }
+
+  getJSON({url:'{{page.poi}}'}, function(err,result){
+    var ptsWithin = turf.pointsWithinPolygon(result, map.getSource('boundary')._data);
+    map.addSource('poi', {
+      'type': 'geojson',
+        'data': ptsWithin
+    });
+    addPoiLayer();
+    loadProjects(); /* load projects after POI for proper z-level placement */
+  });
+}
 
 function addPoiLayer() {
   var visibility = "none";
@@ -250,24 +286,13 @@ function addPoiLayer() {
     },
   });
 
-  map.on('click', 'poi-layer', function (e) {
-    var coordinates = e.features[0].geometry.coordinates.slice();
+  map.on('click', 'poi-layer', handlePOIClick);
+}
 
-    if (selectedPoiId) {
-        map.setFeatureState({source: 'poi', id: selectedPoiId}, { selected: false});
-    }
-    if (selectedProjectId) {
-        map.setFeatureState({source: 'projects', id: selectedProjectId}, { selected: false});
-    }
+function handlePOIClick(e) {
+    deselect();
     selectedPoiId = e.features[0].id;
     map.setFeatureState({source: 'poi', id: selectedPoiId}, { selected: true});
-
-    // Ensure that if the map is zoomed out such that multiple
-    // copies of the feature are visible, the popup appears
-    // over the copy being pointed to.
-    while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-      coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-    }
 
     d3.select('.entry').remove();
 
@@ -286,46 +311,49 @@ function addPoiLayer() {
         poi_text = poi_text + "<a target='_blank_' href='https://www.openstreetmap.org/node/" + e.features[0].properties['osm:id'] + "'>Open in OpenStreetMap</a>" + (image ? "<img src='" + image + "'/>" : "");
         return poi_text;
       });
-
-  });
-
 }
 
-function loadPOI() {
-  if (map.getSource('poi')) {
-    addPoiLayer();
+<!-- LOAD PROJECTS -->
+
+var projects;
+function loadProjects() {
+  if (map.getSource('projects')) {
+    addProjectLayer();
     return;
   }
-
-  getJSON({url:'{{page.poi}}'}, function(err,result){
-    var ptsWithin = turf.pointsWithinPolygon(result, map.getSource('boundary')._data);
-    map.addSource('poi', {
-      'type': 'geojson',
-        'data': ptsWithin
+  getJSON({url:'{{page.projects}}'}, function(err,response){
+    var result = [];
+    var cleanCategory = {
+      'EDU': 'Education and Vocational Training',
+      'CA': 'County Assembly',
+      'GO': "The Governor's Office",
+      'FIEC': 'County Finance and Economic Planning'
+    };
+    response.features.forEach(function(project){
+      project.properties['Category'] = cleanCategory[ project.properties['Category'] ] || project.properties['Category'];
+      result.push(project);
     });
-    addPoiLayer();
-    loadProjects();
-  });
 
-}
+    projects = {'type': 'FeatureCollection', 'features': result};
+    map.addSource('projects', {
+      'type': 'geojson',
+      'data': projects
+    });
+    addProjectLayer();
+
+  });
+};
 
 function addProjectLayer() {
-  /* map.addLayer({
-    'id': 'projects-layer',
-    'type': 'circle',
-    'source': 'projects',
-    'layout': {
-      'visibility': 'visible'
-    },
-    'paint': {
-      'circle-radius': 5,
-      'circle-color': '#ff7733'
-    }
-  }); */
    map.addLayer({
     'id': 'projects-layer',
     'type': 'symbol',
     'source': 'projects',
+    "filter": [
+      "==",
+      "$type",
+      "Point"
+    ],
     'layout': {
       "icon-allow-overlap": true,
       'text-allow-overlap': true,
@@ -362,6 +390,38 @@ function addProjectLayer() {
       ]
     }
   });
+
+  map.addLayer({
+   'id': 'projects-ways-layer',
+   'type': 'line',
+   'source': 'projects',
+   "filter": [
+     "any",
+        ["==",
+         "$type",
+         "LineString"],
+        ["==",
+          "$type",
+          "Polygon"]
+   ],
+   'layout': {
+     'line-cap': 'round',
+     'line-join': 'round',
+     'visibility': 'visible'
+   },
+   'paint': {
+     'line-width': 4,
+     'line-color': [
+         'case',
+           ["boolean", ["feature-state", 'selected'], false],
+                 "#ff0000",
+                 "#000000"
+       ]
+     }
+   });
+
+   map.on('click', 'projects-layer', handleProjectClick);
+   map.on('click', 'projects-ways-layer', handleProjectClick);
 
   function updateMap(dataset){
     map.getSource('projects').setData(dataset);
@@ -453,153 +513,42 @@ function addProjectLayer() {
     });
 
     applyFilter();
-
-    map.on('click', 'projects-layer', function (e) {
-      var coordinates = e.features[0].geometry.coordinates.slice();
-
-      if (selectedProjectId) {
-          map.setFeatureState({source: 'projects', id: selectedProjectId}, { selected: false});
-      }
-      if (selectedPoiId) {
-          map.setFeatureState({source: 'poi', id: selectedPoiId}, { selected: false});
-      }
-      selectedProjectId = e.features[0].id;
-      map.setFeatureState({source: 'projects', id: selectedProjectId}, { selected: true});
-
-      // Ensure that if the map is zoomed out such that multiple
-      // copies of the feature are visible, the popup appears
-      // over the copy being pointed to.
-      while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-        coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-      }
-
-      d3.select('.entry').remove();
-
-      d3.select('.list')
-        .append('div')
-        .attr('class', 'entry pad2 keyline-top')
-        .html(function(d){
-          var poi_text = "<br/>";
-          for (attribute in e.features[0].properties) {
-            if (attribute[0]  != attribute[0].toUpperCase() && ! attribute.startsWith("image") ) {
-              poi_text = poi_text + attribute + ": " + e.features[0].properties[attribute] + "<br/>";
-            }
-          }
-          var image = e.features[0].properties.image || e.features[0].properties['image:project'] || e.features[0].properties['image:pointofinterest'];
-          return "<table style='border-spacing: 10px'>" +
-            "<tr><td>Project Name</td><td><strong><a target='_blank_' href='https://www.openstreetmap.org/node/" + e.features[0].properties['osm:id'] + "'>" + e.features[0].properties['name'] + "</a></strong></td></tr>" +
-            "<tr><td>Project Description</td><td><strong>" + e.features[0].properties['Project_Description'] + "</strong></td></tr>" +
-            "<tr><td>Project Status</td><td><strong>" + e.features[0].properties['What_is_the_project_s_apparent_status'] + "</strong></td></tr>" +
-            "<tr><td>Opinion</td><td><strong>" + e.features[0].properties['In_your_opinion_is_the_project_quality'] + "</strong></td></tr>" +
-            "<tr><td>Comment</td><td><strong>" + e.features[0].properties['Please_add_any_details_about_y'] + "</strong></td></tr>" +
-            (e.features[0].properties['Budgeted sum'] ?
-              "<tr><td>Budget</td><td><strong>" + e.features[0].properties['Budgeted sum'] + "</strong></td></tr>" : "")
-            + "<tr><td colspan='2'><img src='" + image + "'/></td></tr></table>";
-          });
-
-      if (parent) {
-        parent.postMessage(e.features[0].properties['wb_pb:id'], "*");
-      }
-    });
 }
 
-var projects;
-function loadProjects() {
-  if (map.getSource('projects')) {
-    addProjectLayer();
-    return;
+function handleProjectClick(e) {
+  deselect();
+  selectedProjectId = e.features[0].id;
+  map.setFeatureState({source: 'projects', id: selectedProjectId}, { selected: true});
+
+  d3.select('.entry').remove();
+
+  d3.select('.list')
+    .append('div')
+    .attr('class', 'entry pad2 keyline-top')
+    .html(function(d){
+      var poi_text = "<br/>";
+      for (attribute in e.features[0].properties) {
+        if (attribute[0]  != attribute[0].toUpperCase() && ! attribute.startsWith("image") ) {
+          poi_text = poi_text + attribute + ": " + e.features[0].properties[attribute] + "<br/>";
+        }
+      }
+      var image = e.features[0].properties.image || e.features[0].properties['image:project'] || e.features[0].properties['image:pointofinterest'];
+      return "<table style='border-spacing: 10px'>" +
+        "<tr><td>Project Name</td><td><strong><a target='_blank_' href='https://www.openstreetmap.org/node/" + e.features[0].properties['osm:id'] + "'>" + e.features[0].properties['name'] + "</a></strong></td></tr>" +
+        "<tr><td>Project Description</td><td><strong>" + e.features[0].properties['Project_Description'] + "</strong></td></tr>" +
+        "<tr><td>Project Status</td><td><strong>" + e.features[0].properties['What_is_the_project_s_apparent_status'] + "</strong></td></tr>" +
+        "<tr><td>Opinion</td><td><strong>" + e.features[0].properties['In_your_opinion_is_the_project_quality'] + "</strong></td></tr>" +
+        "<tr><td>Comment</td><td><strong>" + e.features[0].properties['Please_add_any_details_about_y'] + "</strong></td></tr>" +
+        (e.features[0].properties['Budgeted sum'] ?
+          "<tr><td>Budget</td><td><strong>" + e.features[0].properties['Budgeted sum'] + "</strong></td></tr>" : "")
+        + "<tr><td colspan='2'><img src='" + image + "'/></td></tr></table>";
+      });
+
+  if (parent) {
+    parent.postMessage(e.features[0].properties['wb_pb:id'], "*");
   }
-  getJSON({url:'{{page.projects}}'}, function(err,response){
-    var result = [];
-    var cleanCategory = {
-      'EDU': 'Education and Vocational Training',
-      'CA': 'County Assembly',
-      'GO': "The Governor's Office",
-      'FIEC': 'County Finance and Economic Planning'
-    };
-    response.features.forEach(function(project){
-      project.properties['Category'] = cleanCategory[ project.properties['Category'] ] || project.properties['Category'];
-      result.push(project);
-    });
-    projects = {'type':'FeatureCollection', 'features': result};
-
-    map.addSource('projects', {
-      'type': 'geojson',
-      'data': projects
-    });
-    addProjectLayer();
-
-  });
-};
-
-
-function addBoundaryLayer() {
-  map.addLayer({
-    'id': 'boundary-layer',
-    'type': 'line',
-    'source': 'boundary',
-    "filter": [
-      "==",
-      "$type",
-      "Polygon"
-    ],
-    "layout": {},
-    "paint": {
-      "line-color": "hsl(301, 44%, 71%)",
-      "line-width": 3
-    }
-  });
-  map.addLayer({
-    "id": "boundary-text",
-    "type": "symbol",
-    "source": "boundary",
-    "filter": [
-      "==",
-      "$type",
-      "Polygon"
-    ],
-    "layout": {
-      "visibility": "visible",
-      "symbol-placement": "line",
-      "text-rotation-alignment": "map",
-      "text-offset": [
-        0,
-        1
-      ],
-      "text-field": [
-        "to-string",
-        [
-          "get",
-          "name"
-        ]
-      ],
-      "text-font": [
-        "Open Sans Italic",
-        "Arial Unicode MS Regular"
-      ]
-    },
-    "paint": {
-      "text-opacity": 1
-    }
-  });
 }
 
-function loadBoundary() {
-  if (map.getSource('boundary')) {
-    addBoundaryLayer();
-    return;
-  }
-
-  getJSON({url:'{{page.boundary}}'}, function(err,boundary){
-    map.addSource('boundary', {
-      'type': 'geojson',
-      'data': boundary
-    });
-    addBoundaryLayer();
-    loadPOI();
-  });
-
-}
 </script>
 
 </body>

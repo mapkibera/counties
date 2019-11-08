@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
+<osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-04T01:38:02Z"/>
+<meta osm_base="2019-11-08T20:13:02Z"/>
 
   <bounds minlat="1.1610400" minlon="34.9640000" maxlat="1.4225900" maxlon="35.1782300"/>
 
@@ -258,6 +258,52 @@
     <tag k="medical_service:pregnancy_test" v="no"/>
     <tag k="name" v="Kaprom Dispensary"/>
     <tag k="wb_pb:id" v="80"/>
+  </node>
+  <node id="6908782531" lat="1.2533400" lon="35.0109750" version="2" timestamp="2019-11-05T10:54:22Z" changeset="76639909" uid="4873427" user="shazomojah">
+    <tag k="amenity" v="school"/>
+    <tag k="education_gender_type" v="mixed"/>
+    <tag k="education_government_registere" v="moe"/>
+    <tag k="education_type" v="secondary"/>
+    <tag k="image_pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571748134699.jpg"/>
+    <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571811405561.jpg"/>
+    <tag k="is_in_village" v="Cheptuya"/>
+    <tag k="name" v="Cheptuya mixed secondary school water tank"/>
+    <tag k="wb_pb:id" v="164"/>
+  </node>
+  <node id="6908782532" lat="1.2532650" lon="35.0107650" version="2" timestamp="2019-11-05T10:54:22Z" changeset="76639909" uid="4873427" user="shazomojah">
+    <tag k="amenity" v="school"/>
+    <tag k="education_gender_type" v="mixed"/>
+    <tag k="education_government_registere" v="moe"/>
+    <tag k="education_type" v="secondary"/>
+    <tag k="image_pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747713230.jpg"/>
+    <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747976679.jpg"/>
+    <tag k="is_in_village" v="Cheptuya"/>
+    <tag k="name" v="Cheptuya Mixed Secondary Dairy Cows project"/>
+    <tag k="wb_pb:id" v="163"/>
+  </node>
+  <node id="6908782533" lat="1.2533350" lon="35.0104467" version="2" timestamp="2019-11-05T10:51:05Z" changeset="76639671" uid="4873427" user="shazomojah">
+    <tag k="amenity" v="school"/>
+    <tag k="education_gender_type" v="mixed"/>
+    <tag k="education_government_registere" v="moe"/>
+    <tag k="education_type" v="secondary"/>
+    <tag k="image_pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747102468.jpg"/>
+    <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747254094.jpg"/>
+    <tag k="is_in_village" v="Cheptuya"/>
+    <tag k="name" v="Cheptuya Mixed Secondary School-Borehole"/>
+    <tag k="operator_type" v="government"/>
+    <tag k="wb_pb:id" v="162"/>
+  </node>
+  <node id="6908782539" lat="1.2631183" lon="34.9770550" version="2" timestamp="2019-11-05T10:38:39Z" changeset="76638877" uid="4873427" user="shazomojah">
+    <tag k="amenity" v="school"/>
+    <tag k="education_gender_type" v="mixed"/>
+    <tag k="education_government_registere" v="moe"/>
+    <tag k="education_type" v="primary"/>
+    <tag k="image_pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571735314332.jpg"/>
+    <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571735843966.jpg"/>
+    <tag k="is_in_village" v="Mortome"/>
+    <tag k="name" v="Mortome primary school"/>
+    <tag k="operator_type" v="government"/>
+    <tag k="wb_pb:id" v="160"/>
   </node>
   <node id="6908794308" lat="1.3061500" lon="35.1117333" version="1" timestamp="2019-10-23T11:37:57Z" changeset="76099228" uid="10380888" user="Hillarious">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731366783.jpg"/>
@@ -542,16 +588,7 @@
     <tag k="office" v="government"/>
     <tag k="wb_pb:id" v="131"/>
   </node>
-  <node id="6909005392" lat="1.2415583" lon="35.1178800" version="1" timestamp="2019-10-23T12:38:03Z" changeset="76102015" uid="10380888" user="Hillarious">
-    <tag k="barrier" v="fence"/>
-    <tag k="fence_type" v="chain_link"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734395171.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571736915992.jpg"/>
-    <tag k="is_in:village" v="Mwotot"/>
-    <tag k="name" v="West Pokot Investment and Cooperative Development Fence"/>
-    <tag k="wb_pb:id" v="130"/>
-  </node>
-  <node id="6909005393" lat="1.2415550" lon="35.1178117" version="1" timestamp="2019-10-23T12:38:03Z" changeset="76102015" uid="10380888" user="Hillarious">
+  <node id="6909005393" lat="1.2416301" lon="35.1178171" version="2" timestamp="2019-11-08T09:04:40Z" changeset="76796038" uid="4873427" user="shazomojah">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571732610954.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571733043474.jpg"/>
     <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571733858523.jpg"/>
@@ -569,27 +606,24 @@
     <tag k="office" v="government"/>
     <tag k="wb_pb:id" v="129"/>
   </node>
-  <node id="6909005395" lat="1.2421733" lon="35.1174917" version="1" timestamp="2019-10-23T12:38:03Z" changeset="76102015" uid="10380888" user="Hillarious">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731164574.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731499168.jpg"/>
-    <tag k="is_in:village" v="Mwotot"/>
-    <tag k="name" v="West Pokot County Tourism fence"/>
-    <tag k="wb_pb:id" v="127"/>
-  </node>
-  <node id="6909005396" lat="1.2421267" lon="35.1174750" version="1" timestamp="2019-10-23T12:38:03Z" changeset="76102015" uid="10380888" user="Hillarious">
+  <node id="6909005396" lat="1.2421267" lon="35.1174750" version="2" timestamp="2019-11-08T09:04:40Z" changeset="76796038" uid="4873427" user="shazomojah">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="female" v="yes"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571730593947.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571730870332.jpg"/>
     <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571730889049.jpg"/>
     <tag k="is_in:village" v="Mwotot"/>
+    <tag k="male" v="yes"/>
     <tag k="name" v="West Pokot County Tourism Office pit latrine"/>
     <tag k="opening_hours" v="Mo-Fr 6:00-18:00"/>
     <tag k="toilets:num_chambers" v="3"/>
     <tag k="wb_pb:id" v="126"/>
   </node>
-  <node id="6909005397" lat="1.2418667" lon="35.1176533" version="1" timestamp="2019-10-23T12:38:03Z" changeset="76102015" uid="10380888" user="Hillarious">
+  <node id="6909005397" lat="1.2418667" lon="35.1176533" version="2" timestamp="2019-11-08T09:04:40Z" changeset="76796038" uid="4873427" user="shazomojah">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571729257262.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571729847824.jpg"/>
-    <tag k="image_project_inside" v="1571730011731.jpg"/>
+    <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571730011731.jpg"/>
     <tag k="is_in:village" v="Mwotot"/>
     <tag k="name" v="West Pokot County Tourism Office"/>
     <tag k="office" v="government"/>
@@ -1292,13 +1326,13 @@
     <tag k="office" v="government"/>
     <tag k="wb_pb:id" v="33"/>
   </node>
-  <node id="6924413667" lat="1.2398650" lon="35.1191900" version="1" timestamp="2019-10-28T11:25:52Z" changeset="76295280" uid="10380856" user="benard lokeris">
+  <node id="6924413667" lat="1.2398650" lon="35.1191900" version="2" timestamp="2019-11-04T09:35:13Z" changeset="76579464" uid="261050" user="muindre">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571904679510.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571904814271.jpg"/>
     <tag k="is_in:village" v="Mwotot"/>
     <tag k="name" v="West Pokot County Commissioners Office"/>
     <tag k="office" v="government"/>
-    <tag k="wb_pb:id" v="29"/>
+    <tag k="wb_pb:id" v="22"/>
   </node>
   <node id="6924413668" lat="1.2406433" lon="35.1172600" version="1" timestamp="2019-10-28T11:25:52Z" changeset="76295280" uid="10380856" user="benard lokeris">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571904261902.jpg"/>
@@ -1308,11 +1342,11 @@
     <tag k="office" v="government"/>
     <tag k="wb_pb:id" v="41"/>
   </node>
-  <node id="6924413669" lat="1.2419133" lon="35.1169650" version="1" timestamp="2019-10-28T11:25:52Z" changeset="76295280" uid="10380856" user="benard lokeris">
+  <node id="6924413669" lat="1.2419133" lon="35.1169650" version="2" timestamp="2019-11-08T09:04:40Z" changeset="76796038" uid="4873427" user="shazomojah">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571903746726.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571903979718.jpg"/>
     <tag k="is_in:village" v="Mwotot"/>
-    <tag k="name" v="West Pokot County Renovation of Residential Block B"/>
+    <tag k="name" v="West Pokot County Renovation of Residential Block A"/>
     <tag k="office" v="government"/>
     <tag k="wb_pb:id" v="40"/>
   </node>
@@ -1534,6 +1568,14 @@
     <tag k="operator:type" v="government"/>
     <tag k="wb_pb:id" v="69"/>
   </node>
+  <node id="6934156165" lat="1.2576775" lon="35.0953152" version="3" timestamp="2019-11-05T12:28:11Z" changeset="76645503" uid="4873427" user="shazomojah">
+    <tag k="amenity" v="toilets"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572429783696.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572429893588.jpg"/>
+    <tag k="is_in:village" v="Makutano"/>
+    <tag k="name" v="Kapenguria Town Toilet Project"/>
+    <tag k="wb_pb:id" v="167"/>
+  </node>
   <node id="6934228993" lat="1.2573983" lon="35.0925050" version="1" timestamp="2019-10-31T08:08:01Z" changeset="76434005" uid="10380936" user="CHENAA">
     <tag k="amenity" v="marketplace"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572424257867.jpg"/>
@@ -1566,11 +1608,11 @@
     <tag k="name" v="Makutano Cloth Market"/>
     <tag k="wb_pb:id" v="274"/>
   </node>
-  <node id="6934229002" lat="1.2600617" lon="35.0920033" version="1" timestamp="2019-10-31T08:08:01Z" changeset="76434005" uid="10380936" user="CHENAA">
+  <node id="6934229002" lat="1.2600617" lon="35.0920033" version="2" timestamp="2019-11-05T12:23:40Z" changeset="76645246" uid="4873427" user="shazomojah">
     <tag k="amenity" v="shelter"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427965325.jpg"/>
     <tag k="is_in:village" v="Makutano."/>
-    <tag k="name" v="Kacheliba Bodaboda Shade."/>
+    <tag k="name" v="Kacheliba Bodaboda Shed"/>
     <tag k="shelter_type" v="boda"/>
     <tag k="wb_pb:id" v="156"/>
   </node>
@@ -1650,16 +1692,6 @@
     <tag k="wb_pb:id" v="110"/>
     <tag k="width" v="12_m"/>
   </node>
-  <node id="6936808410" lat="1.3572483" lon="35.1187833" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357162313.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357446912.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Tingwo-Kormonot-Kopoch"/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="0"/>
-    <tag k="width" v="12_m"/>
-  </node>
   <node id="6936808411" lat="1.2969300" lon="35.1110933" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
     <tag k="highway" v="residential"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344186262.jpg"/>
@@ -1669,16 +1701,6 @@
     <tag k="surface" v="earth"/>
     <tag k="wb_pb:id" v="78"/>
     <tag k="width" v="15_m"/>
-  </node>
-  <node id="6936808412" lat="1.2507200" lon="35.0914367" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="residential"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357062734.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357188239.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Superfoam-Daraja Road"/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="307"/>
-    <tag k="width" v="12_m"/>
   </node>
   <node id="6936808413" lat="1.2256350" lon="35.0813683" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
     <tag k="highway" v="unclassified"/>
@@ -1768,26 +1790,6 @@
     <tag k="name" v="Kammorrow-Kanglikwan Road"/>
     <tag k="surface" v="dirt"/>
     <tag k="wb_pb:id" v="228"/>
-    <tag k="width" v="12_m"/>
-  </node>
-  <node id="6936808422" lat="1.2527000" lon="35.0873217" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353381900.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353598574.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Lutheran Shalom School road."/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="273"/>
-    <tag k="width" v="12_m"/>
-  </node>
-  <node id="6936808424" lat="1.2523050" lon="35.0840867" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350608493.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350894401.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Makutano Primary Paul Kide Residence Road."/>
-    <tag k="surface" v="dirt"/>
-    <tag k="wb_pb:id" v="279"/>
     <tag k="width" v="12_m"/>
   </node>
   <node id="6936808425" lat="1.2593133" lon="35.0574433" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
@@ -1890,16 +1892,6 @@
     <tag k="wb_pb:id" v="292"/>
     <tag k="width" v="9_m"/>
   </node>
-  <node id="6936808435" lat="1.2938550" lon="35.0508750" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347619518.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347715270.jpg"/>
-    <tag k="maintenance" v="kerra"/>
-    <tag k="name" v="Kapchepkai - Kodongou Road"/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="223"/>
-    <tag k="width" v="9_m"/>
-  </node>
   <node id="6936808436" lat="1.2818133" lon="35.0444050" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
     <tag k="highway" v="unclassified"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344950383.jpg"/>
@@ -1940,15 +1932,60 @@
     <tag k="wb_pb:id" v="3"/>
     <tag k="width" v="9_m"/>
   </node>
-  <node id="6936808441" lat="1.2525017" lon="35.1146850" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="tertiary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572335163086.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572335425826.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Kapenguria- kakrut road"/>
-    <tag k="surface" v="dirt"/>
-    <tag k="wb_pb:id" v="70"/>
-    <tag k="width" v="9_m"/>
+  <node id="6948364836" lat="1.2788167" lon="35.0816467" version="1" timestamp="2019-11-05T13:18:01Z" changeset="76648572" uid="10380856" user="benard lokeris">
+    <tag k="amenity" v="clinic"/>
+    <tag k="health_facility:type" v="dispensary"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571999835930.jpg"/>
+    <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571999874856.jpg"/>
+    <tag k="is_in:village" v="Kishaunet"/>
+    <tag k="name" v="Kishaunet Dispensary"/>
+    <tag k="wb_pb:id" v="248"/>
+  </node>
+  <node id="6948364837" lat="1.2787817" lon="35.0816800" version="1" timestamp="2019-11-05T13:18:01Z" changeset="76648572" uid="10380856" user="benard lokeris">
+    <tag k="amenity" v="clinic"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="electricity" v="always"/>
+    <tag k="health_facility:referrals" v="Kapenguria Referral Hospital"/>
+    <tag k="health_facility:type" v="dispensary"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571999130069.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571999400843.jpg"/>
+    <tag k="is_in:village" v="Kishaunet"/>
+    <tag k="medical_service:family_planning" v="yes"/>
+    <tag k="medical_service:general_medical_services" v="yes"/>
+    <tag k="medical_service:immunizations" v="yes"/>
+    <tag k="medical_service:malaria" v="yes"/>
+    <tag k="medical_service:pregnancy_test" v="yes"/>
+    <tag k="name" v="Kishaunet Dispensary"/>
+    <tag k="wb_pb:id" v="247"/>
+  </node>
+  <node id="6948364840" lat="1.2806350" lon="35.0805800" version="1" timestamp="2019-11-05T13:18:01Z" changeset="76648572" uid="10380856" user="benard lokeris">
+    <tag k="amenity" v="toilets"/>
+    <tag k="charge" v="0"/>
+    <tag k="fee" v="yes"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571995174936.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571995392418.jpg"/>
+    <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571995418653.jpg"/>
+    <tag k="is_in:village" v="Kishaunet"/>
+    <tag k="name" v="Kishaunet Public Toilet"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator:description" v="County government"/>
+    <tag k="toilets:disposal" v="pit_latrine"/>
+    <tag k="toilets:handwashing" v="no"/>
+    <tag k="toilets:num_chambers" v="2"/>
+    <tag k="wb_pb:id" v="166"/>
+  </node>
+  <node id="6948364842" lat="1.2931433" lon="35.0483850" version="1" timestamp="2019-11-05T13:18:01Z" changeset="76648572" uid="10380856" user="benard lokeris">
+    <tag k="amenity" v="school"/>
+    <tag k="education:gender_type" v="mixed"/>
+    <tag k="education:government_registered" v="moe"/>
+    <tag k="education:type" v="primary"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571989861048.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571990635421.jpg"/>
+    <tag k="is_in:village" v="Kodongou"/>
+    <tag k="name" v="Kodongou Primary School"/>
+    <tag k="operator:description" v="ELCK"/>
+    <tag k="operator:type" v="government"/>
+    <tag k="wb_pb:id" v="253"/>
   </node>
 
 </osm>
