@@ -109,7 +109,6 @@ def match_projects_ward(ward):
        project_name = row['Project_Name']
 
     for feature in osm.features:
-       print "WARN: " + feature.properties['id']
        if feature.properties['tags']['wb_pb:id'] == id and found_match == False:
          found_match = True
 

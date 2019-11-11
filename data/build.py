@@ -75,14 +75,16 @@ def sync_projects():
 
   #west pokot
 
-  url2file('https://docs.google.com/spreadsheets/d/e/2PACX-1vST8fNcolIi00ureHIsuhQxZiLX8rs4F-8Z90pjz-lKYE6c4nnCQ6V86qH8aCMS516e24FfUtA75jXx/pub?gid=1664997779&single=true&output=csv', 'build/west_pokot_all-projects.csv')
+  url2file('https://docs.google.com/spreadsheets/d/e/2PACX-1vRAfwk0Immx9txJXStyiNRziLY7fsNivskSmkWLzLfjvkDB0L5L-Nm4jLKoSTxLNhs50AwLqSpMbrv-/pub?gid=0&single=true&output=csv', 'build/west_pokot_all-poi.csv')
+  url2file('https://docs.google.com/spreadsheets/d/e/2PACX-1vST8fNcolIi00ureHIsuhQxZiLX8rs4F-8Z90pjz-lKYE6c4nnCQ6V86qH8aCMS516e24FfUtA75jXx/pub?gid=1664997779&single=true&output=csv', 'build/west_pokot_all-ways.csv')
+  os.system("cat build/west_pokot_all-poi.csv newline.txt build/west_pokot_all-ways.csv > build/west_pokot_all-projects.csv")
   logging.info("sync_projects complete")
 
 ##Get data from OSM
 #sync_osm(counties)
 
 ##Get project data from Google Sheets
-#sync_projects()
+sync_projects()
 
 ##Transform OSM data into GeoJSON
 convert_geojson(counties)

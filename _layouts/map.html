@@ -322,18 +322,7 @@ function loadProjects() {
     return;
   }
   getJSON({url:'{{page.projects}}'}, function(err,response){
-    var result = [];
-    var cleanCategory = {
-      'EDU': 'Education and Vocational Training',
-      'CA': 'County Assembly',
-      'GO': "The Governor's Office",
-      'FIEC': 'County Finance and Economic Planning'
-    };
-    response.features.forEach(function(project){
-      project.properties['Category'] = cleanCategory[ project.properties['Category'] ] || project.properties['Category'];
-      result.push(project);
-    });
-
+    var result = cleanCategories(response);
     projects = {'type': 'FeatureCollection', 'features': result};
     map.addSource('projects', {
       'type': 'geojson',
@@ -343,6 +332,45 @@ function loadProjects() {
 
   });
 };
+
+function cleanCategories(response) {
+  var result = [];
+  var cleanCategory = {
+    'EDU': 'Education and Vocational Training',
+    'CA': 'County Assembly',
+    'GO': "The Governor's Office",
+    'FIEC': 'County Finance and Economic Planning',
+    'AGLF': 'Agriculture, Livestock, and Fisheries Management',
+    'Agriculture, Livestock and Fisheries': 'Agriculture, Livestock, and Fisheries Management',
+    'WI': 'Water and Irrigation',
+    'HS': 'Health Services',
+    'ALF': 'Agriculture, Livestock, and Fisheries Management',
+    'SCG': 'Sports, Culture, Gender and Social services',
+    'LHUD': 'Lands, Housing and Urban Development',
+    'RTEPW': 'Roads, Transport, Energy and Public Works',
+    'Transport, Public Works and Infrasctructure': 'Roads, Transport, Energy and Public Works',
+    'Environment, Natural Resource, Tourism and Wildlife Management': 'Tourism, Wildlife Management, Natural Resources and Mining',
+    'TWNRM': 'Tourism, Wildlife Management, Natural Resources and Mining',
+    'TCI': 'Trade, Cooperatives and Industrialization',
+    'RPWTI': 'Roads, public works, Transport and Infrastructure',
+    'LHPPUD': 'Lands, Housing, physical planning and urban Development',
+    'ETT': 'Education and Technical Training',
+    'PSIDU': 'Public Service,ICT and Devolved Units',
+    'TIICD': 'Trade Industrialization, Investment and Cooperative Development',
+    'YSTGSS': 'Youth,Sports, Tourism,Gender and Social Services',
+    'FEP': 'Finance and Economic Planning',
+    'PEAGRI': 'Pastoral Economy, Agriculture and Irrigation',
+    'WENR': 'Water Environment and Natural Resources',
+    'OG': 'Office of the Governor',
+    'HS': 'Health and sanitation',
+    'TIICD': 'Trade Industrialization, Investment and Cooperative Development'
+  };
+  response.features.forEach(function(project){
+    project.properties['Category'] = cleanCategory[ project.properties['Category'] ] || project.properties['Category'];
+    result.push(project);
+  });
+  return result;
+}
 
 function addProjectLayer() {
    map.addLayer({
@@ -423,50 +451,51 @@ function addProjectLayer() {
    map.on('click', 'projects-layer', handleProjectClick);
    map.on('click', 'projects-ways-layer', handleProjectClick);
 
-  function updateMap(dataset){
-    map.getSource('projects').setData(dataset);
-  }
+   buildFilter();
+   applyFilter();
+}
 
-  function filterReports(filterAttributes, excludedValues) {
-    var filteredResult = projects.features;
+function filterReports(filterAttributes, excludedValues) {
+  var filteredResult = projects.features;
 
-    // iterate through attributes to prune reports recursively
-    filterAttributes.forEach(function(Attribute, attributeIndex){
+  // iterate through attributes to prune reports recursively
+  filterAttributes.forEach(function(Attribute, attributeIndex){
 
-    //if there are no excluded values for this attribute, skip it
-    if (excludedValues[attributeIndex].length===0) return;
-    filteredResult =
-      filteredResult.filter(function(project){
-        return excludedValues[attributeIndex].indexOf(project.properties[Attribute]) === -1
-      });
+  //if there are no excluded values for this attribute, skip it
+  if (excludedValues[attributeIndex].length===0) return;
+  filteredResult =
+    filteredResult.filter(function(project){
+      return excludedValues[attributeIndex].indexOf(project.properties[Attribute]) === -1
     });
+  });
 
-    return {'type':'FeatureCollection', 'features': filteredResult};
-  }
+  return {'type':'FeatureCollection', 'features': filteredResult};
+}
 
-  function applyFilter(){
-    //generate list of all unchecked boxes, in same order as the list attributesToFilter
-    var exclusions = [[], [],[],[],[],[]];
-    var unchecked =
-      d3.selectAll('input:not(:checked)')
-        .each(function(){
-          var filterIndex = d3.select(this).attr('filterIndex');
-            if (filterIndex != undefined)
-              exclusions[filterIndex].push(getSecondPart(d3.select(this).attr('id')));
-        });
+var attributesToFilter = ['Category', 'What_is_the_project_s_apparent_status', 'In_your_opinion_is_the_project_quality'];
 
-    updateMap(filterReports(attributesToFilter, exclusions));
+function applyFilter(){
+  //generate list of all unchecked boxes, in same order as the list attributesToFilter
+  var exclusions = [[], [],[],[],[],[]];
+  var unchecked =
+    d3.selectAll('input:not(:checked)')
+      .each(function(){
+        var filterIndex = d3.select(this).attr('filterIndex');
+          if (filterIndex != undefined)
+            exclusions[filterIndex].push(getSecondPart(d3.select(this).attr('id')));
+      });
 
-  }
+  map.getSource('projects').setData( filterReports(attributesToFilter, exclusions) );
+}
 
-  var attributesToFilter = ['Category', 'What_is_the_project_s_apparent_status', 'In_your_opinion_is_the_project_quality'];
-
+function buildFilter() {
   var filterValues = [];
   // get all extant values for each attribute, to populate filter UI
   attributesToFilter.forEach(function(attribute, index){
     var attributeValues = [];
     projects.features.forEach(function(project){
-      if (attributeValues.indexOf(project.properties[attribute])==-1) attributeValues.push(project.properties[attribute])
+      var val = project.properties[attribute].toLowerCase().replace(/_/g," ");
+      if (attributeValues.indexOf(val)==-1) attributeValues.push(val);
     });
 
     filterValues.push(attributeValues);
@@ -502,17 +531,15 @@ function addProjectLayer() {
           .attr('checked', 'checked')
           .on('change', applyFilter);
 
-        // labels for checkboxes
+          // labels for checkboxes
         tick
           .append('label')
           .attr('class', 'small quiet')
           .attr('for', i+' - '+value)
           .text(cleanLabel(value));
 
+        });
       });
-    });
-
-    applyFilter();
 }
 
 function handleProjectClick(e) {
