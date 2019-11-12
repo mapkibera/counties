@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-11T20:05:02Z"/>
+<meta osm_base="2019-11-12T16:40:02Z"/>
 
   <bounds minlat="1.1610400" minlon="34.9640000" maxlat="1.4225900" maxlon="35.1782300"/>
 
@@ -1308,14 +1308,14 @@
     <tag k="operational_status" v="operational"/>
     <tag k="operator:type" v="cbo"/>
   </node>
-  <node id="6908909062" lat="1.1891733" lon="35.0934417" version="1" timestamp="2019-10-23T12:10:47Z" changeset="76100501" uid="10380829" user="SIWA Jnr">
+  <node id="6908909062" lat="1.1891733" lon="35.0934417" version="3" timestamp="2019-11-12T10:48:19Z" changeset="76954304" uid="4570042" user="Peter Agenga">
     <tag k="amenity" v="marketplace"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571740791419.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571740978799.jpg"/>
     <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571740992495.jpg"/>
     <tag k="is_in:village" v="Murkwijit"/>
-    <tag k="name" v="Murkwijit Trading Center"/>
-    <tag k="wb_pb:id" v="0"/>
+    <tag k="name" v="Murkwijit Trading Center Pit Latrine"/>
+    <tag k="wb_pb:id" v="139"/>
   </node>
   <node id="6908909063" lat="1.1886067" lon="35.0950183" version="1" timestamp="2019-10-23T12:10:47Z" changeset="76100501" uid="10380829" user="SIWA Jnr">
     <tag k="amenity" v="place_of_worship"/>
@@ -4607,76 +4607,6 @@
     <tag k="is_in:village" v="Makutano"/>
     <tag k="name" v="Spice Chicken Grill."/>
   </node>
-  <node id="6936808402" lat="1.3019400" lon="35.1262217" version="1" timestamp="2019-11-01T09:54:39Z" changeset="76485255" uid="10381136" user="Wafula_Wafula">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572425189724.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572425566397.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Ptoparua Chemwayam Kaproris Road"/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="72"/>
-    <tag k="width" v="9_m"/>
-  </node>
-  <node id="6936808403" lat="1.2897983" lon="35.1198783" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572423416920.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572423918673.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Kapkoris Chemwayam Road"/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="77"/>
-    <tag k="width" v="9_m"/>
-  </node>
-  <node id="6936808404" lat="1.2722633" lon="35.1472850" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427213674.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427691105.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Roponywo Kakomtin Road"/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="47"/>
-    <tag k="width" v="6_m"/>
-  </node>
-  <node id="6936808405" lat="1.3000367" lon="35.0916100" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572432768291.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572432963240.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Sukut emboasis koboch road"/>
-    <tag k="surface" v="dirt"/>
-    <tag k="wb_pb:id" v="111"/>
-    <tag k="width" v="9_m"/>
-  </node>
-  <node id="6936808408" lat="1.3048717" lon="35.1448583" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347428636.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347681951.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Kaprom _ Roponywo road"/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="107"/>
-    <tag k="width" v="9_m"/>
-  </node>
-  <node id="6936808409" lat="1.2852783" lon="35.1574400" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340188552.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340467873.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Sakat Kaprom Road"/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="110"/>
-    <tag k="width" v="12_m"/>
-  </node>
-  <node id="6936808411" lat="1.2969300" lon="35.1110933" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="residential"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344186262.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344687835.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Kapkoris-Chepkechir-Emboasis"/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="78"/>
-    <tag k="width" v="15_m"/>
-  </node>
   <node id="6936808413" lat="1.2256350" lon="35.0813683" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
     <tag k="highway" v="unclassified"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572356090217.jpg"/>
@@ -4685,26 +4615,6 @@
     <tag k="name" v="Kaa Tartar-Cormolee Road"/>
     <tag k="surface" v="dirt"/>
     <tag k="wb_pb:id" v="57"/>
-    <tag k="width" v="12_m"/>
-  </node>
-  <node id="6936808414" lat="1.2073983" lon="35.0892417" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572355315203.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572355415803.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Bondeni Road"/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="208"/>
-    <tag k="width" v="12_m"/>
-  </node>
-  <node id="6936808415" lat="1.2192850" lon="35.0817967" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353768976.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353928542.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Kwa Chief-Chepangang Road"/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="254"/>
     <tag k="width" v="12_m"/>
   </node>
   <node id="6936808416" lat="1.1985367" lon="35.1086617" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
@@ -4717,26 +4627,6 @@
     <tag k="wb_pb:id" v="54"/>
     <tag k="width" v="12_m"/>
   </node>
-  <node id="6936808417" lat="1.1950733" lon="35.0937517" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350038499.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350188140.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Murkwijit-Tomkokalya Road"/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="288"/>
-    <tag k="width" v="12_m"/>
-  </node>
-  <node id="6936808418" lat="1.2113533" lon="35.0512383" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572348898133.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572349083244.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Keringet-Kanglikwan-Murkwijit Road"/>
-    <tag k="surface" v="dirt"/>
-    <tag k="wb_pb:id" v="286"/>
-    <tag k="width" v="15_m"/>
-  </node>
   <node id="6936808419" lat="1.2123850" lon="35.0490050" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
     <tag k="highway" v="unclassified"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341888484.jpg"/>
@@ -4747,66 +4637,6 @@
     <tag k="wb_pb:id" v="245"/>
     <tag k="width" v="12_m"/>
   </node>
-  <node id="6936808420" lat="1.2026967" lon="35.0505350" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341447069.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341609674.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Kanglikwan-Kisii Road"/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="223"/>
-    <tag k="width" v="12_m"/>
-  </node>
-  <node id="6936808421" lat="1.2128633" lon="35.0769300" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340796951.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340980000.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Kammorrow-Kanglikwan Road"/>
-    <tag k="surface" v="dirt"/>
-    <tag k="wb_pb:id" v="228"/>
-    <tag k="width" v="12_m"/>
-  </node>
-  <node id="6936808425" lat="1.2593133" lon="35.0574433" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347985469.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572348020472.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Kaplelach Koror Road."/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="240"/>
-    <tag k="width" v="12_m"/>
-  </node>
-  <node id="6936808426" lat="1.2471033" lon="35.0509950" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572339241663.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572339579311.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Tartar-Parpelo-Kilimameri Box Culvert."/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="314"/>
-    <tag k="width" v="12_m"/>
-  </node>
-  <node id="6936808427" lat="1.2638383" lon="35.1265600" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572343601716.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344135921.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Karas-Rainbow Road"/>
-    <tag k="surface" v="dirt"/>
-    <tag k="wb_pb:id" v="82"/>
-    <tag k="width" v="9_m"/>
-  </node>
-  <node id="6936808428" lat="1.2810383" lon="35.1329600" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342494596.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342601408.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Kasowil -Tukumo -Karas Road"/>
-    <tag k="surface" v="dirt"/>
-    <tag k="wb_pb:id" v="84"/>
-    <tag k="width" v="9_m"/>
-  </node>
   <node id="6936808429" lat="1.2854350" lon="35.1218150" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
     <tag k="highway" v="unclassified"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340124535.jpg"/>
@@ -4815,16 +4645,6 @@
     <tag k="name" v="Tukumo -Karas Road"/>
     <tag k="surface" v="dirt"/>
     <tag k="wb_pb:id" v="84"/>
-    <tag k="width" v="9_m"/>
-  </node>
-  <node id="6936808430" lat="1.2571650" lon="35.1547283" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337804785.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337925036.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Karas-Cheptapesha-Katiporot - Kalamoywo Road"/>
-    <tag k="surface" v="dirt"/>
-    <tag k="wb_pb:id" v="83"/>
     <tag k="width" v="9_m"/>
   </node>
   <node id="6936808431" lat="1.2636950" lon="35.1474967" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
@@ -4837,17 +4657,7 @@
     <tag k="wb_pb:id" v="83"/>
     <tag k="width" v="9_m"/>
   </node>
-  <node id="6936808432" lat="1.2656883" lon="35.1321633" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572336461112.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572336594284.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Karas-Kalomoyo Road"/>
-    <tag k="surface" v="dirt"/>
-    <tag k="wb_pb:id" v="81"/>
-    <tag k="width" v="9_m"/>
-  </node>
-  <node id="6936808433" lat="1.2652267" lon="35.1311717" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
+  <node id="6936808433" lat="1.2656209" lon="35.1314346" version="3" timestamp="2019-11-12T11:45:14Z" changeset="76957390" uid="261050" user="muindre">
     <tag k="highway" v="unclassified"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350538249.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350644110.jpg"/>
@@ -4855,16 +4665,6 @@
     <tag k="name" v="Nasokol-Kaplelach Koror Road"/>
     <tag k="surface" v="earth"/>
     <tag k="wb_pb:id" v="291"/>
-    <tag k="width" v="9_m"/>
-  </node>
-  <node id="6936808434" lat="1.2731333" lon="35.0848100" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572349089840.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572349222261.jpg"/>
-    <tag k="maintenance" v="kerra"/>
-    <tag k="name" v="Kishaunet -Nasokol Road"/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="292"/>
     <tag k="width" v="9_m"/>
   </node>
   <node id="6936808436" lat="1.2818133" lon="35.0444050" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
@@ -4877,16 +4677,6 @@
     <tag k="wb_pb:id" v="272"/>
     <tag k="width" v="9_m"/>
   </node>
-  <node id="6936808437" lat="1.2816950" lon="35.0751917" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344077605.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344459914.jpg"/>
-    <tag k="maintenance" v="kerra"/>
-    <tag k="name" v="Kamito-Kamayech Serowo Road"/>
-    <tag k="surface" v="earth"/>
-    <tag k="wb_pb:id" v="226"/>
-    <tag k="width" v="9_m"/>
-  </node>
   <node id="6936808438" lat="1.2500450" lon="35.1113617" version="1" timestamp="2019-11-01T09:54:39Z" changeset="76485255" uid="10381136" user="Wafula_Wafula">
     <tag k="highway" v="unclassified"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342574959.jpg"/>
@@ -4894,26 +4684,6 @@
     <tag k="name" v="Catholic-sakas-cereal-Makutano Road"/>
     <tag k="surface" v="paved"/>
     <tag k="width" v="15_m"/>
-  </node>
-  <node id="6936808439" lat="1.2453317" lon="35.1142133" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341998595.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342021066.jpg"/>
-    <tag k="maintenance" v="kura"/>
-    <tag k="name" v="Kapenguria Office Road"/>
-    <tag k="surface" v="paved"/>
-    <tag k="wb_pb:id" v="121"/>
-    <tag k="width" v="9_m"/>
-  </node>
-  <node id="6936808440" lat="1.2308717" lon="35.1201700" version="2" timestamp="2019-11-02T10:58:54Z" changeset="76524824" uid="616774" user="mueschel">
-    <tag k="highway" v="tertiary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572336953317.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337126314.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Aramaket -Kasurum Road"/>
-    <tag k="surface" v="dirt"/>
-    <tag k="wb_pb:id" v="3"/>
-    <tag k="width" v="9_m"/>
   </node>
   <node id="6936842850" lat="1.2599791" lon="35.1057917" version="1" timestamp="2019-11-01T10:16:49Z" changeset="76486451" uid="10380888" user="Hillarious">
     <tag k="amenity" v="bar"/>

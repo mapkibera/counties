@@ -808,6 +808,62 @@
 },
 {
   "type": "Feature",
+  "id": "way/739511941",
+  "properties": {
+    "type": "way",
+    "id": "739511941",
+    "tags": {
+      "amenity": "clinic",
+      "health_facility:type": "dispensary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911348165.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911470100.jpg",
+      "is_in:village": "Lokornoi",
+      "name": "Lokornoi Dispensary",
+      "wb_pb:id": "165"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-12T11:49:07Z",
+      "version": "2",
+      "changeset": "76957601",
+      "user": "fondolucy",
+      "uid": "265690"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.03028,
+          1.2677973
+        ],
+        [
+          35.03044,
+          1.2674643
+        ],
+        [
+          35.0306353,
+          1.2675582
+        ],
+        [
+          35.0304547,
+          1.267869
+        ],
+        [
+          35.0302742,
+          1.2678094
+        ],
+        [
+          35.03028,
+          1.2677973
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/739512351",
   "properties": {
     "type": "way",
@@ -14424,11 +14480,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-01T09:39:33Z",
-      "version": "1",
-      "changeset": "76484582",
-      "user": "SIWA Jnr",
-      "uid": "10380829"
+      "timestamp": "2019-11-12T12:33:19Z",
+      "version": "2",
+      "changeset": "76959813",
+      "user": "Arap Kobilo",
+      "uid": "10269217"
     }
   },
   "geometry": {
@@ -14475,6 +14531,10 @@
         1.2198167
       ],
       [
+        35.076575,
+        1.2200781
+      ],
+      [
         35.0762531,
         1.2202753
       ],
@@ -14495,8 +14555,8 @@
         1.2225922
       ],
       [
-        35.0736836,
-        1.2226619
+        35.0736781,
+        1.222743
       ],
       [
         35.0736031,
@@ -14531,8 +14591,8 @@
         1.2201493
       ],
       [
-        35.0732383,
-        1.2199052
+        35.0732609,
+        1.2199274
       ],
       [
         35.0730962,
@@ -14611,8 +14671,8 @@
         1.2207821
       ],
       [
-        35.0680295,
-        1.2207902
+        35.0678846,
+        1.220817
       ]
     ]
   }
@@ -15920,8 +15980,8 @@
         1.2313017
       ],
       [
-        35.1202078,
-        1.2311609
+        35.1201837,
+        1.2311421
       ],
       [
         35.1201884,

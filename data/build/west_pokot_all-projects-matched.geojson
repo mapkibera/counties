@@ -2785,6 +2785,33 @@
     {
       "geometry": {
         "coordinates": [
+          35.0934417, 
+          1.1891733
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908909062", 
+      "properties": {
+        "Category": "LHPPUD", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The project is completed and operational.\nIt has improved access to toilets hence improving sanitation in the area.", 
+        "Project_Description": "Construction of Murkwijit Pit Latrine", 
+        "Project_Name_or_Title": "Murkwijit Pit Latrine", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "marketplace", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571740791419.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571740978799.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571740992495.jpg", 
+        "is_in:village": "Murkwijit", 
+        "name": "Murkwijit Trading Center Pit Latrine", 
+        "osm:id": "6908909062", 
+        "wb_pb:id": "139"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           [
             [
               35.1166499, 
@@ -3364,6 +3391,57 @@
         "name": "Cheptuya mixed secondary school water tank", 
         "osm:id": "6908782531", 
         "wb_pb:id": "164"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              35.03028, 
+              1.2677973
+            ], 
+            [
+              35.03044, 
+              1.2674643
+            ], 
+            [
+              35.0306353, 
+              1.2675582
+            ], 
+            [
+              35.0304547, 
+              1.267869
+            ], 
+            [
+              35.0302742, 
+              1.2678094
+            ], 
+            [
+              35.03028, 
+              1.2677973
+            ]
+          ]
+        ], 
+        "type": "Polygon"
+      }, 
+      "id": "739511941", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "The project is not in good conditions though it has not been operationalized.\nThe project will improve the health standards in the community since people won't have to travel for long in search of treatment.", 
+        "Project_Description": "Construction of Lokornoi Dispensary", 
+        "Project_Name_or_Title": "Lokornoi Dispensary", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "clinic", 
+        "health_facility:type": "dispensary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911348165.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911470100.jpg", 
+        "is_in:village": "Lokornoi", 
+        "name": "Lokornoi Dispensary", 
+        "osm:id": "739511941", 
+        "wb_pb:id": "165"
       }, 
       "type": "Feature"
     }, 
@@ -5762,12 +5840,258 @@
     {
       "geometry": {
         "coordinates": [
-          35.050535, 
-          1.2026967
+          [
+            35.050182, 
+            1.2924925
+          ], 
+          [
+            35.050461, 
+            1.2930851
+          ], 
+          [
+            35.0506246, 
+            1.2934283
+          ], 
+          [
+            35.0508955, 
+            1.2938118
+          ], 
+          [
+            35.0510779, 
+            1.2940585
+          ], 
+          [
+            35.0512308, 
+            1.2942221
+          ], 
+          [
+            35.0512846, 
+            1.2942863
+          ], 
+          [
+            35.0513703, 
+            1.2943883
+          ], 
+          [
+            35.0514212, 
+            1.2946029
+          ], 
+          [
+            35.0515017, 
+            1.295115
+          ], 
+          [
+            35.0515795, 
+            1.2958203
+          ], 
+          [
+            35.0516626, 
+            1.2963244
+          ], 
+          [
+            35.0516948, 
+            1.2965845
+          ], 
+          [
+            35.0517324, 
+            1.2967937
+          ], 
+          [
+            35.0518101, 
+            1.2975016
+          ], 
+          [
+            35.0518852, 
+            1.297936
+          ], 
+          [
+            35.0518772, 
+            1.2983275
+          ], 
+          [
+            35.0519067, 
+            1.2986868
+          ], 
+          [
+            35.0520059, 
+            1.2993626
+          ], 
+          [
+            35.0520623, 
+            1.2997916
+          ], 
+          [
+            35.0521481, 
+            1.3001375
+          ], 
+          [
+            35.052242, 
+            1.3002904
+          ], 
+          [
+            35.0523171, 
+            1.3003225
+          ], 
+          [
+            35.0524405, 
+            1.3002984
+          ], 
+          [
+            35.0525746, 
+            1.3002475
+          ], 
+          [
+            35.0527543, 
+            1.3001992
+          ], 
+          [
+            35.0528777, 
+            1.3003199
+          ], 
+          [
+            35.0529581, 
+            1.3004593
+          ], 
+          [
+            35.0531995, 
+            1.3008133
+          ], 
+          [
+            35.0533792, 
+            1.3010546
+          ], 
+          [
+            35.0534973, 
+            1.3012664
+          ], 
+          [
+            35.0537682, 
+            1.301674
+          ], 
+          [
+            35.0540739, 
+            1.3021701
+          ], 
+          [
+            35.0542054, 
+            1.3023632
+          ], 
+          [
+            35.0542966, 
+            1.302516
+          ], 
+          [
+            35.0543985, 
+            1.3027332
+          ], 
+          [
+            35.0545728, 
+            1.3029853
+          ], 
+          [
+            35.0547096, 
+            1.3030925
+          ], 
+          [
+            35.0548571, 
+            1.303232
+          ], 
+          [
+            35.0550663, 
+            1.3035564
+          ], 
+          [
+            35.0551951, 
+            1.3037093
+          ], 
+          [
+            35.0553265, 
+            1.3038782
+          ], 
+          [
+            35.0554419, 
+            1.3040525
+          ], 
+          [
+            35.0557047, 
+            1.3043716
+          ], 
+          [
+            35.0558442, 
+            1.3045379
+          ], 
+          [
+            35.0559702, 
+            1.3047041
+          ], 
+          [
+            35.0560802, 
+            1.3048328
+          ], 
+          [
+            35.0562412, 
+            1.3050206
+          ], 
+          [
+            35.0563779, 
+            1.3052083
+          ], 
+          [
+            35.0564826, 
+            1.3053316
+          ], 
+          [
+            35.0566006, 
+            1.3054657
+          ], 
+          [
+            35.0567293, 
+            1.30564
+          ], 
+          [
+            35.0568581, 
+            1.305817
+          ], 
+          [
+            35.0570002, 
+            1.3060476
+          ], 
+          [
+            35.0571826, 
+            1.3063372
+          ], 
+          [
+            35.0573596, 
+            1.3066026
+          ], 
+          [
+            35.0575072, 
+            1.3068654
+          ], 
+          [
+            35.0576037, 
+            1.3071014
+          ], 
+          [
+            35.0577003, 
+            1.3073669
+          ], 
+          [
+            35.0578102, 
+            1.307635
+          ], 
+          [
+            35.0578773, 
+            1.307804
+          ], 
+          [
+            35.0578961, 
+            1.3078335
+          ]
         ], 
-        "type": "Point"
+        "type": "LineString"
       }, 
-      "id": "6936808420", 
+      "id": "740921089", 
       "properties": {
         "Category": "road", 
         "In_your_opinion_is_the_project_quality": "The project is complete, \nIt needs to be murrumed or tarmacked", 
@@ -5776,14 +6100,14 @@
         "Project_Name_or_Title": "Kanglikwan-Kisii University Road", 
         "What_is_the_project_s_apparent_status": "operational", 
         "highway": "unclassified", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341447069.jpg", 
-        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341609674.jpg", 
-        "maintenance": "county_governm", 
-        "name": "Kanglikwan-Kisii Road", 
-        "osm:id": "6936808420", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347619518.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347715270.jpg", 
+        "maintenance": "kerra", 
+        "name": "Kapchepkai-Kodongou Road", 
+        "osm:id": "740921089", 
         "surface": "earth", 
         "wb_pb:id": "223", 
-        "width": "12_m"
+        "width": "9 metres"
       }, 
       "type": "Feature"
     }, 
