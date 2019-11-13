@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
+<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-12T16:40:02Z"/>
+<meta osm_base="2019-11-13T15:11:02Z"/>
 
   <bounds minlat="1.1610400" minlon="34.9640000" maxlat="1.4225900" maxlon="35.1782300"/>
 
@@ -2481,11 +2481,63 @@
   <node id="6924165756" lat="1.2242303" lon="35.0985769" version="1" timestamp="2019-10-28T09:16:24Z" changeset="76289728" uid="10380829" user="SIWA Jnr"/>
   <node id="6924165757" lat="1.2242748" lon="35.0985968" version="1" timestamp="2019-10-28T09:16:24Z" changeset="76289728" uid="10380829" user="SIWA Jnr"/>
   <node id="6924165758" lat="1.2242611" lon="35.0986273" version="1" timestamp="2019-10-28T09:16:24Z" changeset="76289728" uid="10380829" user="SIWA Jnr"/>
+  <node id="6924169511" lat="1.2673557" lon="35.0298804" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169512" lat="1.2670500" lon="35.0301191" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169513" lat="1.2672538" lon="35.0303498" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169514" lat="1.2674255" lon="35.0304303" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169515" lat="1.2677901" lon="35.0302425" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169516" lat="1.2677499" lon="35.0295934" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
   <node id="6924169517" lat="1.2678094" lon="35.0302742" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
   <node id="6924169518" lat="1.2678690" lon="35.0304547" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
   <node id="6924169519" lat="1.2675582" lon="35.0306353" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
   <node id="6924169520" lat="1.2674643" lon="35.0304400" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
   <node id="6924169521" lat="1.2677973" lon="35.0302800" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169522" lat="1.2666666" lon="35.0260234" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169523" lat="1.2667631" lon="35.0256908" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169524" lat="1.2666988" lon="35.0255459" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169525" lat="1.2245176" lon="35.0333244" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169526" lat="1.2249466" lon="35.0336194" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169527" lat="1.2235951" lon="35.0342631" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169528" lat="1.2244532" lon="35.0333834" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169538" lat="1.2338656" lon="35.0246742" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169539" lat="1.2337396" lon="35.0249639" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169540" lat="1.2336524" lon="35.0251651" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169541" lat="1.2336377" lon="35.0252295" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169542" lat="1.2338066" lon="35.0254843" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169543" lat="1.2342839" lon="35.0252375" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169544" lat="1.2352359" lon="35.0247037" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169545" lat="1.2357856" lon="35.0239688" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169546" lat="1.2358151" lon="35.0238642" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169547" lat="1.2357749" lon="35.0233144" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169548" lat="1.2357213" lon="35.0231856" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169549" lat="1.2340935" lon="35.0241163" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169550" lat="1.2678107" lon="35.0295125" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169551" lat="1.2678881" lon="35.0304687" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169552" lat="1.2686402" lon="35.0296175" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169553" lat="1.2688118" lon="35.0296229" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169554" lat="1.2688762" lon="35.0299019" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169555" lat="1.2689352" lon="35.0301379" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169556" lat="1.2689834" lon="35.0303686" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169557" lat="1.2690532" lon="35.0306314" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169558" lat="1.2691390" lon="35.0308514" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169559" lat="1.2688279" lon="35.0308782" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169560" lat="1.2685008" lon="35.0309211" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169561" lat="1.2682809" lon="35.0309050" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169562" lat="1.2681039" lon="35.0309318" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169563" lat="1.2680664" lon="35.0308889" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169564" lat="1.2679805" lon="35.0306958" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169565" lat="1.2679055" lon="35.0306153" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169566" lat="1.2678679" lon="35.0302988" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169567" lat="1.2678196" lon="35.0301540" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169568" lat="1.2678196" lon="35.0299448" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169569" lat="1.2678357" lon="35.0296980" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169570" lat="1.2677714" lon="35.0292206" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169571" lat="1.2679645" lon="35.0293010" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169572" lat="1.2682219" lon="35.0293332" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169573" lat="1.2686402" lon="35.0293010" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169579" lat="1.2663126" lon="35.0255513" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169580" lat="1.2661517" lon="35.0255674" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
+  <node id="6924169581" lat="1.2663394" lon="35.0259912" version="1" timestamp="2019-10-28T09:39:47Z" changeset="76290661" uid="10381136" user="Wafula_Wafula"/>
   <node id="6924227329" lat="1.2516914" lon="35.1612590" version="1" timestamp="2019-10-28T09:41:53Z" changeset="76290756" uid="10380870" user="loitalima"/>
   <node id="6924227330" lat="1.2517383" lon="35.1613851" version="1" timestamp="2019-10-28T09:41:53Z" changeset="76290756" uid="10380870" user="loitalima"/>
   <node id="6924227331" lat="1.2517785" lon="35.1613690" version="1" timestamp="2019-10-28T09:41:53Z" changeset="76290756" uid="10380870" user="loitalima"/>
@@ -6288,6 +6340,22 @@
     <tag k="name" v="Kamuino Cattle Dip"/>
     <tag k="wb_pb:id" v="229"/>
   </way>
+  <way id="739511940" version="3" timestamp="2019-11-13T08:17:18Z" changeset="76997487" uid="4570042" user="Peter Agenga">
+    <nd ref="6924169516"/>
+    <nd ref="6924169515"/>
+    <nd ref="6924169514"/>
+    <nd ref="6924169513"/>
+    <nd ref="6924169512"/>
+    <nd ref="6924169511"/>
+    <nd ref="6924169516"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571912237177.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571912387732.jpg"/>
+    <tag k="is_in:village" v="Lokornoi"/>
+    <tag k="name" v="Soybei irrigation scheme"/>
+    <tag k="operator:funding" v="county_governm"/>
+    <tag k="waterway" v="drain"/>
+    <tag k="wb_pb:id" v="306"/>
+  </way>
   <way id="739511941" version="2" timestamp="2019-11-12T11:49:07Z" changeset="76957601" uid="265690" user="fondolucy">
     <nd ref="6924169521"/>
     <nd ref="6924169520"/>
@@ -6302,6 +6370,100 @@
     <tag k="is_in:village" v="Lokornoi"/>
     <tag k="name" v="Lokornoi Dispensary"/>
     <tag k="wb_pb:id" v="165"/>
+  </way>
+  <way id="739511942" version="2" timestamp="2019-11-13T07:49:40Z" changeset="76996099" uid="4570042" user="Peter Agenga">
+    <nd ref="6924169580"/>
+    <nd ref="6924169579"/>
+    <nd ref="6924169524"/>
+    <nd ref="6924169523"/>
+    <nd ref="6924169522"/>
+    <nd ref="6924169581"/>
+    <nd ref="6924169580"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909679556.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909907483.jpg"/>
+    <tag k="is_in:village" v="Lokornoi"/>
+    <tag k="landuse" v="livestock_dip"/>
+    <tag k="man_made" v="livestock_dip"/>
+    <tag k="name" v="Lokornoi Cattle Dip"/>
+    <tag k="wb_pb:id" v="259"/>
+  </way>
+  <way id="739511943" version="2" timestamp="2019-11-13T08:00:51Z" changeset="76996656" uid="4570042" user="Peter Agenga">
+    <nd ref="6924169528"/>
+    <nd ref="6924169527"/>
+    <nd ref="6924169526"/>
+    <nd ref="6924169525"/>
+    <nd ref="6924169528"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571916802755.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571917019923.jpg"/>
+    <tag k="is_in:village" v="Pser"/>
+    <tag k="landuse" v="livestock_dip"/>
+    <tag k="man_made" v="livestock_dip"/>
+    <tag k="name" v="Pser cattle dip"/>
+    <tag k="wb_pb:id" v="297"/>
+  </way>
+  <way id="739511945" version="2" timestamp="2019-11-13T08:13:52Z" changeset="76997293" uid="4570042" user="Peter Agenga">
+    <nd ref="6924169549"/>
+    <nd ref="6924169548"/>
+    <nd ref="6924169547"/>
+    <nd ref="6924169546"/>
+    <nd ref="6924169545"/>
+    <nd ref="6924169544"/>
+    <nd ref="6924169543"/>
+    <nd ref="6924169542"/>
+    <nd ref="6924169541"/>
+    <nd ref="6924169540"/>
+    <nd ref="6924169539"/>
+    <nd ref="6924169538"/>
+    <nd ref="6924169549"/>
+    <tag k="amenity" v="school"/>
+    <tag k="education:gender_type" v="mixed"/>
+    <tag k="education:government_registered" v="moe"/>
+    <tag k="education:type" v="primary"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915217609.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915360694.jpg"/>
+    <tag k="is_in:village" v="Pser"/>
+    <tag k="name" v="Pser Primary School"/>
+    <tag k="operator:description" v="National Government"/>
+    <tag k="operator:type" v="government"/>
+    <tag k="wb_pb:id" v="298"/>
+  </way>
+  <way id="739511946" version="2" timestamp="2019-11-13T07:56:09Z" changeset="76996416" uid="4570042" user="Peter Agenga">
+    <nd ref="6924169573"/>
+    <nd ref="6924169572"/>
+    <nd ref="6924169571"/>
+    <nd ref="6924169570"/>
+    <nd ref="6924169550"/>
+    <nd ref="6924169569"/>
+    <nd ref="6924169568"/>
+    <nd ref="6924169567"/>
+    <nd ref="6924169566"/>
+    <nd ref="6924169551"/>
+    <nd ref="6924169565"/>
+    <nd ref="6924169564"/>
+    <nd ref="6924169563"/>
+    <nd ref="6924169562"/>
+    <nd ref="6924169561"/>
+    <nd ref="6924169560"/>
+    <nd ref="6924169559"/>
+    <nd ref="6924169558"/>
+    <nd ref="6924169557"/>
+    <nd ref="6924169556"/>
+    <nd ref="6924169555"/>
+    <nd ref="6924169554"/>
+    <nd ref="6924169553"/>
+    <nd ref="6924169552"/>
+    <nd ref="6924169573"/>
+    <tag k="amenity" v="school"/>
+    <tag k="education:gender_type" v="mixed"/>
+    <tag k="education:government_registered" v="moe"/>
+    <tag k="education:type" v="primary"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571910759577.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911063427.jpg"/>
+    <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911096989.jpg"/>
+    <tag k="is_in:village" v="Lokornoi"/>
+    <tag k="name" v="Lokornoi primary school"/>
+    <tag k="operator:type" v="government"/>
+    <tag k="wb_pb:id" v="260"/>
   </way>
   <way id="739512351" version="1" timestamp="2019-10-28T09:41:53Z" changeset="76290756" uid="10380870" user="loitalima">
     <nd ref="6924227332"/>

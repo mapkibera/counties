@@ -1967,28 +1967,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.0097467, 
-          1.2552317
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6908782535", 
-      "properties": {
-        "amenity": "school", 
-        "education_gender_type": "mixed", 
-        "education_government_registere": "moe", 
-        "education_type": "primary", 
-        "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745594849.jpg", 
-        "is_in_village": "Cheptuya", 
-        "name": "Cheptuya Primary School", 
-        "operator_type": "government", 
-        "osm:id": "6908782535"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           35.0100033, 
           1.2557017
         ], 
@@ -4240,24 +4218,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.1159506, 
-          1.2564377
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6924416524", 
-      "properties": {
-        "amenity": "shelter", 
-        "is_in:village": "Bendera", 
-        "name": "Bendera Boda Boda Shed", 
-        "osm:id": "6924416524", 
-        "shelter_type": "boda"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           35.1153145, 
           1.2562451
         ], 
@@ -4304,22 +4264,6 @@
         "is_in:village": "Bendera", 
         "name": "Bible Faith Medical Services", 
         "osm:id": "6924416527"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.115825, 
-          1.256345
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6924416528", 
-      "properties": {
-        "is_in:village": "Bendera", 
-        "name": "Directional Billboard/Signage", 
-        "osm:id": "6924416528"
       }, 
       "type": "Feature"
     }, 
@@ -4406,23 +4350,6 @@
         "is_in:village": "Bendera", 
         "name": "Club Trueblaq", 
         "osm:id": "6924416540"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.1147267, 
-          1.252525
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6924416541", 
-      "properties": {
-        "amenity": "marketplace", 
-        "is_in:village": "Bendera", 
-        "name": "Bendera Market Stalls", 
-        "osm:id": "6924416541"
       }, 
       "type": "Feature"
     }, 

@@ -36886,15 +36886,15 @@
       "operational_status": "non_operational",
       "operator:funding": "County Government of Baringo",
       "operator:type": "cbo",
-      "wb_pb:id": "55"
+      "wb_pb:id": "58"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-05T17:06:53Z",
-      "version": "3",
-      "changeset": "75323732",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-13T12:12:33Z",
+      "version": "4",
+      "changeset": "77009987",
+      "user": "fondolucy",
+      "uid": "265690"
     }
   },
   "geometry": {
@@ -38103,22 +38103,22 @@
       "medical_service:malaria": "no",
       "medical_service:pregnancy_test": "no",
       "name": "Sub County Referral Hospital",
-      "wb_pb:id": "124"
+      "wb_pb:id": "128"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-04T20:36:46Z",
-      "version": "3",
-      "changeset": "75303433",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-13T12:21:43Z",
+      "version": "4",
+      "changeset": "77010483",
+      "user": "fondolucy",
+      "uid": "265690"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
       35.98487,
-      0.477413
+      0.4774237
     ]
   }
 },
@@ -39365,15 +39365,15 @@
       "operational_status": "operational",
       "operator:funding": "ngo",
       "operator:type": "cbo",
-      "wb_pb:id": "154"
+      "wb_pb:id": "144"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-04T20:36:46Z",
-      "version": "3",
-      "changeset": "75303433",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-13T11:50:12Z",
+      "version": "4",
+      "changeset": "77008755",
+      "user": "fondolucy",
+      "uid": "265690"
     }
   },
   "geometry": {
@@ -40037,15 +40037,15 @@
       "name": "Katkamuma ECDE",
       "operator:description": "County Government of Baringo",
       "operator:type": "government",
-      "wb_pb:id": "190"
+      "wb_pb:id": "155"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-04T20:36:46Z",
-      "version": "2",
-      "changeset": "75303433",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-13T12:06:45Z",
+      "version": "3",
+      "changeset": "77009649",
+      "user": "fondolucy",
+      "uid": "265690"
     }
   },
   "geometry": {
@@ -40077,15 +40077,15 @@
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
       "name": "Tinomoi Dispensary",
-      "wb_pb:id": "146"
+      "wb_pb:id": "153"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-05T03:48:50Z",
-      "version": "3",
-      "changeset": "75308155",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-13T11:47:09Z",
+      "version": "4",
+      "changeset": "77008597",
+      "user": "fondolucy",
+      "uid": "265690"
     }
   },
   "geometry": {
@@ -49431,6 +49431,39 @@
     "coordinates": [
       35.5440396,
       0.0649428
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6972597422",
+  "properties": {
+    "type": "node",
+    "id": "6972597422",
+    "tags": {
+      "amenity": "drinking_water",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568283618986.jpg",
+      "is_in:village": "Kimondis",
+      "man_made": "borehole",
+      "name": "Kibingor Borehole",
+      "operator": "government",
+      "source": "survey;local knowledge",
+      "wb_pb:id": "99"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-13T12:14:50Z",
+      "version": "2",
+      "changeset": "77010121",
+      "user": "Peter Agenga",
+      "uid": "4570042"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.8688311,
+      0.5104847
     ]
   }
 }

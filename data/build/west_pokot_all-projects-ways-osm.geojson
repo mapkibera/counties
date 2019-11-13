@@ -864,6 +864,342 @@
 },
 {
   "type": "Feature",
+  "id": "way/739511942",
+  "properties": {
+    "type": "way",
+    "id": "739511942",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909679556.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909907483.jpg",
+      "is_in:village": "Lokornoi",
+      "landuse": "livestock_dip",
+      "man_made": "livestock_dip",
+      "name": "Lokornoi Cattle Dip",
+      "wb_pb:id": "259"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-13T07:49:40Z",
+      "version": "2",
+      "changeset": "76996099",
+      "user": "Peter Agenga",
+      "uid": "4570042"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.0255674,
+          1.2661517
+        ],
+        [
+          35.0259912,
+          1.2663394
+        ],
+        [
+          35.0260234,
+          1.2666666
+        ],
+        [
+          35.0256908,
+          1.2667631
+        ],
+        [
+          35.0255459,
+          1.2666988
+        ],
+        [
+          35.0255513,
+          1.2663126
+        ],
+        [
+          35.0255674,
+          1.2661517
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/739511943",
+  "properties": {
+    "type": "way",
+    "id": "739511943",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571916802755.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571917019923.jpg",
+      "is_in:village": "Pser",
+      "landuse": "livestock_dip",
+      "man_made": "livestock_dip",
+      "name": "Pser cattle dip",
+      "wb_pb:id": "297"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-13T08:00:51Z",
+      "version": "2",
+      "changeset": "76996656",
+      "user": "Peter Agenga",
+      "uid": "4570042"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.0333834,
+          1.2244532
+        ],
+        [
+          35.0342631,
+          1.2235951
+        ],
+        [
+          35.0336194,
+          1.2249466
+        ],
+        [
+          35.0333244,
+          1.2245176
+        ],
+        [
+          35.0333834,
+          1.2244532
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/739511945",
+  "properties": {
+    "type": "way",
+    "id": "739511945",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915217609.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915360694.jpg",
+      "is_in:village": "Pser",
+      "name": "Pser Primary School",
+      "operator:description": "National Government",
+      "operator:type": "government",
+      "wb_pb:id": "298"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-13T08:13:52Z",
+      "version": "2",
+      "changeset": "76997293",
+      "user": "Peter Agenga",
+      "uid": "4570042"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.0241163,
+          1.2340935
+        ],
+        [
+          35.0246742,
+          1.2338656
+        ],
+        [
+          35.0249639,
+          1.2337396
+        ],
+        [
+          35.0251651,
+          1.2336524
+        ],
+        [
+          35.0252295,
+          1.2336377
+        ],
+        [
+          35.0254843,
+          1.2338066
+        ],
+        [
+          35.0252375,
+          1.2342839
+        ],
+        [
+          35.0247037,
+          1.2352359
+        ],
+        [
+          35.0239688,
+          1.2357856
+        ],
+        [
+          35.0238642,
+          1.2358151
+        ],
+        [
+          35.0233144,
+          1.2357749
+        ],
+        [
+          35.0231856,
+          1.2357213
+        ],
+        [
+          35.0241163,
+          1.2340935
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/739511946",
+  "properties": {
+    "type": "way",
+    "id": "739511946",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571910759577.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911063427.jpg",
+      "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911096989.jpg",
+      "is_in:village": "Lokornoi",
+      "name": "Lokornoi primary school",
+      "operator:type": "government",
+      "wb_pb:id": "260"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-13T07:56:09Z",
+      "version": "2",
+      "changeset": "76996416",
+      "user": "Peter Agenga",
+      "uid": "4570042"
+    }
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          35.029301,
+          1.2686402
+        ],
+        [
+          35.0293332,
+          1.2682219
+        ],
+        [
+          35.029301,
+          1.2679645
+        ],
+        [
+          35.0292206,
+          1.2677714
+        ],
+        [
+          35.0295125,
+          1.2678107
+        ],
+        [
+          35.029698,
+          1.2678357
+        ],
+        [
+          35.0299448,
+          1.2678196
+        ],
+        [
+          35.030154,
+          1.2678196
+        ],
+        [
+          35.0302988,
+          1.2678679
+        ],
+        [
+          35.0304687,
+          1.2678881
+        ],
+        [
+          35.0306153,
+          1.2679055
+        ],
+        [
+          35.0306958,
+          1.2679805
+        ],
+        [
+          35.0308889,
+          1.2680664
+        ],
+        [
+          35.0309318,
+          1.2681039
+        ],
+        [
+          35.030905,
+          1.2682809
+        ],
+        [
+          35.0309211,
+          1.2685008
+        ],
+        [
+          35.0308782,
+          1.2688279
+        ],
+        [
+          35.0308514,
+          1.269139
+        ],
+        [
+          35.0306314,
+          1.2690532
+        ],
+        [
+          35.0303686,
+          1.2689834
+        ],
+        [
+          35.0301379,
+          1.2689352
+        ],
+        [
+          35.0299019,
+          1.2688762
+        ],
+        [
+          35.0296229,
+          1.2688118
+        ],
+        [
+          35.0296175,
+          1.2686402
+        ],
+        [
+          35.029301,
+          1.2686402
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/739512351",
   "properties": {
     "type": "way",
@@ -12119,6 +12455,64 @@
       [
         35.1174903,
         1.2417668
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/739511940",
+  "properties": {
+    "type": "way",
+    "id": "739511940",
+    "tags": {
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571912237177.jpg",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571912387732.jpg",
+      "is_in:village": "Lokornoi",
+      "name": "Soybei irrigation scheme",
+      "operator:funding": "county_governm",
+      "waterway": "drain",
+      "wb_pb:id": "306"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-13T08:17:18Z",
+      "version": "3",
+      "changeset": "76997487",
+      "user": "Peter Agenga",
+      "uid": "4570042"
+    }
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        35.0295934,
+        1.2677499
+      ],
+      [
+        35.0302425,
+        1.2677901
+      ],
+      [
+        35.0304303,
+        1.2674255
+      ],
+      [
+        35.0303498,
+        1.2672538
+      ],
+      [
+        35.0301191,
+        1.26705
+      ],
+      [
+        35.0298804,
+        1.2673557
+      ],
+      [
+        35.0295934,
+        1.2677499
       ]
     ]
   }

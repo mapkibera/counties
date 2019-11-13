@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
+<osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-12T16:40:02Z"/>
+<meta osm_base="2019-11-13T15:10:03Z"/>
 
   <bounds minlat="1.1610400" minlon="34.9640000" maxlat="1.4225900" maxlon="35.1782300"/>
 
@@ -292,6 +292,18 @@
     <tag k="name" v="Cheptuya Mixed Secondary School-Borehole"/>
     <tag k="operator_type" v="government"/>
     <tag k="wb_pb:id" v="162"/>
+  </node>
+  <node id="6908782535" lat="1.2552317" lon="35.0097467" version="2" timestamp="2019-11-13T09:13:06Z" changeset="76999926" uid="4570042" user="Peter Agenga">
+    <tag k="amenity" v="school"/>
+    <tag k="education_gender_type" v="mixed"/>
+    <tag k="education_government_registere" v="moe"/>
+    <tag k="education_type" v="primary"/>
+    <tag k="image_pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745594849.jpg"/>
+    <tag k="image_project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745807652.jpg"/>
+    <tag k="is_in_village" v="Cheptuya"/>
+    <tag k="name" v="Cheptuya Primary School"/>
+    <tag k="operator_type" v="government"/>
+    <tag k="wb_pb:id" v="212"/>
   </node>
   <node id="6908782539" lat="1.2631183" lon="34.9770550" version="2" timestamp="2019-11-05T10:38:39Z" changeset="76638877" uid="4873427" user="shazomojah">
     <tag k="amenity" v="school"/>
@@ -1358,6 +1370,34 @@
     <tag k="office" v="government"/>
     <tag k="wb_pb:id" v="39"/>
   </node>
+  <node id="6924416524" lat="1.2564377" lon="35.1159506" version="4" timestamp="2019-11-13T09:05:48Z" changeset="76999616" uid="4570042" user="Peter Agenga">
+    <tag k="amenity" v="shelter"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908110589.jpg"/>
+    <tag k="image_project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908122561.jpg"/>
+    <tag k="image_project:inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908122561.jpg"/>
+    <tag k="image_project:outside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908110589.jpg"/>
+    <tag k="is_in:village" v="Bendera"/>
+    <tag k="name" v="Bendera Boda Boda Shed"/>
+    <tag k="shelter_type" v="boda"/>
+    <tag k="wb_pb:id" v="7"/>
+  </node>
+  <node id="6924416528" lat="1.2563450" lon="35.1158250" version="3" timestamp="2019-11-13T09:05:48Z" changeset="76999616" uid="4570042" user="Peter Agenga">
+    <tag k="advertising" v="billboard"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907624653.jpg"/>
+    <tag k="image_project:inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907825676.jpg"/>
+    <tag k="image_project:outside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907820117.jpg"/>
+    <tag k="is_in:village" v="Bendera"/>
+    <tag k="name" v="Directional Billboard/Signage"/>
+    <tag k="wb_pb:id" v="31"/>
+  </node>
+  <node id="6924416541" lat="1.2525250" lon="35.1147267" version="3" timestamp="2019-11-13T09:05:48Z" changeset="76999616" uid="4570042" user="Peter Agenga">
+    <tag k="amenity" v="marketplace"/>
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571910126734.jpg"/>
+    <tag k="image_project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571914018995.jpg"/>
+    <tag k="is_in:village" v="Bendera"/>
+    <tag k="name" v="Bendera Market Stalls"/>
+    <tag k="wb_pb:id" v="159"/>
+  </node>
   <node id="6924444595" lat="1.2490067" lon="35.1030417" version="1" timestamp="2019-10-28T11:31:03Z" changeset="76295494" uid="10380936" user="CHENAA">
     <tag k="amenity" v="school"/>
     <tag k="education:type" v="primary"/>
@@ -1756,6 +1796,52 @@
     <tag k="operator:description" v="ELCK"/>
     <tag k="operator:type" v="government"/>
     <tag k="wb_pb:id" v="253"/>
+  </node>
+  <node id="6972029291" lat="1.2739650" lon="34.9975467" version="1" timestamp="2019-11-13T10:56:06Z" changeset="77005626" uid="10380856" user="benard lokeris">
+    <tag k="amenity" v="clinic"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="electricity" v="sometime"/>
+    <tag k="image_pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571399288592.jpg"/>
+    <tag k="image_project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571399598820.jpg"/>
+    <tag k="is_in:village" v="kadokony"/>
+    <tag k="medical_service:family_planning" v="yes"/>
+    <tag k="medical_service:general_medical_services" v="yes"/>
+    <tag k="medical_service:immunization" v="yes"/>
+    <tag k="medical_service:malaria" v="yes"/>
+    <tag k="medical_service:pregnancy_test" v="yes"/>
+    <tag k="medical_service:referral" v="Kapenguria County Hospital"/>
+    <tag k="name" v="Kadokony Dispensary"/>
+    <tag k="wb_pb:id" v="224"/>
+  </node>
+  <node id="6972029292" lat="1.2679798" lon="35.0303067" version="1" timestamp="2019-11-13T10:56:06Z" changeset="77005626" uid="10380856" user="benard lokeris">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="image_pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911597337.jpg"/>
+    <tag k="image_project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911707285.jpg"/>
+    <tag k="name" v="Lokornoi Water Project"/>
+    <tag k="operator:description" v="Government"/>
+    <tag k="wb_pb:id" v="270"/>
+  </node>
+  <node id="6972029293" lat="1.2801467" lon="34.9944483" version="1" timestamp="2019-11-13T10:56:06Z" changeset="77005626" uid="10380856" user="benard lokeris">
+    <tag k="amenity" v="school"/>
+    <tag k="education:gender_type" v="mixed"/>
+    <tag k="education:government_registered" v="moe"/>
+    <tag k="education:type" v="primary"/>
+    <tag k="image_pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571397514159.jpg"/>
+    <tag k="image_project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571397744818.jpg"/>
+    <tag k="is_in:village" v="Kadokony"/>
+    <tag k="name" v="Kadokony Primary School"/>
+    <tag k="operator:description" v="government"/>
+    <tag k="wb_pb:id" v="225"/>
+  </node>
+  <node id="6972258716" lat="1.2376800" lon="35.1218833" version="1" timestamp="2019-11-13T11:33:06Z" changeset="77007838" uid="10380856" user="benard lokeris">
+    <tag k="amenity" v="hospital"/>
+    <tag k="image_pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915483075.jpg"/>
+    <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915700216.jpg"/>
+    <tag k="image_project_outside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915669888.jpg"/>
+    <tag k="is_in_village" v="Mwotot"/>
+    <tag k="name" v="Kapenguria Referral Hospital Ward Seven"/>
+    <tag k="operator" v="government"/>
+    <tag k="wb_pb:id" v="53"/>
   </node>
 
 </osm>

@@ -2660,12 +2660,12 @@
     {
       "geometry": {
         "coordinates": [
-          35.84631, 
-          0.03959
+          35.84643, 
+          0.018313
         ], 
         "type": "Point"
       }, 
-      "id": "6788190887", 
+      "id": "6799549396", 
       "properties": {
         "Budgeted sum": "3,500,000.00", 
         "Category": "WI", 
@@ -2674,15 +2674,15 @@
         "Project_Description": "Kiptoim borehole drilling", 
         "Project_Name_or_Title": "Kiptoim borehole", 
         "What_is_the_project_s_apparent_status": "completed", 
-        "image": "https://mapkibera.github.io/counties/data/images/cache/6788190887/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568109412804jpg/orig.jpg", 
-        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6788190887/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568109623618jpg/orig.jpg", 
-        "is_in:village": "Kiptoim", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568278135835.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568278491972.jpg", 
+        "is_in:village": "Sitewet", 
         "man_made": "borehole", 
         "name": "Kiptoim Borehole", 
-        "operational_status": "non_operational", 
+        "operational_status": "operational", 
         "operator:funding": "County Government of Baringo", 
         "operator:type": "cbo", 
-        "osm:id": "6788190887", 
+        "osm:id": "6799549396", 
         "wb_pb:id": "55"
       }, 
       "type": "Feature"
@@ -2916,6 +2916,36 @@
         "osm:id": "725095031", 
         "waterway": "dam", 
         "wb_pb:id": "57"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.84631, 
+          0.03959
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788190887", 
+      "properties": {
+        "Budgeted sum": "2,640,000.00", 
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "Borehole has been drilled and water is being pumped. There is a need for installation of pipes and tanks for water distribution to the community.", 
+        "Project_Description": "Kiptoim borehole Drilling and equipping", 
+        "Project_Name_or_Title": "Kiptoim borehole", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6788190887/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568109412804jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6788190887/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568109623618jpg/orig.jpg", 
+        "is_in:village": "Kiptoim", 
+        "man_made": "borehole", 
+        "name": "Kiptoim Borehole", 
+        "operational_status": "non_operational", 
+        "operator:funding": "County Government of Baringo", 
+        "operator:type": "cbo", 
+        "osm:id": "6788190887", 
+        "wb_pb:id": "58"
       }, 
       "type": "Feature"
     }, 

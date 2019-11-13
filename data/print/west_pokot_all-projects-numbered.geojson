@@ -217,6 +217,63 @@
     {
       "geometry": {
         "coordinates": [
+          35.1159506, 
+          1.2564377
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924416524", 
+      "properties": {
+        "Category": "TIICD", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The project was done in an excellent manner.", 
+        "Project_Description": "Construction of Boda Boda Shed", 
+        "Project_Name_or_Title": "Bendera Boda Boda Shed", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "shelter", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908110589.jpg", 
+        "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908122561.jpg", 
+        "image_project:inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908122561.jpg", 
+        "image_project:outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908110589.jpg", 
+        "is_in:village": "Bendera", 
+        "iterator": 8, 
+        "name": "Bendera Boda Boda Shed", 
+        "osm:id": "6924416524", 
+        "shelter_type": "boda", 
+        "wb_pb:id": "7"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1147267, 
+          1.252525
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924416541", 
+      "properties": {
+        "Category": "TIICD", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The construction has been built well in a strategic location.\nOnce the stalls are operational, both buyers and sellers will be sheltered during rainy seasons.\nSellers will be able to have a good display of their market produce since the stalls are spacious enough.", 
+        "Project_Description": "Construction of Market Stalls at Bendera", 
+        "Project_Name_or_Title": "Bendera Market Stalls", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "marketplace", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571910126734.jpg", 
+        "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571914018995.jpg", 
+        "is_in:village": "Bendera", 
+        "iterator": 9, 
+        "name": "Bendera Market Stalls", 
+        "osm:id": "6924416541", 
+        "wb_pb:id": "159"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.0945067, 
           1.2557783
         ], 
@@ -234,7 +291,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571752897451.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571733827261.jpg", 
         "is_in:village": "Makutano", 
-        "iterator": 8, 
+        "iterator": 10, 
         "name": "Blood Bank Makutano Transformer", 
         "osm:id": "6908909067", 
         "power": "transformer", 
@@ -264,7 +321,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571752225556.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571752241405.jpg", 
         "is_in:village": "Makutano", 
-        "iterator": 9, 
+        "iterator": 11, 
         "name": "Makutano Blood Bank Water Tank", 
         "operational_status": "operational", 
         "operator:funding": "county_government", 
@@ -297,7 +354,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571732636144.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571732683037.jpg", 
         "is_in:village": "Makutano", 
-        "iterator": 10, 
+        "iterator": 12, 
         "medical_service:general_medical_services": "no", 
         "medical_service:immunizations": "no", 
         "medical_service:malaria": "no", 
@@ -327,7 +384,7 @@
         "amenity": "shelter", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571905762286.jpg", 
         "is_in:village": "Makutano primary", 
-        "iterator": 11, 
+        "iterator": 13, 
         "name": "Boda Boda Shade At Makutano Mosque.", 
         "osm:id": "6924444600", 
         "shelter_type": "boda", 
@@ -358,7 +415,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571904470000.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571904822070.jpg", 
         "is_in:village": "Chelowo", 
-        "iterator": 12, 
+        "iterator": 14, 
         "name": "Chelowo ECDE", 
         "operator:description": "County Government", 
         "operator:type": "government", 
@@ -387,7 +444,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571995132747.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571995146037.jpg", 
         "is_in:village": "Chepangang", 
-        "iterator": 13, 
+        "iterator": 15, 
         "landuse": "livestock_dip", 
         "man_made": "livestock_dip", 
         "name": "Chepangang Cattle Dip", 
@@ -436,7 +493,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571736436847.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571736477433.jpg", 
         "is_in:village": "Chepkechir Center", 
-        "iterator": 14, 
+        "iterator": 16, 
         "landuse": "livestock_dip", 
         "man_made": "livestock_dip", 
         "name": "Chepkechir Cattle Dip", 
@@ -468,7 +525,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571738107303.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571739614002.jpg", 
         "is_in:village": "Chepkechir Center", 
-        "iterator": 15, 
+        "iterator": 17, 
         "medical_service:family_planning": "no", 
         "medical_service:general_medical_services": "no", 
         "medical_service:immunizations": "no", 
@@ -499,12 +556,43 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571904452173.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571904777122.jpg", 
         "is_in:village": "Superfoam", 
-        "iterator": 16, 
+        "iterator": 18, 
         "name": "Cheposait -Makutano Water Springs", 
         "natural": "spring", 
         "operator:funding": "county_governm", 
         "osm:id": "6924444601", 
         "wb_pb:id": "211"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0097467, 
+          1.2552317
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908782535", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "It's adequately constructed.\nIt will aid in advancement of pre-primary education.", 
+        "Project_Description": "Construction of ECDE for advancement of pre-primary education", 
+        "Project_Name_or_Title": "Cheptuya ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education_gender_type": "mixed", 
+        "education_government_registere": "moe", 
+        "education_type": "primary", 
+        "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745594849.jpg", 
+        "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745807652.jpg", 
+        "is_in_village": "Cheptuya", 
+        "iterator": 19, 
+        "name": "Cheptuya Primary School", 
+        "operator_type": "government", 
+        "osm:id": "6908782535", 
+        "wb_pb:id": "212"
       }, 
       "type": "Feature"
     }, 
@@ -531,7 +619,7 @@
         "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747713230.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747976679.jpg", 
         "is_in_village": "Cheptuya", 
-        "iterator": 17, 
+        "iterator": 20, 
         "name": "Cheptuya Mixed Secondary Dairy Cows project", 
         "osm:id": "6908782532", 
         "wb_pb:id": "163"
@@ -561,7 +649,7 @@
         "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571748134699.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571811405561.jpg", 
         "is_in_village": "Cheptuya", 
-        "iterator": 18, 
+        "iterator": 21, 
         "name": "Cheptuya mixed secondary school water tank", 
         "osm:id": "6908782531", 
         "wb_pb:id": "164"
@@ -589,7 +677,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571982218655.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571916996495.jpg", 
         "is_in:village": "Chewoyet", 
-        "iterator": 19, 
+        "iterator": 22, 
         "name": "Chewoyet Primary", 
         "operator:description": "National Government", 
         "osm:id": "6924444595", 
@@ -618,7 +706,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747729252.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747749132.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 20, 
+        "iterator": 23, 
         "name": "West Pokot County Assembly Chambers", 
         "osm:id": "6909005277", 
         "wb_pb:id": "20"
@@ -645,7 +733,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571746603057.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571746671573.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 21, 
+        "iterator": 24, 
         "name": "County Assembly Pit Latrine", 
         "opening_hours": "Mo-Fr 6:00-18:00", 
         "osm:id": "6909005280", 
@@ -673,7 +761,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571746861816.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747119638.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 22, 
+        "iterator": 25, 
         "name": "West County Assembly Office", 
         "office": "government", 
         "osm:id": "6909005279", 
@@ -701,7 +789,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571733043474.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571733858523.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 23, 
+        "iterator": 26, 
         "name": "West Pokot County Department of Investment and Cooperative Development", 
         "office": "government", 
         "osm:id": "6909005393", 
@@ -729,7 +817,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571729847824.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571730011731.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 24, 
+        "iterator": 27, 
         "name": "West Pokot County Tourism Office", 
         "office": "government", 
         "osm:id": "6909005397", 
@@ -776,7 +864,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731164574.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731499168.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 25, 
+        "iterator": 28, 
         "name": "West Pokot County Tourism fence", 
         "osm:id": "743230501", 
         "wb_pb:id": "127"
@@ -820,7 +908,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731686159.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731844690.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 26, 
+        "iterator": 29, 
         "name": "West Pokot County Tourism Office Parking shade", 
         "osm:id": "737868498", 
         "wb_pb:id": "128"
@@ -847,7 +935,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571732167604.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571732217901.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 27, 
+        "iterator": 30, 
         "name": "West Pokot County Tourism Kitchen", 
         "office": "government", 
         "osm:id": "6909005394", 
@@ -874,7 +962,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571905292200.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571905446921.jpg", 
         "is_in:village": "Chewoyet", 
-        "iterator": 28, 
+        "iterator": 31, 
         "name": "West Pokot County Ministry of Trade", 
         "office": "government", 
         "osm:id": "6924413665", 
@@ -901,7 +989,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571396831146.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571397025167.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 29, 
+        "iterator": 32, 
         "name": "Treasury Pit Latrine", 
         "osm:id": "6909005402", 
         "wb_pb:id": "28"
@@ -927,7 +1015,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571396132766.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571396594231.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 30, 
+        "iterator": 33, 
         "name": "County Government of West Pokot Treasury Office", 
         "office": "government", 
         "osm:id": "6909005403", 
@@ -974,7 +1062,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571391589927.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571391963131.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 31, 
+        "iterator": 34, 
         "landuse": "Other", 
         "name": "County Tree Nursery", 
         "osm:id": "737868495", 
@@ -1002,11 +1090,39 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427453771.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427646452.jpg", 
         "is_in:village": "Makutano", 
-        "iterator": 32, 
+        "iterator": 35, 
         "name": "Culverts and Drainage works in Makutano.", 
         "operator:funding": "County_Government", 
         "osm:id": "6934229003", 
         "wb_pb:id": "218"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.115825, 
+          1.256345
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924416528", 
+      "properties": {
+        "Category": "PSIDU", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "It is an excellent project.\nThe Billboard will help in giving directions to relevant offices/institutions as well as directing visitors to various locations.", 
+        "Project_Description": "Directional billboard/signage", 
+        "Project_Name_or_Title": "Directional Billboard/Signage at Bendera Junction", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "advertising": "billboard", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907624653.jpg", 
+        "image_project:inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907825676.jpg", 
+        "image_project:outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907820117.jpg", 
+        "is_in:village": "Bendera", 
+        "iterator": 36, 
+        "name": "Directional Billboard/Signage", 
+        "osm:id": "6924416528", 
+        "wb_pb:id": "31"
       }, 
       "type": "Feature"
     }, 
@@ -1029,7 +1145,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571905838684.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571906135753.jpg", 
         "is_in:village": "Chewoyet", 
-        "iterator": 33, 
+        "iterator": 37, 
         "name": "West Pokot County Doctors Plaza", 
         "office": "government", 
         "osm:id": "6924413664", 
@@ -1058,7 +1174,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571394920365.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571395080974.jpg", 
         "is_in:village": "Lotongot", 
-        "iterator": 34, 
+        "iterator": 38, 
         "name": "Emboasis Pit Latrine", 
         "opening_hours": "24/7", 
         "operator:description": "County Government", 
@@ -1090,7 +1206,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572001351824.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572001364798.jpg", 
         "is_in:village": "Kamuino", 
-        "iterator": 35, 
+        "iterator": 39, 
         "man_made": "storage_tank", 
         "name": "Extension line Tartar Kamuino Area", 
         "operational_status": "operational", 
@@ -1120,7 +1236,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907296608.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907468002.jpg", 
         "is_in:village": "Chewoyet", 
-        "iterator": 36, 
+        "iterator": 40, 
         "landuse": "other", 
         "name": "West Pokot Fish Hatchery", 
         "osm:id": "6924413626", 
@@ -1148,7 +1264,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571903746726.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571903979718.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 37, 
+        "iterator": 41, 
         "name": "West Pokot County Renovation of Residential Block A", 
         "office": "government", 
         "osm:id": "6924413669", 
@@ -1175,7 +1291,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571904261902.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571904374384.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 38, 
+        "iterator": 42, 
         "name": "West Pokot County Residence Block A", 
         "office": "government", 
         "osm:id": "6924413668", 
@@ -1255,7 +1371,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571902752598.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571902972983.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 39, 
+        "iterator": 43, 
         "name": "West Pokot County Recidence Wall", 
         "osm:id": "739531381", 
         "wb_pb:id": "140"
@@ -1282,7 +1398,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909311014.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909338343.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 40, 
+        "iterator": 44, 
         "name": "West Pokot County Department of Health and Sanitation", 
         "office": "government", 
         "osm:id": "6924413658", 
@@ -1309,7 +1425,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908809160.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908960694.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 41, 
+        "iterator": 45, 
         "name": "West Pokot County Health and Sanitation Department Block B Office", 
         "office": "government", 
         "osm:id": "6924413659", 
@@ -1356,7 +1472,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734395171.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571736915992.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 42, 
+        "iterator": 46, 
         "name": "West Pokot Investment and Cooperative Development Fence", 
         "osm:id": "743230500", 
         "wb_pb:id": "130"
@@ -1382,7 +1498,7 @@
         "amenity": "shelter", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427965325.jpg", 
         "is_in:village": "Makutano.", 
-        "iterator": 43, 
+        "iterator": 47, 
         "name": "Kacheliba Bodaboda Shed", 
         "osm:id": "6934229002", 
         "shelter_type": "boda", 
@@ -1414,12 +1530,78 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571906577536.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571906599818.jpg", 
         "is_in:village": "Kachepkai", 
-        "iterator": 44, 
+        "iterator": 48, 
         "name": "Kachepkai Primary School", 
         "operator:description": "Catholic Church", 
         "operator:type": "government", 
         "osm:id": "6924297240", 
         "wb_pb:id": "235"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          34.9975467, 
+          1.273965
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6972029291", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The maternity ward is in good condition and waiting for to be opened.", 
+        "Project_Description": "Maternity Wing at Kadokony Dispensary", 
+        "Project_Name_or_Title": "Kadokony Dispensary", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "sometime", 
+        "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571399288592.jpg", 
+        "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571399598820.jpg", 
+        "is_in:village": "kadokony", 
+        "iterator": 49, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunization": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "medical_service:referral": "Kapenguria County Hospital", 
+        "name": "Kadokony Dispensary", 
+        "osm:id": "6972029291", 
+        "wb_pb:id": "224"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          34.9944483, 
+          1.2801467
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6972029293", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "It will aid in advancing pre-primary education.", 
+        "Project_Description": "Construction of Kadokony ECDE Classroom", 
+        "Project_Name_or_Title": "Kadokony ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571397514159.jpg", 
+        "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571397744818.jpg", 
+        "is_in:village": "Kadokony", 
+        "iterator": 50, 
+        "name": "Kadokony Primary School", 
+        "operator:description": "government", 
+        "osm:id": "6972029293", 
+        "wb_pb:id": "225"
       }, 
       "type": "Feature"
     }, 
@@ -1446,7 +1628,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572000760173.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572000966697.jpg", 
         "is_in:village": "Kakpaw", 
-        "iterator": 45, 
+        "iterator": 51, 
         "name": "Kakpaw ECDE", 
         "operator:description": "National Government", 
         "operator:type": "government", 
@@ -1474,7 +1656,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571988582418.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571988782092.jpg", 
         "is_in:village": "Cheptapesha", 
-        "iterator": 46, 
+        "iterator": 52, 
         "name": "Kalomoywo Bridge", 
         "operator:funding": "county_government", 
         "osm:id": "6924227339", 
@@ -1522,7 +1704,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571990273229.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571990293300.jpg", 
         "is_in:village": "Kalomoywo", 
-        "iterator": 47, 
+        "iterator": 53, 
         "landuse": "livestock_dip", 
         "man_made": "livestock_dip", 
         "name": "Kalomoywo Cattle Dip", 
@@ -1554,7 +1736,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571987445749.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571987922457.jpg", 
         "is_in:village": "Kalomoywo", 
-        "iterator": 48, 
+        "iterator": 54, 
         "name": "Kalomoywo Primary School", 
         "operator:description": "National Government", 
         "operator:type": "government", 
@@ -1589,7 +1771,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571989733477.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571989763620.jpg", 
         "is_in:village": "Chewoyet", 
-        "iterator": 49, 
+        "iterator": 55, 
         "name": "Kamarketch Bridge", 
         "operator:funding": "county_government", 
         "osm:id": "739555017", 
@@ -1653,7 +1835,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907241154.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907259374.jpg", 
         "is_in:village": "Kamuino", 
-        "iterator": 50, 
+        "iterator": 56, 
         "landuse": "livestock_dip", 
         "man_made": "livestock_dip", 
         "name": "Kamuino Cattle Dip", 
@@ -1686,7 +1868,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571906435433.jpg", 
         "image_project_inside": "1571906464231.jpg", 
         "is_in:village": "Kamuino", 
-        "iterator": 51, 
+        "iterator": 57, 
         "name": "Kamuino Primary School", 
         "operator:type": "government", 
         "osm:id": "6924165775", 
@@ -1718,7 +1900,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571916365424.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571916402132.jpg", 
         "is_in:village": "Kangulikwan", 
-        "iterator": 52, 
+        "iterator": 58, 
         "name": "Kangulikwan Primary School", 
         "operator:type": "government", 
         "osm:id": "6924165767", 
@@ -1747,7 +1929,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571913809422.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571913856373.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 53, 
+        "iterator": 59, 
         "name": "Kapenguria Referral Hospital", 
         "osm:id": "6924413653", 
         "wb_pb:id": "49"
@@ -1773,10 +1955,39 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571912006369.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571912200031.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 54, 
+        "iterator": 60, 
         "name": "West Pokot County Intensive Care Unit and Casualty Wing", 
         "osm:id": "6924413656", 
         "wb_pb:id": "50"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1218833, 
+          1.23768
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6972258716", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "Physical observation:\nThe construction and renovation was well done.", 
+        "Project_Description": "Construction and renovation of ward seven", 
+        "Project_Name_or_Title": "Kapenguria County Referral Hospital", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "hospital", 
+        "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915483075.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915700216.jpg", 
+        "image_project_outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915669888.jpg", 
+        "is_in_village": "Mwotot", 
+        "iterator": 61, 
+        "name": "Kapenguria Referral Hospital Ward Seven", 
+        "operator": "government", 
+        "osm:id": "6972258716", 
+        "wb_pb:id": "53"
       }, 
       "type": "Feature"
     }, 
@@ -1799,7 +2010,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907735314.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907968478.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 55, 
+        "iterator": 62, 
         "name": "West Pokot County Referral wall", 
         "office": "government", 
         "osm:id": "6924413661", 
@@ -1831,7 +2042,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571995615699.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571995676739.jpg", 
         "is_in:village": "Chewoyet", 
-        "iterator": 56, 
+        "iterator": 63, 
         "name": "kapenguria ECDE Administration Block", 
         "operator:description": "County government of West Pokot", 
         "operator:type": "government", 
@@ -1863,7 +2074,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571996820490.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571997107674.jpg", 
         "is_in:village": "Chewoyet", 
-        "iterator": 57, 
+        "iterator": 64, 
         "name": "Kapenguria ECDE College", 
         "operator:description": "West pokot county government", 
         "operator:type": "government", 
@@ -1891,7 +2102,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571906859426.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907045554.jpg", 
         "is_in:village": "Chewoyet", 
-        "iterator": 58, 
+        "iterator": 65, 
         "name": "Kapenguria Fish Hatchery", 
         "osm:id": "6924413663", 
         "wb_pb:id": "64"
@@ -1917,7 +2128,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571916491262.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571916463011.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 59, 
+        "iterator": 66, 
         "name": "Kenya Medical Training College Kapenguria Campus", 
         "office": "government", 
         "osm:id": "6924413650", 
@@ -1948,7 +2159,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571916595470.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571916709296.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 60, 
+        "iterator": 67, 
         "name": "Kenya Medical Training College Kapenguria", 
         "operator:description": "National Government", 
         "operator:type": "government", 
@@ -1978,7 +2189,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915181588.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915364154.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 61, 
+        "iterator": 68, 
         "name": "Kapenguria Referral Hospital Pit Latrine(Ladies)", 
         "opening_hours": "24/7", 
         "operator:description": "County Government", 
@@ -2010,7 +2221,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572429783696.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572429893588.jpg", 
         "is_in:village": "Makutano", 
-        "iterator": 62, 
+        "iterator": 69, 
         "name": "Kapenguria Town Toilet Project", 
         "osm:id": "6934156165", 
         "wb_pb:id": "167"
@@ -2039,7 +2250,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571991836194.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571991856578.jpg", 
         "is_in:village": "Chewoyet.", 
-        "iterator": 63, 
+        "iterator": 70, 
         "name": "Kapenguria Water Supply", 
         "operational_status": "operational", 
         "operator:funding": "county_government", 
@@ -2068,7 +2279,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731655408.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731972766.jpg", 
         "is_in:village": "Makutano", 
-        "iterator": 64, 
+        "iterator": 71, 
         "name": "Makutano Youth Empowerment Centre", 
         "office": "association", 
         "osm:id": "6908909070", 
@@ -2099,7 +2310,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571743185844.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571743813726.jpg", 
         "is_in:village": "Kapkoris", 
-        "iterator": 65, 
+        "iterator": 72, 
         "medical_service:family_planning": "yes", 
         "medical_service:general_medical_services": "yes", 
         "medical_service:immunizations": "yes", 
@@ -2133,7 +2344,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571406799226.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571406270109.jpg", 
         "is_in:village": "Kaprom", 
-        "iterator": 66, 
+        "iterator": 73, 
         "medical_service:family_planning": "no", 
         "medical_service:general_medical_services": "no", 
         "medical_service:immunizations": "no", 
@@ -2186,7 +2397,7 @@
         "Project_Name_or_Title": "Katungui Cattle Dip", 
         "What_is_the_project_s_apparent_status": "completed", 
         "is_in:village": "Lokwamuke", 
-        "iterator": 67, 
+        "iterator": 74, 
         "landuse": "livestock_dip", 
         "man_made": "livestock_dip", 
         "name": "Katungui Cattle Dip", 
@@ -2215,7 +2426,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571739780494.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571739831503.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 68, 
+        "iterator": 75, 
         "name": "Kenya Climate Smart Agriculture Project", 
         "office": "government", 
         "osm:id": "6909005387", 
@@ -2274,7 +2485,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571387999719.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571394473581.jpg", 
         "is_in:village": "Keringet", 
-        "iterator": 69, 
+        "iterator": 76, 
         "landuse": "livestock_dip", 
         "man_made": "livestock_dip", 
         "name": "Keringet Cattle Dip", 
@@ -2305,7 +2516,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571394724392.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571395044568.jpg", 
         "is_in:village": "Keringet", 
-        "iterator": 70, 
+        "iterator": 77, 
         "medical_service:family_planning": "yes", 
         "medical_service:general_medical_services": "yes", 
         "medical_service:immunizations": "yes", 
@@ -2337,7 +2548,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571395876086.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571396025558.jpg", 
         "is_in:village": "Keringet", 
-        "iterator": 71, 
+        "iterator": 78, 
         "name": "Keringet Market Centre", 
         "osm:id": "6908909082", 
         "wb_pb:id": "244"
@@ -2389,7 +2600,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571394651418.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571395036910.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 72, 
+        "iterator": 79, 
         "name": "West Pokot Kilimo Perimeter Wall", 
         "osm:id": "737868497", 
         "wb_pb:id": "125"
@@ -2434,7 +2645,7 @@
         "What_is_the_project_s_apparent_status": "completed", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571385975742.jpg", 
         "is_in:village": "Kishaunet", 
-        "iterator": 73, 
+        "iterator": 80, 
         "landuse": "livestock_dip", 
         "man_made": "livestock_dip", 
         "name": "Kishaunet Cattle Dip", 
@@ -2464,7 +2675,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571999835930.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571999874856.jpg", 
         "is_in:village": "Kishaunet", 
-        "iterator": 74, 
+        "iterator": 81, 
         "name": "Kishaunet Dispensary", 
         "osm:id": "6948364836", 
         "wb_pb:id": "248"
@@ -2494,7 +2705,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571995392418.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571995418653.jpg", 
         "is_in:village": "Kishaunet", 
-        "iterator": 75, 
+        "iterator": 82, 
         "name": "Kishaunet Public Toilet", 
         "opening_hours": "24/7", 
         "operator:description": "County government", 
@@ -2566,7 +2777,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571993235541.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571993259472.jpg", 
         "is_in:village": "Kishaunet", 
-        "iterator": 76, 
+        "iterator": 83, 
         "name": "Kishaunet Show Ground", 
         "osm:id": "742185879", 
         "tourism": "attraction", 
@@ -2709,7 +2920,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571387346538.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/IMG_20191018_112900-15_14_11.jpg", 
         "is_in:village": "Kishaunet", 
-        "iterator": 77, 
+        "iterator": 84, 
         "landuse": "other", 
         "name": "Kishaunet Showground", 
         "osm:id": "739524514", 
@@ -2742,7 +2953,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571913477652.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571913491057.jpg", 
         "is_in:village": "Kitelaposho", 
-        "iterator": 78, 
+        "iterator": 85, 
         "name": "Kitelaposho Primary School", 
         "operator:type": "government", 
         "osm:id": "6924165771", 
@@ -2773,7 +2984,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571993829170.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571993959842.jpg", 
         "is_in:village": "Cheptapesha", 
-        "iterator": 79, 
+        "iterator": 86, 
         "name": "Koitumo Primary School", 
         "operator:description": "National Government", 
         "operator:type": "government", 
@@ -2805,7 +3016,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907932985.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908216366.jpg", 
         "is_in:village": "Kormonot", 
-        "iterator": 80, 
+        "iterator": 87, 
         "name": "Kormonot ECDE", 
         "operator:description": "County Government", 
         "operator:type": "government", 
@@ -2853,7 +3064,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571732898534.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571733506043.jpg", 
         "is_in:village": "Lityei", 
-        "iterator": 81, 
+        "iterator": 88, 
         "landuse": "livestock_dip", 
         "man_made": "livestock_dip", 
         "name": "Lityei Cattle Dip", 
@@ -2886,7 +3097,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571730503623.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571729654813.jpg1571729768594.jpg", 
         "is_in:village": "Lityei", 
-        "iterator": 82, 
+        "iterator": 89, 
         "name": "Lityei ECDE", 
         "operator:description": "West Pokot County Government", 
         "operator:type": "government", 
@@ -2934,11 +3145,226 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571730868650.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731176794.jpg", 
         "is_in:village": "Lityei", 
-        "iterator": 83, 
+        "iterator": 90, 
         "leisure": "playground", 
         "name": "Lityei Galib Mohammed Primary School Playground", 
         "osm:id": "737830349", 
         "wb_pb:id": "258"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              35.0255674, 
+              1.2661517
+            ], 
+            [
+              35.0259912, 
+              1.2663394
+            ], 
+            [
+              35.0260234, 
+              1.2666666
+            ], 
+            [
+              35.0256908, 
+              1.2667631
+            ], 
+            [
+              35.0255459, 
+              1.2666988
+            ], 
+            [
+              35.0255513, 
+              1.2663126
+            ], 
+            [
+              35.0255674, 
+              1.2661517
+            ]
+          ]
+        ], 
+        "type": "Polygon"
+      }, 
+      "id": "739511942", 
+      "properties": {
+        "Category": "PEAGRI", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The project is complete but it is not functional.\nThe cattle dip will help farmers control pests and diseases.", 
+        "Project_Description": "Construction of Lokornoi cattle dip", 
+        "Project_Name_or_Title": "Lokornoi Cattle Dip", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909679556.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909907483.jpg", 
+        "is_in:village": "Lokornoi", 
+        "iterator": 91, 
+        "landuse": "livestock_dip", 
+        "man_made": "livestock_dip", 
+        "name": "Lokornoi Cattle Dip", 
+        "osm:id": "739511942", 
+        "wb_pb:id": "259"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              35.029301, 
+              1.2686402
+            ], 
+            [
+              35.0293332, 
+              1.2682219
+            ], 
+            [
+              35.029301, 
+              1.2679645
+            ], 
+            [
+              35.0292206, 
+              1.2677714
+            ], 
+            [
+              35.0295125, 
+              1.2678107
+            ], 
+            [
+              35.029698, 
+              1.2678357
+            ], 
+            [
+              35.0299448, 
+              1.2678196
+            ], 
+            [
+              35.030154, 
+              1.2678196
+            ], 
+            [
+              35.0302988, 
+              1.2678679
+            ], 
+            [
+              35.0304687, 
+              1.2678881
+            ], 
+            [
+              35.0306153, 
+              1.2679055
+            ], 
+            [
+              35.0306958, 
+              1.2679805
+            ], 
+            [
+              35.0308889, 
+              1.2680664
+            ], 
+            [
+              35.0309318, 
+              1.2681039
+            ], 
+            [
+              35.030905, 
+              1.2682809
+            ], 
+            [
+              35.0309211, 
+              1.2685008
+            ], 
+            [
+              35.0308782, 
+              1.2688279
+            ], 
+            [
+              35.0308514, 
+              1.269139
+            ], 
+            [
+              35.0306314, 
+              1.2690532
+            ], 
+            [
+              35.0303686, 
+              1.2689834
+            ], 
+            [
+              35.0301379, 
+              1.2689352
+            ], 
+            [
+              35.0299019, 
+              1.2688762
+            ], 
+            [
+              35.0296229, 
+              1.2688118
+            ], 
+            [
+              35.0296175, 
+              1.2686402
+            ], 
+            [
+              35.029301, 
+              1.2686402
+            ]
+          ]
+        ], 
+        "type": "Polygon"
+      }, 
+      "id": "739511946", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The project is in use. There was poor workmanship in finishing.", 
+        "Project_Description": "Construction of two ECDE classrooms", 
+        "Project_Name_or_Title": "Lokornoi ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571910759577.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911063427.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911096989.jpg", 
+        "is_in:village": "Lokornoi", 
+        "iterator": 92, 
+        "name": "Lokornoi primary school", 
+        "operator:type": "government", 
+        "osm:id": "739511946", 
+        "wb_pb:id": "260"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0303067, 
+          1.2679798
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6972029292", 
+      "properties": {
+        "Category": "WENR", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Water blockage is rampart in this project.\nThe has increased water supply to the community.", 
+        "Project_Description": "Intake works and installation of Water Tank", 
+        "Project_Name_or_Title": "Lokornoi Water Project", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "drinking_water", 
+        "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911597337.jpg", 
+        "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911707285.jpg", 
+        "iterator": 93, 
+        "name": "Lokornoi Water Project", 
+        "operator:description": "Government", 
+        "osm:id": "6972029292", 
+        "wb_pb:id": "270"
       }, 
       "type": "Feature"
     }, 
@@ -2963,7 +3389,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572422259894.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572422276485.jpg", 
         "is_in:village": "Makutano", 
-        "iterator": 84, 
+        "iterator": 94, 
         "name": "Makutano Cloth Market", 
         "osm:id": "6934228995", 
         "wb_pb:id": "274"
@@ -2990,7 +3416,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572424257867.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572424666631.jpg", 
         "is_in:village": "Makutano", 
-        "iterator": 85, 
+        "iterator": 95, 
         "name": "Electrical Renovation To Makutano Market.", 
         "osm:id": "6934228993", 
         "wb_pb:id": "276"
@@ -3019,7 +3445,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572422798854.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572422964513.jpg", 
         "is_in:village": "Makutano", 
-        "iterator": 86, 
+        "iterator": 96, 
         "name": "Makutano Market Public Toilet", 
         "opening_hours": "6:00", 
         "operator:description": "Kapenguria Water and Sewerage co-LTD", 
@@ -3071,7 +3497,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734567147.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734619235.jpg", 
         "is_in:village": "Makutano", 
-        "iterator": 87, 
+        "iterator": 97, 
         "leisure": "stadium", 
         "name": "Makutano Stadium", 
         "osm:id": "737862250", 
@@ -3119,7 +3545,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734567147.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734619235.jpg", 
         "is_in:village": "Makutano", 
-        "iterator": 88, 
+        "iterator": 98, 
         "leisure": "stadium", 
         "name": "Makutano Stadium", 
         "osm:id": "737862250", 
@@ -3146,7 +3572,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571394109612.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571394464723.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 89, 
+        "iterator": 99, 
         "name": "Westpokot County Government Ministry of Agriculture,Irrigation and Pastoral Economy.", 
         "office": "government", 
         "osm:id": "6909005405", 
@@ -3173,7 +3599,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571919320685.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571919539903.jpg", 
         "is_in:village": "Chewoyet", 
-        "iterator": 90, 
+        "iterator": 100, 
         "name": "Renovation of Kapenguria Mtelo Hall", 
         "osm:id": "6924413645", 
         "wb_pb:id": "95"
@@ -3204,7 +3630,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571742380040.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571742556376.jpg", 
         "is_in:village": "Murkwijit", 
-        "iterator": 91, 
+        "iterator": 101, 
         "medical_service:family_planning": "yes", 
         "medical_service:general_medical_services": "yes", 
         "medical_service:immunizations": "yes", 
@@ -3213,6 +3639,34 @@
         "name": "Murkwijit Dispensary", 
         "osm:id": "6908909058", 
         "wb_pb:id": "285"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0934417, 
+          1.1891733
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908909062", 
+      "properties": {
+        "Category": "LHPPUD", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The project is completed and operational.\nIt has improved access to toilets hence improving sanitation in the area.", 
+        "Project_Description": "Construction of Murkwijit Pit Latrine", 
+        "Project_Name_or_Title": "Murkwijit Pit Latrine", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "marketplace", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571740791419.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571740978799.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571740992495.jpg", 
+        "is_in:village": "Murkwijit", 
+        "iterator": 102, 
+        "name": "Murkwijit Trading Center Pit Latrine", 
+        "osm:id": "6908909062", 
+        "wb_pb:id": "139"
       }, 
       "type": "Feature"
     }, 
@@ -3240,7 +3694,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911192397.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911221232.jpg", 
         "is_in:village": "Nateleng", 
-        "iterator": 92, 
+        "iterator": 103, 
         "name": "Nateleng ECDE", 
         "operator:description": "County Government of West Pokot", 
         "operator:type": "government", 
@@ -3270,7 +3724,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911034565.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911289957.jpg", 
         "is_in:village": "Baptist", 
-        "iterator": 93, 
+        "iterator": 104, 
         "name": "Tilak Baptist Church", 
         "osm:id": "6924227344", 
         "religion": "christian", 
@@ -3299,7 +3753,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731616600.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731627015.jpg", 
         "is_in:village": "Ngoleyo", 
-        "iterator": 94, 
+        "iterator": 105, 
         "man_made": "storage_tank", 
         "name": "Ngoleyo Water Supply", 
         "operational_status": "operational", 
@@ -3329,7 +3783,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571989564592.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571989695158.jpg", 
         "is_in:village": "Tartar", 
-        "iterator": 95, 
+        "iterator": 106, 
         "landuse": "other", 
         "name": "Ngrokal Irrigation Scheme", 
         "osm:id": "6924165765", 
@@ -3359,7 +3813,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571918378777.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571918705789.jpg", 
         "is_in:village": "Tampalal", 
-        "iterator": 96, 
+        "iterator": 107, 
         "name": "Nokowo-Tampalal Water Pan", 
         "operational_status": "non_operational", 
         "operator:funding": "county_governm", 
@@ -3392,7 +3846,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571389359795.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571389523939.jpg", 
         "is_in:village": "Nyakwala", 
-        "iterator": 97, 
+        "iterator": 108, 
         "name": "Nyakwala ECDE", 
         "operator:description": "County Government of West Pokot", 
         "operator:type": "cbo", 
@@ -3421,10 +3875,58 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572420940376.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572421198334.jpg", 
         "is_in:village": "Makutano", 
-        "iterator": 98, 
+        "iterator": 109, 
         "name": "Parking And Storm Water Drainage Makutano", 
         "osm:id": "6934229005", 
         "wb_pb:id": "296"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              35.0333834, 
+              1.2244532
+            ], 
+            [
+              35.0342631, 
+              1.2235951
+            ], 
+            [
+              35.0336194, 
+              1.2249466
+            ], 
+            [
+              35.0333244, 
+              1.2245176
+            ], 
+            [
+              35.0333834, 
+              1.2244532
+            ]
+          ]
+        ], 
+        "type": "Polygon"
+      }, 
+      "id": "739511943", 
+      "properties": {
+        "Category": "PEAGRI", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The facility is in use.\nThe cattle dip will help in controlling pests and diseases.", 
+        "Project_Description": "Renovation of Pser Cattle Dip", 
+        "Project_Name_or_Title": "Pser Cattle Dip", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571916802755.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571917019923.jpg", 
+        "is_in:village": "Pser", 
+        "iterator": 110, 
+        "landuse": "livestock_dip", 
+        "man_made": "livestock_dip", 
+        "name": "Pser cattle dip", 
+        "osm:id": "739511943", 
+        "wb_pb:id": "297"
       }, 
       "type": "Feature"
     }, 
@@ -3467,7 +3969,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747431834.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747744278.jpg", 
         "is_in:village": "Psigirio", 
-        "iterator": 99, 
+        "iterator": 111, 
         "landuse": "livestock_dip", 
         "man_made": "livestock_dip", 
         "name": "Psigirio Cattle Dip", 
@@ -3500,7 +4002,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571746658279.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571746695073.jpg", 
         "is_in:village": "Psigirio", 
-        "iterator": 100, 
+        "iterator": 112, 
         "medical_service:family_planning": "yes", 
         "medical_service:general_medical_services": "yes", 
         "medical_service:immunizations": "yes", 
@@ -3536,7 +4038,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571726948218.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571727349084.jpg", 
         "is_in:village": "Roponywo", 
-        "iterator": 101, 
+        "iterator": 113, 
         "medical_service:family_planning": "no", 
         "medical_service:general_medical_services": "no", 
         "medical_service:immunizations": "no", 
@@ -3571,7 +4073,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571730965391.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731322404.jpg", 
         "is_in:village": "Roponywo", 
-        "iterator": 102, 
+        "iterator": 114, 
         "name": "Roponywo Primary School", 
         "operator:description": "National Government", 
         "operator:type": "government", 
@@ -3603,12 +4105,66 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571920107674.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571920415785.jpg", 
         "is_in:village": "Simitei", 
-        "iterator": 103, 
+        "iterator": 115, 
         "name": "Simitei ECDE", 
         "operator:description": "County Government of West Pokot", 
         "operator:type": "government", 
         "osm:id": "6924297233", 
         "wb_pb:id": "305"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            35.0295934, 
+            1.2677499
+          ], 
+          [
+            35.0302425, 
+            1.2677901
+          ], 
+          [
+            35.0304303, 
+            1.2674255
+          ], 
+          [
+            35.0303498, 
+            1.2672538
+          ], 
+          [
+            35.0301191, 
+            1.26705
+          ], 
+          [
+            35.0298804, 
+            1.2673557
+          ], 
+          [
+            35.0295934, 
+            1.2677499
+          ]
+        ], 
+        "type": "LineString"
+      }, 
+      "id": "739511940", 
+      "properties": {
+        "Category": "WENR", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "During the rainy season, the citizens use rain.", 
+        "Project_Description": "Minor rehabilitation of Soybei irrigation scheme", 
+        "Project_Name_or_Title": "Soybei irrigation scheme", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571912237177.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571912387732.jpg", 
+        "is_in:village": "Lokornoi", 
+        "iterator": 116, 
+        "name": "Soybei irrigation scheme", 
+        "operator:funding": "county_governm", 
+        "osm:id": "739511940", 
+        "waterway": "drain", 
+        "wb_pb:id": "306"
       }, 
       "type": "Feature"
     }, 
@@ -3631,7 +4187,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571742706204.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571743204727.jpg", 
         "is_in:village": "Lityei", 
-        "iterator": 104, 
+        "iterator": 117, 
         "name": "Tanga Tanga Springs", 
         "natural": "spring", 
         "osm:id": "6908475317", 
@@ -3699,7 +4255,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571987472999.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571987490083.jpg", 
         "is_in:village": "Tartar", 
-        "iterator": 105, 
+        "iterator": 118, 
         "landuse": "livestock_dip", 
         "man_made": "livestock_dip", 
         "name": "Tartar Cattle Dip", 
@@ -3728,7 +4284,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571993325496.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571993348423.jpg", 
         "is_in:village": "Tartar", 
-        "iterator": 106, 
+        "iterator": 119, 
         "landuse": "other", 
         "name": "Tartar Coffee Factory", 
         "osm:id": "6924165763", 
@@ -3759,7 +4315,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571994637453.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571994660933.jpg", 
         "is_in:village": "Tartar", 
-        "iterator": 107, 
+        "iterator": 120, 
         "name": "Tartar-Keringet Water Supply", 
         "operational_status": "operational", 
         "operator:funding": "county_governm", 
@@ -3789,7 +4345,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571906667163.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571906692024.jpg", 
         "is_in:village": "Tilak", 
-        "iterator": 108, 
+        "iterator": 121, 
         "name": "Tilak culvert", 
         "operator:funding": "county_government", 
         "osm:id": "6924227348", 
@@ -3816,7 +4372,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571912692293.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571913098350.jpg", 
         "is_in:village": "Tilak", 
-        "iterator": 109, 
+        "iterator": 122, 
         "man_made": "storage_tank", 
         "name": "Tilak Water Storage Tank", 
         "operator:funding": "county_government", 
@@ -3849,7 +4405,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571406665440.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571405851859.jpg", 
         "is_in:village": "Tokolto", 
-        "iterator": 110, 
+        "iterator": 123, 
         "name": "Tokolto ECDE Centre", 
         "operator:description": "County Government of West Pokot", 
         "operator:type": "government", 
@@ -3881,7 +4437,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571993519266.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571993779032.jpg", 
         "is_in:village": "Chewoyet", 
-        "iterator": 111, 
+        "iterator": 124, 
         "name": "Tomena Primary School", 
         "operator:description": "National Government", 
         "operator:type": "government", 
@@ -3910,7 +4466,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571739341075.jpg", 
         "image_project_inside": "1571739353842.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 112, 
+        "iterator": 125, 
         "name": "West Pokot County Library", 
         "office": "government", 
         "osm:id": "6909005388", 
@@ -3938,7 +4494,7 @@
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571738568139.jpg", 
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571738596473.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 113, 
+        "iterator": 126, 
         "name": "West Pokot County Public Service Board", 
         "office": "government", 
         "osm:id": "6909005390", 
@@ -3965,7 +4521,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571391039748.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571391325109.jpg", 
         "is_in:village": "Mwotot", 
-        "iterator": 114, 
+        "iterator": 127, 
         "name": "Westpokot County Water Procurement Office", 
         "osm:id": "6909005411", 
         "wb_pb:id": "123"
@@ -4011,7 +4567,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571394121541.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571394589876.jpg", 
         "is_in:village": "Lotongot", 
-        "iterator": 115, 
+        "iterator": 128, 
         "landuse": "livestock_dip", 
         "man_made": "livestock_dip", 
         "name": "Emboasis Cattle Dip", 
@@ -4040,7 +4596,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571389774547.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571391007520.jpg", 
         "is_in:village": "Lotongot", 
-        "iterator": 116, 
+        "iterator": 129, 
         "medical_service:family_planning": "yes", 
         "medical_service:general_medical_services": "yes", 
         "medical_service:immunizations": "yes", 
@@ -4075,7 +4631,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571395889900.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571396588034.jpg", 
         "is_in:village": "Kaplelach-Koror", 
-        "iterator": 117, 
+        "iterator": 130, 
         "medical_service:family_planning": "no", 
         "medical_service:general_medical_services": "no", 
         "medical_service:immunizations": "no", 
@@ -4110,7 +4666,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571989861048.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571990635421.jpg", 
         "is_in:village": "Kodongou", 
-        "iterator": 118, 
+        "iterator": 131, 
         "name": "Kodongou Primary School", 
         "operator:description": "ELCK", 
         "operator:type": "government", 
@@ -4142,7 +4698,7 @@
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571910354338.jpg", 
         "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571910883052.jpg", 
         "is_in:village": "Putor", 
-        "iterator": 119, 
+        "iterator": 132, 
         "name": "Putor Primary School", 
         "operator:description": "National Government", 
         "operator:type": "government", 

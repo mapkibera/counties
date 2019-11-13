@@ -471,6 +471,35 @@
     {
       "geometry": {
         "coordinates": [
+          35.8688311, 
+          0.5104847
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6972597422", 
+      "properties": {
+        "Budgeted sum": "", 
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "It supplies water to the community.", 
+        "Project_Description": "Drilling and equopping of Kibingor borehole", 
+        "Project_Name_or_Title": "Kibingor Borehole", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "drinking_water", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568283618986.jpg", 
+        "is_in:village": "Kimondis", 
+        "man_made": "borehole", 
+        "name": "Kibingor Borehole", 
+        "operator": "government", 
+        "osm:id": "6972597422", 
+        "source": "survey;local knowledge", 
+        "wb_pb:id": "99"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           [
             [
               35.8751751, 
@@ -878,6 +907,40 @@
     {
       "geometry": {
         "coordinates": [
+          35.98487, 
+          0.4774237
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788450194", 
+      "properties": {
+        "Budgeted sum": "2,500,000.00", 
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Construction is still going on. They have already put on the roof, and they are still painting the wall. Windows have already been installed but the fencing of the compound has not yet been done.", 
+        "Project_Description": "Construction of Marigat Sub County Wards", 
+        "Project_Name_or_Title": "Marigat Sub County Hospital", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "hospital", 
+        "dispensing": "no", 
+        "electricity": "none", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568033412053.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568033967704.jpg", 
+        "is_in:village": "Town A", 
+        "medical_service:family_planning": "no", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "no", 
+        "medical_service:malaria": "no", 
+        "medical_service:pregnancy_test": "no", 
+        "name": "Sub County Referral Hospital", 
+        "osm:id": "6788450194", 
+        "wb_pb:id": "128"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.9794883, 
           0.4680133
         ], 
@@ -1231,6 +1294,36 @@
     {
       "geometry": {
         "coordinates": [
+          35.88582, 
+          0.333507
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788467271", 
+      "properties": {
+        "Budgeted sum": "", 
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "It's serving the school but it's a small tank.", 
+        "Project_Description": "Installation of Water storage tank", 
+        "Project_Name_or_Title": "Bekibon Storage Tank", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109638654.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109836407.jpg", 
+        "is_in:village": "Bekibon", 
+        "man_made": "storage_tank", 
+        "name": "Bekibon Water Storage Tank", 
+        "operational_status": "operational", 
+        "operator:funding": "ngo", 
+        "operator:type": "cbo", 
+        "osm:id": "6788467271", 
+        "wb_pb:id": "144"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.99, 
           0.437217
         ], 
@@ -1257,42 +1350,6 @@
         "operator:type": "government", 
         "osm:id": "6788464041", 
         "wb_pb:id": "145"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.8679, 
-          0.294875
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6798591061", 
-      "properties": {
-        "Budgeted sum": "", 
-        "Category": "HS", 
-        "In_your_opinion_is_the_project_quality": "excellent", 
-        "Please_add_any_details_about_y": "The structure of the buildings are of good quality also it's spacious to accomodate the community", 
-        "Project_Description": "Construction of General wards", 
-        "Project_Name_or_Title": "Sub County Referral Hospital", 
-        "What_is_the_project_s_apparent_status": "stalled", 
-        "amenity": "clinic", 
-        "dispensing": "yes", 
-        "electricity": "often", 
-        "health_facility:referrals": "Kabarnet Referral Hospital", 
-        "health_facility:type": "dispensary", 
-        "image": "https://mapkibera.github.io/counties/data/images/cache/6798591061/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568113389360jpg/orig.jpg", 
-        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6798591061/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568195813297jpg/orig.jpg", 
-        "is_in:village": "Tinomoi", 
-        "medical_service:family_planning": "yes", 
-        "medical_service:general_medical_services": "yes", 
-        "medical_service:immunizations": "yes", 
-        "medical_service:malaria": "yes", 
-        "medical_service:pregnancy_test": "yes", 
-        "name": "Tinomoi Dispensary", 
-        "osm:id": "6798591061", 
-        "wb_pb:id": "146"
       }, 
       "type": "Feature"
     }, 
@@ -1397,6 +1454,74 @@
         "name": "Kimalel Dispensary", 
         "osm:id": "6788466895", 
         "wb_pb:id": "149"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.8679, 
+          0.294875
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6798591061", 
+      "properties": {
+        "Budgeted sum": "2,429,956.00", 
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The structure is well built but lack of water is the main challenge", 
+        "Project_Description": "Construction of Tinomoi dispensary.", 
+        "Project_Name_or_Title": "Tinomoi Dispensary", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "often", 
+        "health_facility:referrals": "Kabarnet Referral Hospital", 
+        "health_facility:type": "dispensary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6798591061/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568113389360jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6798591061/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568195813297jpg/orig.jpg", 
+        "is_in:village": "Tinomoi", 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Tinomoi Dispensary", 
+        "osm:id": "6798591061", 
+        "wb_pb:id": "153"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.85478, 
+          0.281262
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6798591060", 
+      "properties": {
+        "Budgeted sum": "", 
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The structure is well built and used by the school.", 
+        "Project_Description": "Construction of ECDE Classroom", 
+        "Project_Name_or_Title": "Katkamuma ECDE", 
+        "What_is_the_project_s_apparent_status": "completed", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "pre_primary", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568114680746.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568195598378.jpg", 
+        "is_in:village": "Katkamuma", 
+        "name": "Katkamuma ECDE", 
+        "operator:description": "County Government of Baringo", 
+        "operator:type": "government", 
+        "osm:id": "6798591060", 
+        "wb_pb:id": "155"
       }, 
       "type": "Feature"
     }, 

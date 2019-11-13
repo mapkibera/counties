@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-12T16:41:02Z"/>
+<meta osm_base="2019-11-13T15:11:02Z"/>
 
   <bounds minlat="0.2520000" minlon="35.7760000" maxlat="0.6160000" maxlon="36.0540000"/>
 
@@ -31,7 +31,7 @@
     <tag k="operator:type" v="religious"/>
     <tag k="wb_pb:id" v="106"/>
   </node>
-  <node id="6788450194" lat="0.4774130" lon="35.9848700" version="3" timestamp="2019-10-04T20:36:46Z" changeset="75303433" uid="999" user="mikelmaron">
+  <node id="6788450194" lat="0.4774237" lon="35.9848700" version="4" timestamp="2019-11-13T12:21:43Z" changeset="77010483" uid="265690" user="fondolucy">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="no"/>
     <tag k="electricity" v="none"/>
@@ -44,7 +44,7 @@
     <tag k="medical_service:malaria" v="no"/>
     <tag k="medical_service:pregnancy_test" v="no"/>
     <tag k="name" v="Sub County Referral Hospital"/>
-    <tag k="wb_pb:id" v="124"/>
+    <tag k="wb_pb:id" v="128"/>
   </node>
   <node id="6788450200" lat="0.4738770" lon="35.9830400" version="3" timestamp="2019-10-05T03:48:50Z" changeset="75308155" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
@@ -156,7 +156,7 @@
     <tag k="name" v="Kimalel Dispensary"/>
     <tag k="wb_pb:id" v="149"/>
   </node>
-  <node id="6788467271" lat="0.3335070" lon="35.8858200" version="3" timestamp="2019-10-04T20:36:46Z" changeset="75303433" uid="999" user="mikelmaron">
+  <node id="6788467271" lat="0.3335070" lon="35.8858200" version="4" timestamp="2019-11-13T11:50:12Z" changeset="77008755" uid="265690" user="fondolucy">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109638654.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109836407.jpg"/>
     <tag k="is_in:village" v="Bekibon"/>
@@ -165,7 +165,7 @@
     <tag k="operational_status" v="operational"/>
     <tag k="operator:funding" v="ngo"/>
     <tag k="operator:type" v="cbo"/>
-    <tag k="wb_pb:id" v="154"/>
+    <tag k="wb_pb:id" v="144"/>
   </node>
   <node id="6788467272" lat="0.3334950" lon="35.8857300" version="3" timestamp="2019-10-05T03:48:50Z" changeset="75308155" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
@@ -321,7 +321,7 @@
     <tag k="operator:type" v="cbo"/>
     <tag k="wb_pb:id" v="110"/>
   </node>
-  <node id="6798591060" lat="0.2812620" lon="35.8547800" version="2" timestamp="2019-10-04T20:36:46Z" changeset="75303433" uid="999" user="mikelmaron">
+  <node id="6798591060" lat="0.2812620" lon="35.8547800" version="3" timestamp="2019-11-13T12:06:45Z" changeset="77009649" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
@@ -332,9 +332,9 @@
     <tag k="name" v="Katkamuma ECDE"/>
     <tag k="operator:description" v="County Government of Baringo"/>
     <tag k="operator:type" v="government"/>
-    <tag k="wb_pb:id" v="190"/>
+    <tag k="wb_pb:id" v="155"/>
   </node>
-  <node id="6798591061" lat="0.2948750" lon="35.8679000" version="3" timestamp="2019-10-05T03:48:50Z" changeset="75308155" uid="999" user="mikelmaron">
+  <node id="6798591061" lat="0.2948750" lon="35.8679000" version="4" timestamp="2019-11-13T11:47:09Z" changeset="77008597" uid="265690" user="fondolucy">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="often"/>
@@ -349,7 +349,7 @@
     <tag k="medical_service:malaria" v="yes"/>
     <tag k="medical_service:pregnancy_test" v="yes"/>
     <tag k="name" v="Tinomoi Dispensary"/>
-    <tag k="wb_pb:id" v="146"/>
+    <tag k="wb_pb:id" v="153"/>
   </node>
   <node id="6798591062" lat="0.2881670" lon="35.8683400" version="2" timestamp="2019-10-04T20:36:46Z" changeset="75303433" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
@@ -885,6 +885,16 @@
     <tag k="operator:funding" v="county_government"/>
     <tag k="operator:type" v="cbo"/>
     <tag k="wb_pb:id" v="108"/>
+  </node>
+  <node id="6972597422" lat="0.5104847" lon="35.8688311" version="2" timestamp="2019-11-13T12:14:50Z" changeset="77010121" uid="4570042" user="Peter Agenga">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568283618986.jpg"/>
+    <tag k="is_in:village" v="Kimondis"/>
+    <tag k="man_made" v="borehole"/>
+    <tag k="name" v="Kibingor Borehole"/>
+    <tag k="operator" v="government"/>
+    <tag k="source" v="survey;local knowledge"/>
+    <tag k="wb_pb:id" v="99"/>
   </node>
 
 </osm>

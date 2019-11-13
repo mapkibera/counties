@@ -774,6 +774,41 @@
 },
 {
   "type": "Feature",
+  "id": "node/6908782535",
+  "properties": {
+    "type": "node",
+    "id": "6908782535",
+    "tags": {
+      "amenity": "school",
+      "education_gender_type": "mixed",
+      "education_government_registere": "moe",
+      "education_type": "primary",
+      "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745594849.jpg",
+      "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745807652.jpg",
+      "is_in_village": "Cheptuya",
+      "name": "Cheptuya Primary School",
+      "operator_type": "government",
+      "wb_pb:id": "212"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-13T09:13:06Z",
+      "version": "2",
+      "changeset": "76999926",
+      "user": "Peter Agenga",
+      "uid": "4570042"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.0097467,
+      1.2552317
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6908782539",
   "properties": {
     "type": "node",
@@ -4070,6 +4105,103 @@
 },
 {
   "type": "Feature",
+  "id": "node/6924416524",
+  "properties": {
+    "type": "node",
+    "id": "6924416524",
+    "tags": {
+      "amenity": "shelter",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908110589.jpg",
+      "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908122561.jpg",
+      "image_project:inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908122561.jpg",
+      "image_project:outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908110589.jpg",
+      "is_in:village": "Bendera",
+      "name": "Bendera Boda Boda Shed",
+      "shelter_type": "boda",
+      "wb_pb:id": "7"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-13T09:05:48Z",
+      "version": "4",
+      "changeset": "76999616",
+      "user": "Peter Agenga",
+      "uid": "4570042"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.1159506,
+      1.2564377
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6924416528",
+  "properties": {
+    "type": "node",
+    "id": "6924416528",
+    "tags": {
+      "advertising": "billboard",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907624653.jpg",
+      "image_project:inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907825676.jpg",
+      "image_project:outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907820117.jpg",
+      "is_in:village": "Bendera",
+      "name": "Directional Billboard/Signage",
+      "wb_pb:id": "31"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-13T09:05:48Z",
+      "version": "3",
+      "changeset": "76999616",
+      "user": "Peter Agenga",
+      "uid": "4570042"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.115825,
+      1.256345
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6924416541",
+  "properties": {
+    "type": "node",
+    "id": "6924416541",
+    "tags": {
+      "amenity": "marketplace",
+      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571910126734.jpg",
+      "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571914018995.jpg",
+      "is_in:village": "Bendera",
+      "name": "Bendera Market Stalls",
+      "wb_pb:id": "159"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-13T09:05:48Z",
+      "version": "3",
+      "changeset": "76999616",
+      "user": "Peter Agenga",
+      "uid": "4570042"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.1147267,
+      1.252525
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6924444595",
   "properties": {
     "type": "node",
@@ -5292,6 +5424,144 @@
     "coordinates": [
       35.048385,
       1.2931433
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6972029291",
+  "properties": {
+    "type": "node",
+    "id": "6972029291",
+    "tags": {
+      "amenity": "clinic",
+      "dispensing": "yes",
+      "electricity": "sometime",
+      "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571399288592.jpg",
+      "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571399598820.jpg",
+      "is_in:village": "kadokony",
+      "medical_service:family_planning": "yes",
+      "medical_service:general_medical_services": "yes",
+      "medical_service:immunization": "yes",
+      "medical_service:malaria": "yes",
+      "medical_service:pregnancy_test": "yes",
+      "medical_service:referral": "Kapenguria County Hospital",
+      "name": "Kadokony Dispensary",
+      "wb_pb:id": "224"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-13T10:56:06Z",
+      "version": "1",
+      "changeset": "77005626",
+      "user": "benard lokeris",
+      "uid": "10380856"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.9975467,
+      1.273965
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6972029292",
+  "properties": {
+    "type": "node",
+    "id": "6972029292",
+    "tags": {
+      "amenity": "drinking_water",
+      "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911597337.jpg",
+      "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911707285.jpg",
+      "name": "Lokornoi Water Project",
+      "operator:description": "Government",
+      "wb_pb:id": "270"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-13T10:56:06Z",
+      "version": "1",
+      "changeset": "77005626",
+      "user": "benard lokeris",
+      "uid": "10380856"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.0303067,
+      1.2679798
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6972029293",
+  "properties": {
+    "type": "node",
+    "id": "6972029293",
+    "tags": {
+      "amenity": "school",
+      "education:gender_type": "mixed",
+      "education:government_registered": "moe",
+      "education:type": "primary",
+      "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571397514159.jpg",
+      "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571397744818.jpg",
+      "is_in:village": "Kadokony",
+      "name": "Kadokony Primary School",
+      "operator:description": "government",
+      "wb_pb:id": "225"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-13T10:56:06Z",
+      "version": "1",
+      "changeset": "77005626",
+      "user": "benard lokeris",
+      "uid": "10380856"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.9944483,
+      1.2801467
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6972258716",
+  "properties": {
+    "type": "node",
+    "id": "6972258716",
+    "tags": {
+      "amenity": "hospital",
+      "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915483075.jpg",
+      "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915700216.jpg",
+      "image_project_outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915669888.jpg",
+      "is_in_village": "Mwotot",
+      "name": "Kapenguria Referral Hospital Ward Seven",
+      "operator": "government",
+      "wb_pb:id": "53"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-13T11:33:06Z",
+      "version": "1",
+      "changeset": "77007838",
+      "user": "benard lokeris",
+      "uid": "10380856"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.1218833,
+      1.23768
     ]
   }
 }

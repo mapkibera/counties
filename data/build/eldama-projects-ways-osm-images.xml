@@ -1,6 +1,6 @@
-<osm generator="Overpass API 0.7.55.1009 5e627b63" version="0.6">
+<osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-11T20:06:02Z" />
+<meta osm_base="2019-11-13T15:12:02Z" />
 
   <bounds maxlat="0.0852000" maxlon="35.7553000" minlat="-0.0307000" minlon="35.6881000" />
 
@@ -403,11 +403,11 @@
   <node changeset="72512073" id="5497806970" lat="0.0042396" lon="35.7166986" timestamp="2019-07-22T11:59:02Z" uid="9447030" user="Liamuiga" version="3" />
   <node changeset="72512073" id="5497806971" lat="0.0044930" lon="35.7158336" timestamp="2019-07-22T11:59:02Z" uid="9447030" user="Liamuiga" version="3" />
   <node changeset="57561831" id="5507899730" lat="-0.0073439" lon="35.7383645" timestamp="2018-03-27T10:02:57Z" uid="451982" user="Lxsch" version="1" />
-  <node changeset="57561831" id="5507899731" lat="-0.0076818" lon="35.7390082" timestamp="2018-03-27T10:02:57Z" uid="451982" user="Lxsch" version="1" />
-  <node changeset="57561831" id="5507899732" lat="-0.0081432" lon="35.7395285" timestamp="2018-03-27T10:02:57Z" uid="451982" user="Lxsch" version="1" />
-  <node changeset="57561831" id="5507899733" lat="-0.0081539" lon="35.7397860" timestamp="2018-03-27T10:02:57Z" uid="451982" user="Lxsch" version="1" />
-  <node changeset="57561831" id="5507899734" lat="-0.0080949" lon="35.7401562" timestamp="2018-03-27T10:02:57Z" uid="451982" user="Lxsch" version="1" />
-  <node changeset="57561831" id="5507899735" lat="-0.0082076" lon="35.7403976" timestamp="2018-03-27T10:02:57Z" uid="451982" user="Lxsch" version="1" />
+  <node changeset="76957818" id="5507899731" lat="-0.0074765" lon="35.7386021" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="2" />
+  <node changeset="76957818" id="5507899732" lat="-0.0081685" lon="35.7396341" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="2" />
+  <node changeset="76957818" id="5507899733" lat="-0.0081762" lon="35.7397875" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="2" />
+  <node changeset="76957818" id="5507899734" lat="-0.0081142" lon="35.7402098" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="2" />
+  <node changeset="76957818" id="5507899735" lat="-0.0083147" lon="35.7404571" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="2" />
   <node changeset="57561831" id="5507899736" lat="-0.0089693" lon="35.7408804" timestamp="2018-03-27T10:02:57Z" uid="451982" user="Lxsch" version="1" />
   <node changeset="61268968" id="5507899740" lat="-0.0095231" lon="35.7411701" timestamp="2018-08-01T16:17:20Z" uid="8556957" user="kenboi" version="2" />
   <node changeset="57561831" id="5507899741" lat="-0.0092107" lon="35.7412398" timestamp="2018-03-27T10:02:57Z" uid="451982" user="Lxsch" version="1" />
@@ -415,16 +415,15 @@
   <node changeset="57561831" id="5507899743" lat="-0.0078052" lon="35.7412773" timestamp="2018-03-27T10:02:57Z" uid="451982" user="Lxsch" version="1" />
   <node changeset="57561831" id="5507899744" lat="-0.0070596" lon="35.7413149" timestamp="2018-03-27T10:02:57Z" uid="451982" user="Lxsch" version="1" />
   <node changeset="57561831" id="5507899746" lat="-0.0051659" lon="35.7415670" timestamp="2018-03-27T10:02:57Z" uid="451982" user="Lxsch" version="1" />
-  <node changeset="57561831" id="5507899747" lat="-0.0045490" lon="35.7413846" timestamp="2018-03-27T10:02:58Z" uid="451982" user="Lxsch" version="1" />
-  <node changeset="57561831" id="5507899748" lat="-0.0041735" lon="35.7414168" timestamp="2018-03-27T10:02:58Z" uid="451982" user="Lxsch" version="1" />
-  <node changeset="57561831" id="5507899749" lat="-0.0037551" lon="35.7415938" timestamp="2018-03-27T10:02:58Z" uid="451982" user="Lxsch" version="1" />
+  <node changeset="76957818" id="5507899747" lat="-0.0046531" lon="35.7414382" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="2" />
+  <node changeset="76957818" id="5507899748" lat="-0.0041735" lon="35.7414347" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="2" />
+  <node changeset="76957818" id="5507899749" lat="-0.0036272" lon="35.7417426" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="2" />
   <node changeset="57561831" id="5507899752" lat="-0.0018936" lon="35.7437611" timestamp="2018-03-27T10:02:58Z" uid="451982" user="Lxsch" version="1" />
-  <node changeset="57561831" id="5507899753" lat="-0.0016361" lon="35.7444370" timestamp="2018-03-27T10:02:58Z" uid="451982" user="Lxsch" version="1" />
+  <node changeset="76957818" id="5507899753" lat="-0.0016108" lon="35.7444801" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="2" />
   <node changeset="57561831" id="5507899754" lat="-0.0012982" lon="35.7447267" timestamp="2018-03-27T10:02:58Z" uid="451982" user="Lxsch" version="1" />
-  <node changeset="57561831" id="5507899755" lat="-0.0007456" lon="35.7449466" timestamp="2018-03-27T10:02:58Z" uid="451982" user="Lxsch" version="1" />
+  <node changeset="76957818" id="5507899755" lat="-0.0007501" lon="35.7449659" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="2" />
   <node changeset="57561831" id="5507899756" lat="-0.0004345" lon="35.7451826" timestamp="2018-03-27T10:02:58Z" uid="451982" user="Lxsch" version="1" />
   <node changeset="57561831" id="5507899758" lat="0.0000697" lon="35.7453597" timestamp="2018-03-27T10:02:58Z" uid="451982" user="Lxsch" version="1" />
-  <node changeset="57562803" id="5507991353" lat="-0.0064342" lon="35.7370087" timestamp="2018-03-27T10:37:00Z" uid="7020527" user="Naaktemolrat" version="1" />
   <node changeset="57562803" id="5507991354" lat="-0.0060968" lon="35.7364233" timestamp="2018-03-27T10:37:00Z" uid="7020527" user="Naaktemolrat" version="1" />
   <node changeset="57562803" id="5507991355" lat="-0.0052634" lon="35.7355940" timestamp="2018-03-27T10:37:00Z" uid="7020527" user="Naaktemolrat" version="1" />
   <node changeset="57562803" id="5507991356" lat="-0.0048934" lon="35.7347809" timestamp="2018-03-27T10:37:00Z" uid="7020527" user="Naaktemolrat" version="1" />
@@ -436,7 +435,7 @@
   <node changeset="57562803" id="5507991362" lat="-0.0056625" lon="35.7322894" timestamp="2018-03-27T10:37:00Z" uid="7020527" user="Naaktemolrat" version="1" />
   <node changeset="57562803" id="5507991363" lat="-0.0073904" lon="35.7308604" timestamp="2018-03-27T10:37:00Z" uid="7020527" user="Naaktemolrat" version="1" />
   <node changeset="57562803" id="5507991364" lat="-0.0103979" lon="35.7289457" timestamp="2018-03-27T10:37:00Z" uid="7020527" user="Naaktemolrat" version="1" />
-  <node changeset="57562803" id="5507991365" lat="-0.0108742" lon="35.7284600" timestamp="2018-03-27T10:37:00Z" uid="7020527" user="Naaktemolrat" version="1" />
+  <node changeset="76957818" id="5507991365" lat="-0.0108410" lon="35.7284913" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="2" />
   <node changeset="71705972" id="5507991366" lat="-0.0110105" lon="35.7281667" timestamp="2019-06-28T12:22:04Z" uid="9535312" user="Ningaloo7" version="2" />
   <node changeset="71705972" id="5507991367" lat="-0.0111017" lon="35.7275471" timestamp="2019-06-28T12:22:04Z" uid="9535312" user="Ningaloo7" version="2" />
   <node changeset="58516380" id="5507998951" lat="-0.0030098" lon="35.7331597" timestamp="2018-04-29T01:01:21Z" uid="223681" user="Wim L" version="2" />
@@ -624,8 +623,8 @@
   <node changeset="72351728" id="5673764849" lat="0.0533290" lon="35.7271756" timestamp="2019-07-17T14:21:37Z" uid="9625560" user="Maboneng" version="2" />
   <node changeset="72813356" id="5688844103" lat="0.0082116" lon="35.7401307" timestamp="2019-07-30T13:39:25Z" uid="9446944" user="MountKumotori" version="3" />
   <node changeset="72811213" id="5688844113" lat="0.0104807" lon="35.7410413" timestamp="2019-07-30T12:52:41Z" uid="9446944" user="MountKumotori" version="2" />
-  <node changeset="72807905" id="5688844222" lat="0.0002937" lon="35.7455072" timestamp="2019-07-30T11:37:28Z" uid="9446944" user="MountKumotori" version="2" />
-  <node changeset="72807905" id="5688844223" lat="0.0008100" lon="35.7457754" timestamp="2019-07-30T11:37:28Z" uid="9446944" user="MountKumotori" version="2" />
+  <node changeset="76957818" id="5688844222" lat="0.0003895" lon="35.7455026" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="3" />
+  <node changeset="76957818" id="5688844223" lat="0.0008032" lon="35.7457480" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="3" />
   <node changeset="72807905" id="5688844224" lat="0.0011118" lon="35.7460483" timestamp="2019-07-30T11:37:28Z" uid="9446944" user="MountKumotori" version="2" />
   <node changeset="72807905" id="5688844228" lat="0.0017837" lon="35.7471004" timestamp="2019-07-30T11:37:28Z" uid="9446944" user="MountKumotori" version="2" />
   <node changeset="72807905" id="5688844231" lat="0.0028351" lon="35.7476194" timestamp="2019-07-30T11:37:28Z" uid="9446944" user="MountKumotori" version="2" />
@@ -1082,9 +1081,9 @@
   <node changeset="72807905" id="6660624344" lat="0.0041702" lon="35.7477944" timestamp="2019-07-30T11:37:28Z" uid="9446944" user="MountKumotori" version="1" />
   <node changeset="72807905" id="6660624345" lat="0.0030765" lon="35.7477012" timestamp="2019-07-30T11:37:28Z" uid="9446944" user="MountKumotori" version="1" />
   <node changeset="72807905" id="6660624346" lat="0.0026178" lon="35.7475309" timestamp="2019-07-30T11:37:28Z" uid="9446944" user="MountKumotori" version="1" />
-  <node changeset="72807905" id="6660624347" lat="0.0020237" lon="35.7473338" timestamp="2019-07-30T11:37:28Z" uid="9446944" user="MountKumotori" version="1" />
-  <node changeset="72807905" id="6660624348" lat="0.0018910" lon="35.7472573" timestamp="2019-07-30T11:37:28Z" uid="9446944" user="MountKumotori" version="1" />
-  <node changeset="72807905" id="6660624349" lat="0.0021404" lon="35.7473700" timestamp="2019-07-30T11:37:28Z" uid="9446944" user="MountKumotori" version="1" />
+  <node changeset="76957818" id="6660624347" lat="0.0019895" lon="35.7472859" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="2" />
+  <node changeset="76957818" id="6660624348" lat="0.0018773" lon="35.7472254" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="2" />
+  <node changeset="76957818" id="6660624349" lat="0.0021678" lon="35.7473518" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="2" />
   <node changeset="72807905" id="6660624350" lat="0.0009736" lon="35.7458988" timestamp="2019-07-30T11:37:28Z" uid="9446944" user="MountKumotori" version="1" />
   <node changeset="72807905" id="6660624351" lat="0.0012687" lon="35.7462528" timestamp="2019-07-30T11:37:28Z" uid="9446944" user="MountKumotori" version="1" />
   <node changeset="72807905" id="6660624352" lat="0.0014417" lon="35.7465184" timestamp="2019-07-30T11:37:28Z" uid="9446944" user="MountKumotori" version="1" />
@@ -1143,6 +1142,30 @@
   <node changeset="72811806" id="6660795467" lat="0.0293558" lon="35.7292225" timestamp="2019-07-30T13:05:56Z" uid="9446944" user="MountKumotori" version="1" />
   <node changeset="72811806" id="6660795468" lat="0.0288277" lon="35.7283068" timestamp="2019-07-30T13:05:56Z" uid="9446944" user="MountKumotori" version="1" />
   <node changeset="72813439" id="6660952781" lat="0.0010031" lon="35.7317823" timestamp="2019-07-30T13:41:15Z" uid="9446944" user="MountKumotori" version="1" />
+  <node changeset="76957818" id="6968865220" lat="-0.0055760" lon="35.7323555" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865221" lat="-0.0065099" lon="35.7315031" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865222" lat="-0.0067364" lon="35.7313180" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865223" lat="-0.0071979" lon="35.7309547" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865224" lat="-0.0106155" lon="35.7287631" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865225" lat="-0.0051736" lon="35.7354344" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865226" lat="-0.0067099" lon="35.7374028" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865227" lat="-0.0075897" lon="35.7388823" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865228" lat="-0.0077638" lon="35.7391444" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865229" lat="-0.0080785" lon="35.7395090" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865230" lat="-0.0081043" lon="35.7400879" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865231" lat="-0.0081624" lon="35.7403126" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865232" lat="-0.0094532" lon="35.7412243" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865233" lat="-0.0093245" lon="35.7412395" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865234" lat="-0.0061737" lon="35.7414484" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865235" lat="-0.0052622" lon="35.7415761" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865236" lat="-0.0048455" lon="35.7414803" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865237" lat="-0.0044535" lon="35.7414156" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865238" lat="-0.0039866" lon="35.7414770" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865239" lat="-0.0038099" lon="35.7415756" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865240" lat="-0.0017559" lon="35.7440842" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865241" lat="-0.0016767" lon="35.7443647" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865242" lat="-0.0015058" lon="35.7445819" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
+  <node changeset="76957818" id="6968865243" lat="-0.0010836" lon="35.7448374" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
   <way changeset="72351728" id="171084021" timestamp="2019-07-17T14:21:37Z" uid="9625560" user="Maboneng" version="10">
     <nd ref="1821802815" />
     <nd ref="5489244436" />
@@ -1858,106 +1881,33 @@
     <tag k="name" v="Kibasiso-Mwisho Wa Lami Road" />
     <tag k="wb_pb:id" v="26920914" />
   </way>
-  <way changeset="72807905" id="573516180" timestamp="2019-07-30T11:37:28Z" uid="9446944" user="MountKumotori" version="4">
+  <way changeset="76957818" id="573516180" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="5">
     <nd ref="5507991358" />
     <nd ref="5507991357" />
     <nd ref="5507991356" />
+    <nd ref="6968865225" />
     <nd ref="5507991355" />
     <nd ref="5507991354" />
-    <nd ref="5507991353" />
+    <nd ref="6968865226" />
     <nd ref="5507899730" />
     <nd ref="5507899731" />
+    <nd ref="6968865227" />
+    <nd ref="6968865228" />
+    <nd ref="6968865229" />
     <nd ref="5507899732" />
     <nd ref="5507899733" />
+    <nd ref="6968865230" />
     <nd ref="5507899734" />
+    <nd ref="6968865231" />
     <nd ref="5507899735" />
     <nd ref="5507899736" />
     <nd ref="5507899740" />
-    <nd ref="5507899741" />
-    <nd ref="5507899742" />
-    <nd ref="5507899743" />
-    <nd ref="5507899744" />
-    <nd ref="5507899746" />
-    <nd ref="5507899747" />
-    <nd ref="5507899748" />
-    <nd ref="5507899749" />
-    <nd ref="5614314821" />
-    <nd ref="5507899752" />
-    <nd ref="5507899753" />
-    <nd ref="5507899754" />
-    <nd ref="5507899755" />
-    <nd ref="5507899756" />
-    <nd ref="5507899758" />
-    <nd ref="5688844222" />
-    <nd ref="5688844223" />
-    <nd ref="6660624350" />
-    <nd ref="5688844224" />
-    <nd ref="6660624351" />
-    <nd ref="6660624352" />
-    <nd ref="5688844228" />
-    <nd ref="6660624348" />
-    <nd ref="6660624347" />
-    <nd ref="6660624349" />
-    <nd ref="5688844285" />
-    <nd ref="6660624346" />
-    <nd ref="5688844231" />
-    <nd ref="6660624345" />
-    <nd ref="5688844232" />
-    <nd ref="5688844233" />
-    <nd ref="6660624344" />
-    <nd ref="5688844234" />
-    <nd ref="6660624342" />
-    <nd ref="6660624343" />
-    <nd ref="5688844237" />
-    <nd ref="6660624341" />
-    <nd ref="5688844241" />
-    <nd ref="6660624340" />
-    <nd ref="5688844257" />
-    <nd ref="5688844244" />
-    <nd ref="6660624339" />
-    <nd ref="6660624336" />
-    <nd ref="6660624337" />
-    <nd ref="6660624338" />
-    <nd ref="5688844245" />
-    <nd ref="5688844246" />
-    <nd ref="6660624335" />
-    <nd ref="5688844247" />
-    <nd ref="6660624334" />
-    <nd ref="6660624333" />
-    <nd ref="6660624332" />
-    <nd ref="6660624331" />
-    <nd ref="6660624330" />
-    <nd ref="6660624329" />
-    <nd ref="6660624328" />
-    <nd ref="6660624327" />
-    <nd ref="6660624326" />
-    <nd ref="6660624325" />
-    <nd ref="6660624324" />
-    <nd ref="6660624323" />
-    <nd ref="6660624322" />
-    <nd ref="6660624321" />
-    <nd ref="6660624320" />
-    <nd ref="6660624319" />
-    <nd ref="6660624318" />
-    <nd ref="6660624317" />
-    <nd ref="6660624316" />
-    <nd ref="6660624315" />
-    <nd ref="6660624314" />
-    <nd ref="6660624313" />
-    <nd ref="6660624312" />
-    <nd ref="6660624311" />
-    <nd ref="6660624310" />
-    <nd ref="6660624309" />
-    <nd ref="6660624308" />
-    <nd ref="6660624307" />
-    <nd ref="6660624306" />
-    <nd ref="6660624305" />
-    <nd ref="6660624304" />
     <tag k="highway" v="unclassified" />
     <tag k="name" v="Kabiyet- Kabitoi-Road" />
+    <tag k="surface" v="unpaved" />
     <tag k="wb_pb:id" v="26664114" />
   </way>
-  <way changeset="72813439" id="573558601" timestamp="2019-07-30T13:41:15Z" uid="9446944" user="MountKumotori" version="12">
+  <way changeset="76957818" id="573558601" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="13">
     <nd ref="5476713782" />
     <nd ref="6660795405" />
     <nd ref="5626997039" />
@@ -2078,72 +2028,6 @@
     <nd ref="5507998951" />
     <nd ref="5507991361" />
     <nd ref="5507991358" />
-    <nd ref="5507991362" />
-    <nd ref="5507991363" />
-    <nd ref="5507991364" />
-    <nd ref="5518674319" />
-    <nd ref="5507991365" />
-    <nd ref="5518673321" />
-    <nd ref="5507991366" />
-    <nd ref="6576680130" />
-    <nd ref="5507991367" />
-    <nd ref="5508147229" />
-    <nd ref="5508595271" />
-    <nd ref="6576680129" />
-    <nd ref="5508147230" />
-    <nd ref="5508147231" />
-    <nd ref="6576680128" />
-    <nd ref="5508147232" />
-    <nd ref="6576680127" />
-    <nd ref="6576680126" />
-    <nd ref="5508147233" />
-    <nd ref="5508595279" />
-    <nd ref="6576680125" />
-    <nd ref="5508147234" />
-    <nd ref="5508147235" />
-    <nd ref="5508147236" />
-    <nd ref="5508147237" />
-    <nd ref="5508147238" />
-    <nd ref="5508599018" />
-    <nd ref="5508147239" />
-    <nd ref="2139440828" />
-    <nd ref="6576680124" />
-    <nd ref="5508147240" />
-    <nd ref="6576680123" />
-    <nd ref="5508147241" />
-    <nd ref="5508147242" />
-    <nd ref="5508147243" />
-    <nd ref="5508147244" />
-    <nd ref="5508147245" />
-    <nd ref="5508147246" />
-    <nd ref="6576680122" />
-    <nd ref="5508147247" />
-    <nd ref="5508147248" />
-    <nd ref="5508147249" />
-    <nd ref="5508147250" />
-    <nd ref="6576680121" />
-    <nd ref="5508158409" />
-    <nd ref="5508158410" />
-    <nd ref="6576445934" />
-    <nd ref="5508158412" />
-    <nd ref="5508158413" />
-    <nd ref="6576445933" />
-    <nd ref="6576445932" />
-    <nd ref="5508158416" />
-    <nd ref="6576445931" />
-    <nd ref="6576445930" />
-    <nd ref="5508158418" />
-    <nd ref="6576445929" />
-    <nd ref="6576445927" />
-    <nd ref="5508159721" />
-    <nd ref="6576445928" />
-    <nd ref="5508159722" />
-    <nd ref="6576680120" />
-    <nd ref="5508159723" />
-    <nd ref="5508159724" />
-    <nd ref="5508159725" />
-    <nd ref="5508159726" />
-    <nd ref="5508159727" />
     <tag k="highway" v="unclassified" />
     <tag k="name" v="Uhuru- Kabiyet- Luita Road" />
     <tag k="surface" v="unpaved" />
@@ -2569,6 +2453,190 @@
     <tag k="name" v="Shimoni-Stage-Kims Road" />
     <tag k="surface" v="asphalt" />
     <tag k="wb_pb:id" v="26907408" />
+  </way>
+  <way changeset="76957818" id="744598964" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1">
+    <nd ref="5507991358" />
+    <nd ref="6968865220" />
+    <nd ref="5507991362" />
+    <nd ref="6968865221" />
+    <nd ref="6968865222" />
+    <nd ref="6968865223" />
+    <nd ref="5507991363" />
+    <tag k="highway" v="unclassified" />
+    <tag k="name" v="Uhuru- Kabiyet- Luita Road" />
+    <tag k="surface" v="unpaved" />
+    <tag k="wb_pb:id" v="26664008" />
+  </way>
+  <way changeset="76957818" id="744598965" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1">
+    <nd ref="5507991363" />
+    <nd ref="5507991364" />
+    <nd ref="6968865224" />
+    <nd ref="5518674319" />
+    <nd ref="5507991365" />
+    <nd ref="5518673321" />
+    <nd ref="5507991366" />
+    <nd ref="6576680130" />
+    <nd ref="5507991367" />
+    <nd ref="5508147229" />
+    <nd ref="5508595271" />
+    <nd ref="6576680129" />
+    <nd ref="5508147230" />
+    <nd ref="5508147231" />
+    <nd ref="6576680128" />
+    <nd ref="5508147232" />
+    <nd ref="6576680127" />
+    <nd ref="6576680126" />
+    <nd ref="5508147233" />
+    <nd ref="5508595279" />
+    <nd ref="6576680125" />
+    <nd ref="5508147234" />
+    <nd ref="5508147235" />
+    <nd ref="5508147236" />
+    <nd ref="5508147237" />
+    <nd ref="5508147238" />
+    <nd ref="5508599018" />
+    <nd ref="5508147239" />
+    <nd ref="2139440828" />
+    <nd ref="6576680124" />
+    <nd ref="5508147240" />
+    <nd ref="6576680123" />
+    <nd ref="5508147241" />
+    <nd ref="5508147242" />
+    <nd ref="5508147243" />
+    <nd ref="5508147244" />
+    <nd ref="5508147245" />
+    <nd ref="5508147246" />
+    <nd ref="6576680122" />
+    <nd ref="5508147247" />
+    <nd ref="5508147248" />
+    <nd ref="5508147249" />
+    <nd ref="5508147250" />
+    <nd ref="6576680121" />
+    <nd ref="5508158409" />
+    <nd ref="5508158410" />
+    <nd ref="6576445934" />
+    <nd ref="5508158412" />
+    <nd ref="5508158413" />
+    <nd ref="6576445933" />
+    <nd ref="6576445932" />
+    <nd ref="5508158416" />
+    <nd ref="6576445931" />
+    <nd ref="6576445930" />
+    <nd ref="5508158418" />
+    <nd ref="6576445929" />
+    <nd ref="6576445927" />
+    <nd ref="5508159721" />
+    <nd ref="6576445928" />
+    <nd ref="5508159722" />
+    <nd ref="6576680120" />
+    <nd ref="5508159723" />
+    <nd ref="5508159724" />
+    <nd ref="5508159725" />
+    <nd ref="5508159726" />
+    <nd ref="5508159727" />
+    <tag k="highway" v="unclassified" />
+    <tag k="name" v="Uhuru- Kabiyet- Luita Road" />
+    <tag k="surface" v="unpaved" />
+    <tag k="wb_pb:id" v="26664008" />
+  </way>
+  <way changeset="76957818" id="744598966" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1">
+    <nd ref="5507899740" />
+    <nd ref="6968865232" />
+    <nd ref="6968865233" />
+    <nd ref="5507899741" />
+    <nd ref="5507899742" />
+    <nd ref="5507899743" />
+    <nd ref="5507899744" />
+    <nd ref="6968865234" />
+    <nd ref="6968865235" />
+    <nd ref="5507899746" />
+    <nd ref="6968865236" />
+    <nd ref="5507899747" />
+    <nd ref="6968865237" />
+    <nd ref="5507899748" />
+    <nd ref="6968865238" />
+    <nd ref="6968865239" />
+    <nd ref="5507899749" />
+    <nd ref="5614314821" />
+    <nd ref="5507899752" />
+    <nd ref="6968865240" />
+    <nd ref="6968865241" />
+    <nd ref="5507899753" />
+    <nd ref="6968865242" />
+    <nd ref="5507899754" />
+    <nd ref="6968865243" />
+    <nd ref="5507899755" />
+    <nd ref="5507899756" />
+    <nd ref="5507899758" />
+    <nd ref="5688844222" />
+    <nd ref="5688844223" />
+    <nd ref="6660624350" />
+    <nd ref="5688844224" />
+    <nd ref="6660624351" />
+    <nd ref="6660624352" />
+    <nd ref="5688844228" />
+    <nd ref="6660624348" />
+    <nd ref="6660624347" />
+    <nd ref="6660624349" />
+    <nd ref="5688844285" />
+    <nd ref="6660624346" />
+    <nd ref="5688844231" />
+    <nd ref="6660624345" />
+    <nd ref="5688844232" />
+    <nd ref="5688844233" />
+    <nd ref="6660624344" />
+    <nd ref="5688844234" />
+    <nd ref="6660624342" />
+    <nd ref="6660624343" />
+    <nd ref="5688844237" />
+    <nd ref="6660624341" />
+    <nd ref="5688844241" />
+    <nd ref="6660624340" />
+    <nd ref="5688844257" />
+    <nd ref="5688844244" />
+    <nd ref="6660624339" />
+    <nd ref="6660624336" />
+    <nd ref="6660624337" />
+    <nd ref="6660624338" />
+    <nd ref="5688844245" />
+    <nd ref="5688844246" />
+    <nd ref="6660624335" />
+    <nd ref="5688844247" />
+    <nd ref="6660624334" />
+    <nd ref="6660624333" />
+    <nd ref="6660624332" />
+    <nd ref="6660624331" />
+    <nd ref="6660624330" />
+    <nd ref="6660624329" />
+    <nd ref="6660624328" />
+    <nd ref="6660624327" />
+    <nd ref="6660624326" />
+    <nd ref="6660624325" />
+    <nd ref="6660624324" />
+    <nd ref="6660624323" />
+    <nd ref="6660624322" />
+    <nd ref="6660624321" />
+    <nd ref="6660624320" />
+    <nd ref="6660624319" />
+    <nd ref="6660624318" />
+    <nd ref="6660624317" />
+    <nd ref="6660624316" />
+    <nd ref="6660624315" />
+    <nd ref="6660624314" />
+    <nd ref="6660624313" />
+    <nd ref="6660624312" />
+    <nd ref="6660624311" />
+    <nd ref="6660624310" />
+    <nd ref="6660624309" />
+    <nd ref="6660624308" />
+    <nd ref="6660624307" />
+    <nd ref="6660624306" />
+    <nd ref="6660624305" />
+    <nd ref="6660624304" />
+    <tag k="highway" v="unclassified" />
+    <tag k="name" v="Kabiyet- Kabitoi-Road" />
+    <tag k="surface" v="unpaved" />
+    <tag k="wb_pb:id" v="26664114" />
   </way>
 
 </osm>
