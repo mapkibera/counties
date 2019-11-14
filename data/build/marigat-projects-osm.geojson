@@ -83,8 +83,8 @@
           "amenity": "hospital",
           "dispensing": "no",
           "electricity": "none",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568033412053.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568033967704.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6788450194/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568033412053jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6788450194/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568033967704jpg/orig.jpg",
           "is_in:village": "Town A",
           "medical_service:family_planning": "no",
           "medical_service:general_medical_services": "no",
@@ -96,11 +96,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-13T12:21:43Z",
-          "version": "4",
-          "changeset": "77010483",
-          "user": "fondolucy",
-          "uid": "265690"
+          "timestamp": "2019-11-14T20:36:05Z",
+          "version": "5",
+          "changeset": "77094074",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -412,8 +412,8 @@
         "type": "node",
         "id": "6788467271",
         "tags": {
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109638654.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109836407.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6788467271/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568109638654jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6788467271/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568109836407jpg/orig.jpg",
           "is_in:village": "Bekibon",
           "man_made": "storage_tank",
           "name": "Bekibon Water Storage Tank",
@@ -424,11 +424,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-13T11:50:12Z",
-          "version": "4",
-          "changeset": "77008755",
-          "user": "fondolucy",
-          "uid": "265690"
+          "timestamp": "2019-11-14T20:36:05Z",
+          "version": "5",
+          "changeset": "77094074",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -857,8 +857,8 @@
           "education:gender_type": "mixed",
           "education:government_registered": "moe",
           "education:type": "pre_primary",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568114680746.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568195598378.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6798591060/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568114680746jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6798591060/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568195598378jpg/orig.jpg",
           "is_in:village": "Katkamuma",
           "name": "Katkamuma ECDE",
           "operator:description": "County Government of Baringo",
@@ -867,11 +867,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-13T12:06:45Z",
-          "version": "3",
-          "changeset": "77009649",
-          "user": "fondolucy",
-          "uid": "265690"
+          "timestamp": "2019-11-14T20:36:05Z",
+          "version": "4",
+          "changeset": "77094074",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -1379,8 +1379,8 @@
         "tags": {
           "amenity": "drinking_water",
           "description": "water_tank",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568364026077.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568363936673.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6799316021/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568364026077jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6799316021/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568363936673jpg/orig.jpg",
           "is_in:village": "Kampi Ya Kulima",
           "name": "Ndambul Water Project",
           "operational_status": "operational",
@@ -1390,9 +1390,9 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-10-04T20:36:46Z",
-          "version": "2",
-          "changeset": "75303433",
+          "timestamp": "2019-11-14T20:36:05Z",
+          "version": "3",
+          "changeset": "77094074",
           "user": "mikelmaron",
           "uid": "999"
         }
@@ -2211,8 +2211,8 @@
           "dispensing": "no",
           "electricity": "none",
           "health_facility:referrals": "Kabarnet Refferal Hospital",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570000239365.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570000414885.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6851133550/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570000239365jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6851133550/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570000414885jpg/orig.jpg",
           "is_in:village": "Town A",
           "medical_service:family_planning": "no",
           "medical_service:general_medical_services": "no",
@@ -2224,9 +2224,9 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-10-04T20:36:46Z",
-          "version": "2",
-          "changeset": "75303433",
+          "timestamp": "2019-11-14T20:36:05Z",
+          "version": "3",
+          "changeset": "77094074",
           "user": "mikelmaron",
           "uid": "999"
         }
@@ -2249,8 +2249,8 @@
           "amenity": "hospital",
           "dispensing": "no",
           "health_facility:referrals": "Kabarnet Referral Hospital",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570000865185.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570000846382.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6851133551/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570000865185jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6851133551/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570000846382jpg/orig.jpg",
           "is_in:village": "Town A",
           "medical_service:family_planning": "no",
           "medical_service:general_medical_services": "no",
@@ -2262,9 +2262,9 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-10-04T20:36:46Z",
-          "version": "2",
-          "changeset": "75303433",
+          "timestamp": "2019-11-14T20:36:05Z",
+          "version": "3",
+          "changeset": "77094074",
           "user": "mikelmaron",
           "uid": "999"
         }
@@ -2289,8 +2289,8 @@
           "electricity": "none",
           "health_facility:referrals": "Marigat Sub County Hospital",
           "health_facility:type": "dispensary",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570174081862.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570174237667.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6857038975/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570174081862jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6857038975/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570174237667jpg/orig.jpg",
           "is_in:village": "Maoi",
           "medical_service:family_planning": "no",
           "medical_service:general_medical_services": "no",
@@ -2302,11 +2302,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-10-07T09:38:52Z",
-          "version": "1",
-          "changeset": "75366091",
-          "user": "fondolucy",
-          "uid": "265690"
+          "timestamp": "2019-11-14T20:36:05Z",
+          "version": "2",
+          "changeset": "77094074",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -2324,8 +2324,8 @@
         "type": "node",
         "id": "6860048900",
         "tags": {
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568712869671.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568713075342.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6860048900/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568712869671jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6860048900/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568713075342jpg/orig.jpg",
           "is_in:village": "Kimalel",
           "man_made": "septic_tank",
           "name": "Kimalel Cultural Centre Septic Tank",
@@ -2333,11 +2333,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-10-08T10:33:36Z",
-          "version": "1",
-          "changeset": "75408431",
-          "user": "Ernet",
-          "uid": "10269225"
+          "timestamp": "2019-11-14T20:36:05Z",
+          "version": "2",
+          "changeset": "77094074",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -2360,8 +2360,8 @@
           "electricity": "sometime",
           "health_facility:referrals": "Kabarnet Referral Hospital",
           "health_facility:type": "dispensary",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568786021669.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568822943938.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6860048901/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568786021669jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6860048901/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568822943938jpg/orig.jpg",
           "is_in:village": "Sirwet",
           "medical_service:family_planning": "yes",
           "medical_service:general_medical_services": "yes",
@@ -2373,11 +2373,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-10-08T10:33:36Z",
-          "version": "1",
-          "changeset": "75408431",
-          "user": "Ernet",
-          "uid": "10269225"
+          "timestamp": "2019-11-14T20:36:05Z",
+          "version": "2",
+          "changeset": "77094074",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -2398,8 +2398,8 @@
           "amenity": "drinking_water",
           "description": "water_tank",
           "fee": "2",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568108100971.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568108100971-13_27_46.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6863434742/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568108100971jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6863434742/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568108100971132746jpg/orig.jpg",
           "is_in:village": "Buiwon",
           "name": "Buiwon Borehole",
           "operational_status": "operational",
@@ -2409,11 +2409,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-10-09T12:27:40Z",
-          "version": "1",
-          "changeset": "75460143",
-          "user": "Ernet",
-          "uid": "10269225"
+          "timestamp": "2019-11-14T20:36:05Z",
+          "version": "2",
+          "changeset": "77094074",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -2431,8 +2431,8 @@
         "type": "node",
         "id": "6863434743",
         "tags": {
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568116058927.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568116058927-13_15_6.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6863434743/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568116058927jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6863434743/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments156811605892713156jpg/orig.jpg",
           "is_in:village": "Tebei",
           "man_made": "borehole",
           "name": "Tebei Borehole",
@@ -2443,11 +2443,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-10-09T12:27:40Z",
-          "version": "1",
-          "changeset": "75460143",
-          "user": "Ernet",
-          "uid": "10269225"
+          "timestamp": "2019-11-14T20:36:05Z",
+          "version": "2",
+          "changeset": "77094074",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -2465,8 +2465,8 @@
         "type": "node",
         "id": "6863434744",
         "tags": {
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568113918684.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568113918684-12_32_47.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6863434744/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568113918684jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6863434744/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568113918684123247jpg/orig.jpg",
           "is_in:village": "Tinomoi",
           "man_made": "borehole",
           "name": "Tinomoi Borehole",
@@ -2477,11 +2477,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-10-09T12:27:40Z",
-          "version": "1",
-          "changeset": "75460143",
-          "user": "Ernet",
-          "uid": "10269225"
+          "timestamp": "2019-11-14T20:36:05Z",
+          "version": "2",
+          "changeset": "77094074",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -2623,16 +2623,16 @@
       "properties": {
         "id": "206620138",
         "meta": {
-          "changeset": "75308375",
-          "timestamp": "2019-10-05T04:21:51Z",
+          "changeset": "77094081",
+          "timestamp": "2019-11-14T20:36:21Z",
           "uid": "999",
           "user": "mikelmaron",
-          "version": "3"
+          "version": "4"
         },
         "relations": [],
         "tags": {
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569998944292.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569999096525.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/206620138/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1569998944292jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/206620138/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1569999096525jpg/orig.jpg",
           "is_in:village": "Town A",
           "leisure": "playground",
           "name": "Marigat Playground",
@@ -3398,18 +3398,18 @@
       "properties": {
         "id": "731560946",
         "meta": {
-          "changeset": "75308375",
-          "timestamp": "2019-10-05T04:21:51Z",
+          "changeset": "77094081",
+          "timestamp": "2019-11-14T20:36:21Z",
           "uid": "999",
           "user": "mikelmaron",
-          "version": "2"
+          "version": "3"
         },
         "relations": [],
         "tags": {
           "barrier": "fence",
           "fence_type": "wire",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569997673559.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569997863738.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/731560946/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1569997673559jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/731560946/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1569997863738jpg/orig.jpg",
           "name": "Youth Empowerment Centre Fence",
           "wb_pb:id": "233"
         },
@@ -3455,18 +3455,18 @@
       "properties": {
         "id": "732580859",
         "meta": {
-          "changeset": "75408431",
-          "timestamp": "2019-10-08T10:33:36Z",
-          "uid": "10269225",
-          "user": "Ernet",
-          "version": "1"
+          "changeset": "77094081",
+          "timestamp": "2019-11-14T20:36:21Z",
+          "uid": "999",
+          "user": "mikelmaron",
+          "version": "2"
         },
         "relations": [],
         "tags": {
           "barrier": "fence",
           "fence_type": "wire",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568710669334.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568725442931.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/732580859/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568710669334jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/732580859/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568725442931jpg/orig.jpg",
           "is_in:village": "Kimalel",
           "name": "Kimalel Cultural Centre Fence",
           "wb_pb:id": "202"

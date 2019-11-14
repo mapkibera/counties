@@ -1,6 +1,6 @@
 <osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-13T15:11:02Z" />
+<meta osm_base="2019-11-14T20:40:02Z" />
 
   <bounds maxlat="0.6160000" maxlon="36.0540000" minlat="0.2520000" minlon="35.7760000" />
 
@@ -120,7 +120,7 @@
     <tag k="project:eurosha_2012" v="yes" />
     <tag k="wb_pb:id" v="235" />
   </way>
-  <way changeset="75308375" id="206620138" timestamp="2019-10-05T04:21:51Z" uid="999" user="mikelmaron" version="3">
+  <way changeset="77094081" id="206620138" timestamp="2019-11-14T20:36:21Z" uid="999" user="mikelmaron" version="4">
     <nd ref="2166533620" />
     <nd ref="2166533602" />
     <nd ref="6851133535" />
@@ -129,8 +129,8 @@
     <nd ref="6851133533" />
     <nd ref="2166533518" />
     <nd ref="2166533620" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569998944292.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569999096525.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/206620138/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1569998944292jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/206620138/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1569999096525jpg/orig.jpg" />
     <tag k="is_in:village" v="Town A" />
     <tag k="leisure" v="playground" />
     <tag k="name" v="Marigat Playground" />
@@ -314,7 +314,7 @@
     <tag k="other_agriculture" v="Livestock Water Trough" />
     <tag k="wb_pb:id" v="101" />
   </way>
-  <way changeset="75308375" id="731560946" timestamp="2019-10-05T04:21:51Z" uid="999" user="mikelmaron" version="2">
+  <way changeset="77094081" id="731560946" timestamp="2019-11-14T20:36:21Z" uid="999" user="mikelmaron" version="3">
     <nd ref="6851133532" />
     <nd ref="6851133531" />
     <nd ref="6851133530" />
@@ -325,12 +325,12 @@
     <nd ref="6851133532" />
     <tag k="barrier" v="fence" />
     <tag k="fence_type" v="wire" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569997673559.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569997863738.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/731560946/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1569997673559jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/731560946/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1569997863738jpg/orig.jpg" />
     <tag k="name" v="Youth Empowerment Centre Fence" />
     <tag k="wb_pb:id" v="233" />
   </way>
-  <way changeset="75408431" id="732580859" timestamp="2019-10-08T10:33:36Z" uid="10269225" user="Ernet" version="1">
+  <way changeset="77094081" id="732580859" timestamp="2019-11-14T20:36:21Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6860048895" />
     <nd ref="6860048891" />
     <nd ref="6860048890" />
@@ -340,8 +340,8 @@
     <nd ref="6860048895" />
     <tag k="barrier" v="fence" />
     <tag k="fence_type" v="wire" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568710669334.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568725442931.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/732580859/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568710669334jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/732580859/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568725442931jpg/orig.jpg" />
     <tag k="is_in:village" v="Kimalel" />
     <tag k="name" v="Kimalel Cultural Centre Fence" />
     <tag k="wb_pb:id" v="202" />

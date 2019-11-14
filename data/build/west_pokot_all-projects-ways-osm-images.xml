@@ -1,6 +1,6 @@
-<osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
+<osm generator="Overpass API 0.7.55.1009 5e627b63" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-13T15:11:02Z" />
+<meta osm_base="2019-11-14T20:39:02Z" />
 
   <bounds maxlat="1.4225900" maxlon="35.1782300" minlat="1.1610400" minlon="34.9640000" />
 
@@ -6084,41 +6084,41 @@
     <tag k="wb_pb:id" v="54" />
     <tag k="width" v="12" />
   </way>
-  <way changeset="76239085" id="737830348" timestamp="2019-10-26T10:00:17Z" uid="616774" user="mueschel" version="2">
+  <way changeset="77094053" id="737830348" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="3">
     <nd ref="6908475298" />
     <nd ref="6908475297" />
     <nd ref="6908475296" />
     <nd ref="6908475295" />
     <nd ref="6908475298" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571732898534.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571733506043.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/737830348/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571732898534jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/737830348/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571733506043jpg/orig.jpg" />
     <tag k="is_in:village" v="Lityei" />
     <tag k="landuse" v="livestock_dip" />
     <tag k="man_made" v="livestock_dip" />
     <tag k="name" v="Lityei Cattle Dip" />
     <tag k="wb_pb:id" v="256" />
   </way>
-  <way changeset="76093637" id="737830349" timestamp="2019-10-23T10:01:40Z" uid="10380936" user="CHENAA" version="1">
+  <way changeset="77094053" id="737830349" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6908475302" />
     <nd ref="6908475301" />
     <nd ref="6908475300" />
     <nd ref="6908475299" />
     <nd ref="6908475302" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571730868650.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731176794.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/737830349/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571730868650jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/737830349/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731176794jpg/orig.jpg" />
     <tag k="is_in:village" v="Lityei" />
     <tag k="leisure" v="playground" />
     <tag k="name" v="Lityei Galib Mohammed Primary School Playground" />
     <tag k="wb_pb:id" v="258" />
   </way>
-  <way changeset="76098277" id="737849798" timestamp="2019-10-23T11:19:44Z" uid="10380766" user="Isaac Lonika" version="1">
+  <way changeset="77094053" id="737849798" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6908733049" />
     <nd ref="6908733048" />
     <nd ref="6908733047" />
     <nd ref="6908733046" />
     <nd ref="6908733049" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571735952009.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571736436847.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/737849798/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571735952009jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/737849798/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571736436847jpg/orig.jpg" />
     <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571736477433.jpg" />
     <tag k="is_in:village" v="Chepkechir Center" />
     <tag k="landuse" v="livestock_dip" />
@@ -6126,14 +6126,14 @@
     <tag k="name" v="Chepkechir Cattle Dip" />
     <tag k="wb_pb:id" v="137" />
   </way>
-  <way changeset="76098277" id="737849799" timestamp="2019-10-23T11:19:44Z" uid="10380766" user="Isaac Lonika" version="1">
+  <way changeset="77094053" id="737849799" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6908733053" />
     <nd ref="6908733052" />
     <nd ref="6908733051" />
     <nd ref="6908733050" />
     <nd ref="6908733053" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571394121541.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571394589876.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/737849799/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571394121541jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/737849799/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571394589876jpg/orig.jpg" />
     <tag k="is_in:village" v="Lotongot" />
     <tag k="landuse" v="livestock_dip" />
     <tag k="man_made" v="livestock_dip" />
@@ -6162,14 +6162,14 @@
     <tag k="operator_funding" v="national_government" />
     <tag k="wb_pb:id" v="161" />
   </way>
-  <way changeset="76100501" id="737862246" timestamp="2019-10-23T12:10:47Z" uid="10380829" user="SIWA Jnr" version="1">
+  <way changeset="77094053" id="737862246" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6908909010" />
     <nd ref="6908909009" />
     <nd ref="6908909008" />
     <nd ref="6908909007" />
     <nd ref="6908909010" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571744923150.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745085240.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/737862246/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571744923150jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/737862246/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571745085240jpg/orig.jpg" />
     <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745117264.jpg" />
     <tag k="is_in:village" v="Murkwijit" />
     <tag k="landuse" v="dairy" />
@@ -6177,28 +6177,28 @@
     <tag k="product" v="dairy" />
     <tag k="wb_pb:id" v="217" />
   </way>
-  <way changeset="76100501" id="737862247" timestamp="2019-10-23T12:10:47Z" uid="10380829" user="SIWA Jnr" version="1">
+  <way changeset="77094053" id="737862247" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6908909014" />
     <nd ref="6908909013" />
     <nd ref="6908909012" />
     <nd ref="6908909011" />
     <nd ref="6908909014" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571397440773.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571397635803.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/737862247/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571397440773jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/737862247/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571397635803jpg/orig.jpg" />
     <tag k="is_in:village" v="Keringet" />
     <tag k="landuse" v="other" />
     <tag k="name" v="FADC Sunflower Oil Processing Project" />
     <tag k="other_agriculture" v="Sunflower oil processing project" />
     <tag k="wb_pb:id" v="220" />
   </way>
-  <way changeset="76100501" id="737862250" timestamp="2019-10-23T12:10:47Z" uid="10380829" user="SIWA Jnr" version="1">
+  <way changeset="77094053" id="737862250" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6908909031" />
     <nd ref="6908909030" />
     <nd ref="6908909029" />
     <nd ref="6908909028" />
     <nd ref="6908909031" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734249560.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734567147.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/737862250/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571734249560jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/737862250/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571734567147jpg/orig.jpg" />
     <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734619235.jpg" />
     <tag k="is_in:village" v="Makutano" />
     <tag k="leisure" v="stadium" />
@@ -6219,7 +6219,7 @@
     <tag k="name" v="Makutano Sports Stadium" />
     <tag k="wb_pb:id" v="280" />
   </way>
-  <way changeset="76100501" id="737862252" timestamp="2019-10-23T12:10:47Z" uid="10380829" user="SIWA Jnr" version="1">
+  <way changeset="77094053" id="737862252" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6908909042" />
     <nd ref="6908909041" />
     <nd ref="6908909040" />
@@ -6228,53 +6228,53 @@
     <nd ref="6908909037" />
     <nd ref="6908909036" />
     <nd ref="6908909042" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571387999719.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571394473581.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/737862252/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571387999719jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/737862252/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571394473581jpg/orig.jpg" />
     <tag k="is_in:village" v="Keringet" />
     <tag k="landuse" v="livestock_dip" />
     <tag k="man_made" v="livestock_dip" />
     <tag k="name" v="Keringet Cattle Dip" />
     <tag k="wb_pb:id" v="242" />
   </way>
-  <way changeset="76100501" id="737862253" timestamp="2019-10-23T12:10:47Z" uid="10380829" user="SIWA Jnr" version="1">
+  <way changeset="77094053" id="737862253" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6908909046" />
     <nd ref="6908909045" />
     <nd ref="6908909044" />
     <nd ref="6908909043" />
     <nd ref="6908909046" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747431834.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747744278.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/737862253/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571747431834jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/737862253/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571747744278jpg/orig.jpg" />
     <tag k="is_in:village" v="Psigirio" />
     <tag k="landuse" v="livestock_dip" />
     <tag k="man_made" v="livestock_dip" />
     <tag k="name" v="Psigirio Cattle Dip" />
     <tag k="wb_pb:id" v="300" />
   </way>
-  <way changeset="76102015" id="737868495" timestamp="2019-10-23T12:38:03Z" uid="10380888" user="Hillarious" version="1">
+  <way changeset="77094053" id="737868495" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6909005264" />
     <nd ref="6909005263" />
     <nd ref="6909005262" />
     <nd ref="6909005261" />
     <nd ref="6909005264" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571391589927.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571391963131.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/737868495/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571391589927jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/737868495/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571391963131jpg/orig.jpg" />
     <tag k="is_in:village" v="Mwotot" />
     <tag k="landuse" v="Other" />
     <tag k="name" v="County Tree Nursery" />
     <tag k="other_agriculture" v="Tree nursery" />
     <tag k="wb_pb:id" v="124" />
   </way>
-  <way changeset="76200765" id="737868496" timestamp="2019-10-25T11:01:06Z" uid="616774" user="mueschel" version="2">
+  <way changeset="77094053" id="737868496" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="3">
     <nd ref="6909005266" />
     <nd ref="6909005265" />
     <tag k="barrier" v="wall" />
     <tag k="description" v="Ardhi Pouse perimeter Wall" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571384658077.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571385450319.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/737868496/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571384658077jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/737868496/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571385450319jpg/orig.jpg" />
     <tag k="is_in:village" v="Mwotot" />
     <tag k="wb_pb:id" v="5" />
   </way>
-  <way changeset="76102015" id="737868497" timestamp="2019-10-23T12:38:03Z" uid="10380888" user="Hillarious" version="1">
+  <way changeset="77094053" id="737868497" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6909005272" />
     <nd ref="6909005271" />
     <nd ref="6909005270" />
@@ -6282,25 +6282,25 @@
     <nd ref="6909005268" />
     <nd ref="6909005267" />
     <nd ref="6909005272" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571394651418.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571395036910.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/737868497/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571394651418jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/737868497/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571395036910jpg/orig.jpg" />
     <tag k="is_in:village" v="Mwotot" />
     <tag k="name" v="West Pokot Kilimo Perimeter Wall" />
     <tag k="wb_pb:id" v="125" />
   </way>
-  <way changeset="76102015" id="737868498" timestamp="2019-10-23T12:38:03Z" uid="10380888" user="Hillarious" version="1">
+  <way changeset="77094053" id="737868498" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6909005276" />
     <nd ref="6909005275" />
     <nd ref="6909005274" />
     <nd ref="6909005273" />
     <nd ref="6909005276" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731686159.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731844690.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/737868498/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731686159jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/737868498/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731844690jpg/orig.jpg" />
     <tag k="is_in:village" v="Mwotot" />
     <tag k="name" v="West Pokot County Tourism Office Parking shade" />
     <tag k="wb_pb:id" v="128" />
   </way>
-  <way changeset="76289728" id="739507816" timestamp="2019-10-28T09:16:24Z" uid="10380829" user="SIWA Jnr" version="1">
+  <way changeset="77094053" id="739507816" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6924165738" />
     <nd ref="6924165737" />
     <nd ref="6924165736" />
@@ -6311,8 +6311,8 @@
     <nd ref="6924165731" />
     <nd ref="6924165730" />
     <nd ref="6924165738" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571987329249.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571987472999.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/739507816/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571987329249jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/739507816/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571987472999jpg/orig.jpg" />
     <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571987490083.jpg" />
     <tag k="is_in:village" v="Tartar" />
     <tag k="landuse" v="livestock_dip" />
@@ -6320,7 +6320,7 @@
     <tag k="name" v="Tartar Cattle Dip" />
     <tag k="wb_pb:id" v="311" />
   </way>
-  <way changeset="76289728" id="739507818" timestamp="2019-10-28T09:16:24Z" uid="10380829" user="SIWA Jnr" version="1">
+  <way changeset="77094053" id="739507818" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6924165758" />
     <nd ref="6924165757" />
     <nd ref="6924165756" />
@@ -6330,8 +6330,8 @@
     <nd ref="6924165752" />
     <nd ref="6924165751" />
     <nd ref="6924165758" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907060899.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907241154.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/739507818/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907060899jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/739507818/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907241154jpg/orig.jpg" />
     <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907259374.jpg" />
     <tag k="is_in:village" v="Kamuino" />
     <tag k="landuse" v="livestock_dip" />
@@ -6339,7 +6339,7 @@
     <tag k="name" v="Kamuino Cattle Dip" />
     <tag k="wb_pb:id" v="229" />
   </way>
-  <way changeset="76997487" id="739511940" timestamp="2019-11-13T08:17:18Z" uid="4570042" user="Peter Agenga" version="3">
+  <way changeset="77094053" id="739511940" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="4">
     <nd ref="6924169516" />
     <nd ref="6924169515" />
     <nd ref="6924169514" />
@@ -6347,15 +6347,15 @@
     <nd ref="6924169512" />
     <nd ref="6924169511" />
     <nd ref="6924169516" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571912237177.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571912387732.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/739511940/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571912237177jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/739511940/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571912387732jpg/orig.jpg" />
     <tag k="is_in:village" v="Lokornoi" />
     <tag k="name" v="Soybei irrigation scheme" />
     <tag k="operator:funding" v="county_governm" />
     <tag k="waterway" v="drain" />
     <tag k="wb_pb:id" v="306" />
   </way>
-  <way changeset="76957601" id="739511941" timestamp="2019-11-12T11:49:07Z" uid="265690" user="fondolucy" version="2">
+  <way changeset="77094053" id="739511941" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="3">
     <nd ref="6924169521" />
     <nd ref="6924169520" />
     <nd ref="6924169519" />
@@ -6364,13 +6364,13 @@
     <nd ref="6924169521" />
     <tag k="amenity" v="clinic" />
     <tag k="health_facility:type" v="dispensary" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911348165.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911470100.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/739511941/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571911348165jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/739511941/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571911470100jpg/orig.jpg" />
     <tag k="is_in:village" v="Lokornoi" />
     <tag k="name" v="Lokornoi Dispensary" />
     <tag k="wb_pb:id" v="165" />
   </way>
-  <way changeset="76996099" id="739511942" timestamp="2019-11-13T07:49:40Z" uid="4570042" user="Peter Agenga" version="2">
+  <way changeset="77094053" id="739511942" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="3">
     <nd ref="6924169580" />
     <nd ref="6924169579" />
     <nd ref="6924169524" />
@@ -6378,29 +6378,29 @@
     <nd ref="6924169522" />
     <nd ref="6924169581" />
     <nd ref="6924169580" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909679556.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909907483.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/739511942/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571909679556jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/739511942/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571909907483jpg/orig.jpg" />
     <tag k="is_in:village" v="Lokornoi" />
     <tag k="landuse" v="livestock_dip" />
     <tag k="man_made" v="livestock_dip" />
     <tag k="name" v="Lokornoi Cattle Dip" />
     <tag k="wb_pb:id" v="259" />
   </way>
-  <way changeset="76996656" id="739511943" timestamp="2019-11-13T08:00:51Z" uid="4570042" user="Peter Agenga" version="2">
+  <way changeset="77094053" id="739511943" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="3">
     <nd ref="6924169528" />
     <nd ref="6924169527" />
     <nd ref="6924169526" />
     <nd ref="6924169525" />
     <nd ref="6924169528" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571916802755.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571917019923.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/739511943/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571916802755jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/739511943/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571917019923jpg/orig.jpg" />
     <tag k="is_in:village" v="Pser" />
     <tag k="landuse" v="livestock_dip" />
     <tag k="man_made" v="livestock_dip" />
     <tag k="name" v="Pser cattle dip" />
     <tag k="wb_pb:id" v="297" />
   </way>
-  <way changeset="76997293" id="739511945" timestamp="2019-11-13T08:13:52Z" uid="4570042" user="Peter Agenga" version="2">
+  <way changeset="77094053" id="739511945" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="3">
     <nd ref="6924169549" />
     <nd ref="6924169548" />
     <nd ref="6924169547" />
@@ -6418,15 +6418,15 @@
     <tag k="education:gender_type" v="mixed" />
     <tag k="education:government_registered" v="moe" />
     <tag k="education:type" v="primary" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915217609.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571915360694.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/739511945/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571915217609jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/739511945/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571915360694jpg/orig.jpg" />
     <tag k="is_in:village" v="Pser" />
     <tag k="name" v="Pser Primary School" />
     <tag k="operator:description" v="National Government" />
     <tag k="operator:type" v="government" />
     <tag k="wb_pb:id" v="298" />
   </way>
-  <way changeset="76996416" id="739511946" timestamp="2019-11-13T07:56:09Z" uid="4570042" user="Peter Agenga" version="2">
+  <way changeset="77094053" id="739511946" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="3">
     <nd ref="6924169573" />
     <nd ref="6924169572" />
     <nd ref="6924169571" />
@@ -6456,22 +6456,22 @@
     <tag k="education:gender_type" v="mixed" />
     <tag k="education:government_registered" v="moe" />
     <tag k="education:type" v="primary" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571910759577.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911063427.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/739511946/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571910759577jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/739511946/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571911063427jpg/orig.jpg" />
     <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911096989.jpg" />
     <tag k="is_in:village" v="Lokornoi" />
     <tag k="name" v="Lokornoi primary school" />
     <tag k="operator:type" v="government" />
     <tag k="wb_pb:id" v="260" />
   </way>
-  <way changeset="76290756" id="739512351" timestamp="2019-10-28T09:41:53Z" uid="10380870" user="loitalima" version="1">
+  <way changeset="77094053" id="739512351" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6924227332" />
     <nd ref="6924227331" />
     <nd ref="6924227330" />
     <nd ref="6924227329" />
     <nd ref="6924227332" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571989719622.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571990273229.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/739512351/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571989719622jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/739512351/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571990273229jpg/orig.jpg" />
     <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571990293300.jpg" />
     <tag k="is_in:village" v="Kalomoywo" />
     <tag k="landuse" v="livestock_dip" />
@@ -6479,7 +6479,7 @@
     <tag k="name" v="Kalomoywo Cattle Dip" />
     <tag k="wb_pb:id" v="45" />
   </way>
-  <way changeset="76294057" id="739524514" timestamp="2019-10-28T10:54:43Z" uid="10380870" user="loitalima" version="1">
+  <way changeset="77094053" id="739524514" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6924370701" />
     <nd ref="6924370700" />
     <nd ref="6924370699" />
@@ -6509,21 +6509,21 @@
     <nd ref="6924346875" />
     <nd ref="6924346874" />
     <nd ref="6924370701" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571387346538.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/IMG_20191018_112900-15_14_11.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/739524514/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571387346538jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/739524514/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachmentsIMG20191018112900151411jpg/orig.jpg" />
     <tag k="is_in:village" v="Kishaunet" />
     <tag k="landuse" v="other" />
     <tag k="name" v="Kishaunet Showground" />
     <tag k="other_agriculture" v="Showground" />
     <tag k="wb_pb:id" v="251" />
   </way>
-  <way changeset="76294057" id="739524516" timestamp="2019-10-28T10:54:43Z" uid="10380870" user="loitalima" version="1">
+  <way changeset="77094053" id="739524516" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6924370721" />
     <nd ref="6924370720" />
     <nd ref="6924370719" />
     <nd ref="6924370718" />
     <nd ref="6924370721" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571385975742.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/739524516/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571385975742jpg/orig.jpg" />
     <tag k="is_in:village" v="Kishaunet" />
     <tag k="landuse" v="livestock_dip" />
     <tag k="man_made" v="livestock_dip" />
@@ -6597,7 +6597,7 @@
     <tag k="name" v="Kapenguria Referral Hospital" />
     <tag k="wb_pb:id" v="55" />
   </way>
-  <way changeset="76295280" id="739531381" timestamp="2019-10-28T11:25:52Z" uid="10380856" user="benard lokeris" version="1">
+  <way changeset="77094053" id="739531381" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6924413642" />
     <nd ref="6924413641" />
     <nd ref="6924413640" />
@@ -6612,13 +6612,13 @@
     <nd ref="6924413631" />
     <nd ref="6924413642" />
     <tag k="barrier" v="wall" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571902752598.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571902972983.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/739531381/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571902752598jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/739531381/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571902972983jpg/orig.jpg" />
     <tag k="is_in:village" v="Mwotot" />
     <tag k="name" v="West Pokot County Recidence Wall" />
     <tag k="wb_pb:id" v="140" />
   </way>
-  <way changeset="76295494" id="739532656" timestamp="2019-10-28T11:31:03Z" uid="10380936" user="CHENAA" version="1">
+  <way changeset="77094053" id="739532656" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6924444590" />
     <nd ref="6924444589" />
     <nd ref="6924444588" />
@@ -6634,8 +6634,8 @@
     <nd ref="6924410778" />
     <nd ref="6924444590" />
     <tag k="barrier" v="wall" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907348672.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907592480.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/739532656/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907348672jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/739532656/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907592480jpg/orig.jpg" />
     <tag k="is_in:village" v="Makutano" />
     <tag k="name" v="Makutano primary wall" />
     <tag k="wb_pb:id" v="278" />
@@ -6653,11 +6653,11 @@
     <tag k="name" v="Katungui Cattle Dip" />
     <tag k="wb_pb:id" v="86" />
   </way>
-  <way changeset="76300067" id="739555017" timestamp="2019-10-28T13:27:43Z" uid="10380856" user="benard lokeris" version="1">
+  <way changeset="77094053" id="739555017" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6924662808" />
     <nd ref="6924662807" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571989440356.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571989733477.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/739555017/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571989440356jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/739555017/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571989733477jpg/orig.jpg" />
     <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571989763620.jpg" />
     <tag k="is_in:village" v="Chewoyet" />
     <tag k="name" v="Kamarketch Bridge" />
@@ -7671,19 +7671,19 @@
     <tag k="wb_pb:id" v="3" />
     <tag k="width" v="9 metres" />
   </way>
-  <way changeset="76489296" id="740942816" timestamp="2019-11-01T11:12:50Z" uid="10380856" user="benard lokeris" version="1">
+  <way changeset="77094053" id="740942816" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="2583718160" />
     <nd ref="2583718163" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571997453379.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571997754070.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/740942816/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571997453379jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/740942816/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571997754070jpg/orig.jpg" />
     <tag k="is_in:village" v="Chewoyet" />
     <tag k="name" v="Aramaket-Kapsurum Bridge" />
     <tag k="operator:funding" v="county_governm" />
     <tag k="surface" v="ground" />
     <tag k="wb_pb:id" v="154" />
   </way>
-  <way changeset="76648572" id="742185879" timestamp="2019-11-05T13:18:01Z" uid="10380856" user="benard lokeris" version="1">
+  <way changeset="77094053" id="742185879" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6948364835" />
     <nd ref="6948364834" />
     <nd ref="6948364833" />
@@ -7694,15 +7694,15 @@
     <nd ref="6948364828" />
     <nd ref="6948364827" />
     <nd ref="6948364835" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571992858266.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571993235541.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/742185879/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571992858266jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/742185879/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571993235541jpg/orig.jpg" />
     <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571993259472.jpg" />
     <tag k="is_in:village" v="Kishaunet" />
     <tag k="name" v="Kishaunet Show Ground" />
     <tag k="tourism" v="attraction" />
     <tag k="wb_pb:id" v="250" />
   </way>
-  <way changeset="76796038" id="743230500" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="1">
+  <way changeset="77094053" id="743230500" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6956972300" />
     <nd ref="6956972299" />
     <nd ref="6956972298" />
@@ -7710,13 +7710,13 @@
     <nd ref="6956972300" />
     <tag k="barrier" v="fence" />
     <tag k="fence_type" v="chain_link" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734395171.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571736915992.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/743230500/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571734395171jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/743230500/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571736915992jpg/orig.jpg" />
     <tag k="is_in:village" v="Mwotot" />
     <tag k="name" v="West Pokot Investment and Cooperative Development Fence" />
     <tag k="wb_pb:id" v="130" />
   </way>
-  <way changeset="76796038" id="743230501" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="1">
+  <way changeset="77094053" id="743230501" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6956972304" />
     <nd ref="6956972303" />
     <nd ref="6956972302" />
@@ -7724,8 +7724,8 @@
     <nd ref="6956972304" />
     <tag k="barrier" v="fence" />
     <tag k="fence_type" v="chain_link" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731164574.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571731499168.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/743230501/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731164574jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/743230501/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731499168jpg/orig.jpg" />
     <tag k="is_in:village" v="Mwotot" />
     <tag k="name" v="West Pokot County Tourism fence" />
     <tag k="wb_pb:id" v="127" />

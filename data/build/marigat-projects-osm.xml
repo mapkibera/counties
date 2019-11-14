@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-13T15:11:02Z"/>
+<meta osm_base="2019-11-14T20:40:02Z"/>
 
   <bounds minlat="0.2520000" minlon="35.7760000" maxlat="0.6160000" maxlon="36.0540000"/>
 
@@ -31,12 +31,12 @@
     <tag k="operator:type" v="religious"/>
     <tag k="wb_pb:id" v="106"/>
   </node>
-  <node id="6788450194" lat="0.4774237" lon="35.9848700" version="4" timestamp="2019-11-13T12:21:43Z" changeset="77010483" uid="265690" user="fondolucy">
+  <node id="6788450194" lat="0.4774237" lon="35.9848700" version="5" timestamp="2019-11-14T20:36:05Z" changeset="77094074" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="no"/>
     <tag k="electricity" v="none"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568033412053.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568033967704.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6788450194/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568033412053jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6788450194/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568033967704jpg/orig.jpg"/>
     <tag k="is_in:village" v="Town A"/>
     <tag k="medical_service:family_planning" v="no"/>
     <tag k="medical_service:general_medical_services" v="no"/>
@@ -156,9 +156,9 @@
     <tag k="name" v="Kimalel Dispensary"/>
     <tag k="wb_pb:id" v="149"/>
   </node>
-  <node id="6788467271" lat="0.3335070" lon="35.8858200" version="4" timestamp="2019-11-13T11:50:12Z" changeset="77008755" uid="265690" user="fondolucy">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109638654.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568109836407.jpg"/>
+  <node id="6788467271" lat="0.3335070" lon="35.8858200" version="5" timestamp="2019-11-14T20:36:05Z" changeset="77094074" uid="999" user="mikelmaron">
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6788467271/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568109638654jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6788467271/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568109836407jpg/orig.jpg"/>
     <tag k="is_in:village" v="Bekibon"/>
     <tag k="man_made" v="storage_tank"/>
     <tag k="name" v="Bekibon Water Storage Tank"/>
@@ -321,13 +321,13 @@
     <tag k="operator:type" v="cbo"/>
     <tag k="wb_pb:id" v="110"/>
   </node>
-  <node id="6798591060" lat="0.2812620" lon="35.8547800" version="3" timestamp="2019-11-13T12:06:45Z" changeset="77009649" uid="265690" user="fondolucy">
+  <node id="6798591060" lat="0.2812620" lon="35.8547800" version="4" timestamp="2019-11-14T20:36:05Z" changeset="77094074" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="pre_primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568114680746.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568195598378.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6798591060/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568114680746jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6798591060/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568195598378jpg/orig.jpg"/>
     <tag k="is_in:village" v="Katkamuma"/>
     <tag k="name" v="Katkamuma ECDE"/>
     <tag k="operator:description" v="County Government of Baringo"/>
@@ -500,11 +500,11 @@
     <tag k="office" v="government"/>
     <tag k="wb_pb:id" v="227"/>
   </node>
-  <node id="6799316021" lat="0.4760350" lon="35.9968000" version="2" timestamp="2019-10-04T20:36:46Z" changeset="75303433" uid="999" user="mikelmaron">
+  <node id="6799316021" lat="0.4760350" lon="35.9968000" version="3" timestamp="2019-11-14T20:36:05Z" changeset="77094074" uid="999" user="mikelmaron">
     <tag k="amenity" v="drinking_water"/>
     <tag k="description" v="water_tank"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568364026077.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568363936673.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6799316021/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568364026077jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6799316021/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568363936673jpg/orig.jpg"/>
     <tag k="is_in:village" v="Kampi Ya Kulima"/>
     <tag k="name" v="Ndambul Water Project"/>
     <tag k="operational_status" v="operational"/>
@@ -778,13 +778,13 @@
     <tag k="name" v="Marigat Sub County Hospital Mortuary"/>
     <tag k="wb_pb:id" v="142"/>
   </node>
-  <node id="6851133550" lat="0.4773920" lon="35.9849000" version="2" timestamp="2019-10-04T20:36:46Z" changeset="75303433" uid="999" user="mikelmaron">
+  <node id="6851133550" lat="0.4773920" lon="35.9849000" version="3" timestamp="2019-11-14T20:36:05Z" changeset="77094074" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="no"/>
     <tag k="electricity" v="none"/>
     <tag k="health_facility:referrals" v="Kabarnet Refferal Hospital"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570000239365.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570000414885.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6851133550/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570000239365jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6851133550/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570000414885jpg/orig.jpg"/>
     <tag k="is_in:village" v="Town A"/>
     <tag k="medical_service:family_planning" v="no"/>
     <tag k="medical_service:general_medical_services" v="no"/>
@@ -794,12 +794,12 @@
     <tag k="name" v="Marigat Sub County Hospital Ward Block"/>
     <tag k="wb_pb:id" v="138"/>
   </node>
-  <node id="6851133551" lat="0.4771700" lon="35.9851800" version="2" timestamp="2019-10-04T20:36:46Z" changeset="75303433" uid="999" user="mikelmaron">
+  <node id="6851133551" lat="0.4771700" lon="35.9851800" version="3" timestamp="2019-11-14T20:36:05Z" changeset="77094074" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="no"/>
     <tag k="health_facility:referrals" v="Kabarnet Referral Hospital"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570000865185.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570000846382.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6851133551/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570000865185jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6851133551/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570000846382jpg/orig.jpg"/>
     <tag k="is_in:village" v="Town A"/>
     <tag k="medical_service:family_planning" v="no"/>
     <tag k="medical_service:general_medical_services" v="no"/>
@@ -809,14 +809,14 @@
     <tag k="name" v="Marigat Sub County Hospital Septic Tank"/>
     <tag k="wb_pb:id" v="232"/>
   </node>
-  <node id="6857038975" lat="0.3950500" lon="35.9461000" version="1" timestamp="2019-10-07T09:38:52Z" changeset="75366091" uid="265690" user="fondolucy">
+  <node id="6857038975" lat="0.3950500" lon="35.9461000" version="2" timestamp="2019-11-14T20:36:05Z" changeset="77094074" uid="999" user="mikelmaron">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="no"/>
     <tag k="electricity" v="none"/>
     <tag k="health_facility:referrals" v="Marigat Sub County Hospital"/>
     <tag k="health_facility:type" v="dispensary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570174081862.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570174237667.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6857038975/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570174081862jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6857038975/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570174237667jpg/orig.jpg"/>
     <tag k="is_in:village" v="Maoi"/>
     <tag k="medical_service:family_planning" v="no"/>
     <tag k="medical_service:general_medical_services" v="no"/>
@@ -826,22 +826,22 @@
     <tag k="name" v="Maoi Dispensary"/>
     <tag k="wb_pb:id" v="136"/>
   </node>
-  <node id="6860048900" lat="0.4646896" lon="35.8959009" version="1" timestamp="2019-10-08T10:33:36Z" changeset="75408431" uid="10269225" user="Ernet">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568712869671.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568713075342.jpg"/>
+  <node id="6860048900" lat="0.4646896" lon="35.8959009" version="2" timestamp="2019-11-14T20:36:05Z" changeset="77094074" uid="999" user="mikelmaron">
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6860048900/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568712869671jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6860048900/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568713075342jpg/orig.jpg"/>
     <tag k="is_in:village" v="Kimalel"/>
     <tag k="man_made" v="septic_tank"/>
     <tag k="name" v="Kimalel Cultural Centre Septic Tank"/>
     <tag k="wb_pb:id" v="206"/>
   </node>
-  <node id="6860048901" lat="0.4751274" lon="35.9832474" version="1" timestamp="2019-10-08T10:33:36Z" changeset="75408431" uid="10269225" user="Ernet">
+  <node id="6860048901" lat="0.4751274" lon="35.9832474" version="2" timestamp="2019-11-14T20:36:05Z" changeset="77094074" uid="999" user="mikelmaron">
     <tag k="amenity" v="clinic"/>
     <tag k="dispensing" v="yes"/>
     <tag k="electricity" v="sometime"/>
     <tag k="health_facility:referrals" v="Kabarnet Referral Hospital"/>
     <tag k="health_facility:type" v="dispensary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568786021669.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568822943938.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6860048901/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568786021669jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6860048901/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568822943938jpg/orig.jpg"/>
     <tag k="is_in:village" v="Sirwet"/>
     <tag k="medical_service:family_planning" v="yes"/>
     <tag k="medical_service:general_medical_services" v="yes"/>
@@ -851,12 +851,12 @@
     <tag k="name" v="Kapkures Dispensary"/>
     <tag k="wb_pb:id" v="135"/>
   </node>
-  <node id="6863434742" lat="0.3636280" lon="35.9066147" version="1" timestamp="2019-10-09T12:27:40Z" changeset="75460143" uid="10269225" user="Ernet">
+  <node id="6863434742" lat="0.3636280" lon="35.9066147" version="2" timestamp="2019-11-14T20:36:05Z" changeset="77094074" uid="999" user="mikelmaron">
     <tag k="amenity" v="drinking_water"/>
     <tag k="description" v="water_tank"/>
     <tag k="fee" v="2"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568108100971.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568108100971-13_27_46.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6863434742/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568108100971jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6863434742/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568108100971132746jpg/orig.jpg"/>
     <tag k="is_in:village" v="Buiwon"/>
     <tag k="name" v="Buiwon Borehole"/>
     <tag k="operational_status" v="operational"/>
@@ -864,9 +864,9 @@
     <tag k="operator:type" v="cbo"/>
     <tag k="wb_pb:id" v="113"/>
   </node>
-  <node id="6863434743" lat="0.2734571" lon="35.8393105" version="1" timestamp="2019-10-09T12:27:40Z" changeset="75460143" uid="10269225" user="Ernet">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568116058927.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568116058927-13_15_6.jpg"/>
+  <node id="6863434743" lat="0.2734571" lon="35.8393105" version="2" timestamp="2019-11-14T20:36:05Z" changeset="77094074" uid="999" user="mikelmaron">
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6863434743/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568116058927jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6863434743/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments156811605892713156jpg/orig.jpg"/>
     <tag k="is_in:village" v="Tebei"/>
     <tag k="man_made" v="borehole"/>
     <tag k="name" v="Tebei Borehole"/>
@@ -875,9 +875,9 @@
     <tag k="operator:type" v="cbo"/>
     <tag k="wb_pb:id" v="109"/>
   </node>
-  <node id="6863434744" lat="0.2942920" lon="35.8663700" version="1" timestamp="2019-10-09T12:27:40Z" changeset="75460143" uid="10269225" user="Ernet">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568113918684.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568113918684-12_32_47.jpg"/>
+  <node id="6863434744" lat="0.2942920" lon="35.8663700" version="2" timestamp="2019-11-14T20:36:05Z" changeset="77094074" uid="999" user="mikelmaron">
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6863434744/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568113918684jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6863434744/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568113918684123247jpg/orig.jpg"/>
     <tag k="is_in:village" v="Tinomoi"/>
     <tag k="man_made" v="borehole"/>
     <tag k="name" v="Tinomoi Borehole"/>

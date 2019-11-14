@@ -1,6 +1,6 @@
 <osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-13T15:12:02Z" />
+<meta osm_base="2019-11-14T20:41:02Z" />
 
   <bounds maxlat="0.2642000" maxlon="35.9805000" minlat="-0.0816000" minlon="35.6889000" />
 
@@ -3078,7 +3078,7 @@
     <tag k="name" v="Ngusero Cattle Dip" />
     <tag k="wb_pb:id" v="32" />
   </way>
-  <way changeset="75308560" id="726132057" timestamp="2019-10-05T04:46:11Z" uid="999" user="mikelmaron" version="3">
+  <way changeset="77094097" id="726132057" timestamp="2019-11-14T20:36:53Z" uid="999" user="mikelmaron" version="4">
     <nd ref="6807867946" />
     <nd ref="6807867947" />
     <nd ref="6807867948" />
@@ -3097,13 +3097,13 @@
     <nd ref="6807867961" />
     <nd ref="6487998329" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570021313821.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570021419395.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/726132057/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570021313821jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/726132057/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570021419395jpg/orig.jpg" />
     <tag k="is_in:village" v="Muserechi" />
     <tag k="name" v="Kapnaburuki Kapngasia Road" />
     <tag k="wb_pb:id" v="53" />
   </way>
-  <way changeset="75448156" id="726132058" timestamp="2019-10-09T09:05:48Z" uid="10269225" user="Ernet" version="4">
+  <way changeset="77094097" id="726132058" timestamp="2019-11-14T20:36:53Z" uid="999" user="mikelmaron" version="5">
     <nd ref="529804704" />
     <nd ref="6503633380" />
     <nd ref="2642058270" />
@@ -3241,8 +3241,8 @@
     <nd ref="6862819537" />
     <nd ref="6480492931" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570017839317.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1570018010382.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/726132058/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570017839317jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/726132058/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570018010382jpg/orig.jpg" />
     <tag k="is_in:village" v="Sagasagik" />
     <tag k="name" v="Mogotio Sagasagik Road" />
     <tag k="wb_pb:id" v="52" />
@@ -3452,7 +3452,7 @@
     <tag k="name" v="Noiwet Muserechi Road" />
     <tag k="wb_pb:id" v="195" />
   </way>
-  <way changeset="75308560" id="731560947" timestamp="2019-10-05T04:46:11Z" uid="999" user="mikelmaron" version="2">
+  <way changeset="77094097" id="731560947" timestamp="2019-11-14T20:36:53Z" uid="999" user="mikelmaron" version="3">
     <nd ref="6851133547" />
     <nd ref="6851133546" />
     <nd ref="6851133545" />
@@ -3467,8 +3467,8 @@
     <nd ref="6851133536" />
     <nd ref="6851133547" />
     <tag k="dam:type" v="earth_dam" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569941188786.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569941369691.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/731560947/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1569941188786jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/731560947/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1569941369691jpg/orig.jpg" />
     <tag k="is_in:village" v="Olmarai" />
     <tag k="name" v="Ngenypoteweret Dam" />
     <tag k="operational_status" v="operational" />
@@ -3476,15 +3476,15 @@
     <tag k="waterway" v="dam" />
     <tag k="wb_pb:id" v="56" />
   </way>
-  <way changeset="75408431" id="732580852" timestamp="2019-10-08T10:33:36Z" uid="10269225" user="Ernet" version="1">
+  <way changeset="77094097" id="732580852" timestamp="2019-11-14T20:36:53Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6860034742" />
     <nd ref="6860034741" />
     <nd ref="6860034740" />
     <nd ref="6860034739" />
     <nd ref="6860034742" />
     <tag k="amenity" v="parking_space" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568717611495.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568873988611.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/732580852/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568717611495jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/732580852/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568873988611jpg/orig.jpg" />
     <tag k="is_in:village" v="Kimngorom" />
     <tag k="name" v="Kimngorom Boda Boda Shed" />
     <tag k="wb_pb:id" v="69" />

@@ -1,6 +1,6 @@
 <osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-13T15:12:02Z" />
+<meta osm_base="2019-11-14T20:41:02Z" />
 
   <bounds maxlat="0.2642000" maxlon="35.9805000" minlat="-0.0816000" minlon="35.6889000" />
 
@@ -1315,9 +1315,9 @@
     <tag k="operator:type" v="government" />
     <tag k="wb_pb:id" v="64" />
   </node>
-  <node changeset="75308508" id="6799549396" lat="0.0183130" lon="35.8464300" timestamp="2019-10-05T04:40:17Z" uid="999" user="mikelmaron" version="2">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568278135835.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568278491972.jpg" />
+  <node changeset="77094091" id="6799549396" lat="0.0183130" lon="35.8464300" timestamp="2019-11-14T20:36:40Z" uid="999" user="mikelmaron" version="3">
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6799549396/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568278135835jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6799549396/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568278491972jpg/orig.jpg" />
     <tag k="is_in:village" v="Sitewet" />
     <tag k="man_made" v="borehole" />
     <tag k="name" v="Kiptoim Borehole" />
