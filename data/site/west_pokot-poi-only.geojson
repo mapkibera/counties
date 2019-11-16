@@ -3033,10 +3033,12 @@
       }, 
       "id": "6909005407", 
       "properties": {
+        "amenity": "place_of_worship", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571393251723.jpg", 
         "is_in:village": "Mwotot", 
         "name": "Seventh Day Adventist Church Kapenguria", 
-        "osm:id": "6909005407"
+        "osm:id": "6909005407", 
+        "religion": "christian"
       }, 
       "type": "Feature"
     }, 
@@ -3104,6 +3106,7 @@
       }, 
       "id": "6909005412", 
       "properties": {
+        "amenity": "drinking_water", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571390546209.jpg", 
         "is_in:village": "Mwotot", 
         "name": "Water supply tank", 
@@ -3143,7 +3146,7 @@
       "properties": {
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571388368757.jpg", 
         "is_in:village": "Mwotot", 
-        "office": "Government", 
+        "office": "government", 
         "osm:id": "6909005414"
       }, 
       "type": "Feature"
@@ -3888,183 +3891,6 @@
         "is_in:village": "Nasokol", 
         "name": "Nasokol Anglican Church.", 
         "osm:id": "6924370729", 
-        "religion": "christian"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.0816345, 
-          1.2786535
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6924391073", 
-      "properties": {
-        "amenity": "dispensary", 
-        "dispensing": "yes", 
-        "electricity": "always", 
-        "health_facility:referrals": "Kapenguria Refferal Hospital", 
-        "health_facility:type": "dispensary", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571384985164.jpg", 
-        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/IMG_20191018_104936-15_28_12.jpg", 
-        "is_in:village": "Kishaunet", 
-        "medical_service:family_planning": "yes", 
-        "medical_service:general_medical_services": "yes", 
-        "medical_service:immunizations": "yes", 
-        "medical_service:malaria": "yes", 
-        "medical_service:pregnancy_test": "yes", 
-        "name": "Kishaunet Dispensary", 
-        "osm:id": "6924391073"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.0816417, 
-          1.280595
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6924391074", 
-      "properties": {
-        "amenity": "place_of_worship", 
-        "denomination": "catholic", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571392127996.jpg", 
-        "is_in:village": "Kishaunet", 
-        "name": "Kishaunet Catholic Church", 
-        "osm:id": "6924391074", 
-        "religion": "christian"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.0828539, 
-          1.2788954
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6924391075", 
-      "properties": {
-        "amenity": "place_of_worship", 
-        "denomination": "anglican", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571393271254.jpg", 
-        "is_in:village": "Kishaunet", 
-        "name": "Kishaunet FullGospel Church", 
-        "osm:id": "6924391075", 
-        "religion": "christian"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.0818567, 
-          1.281055
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6924391076", 
-      "properties": {
-        "amenity": "school", 
-        "education:gender_type": "mixed", 
-        "education:government_registered": "moe", 
-        "education:type": "pre_primary", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571392525459.jpg", 
-        "is_in:village": "Kishaunet", 
-        "name": "Kishaunet Catholic Church ECDE", 
-        "operator:description": "Kishaunet Catholic Church", 
-        "operator:type": "religious", 
-        "osm:id": "6924391076"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.0810426, 
-          1.2792008
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6924391077", 
-      "properties": {
-        "amenity": "place_of_worship", 
-        "denomination": "anglican", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571393721234.jpg", 
-        "is_in:village": "Kishaunet", 
-        "name": "Baptist Church", 
-        "osm:id": "6924391077", 
-        "religion": "christian"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.08605, 
-          1.2723567
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6924391078", 
-      "properties": {
-        "amenity": "school", 
-        "education:gender_type": "girls", 
-        "education:government_registered": "moe", 
-        "education:type": "secondary", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571396624154.jpg", 
-        "is_in:village": "Kishaunet", 
-        "name": "Nasokol Girls Secondary School.", 
-        "operator:description": "A.C.K Diocese Of Kitale", 
-        "operator:type": "government", 
-        "osm:id": "6924391078"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.0844, 
-          1.2698483
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6924391079", 
-      "properties": {
-        "amenity": "school", 
-        "education:gender_type": "mixed", 
-        "education:government_registered": "moe", 
-        "education:type": "primary", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571398289266.jpg", 
-        "is_in:village": "Kishaunet", 
-        "name": "Nasokol Primary School.", 
-        "operator:description": "Anglican Church of Kenya.", 
-        "operator:type": "government", 
-        "osm:id": "6924391079"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.0843433, 
-          1.269675
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6924391080", 
-      "properties": {
-        "amenity": "place_of_worship", 
-        "denomination": "anglican", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571398889115.jpg", 
-        "is_in:village": "Nasokol", 
-        "name": "Nasokol Anglican Church.", 
-        "osm:id": "6924391080", 
         "religion": "christian"
       }, 
       "type": "Feature"
@@ -4889,7 +4715,7 @@
         "education:type": "pre_primary", 
         "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571988706329.jpg", 
         "is_in:village": "Bendera", 
-        "name": "St Charles Lwanga ECD Kapenguria", 
+        "name": "St Charles Lwanga ECDE Kapenguria", 
         "operator:description": "Catholic Church", 
         "operator:type": "religious", 
         "osm:id": "6924662878"
@@ -4930,7 +4756,7 @@
         "is_in:village": "Bendera", 
         "name": "Imani Furniture", 
         "osm:id": "6924662880", 
-        "shop": "furniture_store"
+        "shop": "furniture"
       }, 
       "type": "Feature"
     }, 
@@ -8168,43 +7994,6 @@
     {
       "geometry": {
         "coordinates": [
-          35.1113617, 
-          1.250045
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6936808438", 
-      "properties": {
-        "highway": "unclassified", 
-        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342574959.jpg", 
-        "maintenance": "kura", 
-        "name": "Catholic-sakas-cereal-Makutano Road", 
-        "osm:id": "6936808438", 
-        "surface": "paved", 
-        "width": "15_m"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.1057917, 
-          1.2599791
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6936842850", 
-      "properties": {
-        "amenity": "bar", 
-        "is_in:village": "Makutano", 
-        "name": "4.2.2 Grill and Lounge", 
-        "osm:id": "6936842850"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           35.08161, 
           1.278645
         ], 
@@ -8261,6 +8050,30 @@
         "operator:description": "Catholic", 
         "operator:type": "government", 
         "osm:id": "6948364841"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.13739, 
+          1.279125
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6979198428", 
+      "properties": {
+        "Photo_of_Project": "https://mapkibera.github.io/counties/data/images/cache/6908747818/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731849944.jpg", 
+        "Project_ID": "135", 
+        "amenity": "school", 
+        "education_gender_type": "mixed", 
+        "education_government_registere": "moe", 
+        "education_type": "primary", 
+        "image_pointofinterest": "https://mapkibera.github.io/counties/data/images/cache/6908747818/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731537923.jpg", 
+        "is_in_village": "Roponywo", 
+        "name": "Roponywo Primary School", 
+        "operator_type": "government", 
+        "osm:id": "6979198428"
       }, 
       "type": "Feature"
     }

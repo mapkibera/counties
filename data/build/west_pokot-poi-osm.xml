@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
+<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-14T20:39:02Z"/>
+<meta osm_base="2019-11-16T22:54:02Z"/>
 
   <bounds minlat="1.1610400" minlon="34.9640000" maxlat="1.4225900" maxlon="35.1782300"/>
 
@@ -1560,13 +1560,19 @@
     <tag k="office" v="government"/>
     <tag k="wb_pb:id" v="134"/>
   </node>
-  <node id="6909005280" lat="1.2403633" lon="35.1205800" version="2" timestamp="2019-11-14T20:32:41Z" changeset="77093971" uid="999" user="mikelmaron">
+  <node id="6909005280" lat="1.2403633" lon="35.1205800" version="3" timestamp="2019-11-15T09:42:52Z" changeset="77115764" uid="4570042" user="Peter Agenga">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="drinking_water" v="yes"/>
+    <tag k="female" v="yes"/>
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6909005280/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571746369500jpg/orig.jpg"/>
     <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6909005280/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571746603057jpg/orig.jpg"/>
     <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571746671573.jpg"/>
     <tag k="is_in:village" v="Mwotot"/>
+    <tag k="male" v="yes"/>
     <tag k="name" v="County Assembly Pit Latrine"/>
     <tag k="opening_hours" v="Mo-Fr 6:00-18:00"/>
+    <tag k="toilets:disposal" v="pit_latrine"/>
     <tag k="toilets:num_chambers" v="5"/>
     <tag k="wb_pb:id" v="21"/>
   </node>
@@ -1721,11 +1727,17 @@
     <tag k="office" v="government"/>
     <tag k="wb_pb:id" v="18"/>
   </node>
-  <node id="6909005402" lat="1.2431000" lon="35.1169300" version="2" timestamp="2019-11-14T20:32:41Z" changeset="77093971" uid="999" user="mikelmaron">
+  <node id="6909005402" lat="1.2431000" lon="35.1169300" version="3" timestamp="2019-11-15T09:42:52Z" changeset="77115764" uid="4570042" user="Peter Agenga">
+    <tag k="access" v="permissive"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="drinking_water" v="yes"/>
+    <tag k="female" v="yes"/>
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6909005402/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571396831146jpg/orig.jpg"/>
     <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6909005402/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571397025167jpg/orig.jpg"/>
     <tag k="is_in:village" v="Mwotot"/>
+    <tag k="male" v="yes"/>
     <tag k="name" v="Treasury Pit Latrine"/>
+    <tag k="toilets:disposal" v="pit_latrine"/>
     <tag k="wb_pb:id" v="28"/>
   </node>
   <node id="6909005403" lat="1.2431367" lon="35.1165333" version="2" timestamp="2019-11-14T20:32:41Z" changeset="77093971" uid="999" user="mikelmaron">
@@ -1756,10 +1768,12 @@
     <tag k="name" v="Westpokot Rural Roads Authority"/>
     <tag k="office" v="government"/>
   </node>
-  <node id="6909005407" lat="1.2480117" lon="35.1130667" version="1" timestamp="2019-10-23T12:38:03Z" changeset="76102015" uid="10380888" user="Hillarious">
+  <node id="6909005407" lat="1.2480117" lon="35.1130667" version="2" timestamp="2019-11-15T09:42:52Z" changeset="77115764" uid="4570042" user="Peter Agenga">
+    <tag k="amenity" v="place_of_worship"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571393251723.jpg"/>
     <tag k="is_in:village" v="Mwotot"/>
     <tag k="name" v="Seventh Day Adventist Church Kapenguria"/>
+    <tag k="religion" v="christian"/>
   </node>
   <node id="6909005408" lat="1.2480817" lon="35.1131050" version="1" timestamp="2019-10-23T12:38:03Z" changeset="76102015" uid="10380888" user="Hillarious">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571393050627.jpg"/>
@@ -1779,14 +1793,16 @@
     <tag k="name" v="Water Resource Authority Upper Turkwel Sub-Regional Office"/>
     <tag k="office" v="government"/>
   </node>
-  <node id="6909005411" lat="1.2494900" lon="35.1129917" version="2" timestamp="2019-11-14T20:32:41Z" changeset="77093971" uid="999" user="mikelmaron">
+  <node id="6909005411" lat="1.2494900" lon="35.1129917" version="3" timestamp="2019-11-15T09:42:52Z" changeset="77115764" uid="4570042" user="Peter Agenga">
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6909005411/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571391039748jpg/orig.jpg"/>
     <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6909005411/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571391325109jpg/orig.jpg"/>
     <tag k="is_in:village" v="Mwotot"/>
     <tag k="name" v="Westpokot County Water Procurement Office"/>
+    <tag k="office" v="government"/>
     <tag k="wb_pb:id" v="123"/>
   </node>
-  <node id="6909005412" lat="1.2492967" lon="35.1125017" version="1" timestamp="2019-10-23T12:38:03Z" changeset="76102015" uid="10380888" user="Hillarious">
+  <node id="6909005412" lat="1.2492967" lon="35.1125017" version="2" timestamp="2019-11-15T09:42:52Z" changeset="77115764" uid="4570042" user="Peter Agenga">
+    <tag k="amenity" v="drinking_water"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571390546209.jpg"/>
     <tag k="is_in:village" v="Mwotot"/>
     <tag k="name" v="Water supply tank"/>
@@ -1799,20 +1815,21 @@
     <tag k="name" v="West Pokot County Government Department of Water,nvironment and Natural Resources"/>
     <tag k="office" v="government"/>
   </node>
-  <node id="6909005414" lat="1.2490250" lon="35.1127767" version="1" timestamp="2019-10-23T12:38:03Z" changeset="76102015" uid="10380888" user="Hillarious">
+  <node id="6909005414" lat="1.2490250" lon="35.1127767" version="2" timestamp="2019-11-15T09:42:52Z" changeset="77115764" uid="4570042" user="Peter Agenga">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571388368757.jpg"/>
     <tag k="is_in:village" v="Mwotot"/>
-    <tag k="office" v="Government"/>
+    <tag k="office" v="government"/>
   </node>
-  <node id="6909005415" lat="1.2476939" lon="35.1124208" version="2" timestamp="2019-11-14T20:32:41Z" changeset="77093971" uid="999" user="mikelmaron">
-    <tag k="amenity" v="Toilets"/>
+  <node id="6909005415" lat="1.2476939" lon="35.1124208" version="3" timestamp="2019-11-15T09:42:52Z" changeset="77115764" uid="4570042" user="Peter Agenga">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="toilets"/>
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6909005415/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571386820813jpg/orig.jpg"/>
     <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6909005415/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571387315730jpg/orig.jpg"/>
     <tag k="is_in:village" v="Mwotot"/>
     <tag k="name" v="Ardhi House Pit Latrine"/>
     <tag k="opening_hours" v="Mo-Fr 6:00-18:00"/>
     <tag k="operator:description" v="West Pokot County Ardhi House"/>
-    <tag k="toilets:disposal" v="Pit_Latrine"/>
+    <tag k="toilets:disposal" v="pit_latrine"/>
     <tag k="toilets:num_chambers" v="5"/>
     <tag k="wb_pb:id" v="4"/>
   </node>
@@ -2606,96 +2623,6 @@
     <tag k="name" v="Nasokol Anglican Church."/>
     <tag k="religion" v="christian"/>
   </node>
-  <node id="6924391073" lat="1.2786535" lon="35.0816345" version="1" timestamp="2019-10-28T11:08:20Z" changeset="76294598" uid="10380760" user="LOPOT">
-    <tag k="amenity" v="dispensary"/>
-    <tag k="dispensing" v="yes"/>
-    <tag k="electricity" v="always"/>
-    <tag k="health_facility:referrals" v="Kapenguria Refferal Hospital"/>
-    <tag k="health_facility:type" v="dispensary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571384985164.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/IMG_20191018_104936-15_28_12.jpg"/>
-    <tag k="is_in:village" v="Kishaunet"/>
-    <tag k="medical_service:family_planning" v="yes"/>
-    <tag k="medical_service:general_medical_services" v="yes"/>
-    <tag k="medical_service:immunizations" v="yes"/>
-    <tag k="medical_service:malaria" v="yes"/>
-    <tag k="medical_service:pregnancy_test" v="yes"/>
-    <tag k="name" v="Kishaunet Dispensary"/>
-  </node>
-  <node id="6924391074" lat="1.2805950" lon="35.0816417" version="1" timestamp="2019-10-28T11:08:20Z" changeset="76294598" uid="10380760" user="LOPOT">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="denomination" v="catholic"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571392127996.jpg"/>
-    <tag k="is_in:village" v="Kishaunet"/>
-    <tag k="name" v="Kishaunet Catholic Church"/>
-    <tag k="religion" v="christian"/>
-  </node>
-  <node id="6924391075" lat="1.2788954" lon="35.0828539" version="1" timestamp="2019-10-28T11:08:20Z" changeset="76294598" uid="10380760" user="LOPOT">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="denomination" v="anglican"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571393271254.jpg"/>
-    <tag k="is_in:village" v="Kishaunet"/>
-    <tag k="name" v="Kishaunet FullGospel Church"/>
-    <tag k="religion" v="christian"/>
-  </node>
-  <node id="6924391076" lat="1.2810550" lon="35.0818567" version="1" timestamp="2019-10-28T11:08:20Z" changeset="76294598" uid="10380760" user="LOPOT">
-    <tag k="amenity" v="school"/>
-    <tag k="education:gender_type" v="mixed"/>
-    <tag k="education:government_registered" v="moe"/>
-    <tag k="education:type" v="pre_primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571392525459.jpg"/>
-    <tag k="is_in:village" v="Kishaunet"/>
-    <tag k="name" v="Kishaunet Catholic Church ECDE"/>
-    <tag k="operator:description" v="Kishaunet Catholic Church"/>
-    <tag k="operator:type" v="religious"/>
-  </node>
-  <node id="6924391077" lat="1.2792008" lon="35.0810426" version="1" timestamp="2019-10-28T11:08:20Z" changeset="76294598" uid="10380760" user="LOPOT">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="denomination" v="anglican"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571393721234.jpg"/>
-    <tag k="is_in:village" v="Kishaunet"/>
-    <tag k="name" v="Baptist Church"/>
-    <tag k="religion" v="christian"/>
-  </node>
-  <node id="6924391078" lat="1.2723567" lon="35.0860500" version="1" timestamp="2019-10-28T11:08:20Z" changeset="76294598" uid="10380760" user="LOPOT">
-    <tag k="amenity" v="school"/>
-    <tag k="education:gender_type" v="girls"/>
-    <tag k="education:government_registered" v="moe"/>
-    <tag k="education:type" v="secondary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571396624154.jpg"/>
-    <tag k="is_in:village" v="Kishaunet"/>
-    <tag k="name" v="Nasokol Girls Secondary School."/>
-    <tag k="operator:description" v="A.C.K Diocese Of Kitale"/>
-    <tag k="operator:type" v="government"/>
-  </node>
-  <node id="6924391079" lat="1.2698483" lon="35.0844000" version="1" timestamp="2019-10-28T11:08:20Z" changeset="76294598" uid="10380760" user="LOPOT">
-    <tag k="amenity" v="school"/>
-    <tag k="education:gender_type" v="mixed"/>
-    <tag k="education:government_registered" v="moe"/>
-    <tag k="education:type" v="primary"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571398289266.jpg"/>
-    <tag k="is_in:village" v="Kishaunet"/>
-    <tag k="name" v="Nasokol Primary School."/>
-    <tag k="operator:description" v="Anglican Church of Kenya."/>
-    <tag k="operator:type" v="government"/>
-  </node>
-  <node id="6924391080" lat="1.2696750" lon="35.0843433" version="1" timestamp="2019-10-28T11:08:20Z" changeset="76294598" uid="10380760" user="LOPOT">
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="denomination" v="anglican"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571398889115.jpg"/>
-    <tag k="is_in:village" v="Nasokol"/>
-    <tag k="name" v="Nasokol Anglican Church."/>
-    <tag k="religion" v="christian"/>
-  </node>
-  <node id="6924413626" lat="1.2381722" lon="35.1197934" version="2" timestamp="2019-11-14T20:32:41Z" changeset="77093971" uid="999" user="mikelmaron">
-    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6924413626/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907296608jpg/orig.jpg"/>
-    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6924413626/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907468002jpg/orig.jpg"/>
-    <tag k="is_in:village" v="Chewoyet"/>
-    <tag k="landuse" v="other"/>
-    <tag k="name" v="West Pokot Fish Hatchery"/>
-    <tag k="other_agriculture" v="Fish hatchery"/>
-    <tag k="wb_pb:id" v="141"/>
-  </node>
   <node id="6924413643" lat="1.2379800" lon="35.1165433" version="1" timestamp="2019-10-28T11:25:52Z" changeset="76295280" uid="10380856" user="benard lokeris">
     <tag k="amenity" v="place_of_worship"/>
     <tag k="denomination" v="evangelical"/>
@@ -3438,14 +3365,14 @@
     <tag k="name" v="AIC Bendera Church"/>
     <tag k="religion" v="christian"/>
   </node>
-  <node id="6924662878" lat="1.2511467" lon="35.1117117" version="1" timestamp="2019-10-28T13:27:43Z" changeset="76300067" uid="10380856" user="benard lokeris">
+  <node id="6924662878" lat="1.2511467" lon="35.1117117" version="2" timestamp="2019-11-15T09:42:52Z" changeset="77115764" uid="4570042" user="Peter Agenga">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
     <tag k="education:type" v="pre_primary"/>
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571988706329.jpg"/>
     <tag k="is_in:village" v="Bendera"/>
-    <tag k="name" v="St Charles Lwanga ECD Kapenguria"/>
+    <tag k="name" v="St Charles Lwanga ECDE Kapenguria"/>
     <tag k="operator:description" v="Catholic Church"/>
     <tag k="operator:type" v="religious"/>
   </node>
@@ -3457,11 +3384,11 @@
     <tag k="name" v="At Charles Lwanga Parish"/>
     <tag k="religion" v="christian"/>
   </node>
-  <node id="6924662880" lat="1.2511233" lon="35.1122083" version="1" timestamp="2019-10-28T13:27:43Z" changeset="76300067" uid="10380856" user="benard lokeris">
+  <node id="6924662880" lat="1.2511233" lon="35.1122083" version="2" timestamp="2019-11-15T09:42:52Z" changeset="77115764" uid="4570042" user="Peter Agenga">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571987894563.jpg"/>
     <tag k="is_in:village" v="Bendera"/>
     <tag k="name" v="Imani Furniture"/>
-    <tag k="shop" v="furniture_store"/>
+    <tag k="shop" v="furniture"/>
   </node>
   <node id="6924662881" lat="1.2517233" lon="35.1127817" version="1" timestamp="2019-10-28T13:27:43Z" changeset="76300067" uid="10380856" user="benard lokeris">
     <tag k="amenity" v="bar"/>
@@ -4692,19 +4619,6 @@
     <tag k="wb_pb:id" v="272"/>
     <tag k="width" v="9_m"/>
   </node>
-  <node id="6936808438" lat="1.2500450" lon="35.1113617" version="1" timestamp="2019-11-01T09:54:39Z" changeset="76485255" uid="10381136" user="Wafula_Wafula">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342574959.jpg"/>
-    <tag k="maintenance" v="kura"/>
-    <tag k="name" v="Catholic-sakas-cereal-Makutano Road"/>
-    <tag k="surface" v="paved"/>
-    <tag k="width" v="15_m"/>
-  </node>
-  <node id="6936842850" lat="1.2599791" lon="35.1057917" version="1" timestamp="2019-11-01T10:16:49Z" changeset="76486451" uid="10380888" user="Hillarious">
-    <tag k="amenity" v="bar"/>
-    <tag k="is_in:village" v="Makutano"/>
-    <tag k="name" v="4.2.2 Grill and Lounge"/>
-  </node>
   <node id="6948364836" lat="1.2788167" lon="35.0816467" version="2" timestamp="2019-11-14T20:32:41Z" changeset="77093971" uid="999" user="mikelmaron">
     <tag k="amenity" v="clinic"/>
     <tag k="health_facility:type" v="dispensary"/>
@@ -4831,6 +4745,38 @@
     <tag k="name" v="Kapenguria Referral Hospital Ward Seven"/>
     <tag k="operator" v="government"/>
     <tag k="wb_pb:id" v="53"/>
+  </node>
+  <node id="6979198428" lat="1.2791250" lon="35.1373900" version="1" timestamp="2019-11-15T09:15:10Z" changeset="77114550" uid="10380856" user="benard lokeris">
+    <tag k="Photo_of_Project" v="https://mapkibera.github.io/counties/data/images/cache/6908747818/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731849944.jpg"/>
+    <tag k="Project_ID" v="135"/>
+    <tag k="amenity" v="school"/>
+    <tag k="education_gender_type" v="mixed"/>
+    <tag k="education_government_registere" v="moe"/>
+    <tag k="education_type" v="primary"/>
+    <tag k="image_pointofinterest" v="https://mapkibera.github.io/counties/data/images/cache/6908747818/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731537923.jpg"/>
+    <tag k="is_in_village" v="Roponywo"/>
+    <tag k="name" v="Roponywo Primary School"/>
+    <tag k="operator_type" v="government"/>
+  </node>
+  <node id="6979225376" lat="1.2493600" lon="35.1140933" version="1" timestamp="2019-11-15T09:22:27Z" changeset="77114839" uid="4873427" user="shazomojah">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572507971895.jpg"/>
+    <tag k="image_pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572507763928.jpg"/>
+    <tag k="is_in_village" v="Mwotot"/>
+    <tag k="man_made" v="borehole"/>
+    <tag k="name" v="County Headquarter Borehole"/>
+    <tag k="operator_funding" v="county_government"/>
+    <tag k="operator_type" v="government"/>
+    <tag k="wb_pb:id" v="24"/>
+  </node>
+  <node id="6979293418" lat="1.2391317" lon="35.1204433" version="1" timestamp="2019-11-15T09:55:55Z" changeset="77116430" uid="4570042" user="Peter Agenga">
+    <tag k="image:project_outside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909311014.jpg"/>
+    <tag k="image_pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909168587.jpg"/>
+    <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909338343.jpg"/>
+    <tag k="is_in_village" v="Mwotot"/>
+    <tag k="name" v="West pokot County Department of Health and Sanitation Health Office"/>
+    <tag k="office" v="government"/>
+    <tag k="wb_pb:id" v="144"/>
   </node>
 
 </osm>

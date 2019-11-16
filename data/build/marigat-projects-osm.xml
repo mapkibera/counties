@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
+<osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-14T20:40:02Z"/>
+<meta osm_base="2019-11-16T22:55:02Z"/>
 
   <bounds minlat="0.2520000" minlon="35.7760000" maxlat="0.6160000" maxlon="36.0540000"/>
 
@@ -895,6 +895,14 @@
     <tag k="operator" v="government"/>
     <tag k="source" v="survey;local knowledge"/>
     <tag k="wb_pb:id" v="99"/>
+  </node>
+  <node id="6979687003" lat="0.4774133" lon="35.9848700" version="1" timestamp="2019-11-15T12:54:15Z" changeset="77126870" uid="4570042" user="Peter Agenga">
+    <tag k="amenity" v="hospital"/>
+    <tag k="image:poinofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568033412053.jpg"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568033967704.jpg"/>
+    <tag k="is_in:village" v="Town A"/>
+    <tag k="name" v="Sub County Referral Hospital"/>
+    <tag k="wb_pb:id" v="146"/>
   </node>
 
 </osm>

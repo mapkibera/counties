@@ -6002,22 +6002,28 @@
     "type": "node",
     "id": "6909005280",
     "tags": {
+      "access": "yes",
+      "amenity": "toilets",
+      "drinking_water": "yes",
+      "female": "yes",
       "image": "https://mapkibera.github.io/counties/data/images/cache/6909005280/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571746369500jpg/orig.jpg",
       "image:project": "https://mapkibera.github.io/counties/data/images/cache/6909005280/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571746603057jpg/orig.jpg",
       "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571746671573.jpg",
       "is_in:village": "Mwotot",
+      "male": "yes",
       "name": "County Assembly Pit Latrine",
       "opening_hours": "Mo-Fr 6:00-18:00",
+      "toilets:disposal": "pit_latrine",
       "toilets:num_chambers": "5",
       "wb_pb:id": "21"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-14T20:32:41Z",
-      "version": "2",
-      "changeset": "77093971",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-15T09:42:52Z",
+      "version": "3",
+      "changeset": "77115764",
+      "user": "Peter Agenga",
+      "uid": "4570042"
     }
   },
   "geometry": {
@@ -6623,19 +6629,25 @@
     "type": "node",
     "id": "6909005402",
     "tags": {
+      "access": "permissive",
+      "amenity": "toilets",
+      "drinking_water": "yes",
+      "female": "yes",
       "image": "https://mapkibera.github.io/counties/data/images/cache/6909005402/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571396831146jpg/orig.jpg",
       "image:project": "https://mapkibera.github.io/counties/data/images/cache/6909005402/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571397025167jpg/orig.jpg",
       "is_in:village": "Mwotot",
+      "male": "yes",
       "name": "Treasury Pit Latrine",
+      "toilets:disposal": "pit_latrine",
       "wb_pb:id": "28"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-14T20:32:41Z",
-      "version": "2",
-      "changeset": "77093971",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-15T09:42:52Z",
+      "version": "3",
+      "changeset": "77115764",
+      "user": "Peter Agenga",
+      "uid": "4570042"
     }
   },
   "geometry": {
@@ -6773,17 +6785,19 @@
     "type": "node",
     "id": "6909005407",
     "tags": {
+      "amenity": "place_of_worship",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571393251723.jpg",
       "is_in:village": "Mwotot",
-      "name": "Seventh Day Adventist Church Kapenguria"
+      "name": "Seventh Day Adventist Church Kapenguria",
+      "religion": "christian"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-23T12:38:03Z",
-      "version": "1",
-      "changeset": "76102015",
-      "user": "Hillarious",
-      "uid": "10380888"
+      "timestamp": "2019-11-15T09:42:52Z",
+      "version": "2",
+      "changeset": "77115764",
+      "user": "Peter Agenga",
+      "uid": "4570042"
     }
   },
   "geometry": {
@@ -6892,15 +6906,16 @@
       "image:project": "https://mapkibera.github.io/counties/data/images/cache/6909005411/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571391325109jpg/orig.jpg",
       "is_in:village": "Mwotot",
       "name": "Westpokot County Water Procurement Office",
+      "office": "government",
       "wb_pb:id": "123"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-14T20:32:41Z",
-      "version": "2",
-      "changeset": "77093971",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-15T09:42:52Z",
+      "version": "3",
+      "changeset": "77115764",
+      "user": "Peter Agenga",
+      "uid": "4570042"
     }
   },
   "geometry": {
@@ -6918,6 +6933,7 @@
     "type": "node",
     "id": "6909005412",
     "tags": {
+      "amenity": "drinking_water",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571390546209.jpg",
       "is_in:village": "Mwotot",
       "name": "Water supply tank",
@@ -6926,11 +6942,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-23T12:38:03Z",
-      "version": "1",
-      "changeset": "76102015",
-      "user": "Hillarious",
-      "uid": "10380888"
+      "timestamp": "2019-11-15T09:42:52Z",
+      "version": "2",
+      "changeset": "77115764",
+      "user": "Peter Agenga",
+      "uid": "4570042"
     }
   },
   "geometry": {
@@ -6979,15 +6995,15 @@
     "tags": {
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571388368757.jpg",
       "is_in:village": "Mwotot",
-      "office": "Government"
+      "office": "government"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-23T12:38:03Z",
-      "version": "1",
-      "changeset": "76102015",
-      "user": "Hillarious",
-      "uid": "10380888"
+      "timestamp": "2019-11-15T09:42:52Z",
+      "version": "2",
+      "changeset": "77115764",
+      "user": "Peter Agenga",
+      "uid": "4570042"
     }
   },
   "geometry": {
@@ -7005,24 +7021,25 @@
     "type": "node",
     "id": "6909005415",
     "tags": {
-      "amenity": "Toilets",
+      "access": "yes",
+      "amenity": "toilets",
       "image": "https://mapkibera.github.io/counties/data/images/cache/6909005415/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571386820813jpg/orig.jpg",
       "image:project": "https://mapkibera.github.io/counties/data/images/cache/6909005415/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571387315730jpg/orig.jpg",
       "is_in:village": "Mwotot",
       "name": "Ardhi House Pit Latrine",
       "opening_hours": "Mo-Fr 6:00-18:00",
       "operator:description": "West Pokot County Ardhi House",
-      "toilets:disposal": "Pit_Latrine",
+      "toilets:disposal": "pit_latrine",
       "toilets:num_chambers": "5",
       "wb_pb:id": "4"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-14T20:32:41Z",
-      "version": "2",
-      "changeset": "77093971",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-15T09:42:52Z",
+      "version": "3",
+      "changeset": "77115764",
+      "user": "Peter Agenga",
+      "uid": "4570042"
     }
   },
   "geometry": {
@@ -9499,303 +9516,6 @@
     "coordinates": [
       35.0843433,
       1.269675
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6924391073",
-  "properties": {
-    "type": "node",
-    "id": "6924391073",
-    "tags": {
-      "amenity": "dispensary",
-      "dispensing": "yes",
-      "electricity": "always",
-      "health_facility:referrals": "Kapenguria Refferal Hospital",
-      "health_facility:type": "dispensary",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571384985164.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/IMG_20191018_104936-15_28_12.jpg",
-      "is_in:village": "Kishaunet",
-      "medical_service:family_planning": "yes",
-      "medical_service:general_medical_services": "yes",
-      "medical_service:immunizations": "yes",
-      "medical_service:malaria": "yes",
-      "medical_service:pregnancy_test": "yes",
-      "name": "Kishaunet Dispensary"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-10-28T11:08:20Z",
-      "version": "1",
-      "changeset": "76294598",
-      "user": "LOPOT",
-      "uid": "10380760"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.0816345,
-      1.2786535
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6924391074",
-  "properties": {
-    "type": "node",
-    "id": "6924391074",
-    "tags": {
-      "amenity": "place_of_worship",
-      "denomination": "catholic",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571392127996.jpg",
-      "is_in:village": "Kishaunet",
-      "name": "Kishaunet Catholic Church",
-      "religion": "christian"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-10-28T11:08:20Z",
-      "version": "1",
-      "changeset": "76294598",
-      "user": "LOPOT",
-      "uid": "10380760"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.0816417,
-      1.280595
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6924391075",
-  "properties": {
-    "type": "node",
-    "id": "6924391075",
-    "tags": {
-      "amenity": "place_of_worship",
-      "denomination": "anglican",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571393271254.jpg",
-      "is_in:village": "Kishaunet",
-      "name": "Kishaunet FullGospel Church",
-      "religion": "christian"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-10-28T11:08:20Z",
-      "version": "1",
-      "changeset": "76294598",
-      "user": "LOPOT",
-      "uid": "10380760"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.0828539,
-      1.2788954
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6924391076",
-  "properties": {
-    "type": "node",
-    "id": "6924391076",
-    "tags": {
-      "amenity": "school",
-      "education:gender_type": "mixed",
-      "education:government_registered": "moe",
-      "education:type": "pre_primary",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571392525459.jpg",
-      "is_in:village": "Kishaunet",
-      "name": "Kishaunet Catholic Church ECDE",
-      "operator:description": "Kishaunet Catholic Church",
-      "operator:type": "religious"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-10-28T11:08:20Z",
-      "version": "1",
-      "changeset": "76294598",
-      "user": "LOPOT",
-      "uid": "10380760"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.0818567,
-      1.281055
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6924391077",
-  "properties": {
-    "type": "node",
-    "id": "6924391077",
-    "tags": {
-      "amenity": "place_of_worship",
-      "denomination": "anglican",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571393721234.jpg",
-      "is_in:village": "Kishaunet",
-      "name": "Baptist Church",
-      "religion": "christian"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-10-28T11:08:20Z",
-      "version": "1",
-      "changeset": "76294598",
-      "user": "LOPOT",
-      "uid": "10380760"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.0810426,
-      1.2792008
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6924391078",
-  "properties": {
-    "type": "node",
-    "id": "6924391078",
-    "tags": {
-      "amenity": "school",
-      "education:gender_type": "girls",
-      "education:government_registered": "moe",
-      "education:type": "secondary",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571396624154.jpg",
-      "is_in:village": "Kishaunet",
-      "name": "Nasokol Girls Secondary School.",
-      "operator:description": "A.C.K Diocese Of Kitale",
-      "operator:type": "government"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-10-28T11:08:20Z",
-      "version": "1",
-      "changeset": "76294598",
-      "user": "LOPOT",
-      "uid": "10380760"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.08605,
-      1.2723567
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6924391079",
-  "properties": {
-    "type": "node",
-    "id": "6924391079",
-    "tags": {
-      "amenity": "school",
-      "education:gender_type": "mixed",
-      "education:government_registered": "moe",
-      "education:type": "primary",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571398289266.jpg",
-      "is_in:village": "Kishaunet",
-      "name": "Nasokol Primary School.",
-      "operator:description": "Anglican Church of Kenya.",
-      "operator:type": "government"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-10-28T11:08:20Z",
-      "version": "1",
-      "changeset": "76294598",
-      "user": "LOPOT",
-      "uid": "10380760"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.0844,
-      1.2698483
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6924391080",
-  "properties": {
-    "type": "node",
-    "id": "6924391080",
-    "tags": {
-      "amenity": "place_of_worship",
-      "denomination": "anglican",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571398889115.jpg",
-      "is_in:village": "Nasokol",
-      "name": "Nasokol Anglican Church.",
-      "religion": "christian"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-10-28T11:08:20Z",
-      "version": "1",
-      "changeset": "76294598",
-      "user": "LOPOT",
-      "uid": "10380760"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.0843433,
-      1.269675
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6924413626",
-  "properties": {
-    "type": "node",
-    "id": "6924413626",
-    "tags": {
-      "image": "https://mapkibera.github.io/counties/data/images/cache/6924413626/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907296608jpg/orig.jpg",
-      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924413626/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907468002jpg/orig.jpg",
-      "is_in:village": "Chewoyet",
-      "landuse": "other",
-      "name": "West Pokot Fish Hatchery",
-      "other_agriculture": "Fish hatchery",
-      "wb_pb:id": "141"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-11-14T20:32:41Z",
-      "version": "2",
-      "changeset": "77093971",
-      "user": "mikelmaron",
-      "uid": "999"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.1197934,
-      1.2381722
     ]
   }
 },
@@ -12509,17 +12229,17 @@
       "education:type": "pre_primary",
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571988706329.jpg",
       "is_in:village": "Bendera",
-      "name": "St Charles Lwanga ECD Kapenguria",
+      "name": "St Charles Lwanga ECDE Kapenguria",
       "operator:description": "Catholic Church",
       "operator:type": "religious"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-28T13:27:43Z",
-      "version": "1",
-      "changeset": "76300067",
-      "user": "benard lokeris",
-      "uid": "10380856"
+      "timestamp": "2019-11-15T09:42:52Z",
+      "version": "2",
+      "changeset": "77115764",
+      "user": "Peter Agenga",
+      "uid": "4570042"
     }
   },
   "geometry": {
@@ -12571,15 +12291,15 @@
       "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571987894563.jpg",
       "is_in:village": "Bendera",
       "name": "Imani Furniture",
-      "shop": "furniture_store"
+      "shop": "furniture"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-28T13:27:43Z",
-      "version": "1",
-      "changeset": "76300067",
-      "user": "benard lokeris",
-      "uid": "10380856"
+      "timestamp": "2019-11-15T09:42:52Z",
+      "version": "2",
+      "changeset": "77115764",
+      "user": "Peter Agenga",
+      "uid": "4570042"
     }
   },
   "geometry": {
@@ -18237,65 +17957,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6936808438",
-  "properties": {
-    "type": "node",
-    "id": "6936808438",
-    "tags": {
-      "highway": "unclassified",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342574959.jpg",
-      "maintenance": "kura",
-      "name": "Catholic-sakas-cereal-Makutano Road",
-      "surface": "paved",
-      "width": "15_m"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-11-01T09:54:39Z",
-      "version": "1",
-      "changeset": "76485255",
-      "user": "Wafula_Wafula",
-      "uid": "10381136"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.1113617,
-      1.250045
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6936842850",
-  "properties": {
-    "type": "node",
-    "id": "6936842850",
-    "tags": {
-      "amenity": "bar",
-      "is_in:village": "Makutano",
-      "name": "4.2.2 Grill and Lounge"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-11-01T10:16:49Z",
-      "version": "1",
-      "changeset": "76486451",
-      "user": "Hillarious",
-      "uid": "10380888"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.1057917,
-      1.2599791
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6948364836",
   "properties": {
     "type": "node",
@@ -18671,6 +18332,107 @@
     "coordinates": [
       35.1218833,
       1.23768
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6979198428",
+  "properties": {
+    "type": "node",
+    "id": "6979198428",
+    "tags": {
+      "Photo_of_Project": "https://mapkibera.github.io/counties/data/images/cache/6908747818/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731849944.jpg",
+      "Project_ID": "135",
+      "amenity": "school",
+      "education_gender_type": "mixed",
+      "education_government_registere": "moe",
+      "education_type": "primary",
+      "image_pointofinterest": "https://mapkibera.github.io/counties/data/images/cache/6908747818/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731537923.jpg",
+      "is_in_village": "Roponywo",
+      "name": "Roponywo Primary School",
+      "operator_type": "government"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-15T09:15:10Z",
+      "version": "1",
+      "changeset": "77114550",
+      "user": "benard lokeris",
+      "uid": "10380856"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.13739,
+      1.279125
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6979225376",
+  "properties": {
+    "type": "node",
+    "id": "6979225376",
+    "tags": {
+      "amenity": "drinking_water",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572507971895.jpg",
+      "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572507763928.jpg",
+      "is_in_village": "Mwotot",
+      "man_made": "borehole",
+      "name": "County Headquarter Borehole",
+      "operator_funding": "county_government",
+      "operator_type": "government",
+      "wb_pb:id": "24"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-15T09:22:27Z",
+      "version": "1",
+      "changeset": "77114839",
+      "user": "shazomojah",
+      "uid": "4873427"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.1140933,
+      1.24936
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6979293418",
+  "properties": {
+    "type": "node",
+    "id": "6979293418",
+    "tags": {
+      "image:project_outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909311014.jpg",
+      "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909168587.jpg",
+      "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909338343.jpg",
+      "is_in_village": "Mwotot",
+      "name": "West pokot County Department of Health and Sanitation Health Office",
+      "office": "government",
+      "wb_pb:id": "144"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-15T09:55:55Z",
+      "version": "1",
+      "changeset": "77116430",
+      "user": "Peter Agenga",
+      "uid": "4570042"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.1204433,
+      1.2391317
     ]
   }
 }

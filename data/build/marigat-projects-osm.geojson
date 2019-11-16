@@ -2526,6 +2526,37 @@
       }
     },
     {
+      "type": "Feature",
+      "id": "node/6979687003",
+      "properties": {
+        "type": "node",
+        "id": "6979687003",
+        "tags": {
+          "amenity": "hospital",
+          "image:poinofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568033412053.jpg",
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568033967704.jpg",
+          "is_in:village": "Town A",
+          "name": "Sub County Referral Hospital",
+          "wb_pb:id": "146"
+        },
+        "relations": [],
+        "meta": {
+          "timestamp": "2019-11-15T12:54:15Z",
+          "version": "1",
+          "changeset": "77126870",
+          "user": "Peter Agenga",
+          "uid": "4570042"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.98487,
+          0.4774133
+        ]
+      }
+    },
+    {
       "geometry": {
         "coordinates": [
           [

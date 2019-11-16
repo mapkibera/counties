@@ -246,7 +246,7 @@
       },
       "id": "726069522",
       "properties": {
-        "Budgeted sum": "5,000,000.00",
+        "Budgeted sum": "",
         "Category": "AGLF",
         "In_your_opinion_is_the_project_quality": "excellent",
         "Please_add_any_details_about_y": "Well structured and managed.",
@@ -301,7 +301,7 @@
       },
       "id": "6798389727",
       "properties": {
-        "Budgeted sum": "340,500/2,000,000",
+        "Budgeted sum": "",
         "Category": "WI",
         "In_your_opinion_is_the_project_quality": "adequate",
         "Please_add_any_details_about_y": "Supply clean water to the community but there is leakage with the main tank. There is clean water but the pressure is low",
@@ -449,10 +449,10 @@
       },
       "id": "725084564",
       "properties": {
-        "Budgeted sum": "1,400,353.00",
+        "Budgeted sum": "",
         "Category": "WI",
         "In_your_opinion_is_the_project_quality": "adequate",
-        "Please_add_any_details_about_y": "1.It stores and supplies water for the community\nKabusa,yes,marigat,ewalel_soi,,,,,,,,kabusa,,,,,,,,PB,Kabusa,Drilling and Equipping,,,,98,,WI,borehole,,completed,operational,,,adequate,The project requires maintainance and installation of gate bulbs",
+        "Please_add_any_details_about_y": "1.It stores and supplies water for the community\nKabusa,yes,marigat,ewalel_soi,,,,,,,,kabusa,,,,,,,,PB,Kabusa,Drilling and Equipping,,,,,98,,WI,borehole,,completed,operational,,,adequate,The project requires maintainance and installation of gate bulbs",
         "Project_Description": "Rehabilitation of Water Pipeline",
         "Project_Name_or_Title": "Patkawanin/Kimao Water Supply",
         "What_is_the_project_s_apparent_status": "completed",
@@ -822,7 +822,7 @@
       },
       "id": "6863434742",
       "properties": {
-        "Budgeted sum": "604,148.00",
+        "Budgeted sum": "",
         "Category": "WI",
         "In_your_opinion_is_the_project_quality": "adequate",
         "Please_add_any_details_about_y": "The pipes for water intake from the source are few, only two are functioning and the third one is broken",
@@ -1357,6 +1357,33 @@
     {
       "geometry": {
         "coordinates": [
+          35.98487,
+          0.4774133
+        ],
+        "type": "Point"
+      },
+      "id": "6979687003",
+      "properties": {
+        "Budgeted sum": "",
+        "Category": "HS",
+        "In_your_opinion_is_the_project_quality": "excellent",
+        "Please_add_any_details_about_y": "The structure of the buildings are of good quality also it's spacious to accomodate the community",
+        "Project_Description": "Construction of General wards",
+        "Project_Name_or_Title": "Sub County Referral Hospital",
+        "What_is_the_project_s_apparent_status": "stalled",
+        "amenity": "hospital",
+        "image:poinofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568033412053.jpg",
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568033967704.jpg",
+        "is_in:village": "Town A",
+        "name": "Sub County Referral Hospital",
+        "osm:id": "6979687003",
+        "wb_pb:id": "146"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           35.91219,
           0.539118
         ],
@@ -1468,7 +1495,7 @@
       },
       "id": "6798591061",
       "properties": {
-        "Budgeted sum": "2,429,956.00",
+        "Budgeted sum": "",
         "Category": "HS",
         "In_your_opinion_is_the_project_quality": "adequate",
         "Please_add_any_details_about_y": "The structure is well built but lack of water is the main challenge",
@@ -1972,7 +1999,7 @@
       },
       "id": "6799316012",
       "properties": {
-        "Budgeted sum": "4,000,000.00",
+        "Budgeted sum": "",
         "Category": "FIEC",
         "In_your_opinion_is_the_project_quality": "excellent",
         "Please_add_any_details_about_y": "The shed offers ample parking and docking for bodaboda riders and passengers",
@@ -2001,7 +2028,7 @@
       },
       "id": "6799316012",
       "properties": {
-        "Budgeted sum": "4,000,000.00",
+        "Budgeted sum": "",
         "Category": "FIEC",
         "In_your_opinion_is_the_project_quality": "excellent",
         "Please_add_any_details_about_y": "The shed offers ample parking and docking for bodaboda riders and passengers",
@@ -2030,7 +2057,7 @@
       },
       "id": "6799316012",
       "properties": {
-        "Budgeted sum": "4,000,000.00",
+        "Budgeted sum": "",
         "Category": "FIEC",
         "In_your_opinion_is_the_project_quality": "excellent",
         "Please_add_any_details_about_y": "The shed offers ample parking and docking for bodaboda riders and passengers",
@@ -2059,7 +2086,7 @@
       },
       "id": "6799316012",
       "properties": {
-        "Budgeted sum": "4,000,000.00",
+        "Budgeted sum": "",
         "Category": "FIEC",
         "In_your_opinion_is_the_project_quality": "excellent",
         "Please_add_any_details_about_y": "The shed offers ample parking and docking for bodaboda riders and passengers",
@@ -2088,10 +2115,10 @@
       },
       "id": "6807413173",
       "properties": {
-        "Budgeted sum": "7,490,015.00",
+        "Budgeted sum": "",
         "Category": "SCG",
         "In_your_opinion_is_the_project_quality": "adequate",
-        "Please_add_any_details_about_y": "1.The foundation of the building has already been done and the land has been fenced\nTown A,yes,marigat,marigat,yatoi,,,,,,,,,,,,,,,HQ,Honey stall,Construction Of Honey Stalls,,,1",
+        "Please_add_any_details_about_y": "1.The foundation of the building has already been done and the land has been fenced\nTown A,yes,marigat,marigat,yatoi,,,,,,,,,,,,,,,HQ,Honey stall,Construction Of Honey Stalls,,,,1",
         "Project_Description": "Construction Of Youth Empowerment Center",
         "Project_Name_or_Title": "Youth Empowerment Centre",
         "What_is_the_project_s_apparent_status": "on_going",
@@ -9417,7 +9444,7 @@
       },
       "id": "6808083482",
       "properties": {
-        "Budgeted sum": "2,865,150.00",
+        "Budgeted sum": "",
         "Category": "WI",
         "In_your_opinion_is_the_project_quality": "adequate",
         "Please_add_any_details_about_y": "One section of the dam was not fully completed but other facilities like fencing and toilets were completed.",

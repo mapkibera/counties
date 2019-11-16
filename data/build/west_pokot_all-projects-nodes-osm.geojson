@@ -1546,22 +1546,28 @@
     "type": "node",
     "id": "6909005280",
     "tags": {
+      "access": "yes",
+      "amenity": "toilets",
+      "drinking_water": "yes",
+      "female": "yes",
       "image": "https://mapkibera.github.io/counties/data/images/cache/6909005280/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571746369500jpg/orig.jpg",
       "image:project": "https://mapkibera.github.io/counties/data/images/cache/6909005280/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571746603057jpg/orig.jpg",
       "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571746671573.jpg",
       "is_in:village": "Mwotot",
+      "male": "yes",
       "name": "County Assembly Pit Latrine",
       "opening_hours": "Mo-Fr 6:00-18:00",
+      "toilets:disposal": "pit_latrine",
       "toilets:num_chambers": "5",
       "wb_pb:id": "21"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-14T20:32:41Z",
-      "version": "2",
-      "changeset": "77093971",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-15T09:42:52Z",
+      "version": "3",
+      "changeset": "77115764",
+      "user": "Peter Agenga",
+      "uid": "4570042"
     }
   },
   "geometry": {
@@ -1871,19 +1877,25 @@
     "type": "node",
     "id": "6909005402",
     "tags": {
+      "access": "permissive",
+      "amenity": "toilets",
+      "drinking_water": "yes",
+      "female": "yes",
       "image": "https://mapkibera.github.io/counties/data/images/cache/6909005402/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571396831146jpg/orig.jpg",
       "image:project": "https://mapkibera.github.io/counties/data/images/cache/6909005402/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571397025167jpg/orig.jpg",
       "is_in:village": "Mwotot",
+      "male": "yes",
       "name": "Treasury Pit Latrine",
+      "toilets:disposal": "pit_latrine",
       "wb_pb:id": "28"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-14T20:32:41Z",
-      "version": "2",
-      "changeset": "77093971",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-15T09:42:52Z",
+      "version": "3",
+      "changeset": "77115764",
+      "user": "Peter Agenga",
+      "uid": "4570042"
     }
   },
   "geometry": {
@@ -1967,15 +1979,16 @@
       "image:project": "https://mapkibera.github.io/counties/data/images/cache/6909005411/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571391325109jpg/orig.jpg",
       "is_in:village": "Mwotot",
       "name": "Westpokot County Water Procurement Office",
+      "office": "government",
       "wb_pb:id": "123"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-14T20:32:41Z",
-      "version": "2",
-      "changeset": "77093971",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-15T09:42:52Z",
+      "version": "3",
+      "changeset": "77115764",
+      "user": "Peter Agenga",
+      "uid": "4570042"
     }
   },
   "geometry": {
@@ -1993,24 +2006,25 @@
     "type": "node",
     "id": "6909005415",
     "tags": {
-      "amenity": "Toilets",
+      "access": "yes",
+      "amenity": "toilets",
       "image": "https://mapkibera.github.io/counties/data/images/cache/6909005415/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571386820813jpg/orig.jpg",
       "image:project": "https://mapkibera.github.io/counties/data/images/cache/6909005415/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571387315730jpg/orig.jpg",
       "is_in:village": "Mwotot",
       "name": "Ardhi House Pit Latrine",
       "opening_hours": "Mo-Fr 6:00-18:00",
       "operator:description": "West Pokot County Ardhi House",
-      "toilets:disposal": "Pit_Latrine",
+      "toilets:disposal": "pit_latrine",
       "toilets:num_chambers": "5",
       "wb_pb:id": "4"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-14T20:32:41Z",
-      "version": "2",
-      "changeset": "77093971",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-15T09:42:52Z",
+      "version": "3",
+      "changeset": "77115764",
+      "user": "Peter Agenga",
+      "uid": "4570042"
     }
   },
   "geometry": {
@@ -3358,38 +3372,6 @@
     "coordinates": [
       35.0604567,
       1.27136
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6924413626",
-  "properties": {
-    "type": "node",
-    "id": "6924413626",
-    "tags": {
-      "image": "https://mapkibera.github.io/counties/data/images/cache/6924413626/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907296608jpg/orig.jpg",
-      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924413626/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907468002jpg/orig.jpg",
-      "is_in:village": "Chewoyet",
-      "landuse": "other",
-      "name": "West Pokot Fish Hatchery",
-      "other_agriculture": "Fish hatchery",
-      "wb_pb:id": "141"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-11-14T20:32:41Z",
-      "version": "2",
-      "changeset": "77093971",
-      "user": "mikelmaron",
-      "uid": "999"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.1197934,
-      1.2381722
     ]
   }
 },
@@ -5562,6 +5544,72 @@
     "coordinates": [
       35.1218833,
       1.23768
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6979225376",
+  "properties": {
+    "type": "node",
+    "id": "6979225376",
+    "tags": {
+      "amenity": "drinking_water",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572507971895.jpg",
+      "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572507763928.jpg",
+      "is_in_village": "Mwotot",
+      "man_made": "borehole",
+      "name": "County Headquarter Borehole",
+      "operator_funding": "county_government",
+      "operator_type": "government",
+      "wb_pb:id": "24"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-15T09:22:27Z",
+      "version": "1",
+      "changeset": "77114839",
+      "user": "shazomojah",
+      "uid": "4873427"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.1140933,
+      1.24936
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6979293418",
+  "properties": {
+    "type": "node",
+    "id": "6979293418",
+    "tags": {
+      "image:project_outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909311014.jpg",
+      "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909168587.jpg",
+      "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909338343.jpg",
+      "is_in_village": "Mwotot",
+      "name": "West pokot County Department of Health and Sanitation Health Office",
+      "office": "government",
+      "wb_pb:id": "144"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-15T09:55:55Z",
+      "version": "1",
+      "changeset": "77116430",
+      "user": "Peter Agenga",
+      "uid": "4570042"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.1204433,
+      1.2391317
     ]
   }
 }

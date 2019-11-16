@@ -1,10 +1,9 @@
-<osm generator="Overpass API 0.7.55.1009 5e627b63" version="0.6">
+<osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-14T20:39:02Z" />
+<meta osm_base="2019-11-16T22:55:02Z" />
 
   <bounds maxlat="1.4225900" maxlon="35.1782300" minlat="1.1610400" minlon="34.9640000" />
 
-  <node changeset="70908707" id="380125578" lat="1.2577544" lon="35.0948717" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="6" />
   <node changeset="71146145" id="380130157" lat="1.2397276" lon="35.0630432" timestamp="2019-06-11T15:23:12Z" uid="9625546" user="Wynwood" version="4" />
   <node changeset="71825850" id="380138365" lat="1.2517900" lon="35.0911636" timestamp="2019-07-02T15:06:40Z" uid="8610599" user="g3reader" version="7" />
   <node changeset="71825850" id="380147966" lat="1.2580695" lon="35.0954768" timestamp="2019-07-02T15:06:40Z" uid="8610599" user="g3reader" version="4" />
@@ -371,75 +370,6 @@
   <node changeset="76489296" id="2583718234" lat="1.2288287" lon="35.1202776" timestamp="2019-11-01T11:12:50Z" uid="10380856" user="benard lokeris" version="2" />
   <node changeset="76489296" id="2583718241" lat="1.2291767" lon="35.1201211" timestamp="2019-11-01T11:12:50Z" uid="10380856" user="benard lokeris" version="2" />
   <node changeset="76489296" id="2583718245" lat="1.2294084" lon="35.1199797" timestamp="2019-11-01T11:12:50Z" uid="10380856" user="benard lokeris" version="2" />
-  <node changeset="70912046" id="2583718643" lat="1.2500275" lon="35.1113230" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718644" lat="1.2500355" lon="35.1116958" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718645" lat="1.2500597" lon="35.1111701" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="19498931" id="2583718646" lat="1.2500482" lon="35.1118847" timestamp="2013-12-17T14:02:36Z" uid="7079" user="mapwitch" version="1" />
-  <node changeset="70912046" id="2583718647" lat="1.2501321" lon="35.1111218" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="71828222" id="2583718648" lat="1.2501106" lon="35.1121523" timestamp="2019-07-02T16:16:31Z" uid="8610599" user="g3reader" version="3" />
-  <node changeset="70912046" id="2583718649" lat="1.2502152" lon="35.1110655" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718652" lat="1.2513066" lon="35.1105157" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718654" lat="1.2514755" lon="35.1104218" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="76489296" id="2583718655" lat="1.2517621" lon="35.1006378" timestamp="2019-11-01T11:12:50Z" uid="10380856" user="benard lokeris" version="2" />
-  <node changeset="70912046" id="2583718656" lat="1.2515640" lon="35.1103601" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718658" lat="1.2516632" lon="35.1102635" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718659" lat="1.2517008" lon="35.1101536" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718660" lat="1.2517222" lon="35.1100329" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718662" lat="1.2517330" lon="35.1098505" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718663" lat="1.2517625" lon="35.1096573" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718664" lat="1.2517785" lon="35.1015168" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718665" lat="1.2517946" lon="35.1018923" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718666" lat="1.2518295" lon="35.1011252" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="3" />
-  <node changeset="70912046" id="2583718667" lat="1.2518027" lon="35.1008168" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="3" />
-  <node changeset="70912046" id="2583718668" lat="1.2518027" lon="35.1094401" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718669" lat="1.2518375" lon="35.1009563" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="3" />
-  <node changeset="70912046" id="2583718670" lat="1.2520333" lon="35.1088715" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718671" lat="1.2518912" lon="35.1023000" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718672" lat="1.2520172" lon="35.1005378" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="19498931" id="2583718673" lat="1.2520332" lon="35.1025937" timestamp="2013-12-17T14:02:37Z" uid="7079" user="mapwitch" version="1" />
-  <node changeset="70908707" id="2583718674" lat="1.2521071" lon="35.1027253" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="19498931" id="2583718676" lat="1.2521770" lon="35.1028378" timestamp="2013-12-17T14:02:37Z" uid="7079" user="mapwitch" version="1" />
-  <node changeset="19498931" id="2583718678" lat="1.2522511" lon="35.1029860" timestamp="2013-12-17T14:02:37Z" uid="7079" user="mapwitch" version="1" />
-  <node changeset="19498931" id="2583718679" lat="1.2523121" lon="35.1031495" timestamp="2013-12-17T14:02:37Z" uid="7079" user="mapwitch" version="1" />
-  <node changeset="19498931" id="2583718681" lat="1.2523905" lon="35.1035178" timestamp="2013-12-17T14:02:37Z" uid="7079" user="mapwitch" version="1" />
-  <node changeset="70912046" id="2583718682" lat="1.2524302" lon="35.1079649" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718684" lat="1.2526232" lon="35.1004171" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718685" lat="1.2525508" lon="35.1042527" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718686" lat="1.2526581" lon="35.1075786" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718688" lat="1.2527171" lon="35.1048347" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718689" lat="1.2527520" lon="35.1073962" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718690" lat="1.2528941" lon="35.1003689" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718691" lat="1.2528565" lon="35.1071709" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718692" lat="1.2529424" lon="35.1068544" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718693" lat="1.2529182" lon="35.1053712" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718694" lat="1.2530362" lon="35.1064065" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718695" lat="1.2529799" lon="35.1055911" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718696" lat="1.2530362" lon="35.1062188" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718697" lat="1.2530174" lon="35.1058030" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70912046" id="2583718698" lat="1.2530362" lon="35.1060042" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718699" lat="1.2531461" lon="35.1003689" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718700" lat="1.2534197" lon="35.1003662" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718701" lat="1.2536851" lon="35.1004118" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718702" lat="1.2539613" lon="35.1004332" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718703" lat="1.2541786" lon="35.1004279" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718704" lat="1.2543824" lon="35.1004064" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718705" lat="1.2544655" lon="35.1003689" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718706" lat="1.2545406" lon="35.1002669" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718707" lat="1.2546425" lon="35.1000604" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718708" lat="1.2546961" lon="35.0997975" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718709" lat="1.2547336" lon="35.0995722" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718710" lat="1.2547497" lon="35.0994676" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718711" lat="1.2548194" lon="35.0993979" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718712" lat="1.2549160" lon="35.0993121" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718713" lat="1.2551386" lon="35.0992075" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718714" lat="1.2553477" lon="35.0991619" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718715" lat="1.2555006" lon="35.0990733" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718716" lat="1.2555569" lon="35.0989661" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718717" lat="1.2556507" lon="35.0986952" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718718" lat="1.2558921" lon="35.0976679" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70909808" id="2583718721" lat="1.2562165" lon="35.0970697" timestamp="2019-06-04T06:06:18Z" uid="8076742" user="jula_june" version="3" />
-  <node changeset="70908707" id="2583718723" lat="1.2563453" lon="35.0969061" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="2583718726" lat="1.2567501" lon="35.0962780" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
   <node changeset="71026449" id="2583718831" lat="1.2762392" lon="35.1400689" timestamp="2019-06-07T14:51:36Z" uid="9388974" user="BoKaap" version="2" />
   <node changeset="71026449" id="2583718849" lat="1.2782627" lon="35.1383540" timestamp="2019-06-07T14:51:36Z" uid="9388974" user="BoKaap" version="2" />
   <node changeset="19498931" id="2583718863" lat="1.2801981" lon="35.1375366" timestamp="2013-12-17T14:02:42Z" uid="7079" user="mapwitch" version="1" />
@@ -791,8 +721,6 @@
   <node changeset="70907289" id="6520263701" lat="1.2621079" lon="35.0868103" timestamp="2019-06-04T04:02:51Z" uid="8076742" user="jula_june" version="1" />
   <node changeset="70907289" id="6520263702" lat="1.2620409" lon="35.0867942" timestamp="2019-06-04T04:02:51Z" uid="8076742" user="jula_june" version="1" />
   <node changeset="70908707" id="6520263703" lat="1.2604668" lon="35.0899270" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="2" />
-  <node changeset="70908707" id="6520341886" lat="1.2558197" lon="35.0979307" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="1" />
-  <node changeset="70908707" id="6520341887" lat="1.2554282" lon="35.0991484" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="1" />
   <node changeset="70908707" id="6520341888" lat="1.2555515" lon="35.0891465" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="1" />
   <node changeset="70908707" id="6520341889" lat="1.2538782" lon="35.0891304" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="1" />
   <node changeset="70908707" id="6520344486" lat="1.2559082" lon="35.0891411" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="1" />
@@ -828,8 +756,6 @@
   <node changeset="70908707" id="6520344538" lat="1.2523041" lon="35.0840557" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="1" />
   <node changeset="70908707" id="6520344548" lat="1.2535108" lon="35.0892055" timestamp="2019-06-04T05:20:25Z" uid="8076742" user="jula_june" version="1" />
   <node changeset="70909808" id="6520419421" lat="1.2477374" lon="35.0866574" timestamp="2019-06-04T06:06:18Z" uid="8076742" user="jula_june" version="1" />
-  <node changeset="70909808" id="6520427309" lat="1.2557258" lon="35.0983599" timestamp="2019-06-04T06:06:18Z" uid="8076742" user="jula_june" version="1" />
-  <node changeset="70912046" id="6520538045" lat="1.2530040" lon="35.1065594" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="1" />
   <node changeset="70912046" id="6520562246" lat="1.2525913" lon="35.0842540" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="1" />
   <node changeset="76489469" id="6520562261" lat="1.2532340" lon="35.0870725" timestamp="2019-11-01T11:11:23Z" uid="10380936" user="CHENAA" version="3" />
   <node changeset="70912046" id="6520562262" lat="1.2531381" lon="35.0871295" timestamp="2019-06-04T07:39:45Z" uid="8076742" user="jula_june" version="1" />
@@ -2573,38 +2499,6 @@
   <node changeset="76294057" id="6924370719" lat="1.2790596" lon="35.0801000" timestamp="2019-10-28T10:54:43Z" uid="10380870" user="loitalima" version="1" />
   <node changeset="76294057" id="6924370720" lat="1.2790862" lon="35.0801157" timestamp="2019-10-28T10:54:43Z" uid="10380870" user="loitalima" version="1" />
   <node changeset="76294057" id="6924370721" lat="1.2791464" lon="35.0800140" timestamp="2019-10-28T10:54:43Z" uid="10380870" user="loitalima" version="1" />
-  <node changeset="76294598" id="6924391025" lat="1.2855661" lon="35.0700277" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391026" lat="1.2852819" lon="35.0700223" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391027" lat="1.2849601" lon="35.0701082" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391028" lat="1.2848689" lon="35.0701779" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391029" lat="1.2847670" lon="35.0704300" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391030" lat="1.2847026" lon="35.0705534" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391031" lat="1.2847509" lon="35.0707465" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391032" lat="1.2847724" lon="35.0711650" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391033" lat="1.2847938" lon="35.0715297" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391034" lat="1.2848635" lon="35.0719911" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391035" lat="1.2849011" lon="35.0723451" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391036" lat="1.2850512" lon="35.0726616" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391037" lat="1.2854696" lon="35.0728494" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391038" lat="1.2856948" lon="35.0728869" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391039" lat="1.2858235" lon="35.0727904" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391040" lat="1.2861131" lon="35.0726026" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391041" lat="1.2864296" lon="35.0724095" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391042" lat="1.2867996" lon="35.0723129" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391043" lat="1.2867299" lon="35.0721896" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391044" lat="1.2866226" lon="35.0720045" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391045" lat="1.2864242" lon="35.0718302" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391046" lat="1.2863008" lon="35.0716746" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391047" lat="1.2862687" lon="35.0714064" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391048" lat="1.2861721" lon="35.0710308" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391049" lat="1.2861453" lon="35.0706392" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391050" lat="1.2861292" lon="35.0702584" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391051" lat="1.2860488" lon="35.0699526" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391052" lat="1.2859415" lon="35.0699472" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391069" lat="1.2791198" lon="35.0799983" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391070" lat="1.2790596" lon="35.0801000" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391071" lat="1.2790862" lon="35.0801157" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
-  <node changeset="76294598" id="6924391072" lat="1.2791464" lon="35.0800140" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1" />
   <node changeset="76295494" id="6924410778" lat="1.2556065" lon="35.0905077" timestamp="2019-10-28T11:31:03Z" uid="10380936" user="CHENAA" version="1" />
   <node changeset="76295494" id="6924410779" lat="1.2553906" lon="35.0909758" timestamp="2019-10-28T11:31:03Z" uid="10380936" user="CHENAA" version="1" />
   <node changeset="76295494" id="6924410780" lat="1.2551412" lon="35.0914532" timestamp="2019-10-28T11:31:03Z" uid="10380936" user="CHENAA" version="1" />
@@ -3436,6 +3330,10 @@
   <node changeset="76796038" id="6956972302" lat="1.2416389" lon="35.1175405" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="1" />
   <node changeset="76796038" id="6956972303" lat="1.2420048" lon="35.1179347" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="1" />
   <node changeset="76796038" id="6956972304" lat="1.2423609" lon="35.1176041" timestamp="2019-11-08T09:04:40Z" uid="4873427" user="shazomojah" version="1" />
+  <node changeset="77115764" id="6979247308" lat="1.2387363" lon="35.1197054" timestamp="2019-11-15T09:42:52Z" uid="4570042" user="Peter Agenga" version="1" />
+  <node changeset="77115764" id="6979247309" lat="1.2384368" lon="35.1200205" timestamp="2019-11-15T09:42:52Z" uid="4570042" user="Peter Agenga" version="1" />
+  <node changeset="77115764" id="6979247310" lat="1.2381539" lon="35.1197514" timestamp="2019-11-15T09:42:52Z" uid="4570042" user="Peter Agenga" version="1" />
+  <node changeset="77115764" id="6979247311" lat="1.2384533" lon="35.1194363" timestamp="2019-11-15T09:42:52Z" uid="4570042" user="Peter Agenga" version="1" />
   <way changeset="76484582" id="252283602" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="6">
     <nd ref="2583717319" />
     <nd ref="6555843784" />
@@ -3491,88 +3389,6 @@
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="288" />
     <tag k="width" v="12" />
-  </way>
-  <way changeset="76489296" id="252283608" timestamp="2019-11-01T11:12:50Z" uid="10380856" user="benard lokeris" version="5">
-    <nd ref="380125578" />
-    <nd ref="2583718726" />
-    <nd ref="2583718723" />
-    <nd ref="2583718721" />
-    <nd ref="2583718718" />
-    <nd ref="6520341886" />
-    <nd ref="6520427309" />
-    <nd ref="2583718717" />
-    <nd ref="2583718716" />
-    <nd ref="2583718715" />
-    <nd ref="6520341887" />
-    <nd ref="2583718714" />
-    <nd ref="2583718713" />
-    <nd ref="2583718712" />
-    <nd ref="2583718711" />
-    <nd ref="2583718710" />
-    <nd ref="2583718709" />
-    <nd ref="2583718708" />
-    <nd ref="2583718707" />
-    <nd ref="2583718706" />
-    <nd ref="2583718705" />
-    <nd ref="2583718704" />
-    <nd ref="2583718703" />
-    <nd ref="2583718702" />
-    <nd ref="2583718701" />
-    <nd ref="2583718700" />
-    <nd ref="2583718699" />
-    <nd ref="2583718690" />
-    <nd ref="2583718684" />
-    <nd ref="2583718672" />
-    <nd ref="2583718655" />
-    <nd ref="2583718667" />
-    <nd ref="2583718669" />
-    <nd ref="2583718666" />
-    <nd ref="2583718664" />
-    <nd ref="2583718665" />
-    <nd ref="2583718671" />
-    <nd ref="2583718673" />
-    <nd ref="2583718674" />
-    <nd ref="2583718676" />
-    <nd ref="2583718678" />
-    <nd ref="2583718679" />
-    <nd ref="2583718681" />
-    <nd ref="2583718685" />
-    <nd ref="2583718688" />
-    <nd ref="2583718693" />
-    <nd ref="2583718695" />
-    <nd ref="2583718697" />
-    <nd ref="2583718698" />
-    <nd ref="2583718696" />
-    <nd ref="2583718694" />
-    <nd ref="6520538045" />
-    <nd ref="2583718692" />
-    <nd ref="2583718691" />
-    <nd ref="2583718689" />
-    <nd ref="2583718686" />
-    <nd ref="2583718682" />
-    <nd ref="2583718670" />
-    <nd ref="2583718668" />
-    <nd ref="2583718663" />
-    <nd ref="2583718662" />
-    <nd ref="2583718660" />
-    <nd ref="2583718659" />
-    <nd ref="2583718658" />
-    <nd ref="2583718656" />
-    <nd ref="2583718654" />
-    <nd ref="2583718652" />
-    <nd ref="2583718649" />
-    <nd ref="2583718647" />
-    <nd ref="2583718645" />
-    <nd ref="2583718643" />
-    <nd ref="2583718644" />
-    <nd ref="2583718646" />
-    <nd ref="2583718648" />
-    <tag k="highway" v="unclassified" />
-    <tag k="image:project" v="image=https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342574959.jpg" />
-    <tag k="maintenance" v="kura" />
-    <tag k="name" v="Catholic-sakas-cereal-Makutano Road" />
-    <tag k="surface" v="paved" />
-    <tag k="wb_pb:id" v="width=15metres" />
   </way>
   <way changeset="76484582" id="252283615" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="5">
     <nd ref="2583717242" />
@@ -3819,7 +3635,7 @@
     <tag k="wb_pb:id" v="286" />
     <tag k="width" v="15" />
   </way>
-  <way changeset="76484582" id="252283627" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="4">
+  <way changeset="77125579" id="252283627" timestamp="2019-11-15T12:31:19Z" uid="4570042" user="Peter Agenga" version="5">
     <nd ref="2583717689" />
     <nd ref="2583717678" />
     <nd ref="2583717662" />
@@ -3941,7 +3757,7 @@
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340796951.jpg" />
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340980000.jpg" />
     <tag k="maintenance" v="county_governm" />
-    <tag k="name" v="Kammorrow-Kanglikwan Road" />
+    <tag k="name" v="Kamorrow-Kanglikwan Road" />
     <tag k="surface" v="dirt" />
     <tag k="wb_pb:id" v="228" />
     <tag k="width" v="12" />
@@ -5260,7 +5076,7 @@
     <tag k="wb_pb:id" v="83" />
     <tag k="width" v="9" />
   </way>
-  <way changeset="76484064" id="696115061" timestamp="2019-11-01T09:28:15Z" uid="10380870" user="loitalima" version="5">
+  <way changeset="77122099" id="696115061" timestamp="2019-11-15T11:28:57Z" uid="4570042" user="Peter Agenga" version="6">
     <nd ref="6536703375" />
     <nd ref="6536783695" />
     <nd ref="6536783693" />
@@ -5311,7 +5127,7 @@
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572423416920.jpg" />
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572423918673.jpg" />
     <tag k="maintenance" v="county_government" />
-    <tag k="name" v="Kapkoris Chemwayam Road" />
+    <tag k="name" v="Kapkoris Chemwacham Road" />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="77" />
     <tag k="width" v="9 metres" />
@@ -5580,7 +5396,7 @@
     <tag k="wb_pb:id" v="110" />
     <tag k="width" v="12 metres" />
   </way>
-  <way changeset="76489653" id="696198489" timestamp="2019-11-01T11:14:30Z" uid="10380856" user="benard lokeris" version="7">
+  <way changeset="77122864" id="696198489" timestamp="2019-11-15T11:43:07Z" uid="265690" user="fondolucy" version="8">
     <nd ref="6537187854" />
     <nd ref="6537680775" />
     <nd ref="6537680778" />
@@ -5673,7 +5489,7 @@
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427213674.jpg" />
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427691105.jpg" />
     <tag k="maintenance" v="county_government" />
-    <tag k="name" v="Roponywo Kakomtin Road" />
+    <tag k="name" v="Kamatira-Kaa Komtin Road" />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="47" />
     <tag k="width" v="6 metres" />
@@ -6530,57 +6346,6 @@
     <tag k="name" v="Kishaunet Cattle Dip" />
     <tag k="wb_pb:id" v="246" />
   </way>
-  <way changeset="76294598" id="739527393" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1">
-    <nd ref="6924391052" />
-    <nd ref="6924391051" />
-    <nd ref="6924391050" />
-    <nd ref="6924391049" />
-    <nd ref="6924391048" />
-    <nd ref="6924391047" />
-    <nd ref="6924391046" />
-    <nd ref="6924391045" />
-    <nd ref="6924391044" />
-    <nd ref="6924391043" />
-    <nd ref="6924391042" />
-    <nd ref="6924391041" />
-    <nd ref="6924391040" />
-    <nd ref="6924391039" />
-    <nd ref="6924391038" />
-    <nd ref="6924391037" />
-    <nd ref="6924391036" />
-    <nd ref="6924391035" />
-    <nd ref="6924391034" />
-    <nd ref="6924391033" />
-    <nd ref="6924391032" />
-    <nd ref="6924391031" />
-    <nd ref="6924391030" />
-    <nd ref="6924391029" />
-    <nd ref="6924391028" />
-    <nd ref="6924391027" />
-    <nd ref="6924391026" />
-    <nd ref="6924391025" />
-    <nd ref="6924391052" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571387346538.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/IMG_20191018_112900-15_14_11.jpg" />
-    <tag k="is_in:village" v="Kishaunet" />
-    <tag k="landuse" v="other" />
-    <tag k="name" v="Kishaunet Showground" />
-    <tag k="other_agriculture" v="Showground" />
-    <tag k="wb_pb:id" v="251" />
-  </way>
-  <way changeset="76294598" id="739527395" timestamp="2019-10-28T11:08:20Z" uid="10380760" user="LOPOT" version="1">
-    <nd ref="6924391072" />
-    <nd ref="6924391071" />
-    <nd ref="6924391070" />
-    <nd ref="6924391069" />
-    <nd ref="6924391072" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571385975742.jpg" />
-    <tag k="is_in:village" v="Kishaunet" />
-    <tag k="landuse" v="livestock_dip" />
-    <tag k="man_made" v="livestock_dip" />
-    <tag k="name" v="Kishaunet Cattle Dip" />
-    <tag k="wb_pb:id" v="246" />
-  </way>
   <way changeset="76579464" id="739531380" timestamp="2019-11-04T09:35:13Z" uid="261050" user="muindre" version="2">
     <nd ref="6924413630" />
     <nd ref="6944638623" />
@@ -6664,7 +6429,7 @@
     <tag k="operator:funding" v="county_government" />
     <tag k="wb_pb:id" v="46" />
   </way>
-  <way changeset="76583040" id="740921089" timestamp="2019-11-04T10:34:02Z" uid="10380856" user="benard lokeris" version="2">
+  <way changeset="77123358" id="740921089" timestamp="2019-11-15T11:52:30Z" uid="4570042" user="Peter Agenga" version="3">
     <nd ref="6936768134" />
     <nd ref="6936768133" />
     <nd ref="6936768132" />
@@ -6731,7 +6496,7 @@
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347619518.jpg" />
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347715270.jpg" />
     <tag k="maintenance" v="kerra" />
-    <tag k="name" v="Kapchepkai-Kodongou Road" />
+    <tag k="name" v="Kodongou-Kapchekai Road" />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="223" />
     <tag k="width" v="9 metres" />
@@ -7307,7 +7072,7 @@
     <tag k="wb_pb:id" v="254" />
     <tag k="width" v="12" />
   </way>
-  <way changeset="76484582" id="740923107" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="1">
+  <way changeset="77121379" id="740923107" timestamp="2019-11-15T11:17:48Z" uid="4570042" user="Peter Agenga" version="2">
     <nd ref="6936786207" />
     <nd ref="6936786206" />
     <nd ref="6936786205" />
@@ -7317,9 +7082,9 @@
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341447069.jpg" />
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341609674.jpg" />
     <tag k="maintenance" v="county_governm" />
-    <tag k="name" v="Kanglikwan-Kisii Road" />
+    <tag k="name" v="Kanglikwan-Kisii University Road" />
     <tag k="surface" v="earth" />
-    <tag k="wb_pb:id" v="223" />
+    <tag k="wb_pb:id" v="233" />
     <tag k="width" v="12" />
   </way>
   <way changeset="76485146" id="740924218" timestamp="2019-11-01T09:52:11Z" uid="10380766" user="Isaac Lonika" version="2">
@@ -7485,7 +7250,7 @@
     <tag k="wb_pb:id" v="78" />
     <tag k="width" v="15_m" />
   </way>
-  <way changeset="76489469" id="740942612" timestamp="2019-11-01T11:11:23Z" uid="10380936" user="CHENAA" version="1">
+  <way changeset="77125352" id="740942612" timestamp="2019-11-15T12:27:07Z" uid="4570042" user="Peter Agenga" version="2">
     <nd ref="6584317174" />
     <nd ref="6936964565" />
     <nd ref="6936964564" />
@@ -7498,7 +7263,7 @@
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572435474880.jpg" />
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572435704662.jpg" />
     <tag k="maintenance" v="County_Government" />
-    <tag k="name" v="Total-Kcb Olive tree Road." />
+    <tag k="name" v="Total-KCB-Olive tree Road." />
     <tag k="surface" v="dirt" />
     <tag k="wb_pb:id" v="315" />
     <tag k="width" v="12 metres" />
@@ -7729,6 +7494,20 @@
     <tag k="is_in:village" v="Mwotot" />
     <tag k="name" v="West Pokot County Tourism fence" />
     <tag k="wb_pb:id" v="127" />
+  </way>
+  <way changeset="77115764" id="745639586" timestamp="2019-11-15T09:42:52Z" uid="4570042" user="Peter Agenga" version="1">
+    <nd ref="6979247311" />
+    <nd ref="6979247310" />
+    <nd ref="6979247309" />
+    <nd ref="6979247308" />
+    <nd ref="6979247311" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6924413626/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907296608jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6924413626/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907468002jpg/orig.jpg" />
+    <tag k="is_in:village" v="Chewoyet" />
+    <tag k="landuse" v="other" />
+    <tag k="name" v="West Pokot Fish Hatchery" />
+    <tag k="other_agriculture" v="Fish hatchery" />
+    <tag k="wb_pb:id" v="141" />
   </way>
 
 </osm>

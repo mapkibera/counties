@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
+<osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-14T20:40:02Z"/>
+<meta osm_base="2019-11-16T22:54:02Z"/>
 
   <bounds minlat="1.1610400" minlon="34.9640000" maxlat="1.4225900" maxlon="35.1782300"/>
 
@@ -554,13 +554,19 @@
     <tag k="office" v="government"/>
     <tag k="wb_pb:id" v="134"/>
   </node>
-  <node id="6909005280" lat="1.2403633" lon="35.1205800" version="2" timestamp="2019-11-14T20:32:41Z" changeset="77093971" uid="999" user="mikelmaron">
+  <node id="6909005280" lat="1.2403633" lon="35.1205800" version="3" timestamp="2019-11-15T09:42:52Z" changeset="77115764" uid="4570042" user="Peter Agenga">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="drinking_water" v="yes"/>
+    <tag k="female" v="yes"/>
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6909005280/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571746369500jpg/orig.jpg"/>
     <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6909005280/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571746603057jpg/orig.jpg"/>
     <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571746671573.jpg"/>
     <tag k="is_in:village" v="Mwotot"/>
+    <tag k="male" v="yes"/>
     <tag k="name" v="County Assembly Pit Latrine"/>
     <tag k="opening_hours" v="Mo-Fr 6:00-18:00"/>
+    <tag k="toilets:disposal" v="pit_latrine"/>
     <tag k="toilets:num_chambers" v="5"/>
     <tag k="wb_pb:id" v="21"/>
   </node>
@@ -649,11 +655,17 @@
     <tag k="office" v="government"/>
     <tag k="wb_pb:id" v="18"/>
   </node>
-  <node id="6909005402" lat="1.2431000" lon="35.1169300" version="2" timestamp="2019-11-14T20:32:41Z" changeset="77093971" uid="999" user="mikelmaron">
+  <node id="6909005402" lat="1.2431000" lon="35.1169300" version="3" timestamp="2019-11-15T09:42:52Z" changeset="77115764" uid="4570042" user="Peter Agenga">
+    <tag k="access" v="permissive"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="drinking_water" v="yes"/>
+    <tag k="female" v="yes"/>
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6909005402/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571396831146jpg/orig.jpg"/>
     <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6909005402/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571397025167jpg/orig.jpg"/>
     <tag k="is_in:village" v="Mwotot"/>
+    <tag k="male" v="yes"/>
     <tag k="name" v="Treasury Pit Latrine"/>
+    <tag k="toilets:disposal" v="pit_latrine"/>
     <tag k="wb_pb:id" v="28"/>
   </node>
   <node id="6909005403" lat="1.2431367" lon="35.1165333" version="2" timestamp="2019-11-14T20:32:41Z" changeset="77093971" uid="999" user="mikelmaron">
@@ -672,22 +684,24 @@
     <tag k="office" v="government"/>
     <tag k="wb_pb:id" v="92"/>
   </node>
-  <node id="6909005411" lat="1.2494900" lon="35.1129917" version="2" timestamp="2019-11-14T20:32:41Z" changeset="77093971" uid="999" user="mikelmaron">
+  <node id="6909005411" lat="1.2494900" lon="35.1129917" version="3" timestamp="2019-11-15T09:42:52Z" changeset="77115764" uid="4570042" user="Peter Agenga">
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6909005411/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571391039748jpg/orig.jpg"/>
     <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6909005411/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571391325109jpg/orig.jpg"/>
     <tag k="is_in:village" v="Mwotot"/>
     <tag k="name" v="Westpokot County Water Procurement Office"/>
+    <tag k="office" v="government"/>
     <tag k="wb_pb:id" v="123"/>
   </node>
-  <node id="6909005415" lat="1.2476939" lon="35.1124208" version="2" timestamp="2019-11-14T20:32:41Z" changeset="77093971" uid="999" user="mikelmaron">
-    <tag k="amenity" v="Toilets"/>
+  <node id="6909005415" lat="1.2476939" lon="35.1124208" version="3" timestamp="2019-11-15T09:42:52Z" changeset="77115764" uid="4570042" user="Peter Agenga">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="toilets"/>
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6909005415/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571386820813jpg/orig.jpg"/>
     <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6909005415/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571387315730jpg/orig.jpg"/>
     <tag k="is_in:village" v="Mwotot"/>
     <tag k="name" v="Ardhi House Pit Latrine"/>
     <tag k="opening_hours" v="Mo-Fr 6:00-18:00"/>
     <tag k="operator:description" v="West Pokot County Ardhi House"/>
-    <tag k="toilets:disposal" v="Pit_Latrine"/>
+    <tag k="toilets:disposal" v="pit_latrine"/>
     <tag k="toilets:num_chambers" v="5"/>
     <tag k="wb_pb:id" v="4"/>
   </node>
@@ -1156,15 +1170,6 @@
     <tag k="operator:description" v="County government"/>
     <tag k="operator:type" v="government"/>
     <tag k="wb_pb:id" v="290"/>
-  </node>
-  <node id="6924413626" lat="1.2381722" lon="35.1197934" version="2" timestamp="2019-11-14T20:32:41Z" changeset="77093971" uid="999" user="mikelmaron">
-    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6924413626/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907296608jpg/orig.jpg"/>
-    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6924413626/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907468002jpg/orig.jpg"/>
-    <tag k="is_in:village" v="Chewoyet"/>
-    <tag k="landuse" v="other"/>
-    <tag k="name" v="West Pokot Fish Hatchery"/>
-    <tag k="other_agriculture" v="Fish hatchery"/>
-    <tag k="wb_pb:id" v="141"/>
   </node>
   <node id="6924413645" lat="1.2383633" lon="35.1175117" version="2" timestamp="2019-11-14T20:32:41Z" changeset="77093971" uid="999" user="mikelmaron">
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6924413645/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571919320685jpg/orig.jpg"/>
@@ -1842,6 +1847,26 @@
     <tag k="name" v="Kapenguria Referral Hospital Ward Seven"/>
     <tag k="operator" v="government"/>
     <tag k="wb_pb:id" v="53"/>
+  </node>
+  <node id="6979225376" lat="1.2493600" lon="35.1140933" version="1" timestamp="2019-11-15T09:22:27Z" changeset="77114839" uid="4873427" user="shazomojah">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572507971895.jpg"/>
+    <tag k="image_pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572507763928.jpg"/>
+    <tag k="is_in_village" v="Mwotot"/>
+    <tag k="man_made" v="borehole"/>
+    <tag k="name" v="County Headquarter Borehole"/>
+    <tag k="operator_funding" v="county_government"/>
+    <tag k="operator_type" v="government"/>
+    <tag k="wb_pb:id" v="24"/>
+  </node>
+  <node id="6979293418" lat="1.2391317" lon="35.1204433" version="1" timestamp="2019-11-15T09:55:55Z" changeset="77116430" uid="4570042" user="Peter Agenga">
+    <tag k="image:project_outside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909311014.jpg"/>
+    <tag k="image_pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909168587.jpg"/>
+    <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909338343.jpg"/>
+    <tag k="is_in_village" v="Mwotot"/>
+    <tag k="name" v="West pokot County Department of Health and Sanitation Health Office"/>
+    <tag k="office" v="government"/>
+    <tag k="wb_pb:id" v="144"/>
   </node>
 
 </osm>

@@ -1454,205 +1454,6 @@
         "coordinates": [
           [
             [
-              35.0699472, 
-              1.2859415
-            ], 
-            [
-              35.0700277, 
-              1.2855661
-            ], 
-            [
-              35.0700223, 
-              1.2852819
-            ], 
-            [
-              35.0701082, 
-              1.2849601
-            ], 
-            [
-              35.0701779, 
-              1.2848689
-            ], 
-            [
-              35.07043, 
-              1.284767
-            ], 
-            [
-              35.0705534, 
-              1.2847026
-            ], 
-            [
-              35.0707465, 
-              1.2847509
-            ], 
-            [
-              35.071165, 
-              1.2847724
-            ], 
-            [
-              35.0715297, 
-              1.2847938
-            ], 
-            [
-              35.0719911, 
-              1.2848635
-            ], 
-            [
-              35.0723451, 
-              1.2849011
-            ], 
-            [
-              35.0726616, 
-              1.2850512
-            ], 
-            [
-              35.0728494, 
-              1.2854696
-            ], 
-            [
-              35.0728869, 
-              1.2856948
-            ], 
-            [
-              35.0727904, 
-              1.2858235
-            ], 
-            [
-              35.0726026, 
-              1.2861131
-            ], 
-            [
-              35.0724095, 
-              1.2864296
-            ], 
-            [
-              35.0723129, 
-              1.2867996
-            ], 
-            [
-              35.0721896, 
-              1.2867299
-            ], 
-            [
-              35.0720045, 
-              1.2866226
-            ], 
-            [
-              35.0718302, 
-              1.2864242
-            ], 
-            [
-              35.0716746, 
-              1.2863008
-            ], 
-            [
-              35.0714064, 
-              1.2862687
-            ], 
-            [
-              35.0710308, 
-              1.2861721
-            ], 
-            [
-              35.0706392, 
-              1.2861453
-            ], 
-            [
-              35.0702584, 
-              1.2861292
-            ], 
-            [
-              35.0699526, 
-              1.2860488
-            ], 
-            [
-              35.0699472, 
-              1.2859415
-            ]
-          ]
-        ], 
-        "type": "Polygon"
-      }, 
-      "id": "way/739527393", 
-      "properties": {
-        "id": "739527393", 
-        "meta": {
-          "changeset": "76294598", 
-          "timestamp": "2019-10-28T11:08:20Z", 
-          "uid": "10380760", 
-          "user": "LOPOT", 
-          "version": "1"
-        }, 
-        "relations": [], 
-        "tags": {
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571387346538.jpg", 
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/IMG_20191018_112900-15_14_11.jpg", 
-          "is_in:village": "Kishaunet", 
-          "landuse": "other", 
-          "name": "Kishaunet Showground", 
-          "other_agriculture": "Showground", 
-          "wb_pb:id": "251"
-        }, 
-        "type": "way"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              35.080014, 
-              1.2791464
-            ], 
-            [
-              35.0799983, 
-              1.2791198
-            ], 
-            [
-              35.0801, 
-              1.2790596
-            ], 
-            [
-              35.0801157, 
-              1.2790862
-            ], 
-            [
-              35.080014, 
-              1.2791464
-            ]
-          ]
-        ], 
-        "type": "Polygon"
-      }, 
-      "id": "way/739527395", 
-      "properties": {
-        "id": "739527395", 
-        "meta": {
-          "changeset": "76294598", 
-          "timestamp": "2019-10-28T11:08:20Z", 
-          "uid": "10380760", 
-          "user": "LOPOT", 
-          "version": "1"
-        }, 
-        "relations": [], 
-        "tags": {
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571385975742.jpg", 
-          "is_in:village": "Kishaunet", 
-          "landuse": "livestock_dip", 
-          "man_made": "livestock_dip", 
-          "name": "Kishaunet Cattle Dip", 
-          "wb_pb:id": "246"
-        }, 
-        "type": "way"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            [
               35.1166499, 
               1.2424842
             ], 
@@ -1948,6 +1749,58 @@
       "geometry": {
         "coordinates": [
           [
+            [
+              35.1194363, 
+              1.2384533
+            ], 
+            [
+              35.1197514, 
+              1.2381539
+            ], 
+            [
+              35.1200205, 
+              1.2384368
+            ], 
+            [
+              35.1197054, 
+              1.2387363
+            ], 
+            [
+              35.1194363, 
+              1.2384533
+            ]
+          ]
+        ], 
+        "type": "Polygon"
+      }, 
+      "id": "way/745639586", 
+      "properties": {
+        "id": "745639586", 
+        "meta": {
+          "changeset": "77115764", 
+          "timestamp": "2019-11-15T09:42:52Z", 
+          "uid": "4570042", 
+          "user": "Peter Agenga", 
+          "version": "1"
+        }, 
+        "relations": [], 
+        "tags": {
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6924413626/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907296608jpg/orig.jpg", 
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924413626/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907468002jpg/orig.jpg", 
+          "is_in:village": "Chewoyet", 
+          "landuse": "other", 
+          "name": "West Pokot Fish Hatchery", 
+          "other_agriculture": "Fish hatchery", 
+          "wb_pb:id": "141"
+        }, 
+        "type": "way"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
             35.0920587, 
             1.1933753
           ], 
@@ -2154,331 +2007,6 @@
           "surface": "earth", 
           "wb_pb:id": "288", 
           "width": "12"
-        }, 
-        "type": "way"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            35.0948717, 
-            1.2577544
-          ], 
-          [
-            35.096278, 
-            1.2567501
-          ], 
-          [
-            35.0969061, 
-            1.2563453
-          ], 
-          [
-            35.0970697, 
-            1.2562165
-          ], 
-          [
-            35.0976679, 
-            1.2558921
-          ], 
-          [
-            35.0979307, 
-            1.2558197
-          ], 
-          [
-            35.0983599, 
-            1.2557258
-          ], 
-          [
-            35.0986952, 
-            1.2556507
-          ], 
-          [
-            35.0989661, 
-            1.2555569
-          ], 
-          [
-            35.0990733, 
-            1.2555006
-          ], 
-          [
-            35.0991484, 
-            1.2554282
-          ], 
-          [
-            35.0991619, 
-            1.2553477
-          ], 
-          [
-            35.0992075, 
-            1.2551386
-          ], 
-          [
-            35.0993121, 
-            1.254916
-          ], 
-          [
-            35.0993979, 
-            1.2548194
-          ], 
-          [
-            35.0994676, 
-            1.2547497
-          ], 
-          [
-            35.0995722, 
-            1.2547336
-          ], 
-          [
-            35.0997975, 
-            1.2546961
-          ], 
-          [
-            35.1000604, 
-            1.2546425
-          ], 
-          [
-            35.1002669, 
-            1.2545406
-          ], 
-          [
-            35.1003689, 
-            1.2544655
-          ], 
-          [
-            35.1004064, 
-            1.2543824
-          ], 
-          [
-            35.1004279, 
-            1.2541786
-          ], 
-          [
-            35.1004332, 
-            1.2539613
-          ], 
-          [
-            35.1004118, 
-            1.2536851
-          ], 
-          [
-            35.1003662, 
-            1.2534197
-          ], 
-          [
-            35.1003689, 
-            1.2531461
-          ], 
-          [
-            35.1003689, 
-            1.2528941
-          ], 
-          [
-            35.1004171, 
-            1.2526232
-          ], 
-          [
-            35.1005378, 
-            1.2520172
-          ], 
-          [
-            35.1006378, 
-            1.2517621
-          ], 
-          [
-            35.1008168, 
-            1.2518027
-          ], 
-          [
-            35.1009563, 
-            1.2518375
-          ], 
-          [
-            35.1011252, 
-            1.2518295
-          ], 
-          [
-            35.1015168, 
-            1.2517785
-          ], 
-          [
-            35.1018923, 
-            1.2517946
-          ], 
-          [
-            35.1023, 
-            1.2518912
-          ], 
-          [
-            35.1025937, 
-            1.2520332
-          ], 
-          [
-            35.1027253, 
-            1.2521071
-          ], 
-          [
-            35.1028378, 
-            1.252177
-          ], 
-          [
-            35.102986, 
-            1.2522511
-          ], 
-          [
-            35.1031495, 
-            1.2523121
-          ], 
-          [
-            35.1035178, 
-            1.2523905
-          ], 
-          [
-            35.1042527, 
-            1.2525508
-          ], 
-          [
-            35.1048347, 
-            1.2527171
-          ], 
-          [
-            35.1053712, 
-            1.2529182
-          ], 
-          [
-            35.1055911, 
-            1.2529799
-          ], 
-          [
-            35.105803, 
-            1.2530174
-          ], 
-          [
-            35.1060042, 
-            1.2530362
-          ], 
-          [
-            35.1062188, 
-            1.2530362
-          ], 
-          [
-            35.1064065, 
-            1.2530362
-          ], 
-          [
-            35.1065594, 
-            1.253004
-          ], 
-          [
-            35.1068544, 
-            1.2529424
-          ], 
-          [
-            35.1071709, 
-            1.2528565
-          ], 
-          [
-            35.1073962, 
-            1.252752
-          ], 
-          [
-            35.1075786, 
-            1.2526581
-          ], 
-          [
-            35.1079649, 
-            1.2524302
-          ], 
-          [
-            35.1088715, 
-            1.2520333
-          ], 
-          [
-            35.1094401, 
-            1.2518027
-          ], 
-          [
-            35.1096573, 
-            1.2517625
-          ], 
-          [
-            35.1098505, 
-            1.251733
-          ], 
-          [
-            35.1100329, 
-            1.2517222
-          ], 
-          [
-            35.1101536, 
-            1.2517008
-          ], 
-          [
-            35.1102635, 
-            1.2516632
-          ], 
-          [
-            35.1103601, 
-            1.251564
-          ], 
-          [
-            35.1104218, 
-            1.2514755
-          ], 
-          [
-            35.1105157, 
-            1.2513066
-          ], 
-          [
-            35.1110655, 
-            1.2502152
-          ], 
-          [
-            35.1111218, 
-            1.2501321
-          ], 
-          [
-            35.1111701, 
-            1.2500597
-          ], 
-          [
-            35.111323, 
-            1.2500275
-          ], 
-          [
-            35.1116958, 
-            1.2500355
-          ], 
-          [
-            35.1118847, 
-            1.2500482
-          ], 
-          [
-            35.1121523, 
-            1.2501106
-          ]
-        ], 
-        "type": "LineString"
-      }, 
-      "id": "way/252283608", 
-      "properties": {
-        "id": "252283608", 
-        "meta": {
-          "changeset": "76489296", 
-          "timestamp": "2019-11-01T11:12:50Z", 
-          "uid": "10380856", 
-          "user": "benard lokeris", 
-          "version": "5"
-        }, 
-        "relations": [], 
-        "tags": {
-          "highway": "unclassified", 
-          "image:project": "image=https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342574959.jpg", 
-          "maintenance": "kura", 
-          "name": "Catholic-sakas-cereal-Makutano Road", 
-          "surface": "paved", 
-          "wb_pb:id": "width=15metres"
         }, 
         "type": "way"
       }, 
@@ -3933,11 +3461,11 @@
       "properties": {
         "id": "252283627", 
         "meta": {
-          "changeset": "76484582", 
-          "timestamp": "2019-11-01T09:39:33Z", 
-          "uid": "10380829", 
-          "user": "SIWA Jnr", 
-          "version": "4"
+          "changeset": "77125579", 
+          "timestamp": "2019-11-15T12:31:19Z", 
+          "uid": "4570042", 
+          "user": "Peter Agenga", 
+          "version": "5"
         }, 
         "relations": [], 
         "tags": {
@@ -3945,7 +3473,7 @@
           "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340796951.jpg", 
           "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340980000.jpg", 
           "maintenance": "county_governm", 
-          "name": "Kammorrow-Kanglikwan Road", 
+          "name": "Kamorrow-Kanglikwan Road", 
           "surface": "dirt", 
           "wb_pb:id": "228", 
           "width": "12"
@@ -9287,11 +8815,11 @@
       "properties": {
         "id": "696115061", 
         "meta": {
-          "changeset": "76484064", 
-          "timestamp": "2019-11-01T09:28:15Z", 
-          "uid": "10380870", 
-          "user": "loitalima", 
-          "version": "5"
+          "changeset": "77122099", 
+          "timestamp": "2019-11-15T11:28:57Z", 
+          "uid": "4570042", 
+          "user": "Peter Agenga", 
+          "version": "6"
         }, 
         "relations": [], 
         "tags": {
@@ -9299,7 +8827,7 @@
           "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572423416920.jpg", 
           "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572423918673.jpg", 
           "maintenance": "county_government", 
-          "name": "Kapkoris Chemwayam Road", 
+          "name": "Kapkoris Chemwacham Road", 
           "surface": "earth", 
           "wb_pb:id": "77", 
           "width": "9 metres"
@@ -10699,11 +10227,11 @@
       "properties": {
         "id": "696198489", 
         "meta": {
-          "changeset": "76489653", 
-          "timestamp": "2019-11-01T11:14:30Z", 
-          "uid": "10380856", 
-          "user": "benard lokeris", 
-          "version": "7"
+          "changeset": "77122864", 
+          "timestamp": "2019-11-15T11:43:07Z", 
+          "uid": "265690", 
+          "user": "fondolucy", 
+          "version": "8"
         }, 
         "relations": [], 
         "tags": {
@@ -10711,7 +10239,7 @@
           "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427213674.jpg", 
           "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427691105.jpg", 
           "maintenance": "county_government", 
-          "name": "Roponywo Kakomtin Road", 
+          "name": "Kamatira-Kaa Komtin Road", 
           "surface": "earth", 
           "wb_pb:id": "47", 
           "width": "6 metres"
@@ -12870,11 +12398,11 @@
       "properties": {
         "id": "740921089", 
         "meta": {
-          "changeset": "76583040", 
-          "timestamp": "2019-11-04T10:34:02Z", 
-          "uid": "10380856", 
-          "user": "benard lokeris", 
-          "version": "2"
+          "changeset": "77123358", 
+          "timestamp": "2019-11-15T11:52:30Z", 
+          "uid": "4570042", 
+          "user": "Peter Agenga", 
+          "version": "3"
         }, 
         "relations": [], 
         "tags": {
@@ -12882,7 +12410,7 @@
           "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347619518.jpg", 
           "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347715270.jpg", 
           "maintenance": "kerra", 
-          "name": "Kapchepkai-Kodongou Road", 
+          "name": "Kodongou-Kapchekai Road", 
           "surface": "earth", 
           "wb_pb:id": "223", 
           "width": "9 metres"
@@ -15100,11 +14628,11 @@
       "properties": {
         "id": "740923107", 
         "meta": {
-          "changeset": "76484582", 
-          "timestamp": "2019-11-01T09:39:33Z", 
-          "uid": "10380829", 
-          "user": "SIWA Jnr", 
-          "version": "1"
+          "changeset": "77121379", 
+          "timestamp": "2019-11-15T11:17:48Z", 
+          "uid": "4570042", 
+          "user": "Peter Agenga", 
+          "version": "2"
         }, 
         "relations": [], 
         "tags": {
@@ -15112,9 +14640,9 @@
           "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341447069.jpg", 
           "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341609674.jpg", 
           "maintenance": "county_governm", 
-          "name": "Kanglikwan-Kisii Road", 
+          "name": "Kanglikwan-Kisii University Road", 
           "surface": "earth", 
-          "wb_pb:id": "223", 
+          "wb_pb:id": "233", 
           "width": "12"
         }, 
         "type": "way"
@@ -15785,11 +15313,11 @@
       "properties": {
         "id": "740942612", 
         "meta": {
-          "changeset": "76489469", 
-          "timestamp": "2019-11-01T11:11:23Z", 
-          "uid": "10380936", 
-          "user": "CHENAA", 
-          "version": "1"
+          "changeset": "77125352", 
+          "timestamp": "2019-11-15T12:27:07Z", 
+          "uid": "4570042", 
+          "user": "Peter Agenga", 
+          "version": "2"
         }, 
         "relations": [], 
         "tags": {
@@ -15797,7 +15325,7 @@
           "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572435474880.jpg", 
           "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572435704662.jpg", 
           "maintenance": "County_Government", 
-          "name": "Total-Kcb Olive tree Road.", 
+          "name": "Total-KCB-Olive tree Road.", 
           "surface": "dirt", 
           "wb_pb:id": "315", 
           "width": "12 metres"
