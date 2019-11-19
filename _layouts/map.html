@@ -366,59 +366,15 @@ function cleanCategories(response) {
     'TIICD': 'Trade Industrialization, Investment and Cooperative Development'
   };
   response.features.forEach(function(project){
-    project.properties['Category'] = cleanCategory[ project.properties['Category'] ] || project.properties['Category'];
+    project.properties['Category'] = (cleanCategory[ project.properties['Category'] ] || project.properties['Category']).toLowerCase().replace(/_/g," ");
+    project.properties['In_your_opinion_is_the_project_quality'] = project.properties['In_your_opinion_is_the_project_quality'].toLowerCase().replace(/_/g," ");
+    project.properties['What_is_the_project_s_apparent_status'] = project.properties['What_is_the_project_s_apparent_status'].toLowerCase().replace(/_/g," ");
     result.push(project);
   });
   return result;
 }
 
 function addProjectLayer() {
-   map.addLayer({
-    'id': 'projects-layer',
-    'type': 'symbol',
-    'source': 'projects',
-    "filter": [
-      "==",
-      "$type",
-      "Point"
-    ],
-    'layout': {
-      "icon-allow-overlap": true,
-      'text-allow-overlap': true,
-      'visibility': 'visible',
-      'text-field': "___",
-      'icon-image': [
-        'match',
-          ['get', 'Category'],
-          'trade', 'shop-15',
-          'transport', 'bus-15',
-          'Transport, Public Works and Infrasctructure', 'bus-15',
-          'agriculture', 'garden-15',
-          'Agriculture, Livestock and Fisheries', 'garden-15',
-          'water_irrigati', 'drinking-water-15',
-          'Water and Irrigation', 'drinking-water-15',
-          'health', 'hospital-15',
-          'Health Services', 'hospital-15',
-          'education', 'college-15',
-          'Education, Sports, Culture and Social services', 'college-15',
-          'environment', 'park-15',
-          'Environment, Natural Resource, Tourism and Wildlife Management', 'park-15',
-          'devolution', 'townhall-15',
-          'finance', 'bank-15',
-          'gender', 'triangle-15',
-          'circle-15'
-      ]
-    },
-    'paint': {
-      'text-opacity': [
-        'case',
-          ["boolean", ["feature-state", 'selected'], false],
-                1,
-                0
-      ]
-    }
-  });
-
   map.addLayer({
    'id': 'projects-ways-layer',
    'type': 'line',
@@ -447,6 +403,75 @@ function addProjectLayer() {
        ]
      }
    });
+
+   map.addLayer({
+    'id': 'projects-layer',
+    'type': 'symbol',
+    'source': 'projects',
+    "filter": [
+      "==",
+      "$type",
+      "Point"
+    ],
+    'layout': {
+      "icon-allow-overlap": true,
+      'text-allow-overlap': true,
+      'visibility': 'visible',
+      'text-field': "___",
+      'icon-image': [
+        'match',
+          ['get', 'Category'],
+          'trade', 'shop-15',
+          'trade industrialization, investment and cooperative development', 'shop-15',
+          'trade, cooperatives and industrialization', 'shop-15',
+          'transport', 'bus-15',
+          'transport, public works and infrasctructure', 'bus-15',
+          'roads, public works, transport and infrastructure', 'bus-15',
+          'roads, transport, energy and public works', 'bus-15',
+          'agriculture', 'garden-15',
+          'agriculture, livestock and fisheries', 'garden-15',
+          'agriculture, livestock, and fisheries management', 'garden-15',
+          'pastoral economy, agriculture and irrigation', 'garden-15',
+          'water irrigati', 'drinking-water-15',
+          'water and irrigation', 'drinking-water-15',
+          'health', 'hospital-15',
+          'health services', 'hospital-15',
+          'health and sanitation', 'hospital-15',
+          'education', 'college-15',
+          'education, sports, culture and social services', 'college-15',
+          'education and technical training', 'college-15',
+          'education and vocational training', 'college-15',
+          'environment', 'park-15',
+          'environment, natural resource, tourism and wildlife management', 'park-15',
+          'tourism, wildlife management, natural resources and mining', 'park-15',
+          'water environment and natural resources', 'park-15',
+          'devolution', 'townhall-15',
+          'county assembly', 'townhall-15',
+          'public service,ict and devolved units', 'townhall-15',
+          'devolution, public service management and administration, youths and ict', 'townhall-15',
+          'office of the governor', 'townhall-15',
+          'the governor\'s office', 'townhall-15',
+          'finance', 'bank-15',
+          'finance and economic planning', 'bank-15',
+          'county finance and economic planning', 'bank-15',
+          'gender', 'triangle-15',
+          'lands, housing, physical planning and urban development', 'building-15',
+          'lands, housing and urban development', 'building-15',
+          'youth,sports, tourism,gender and social services', 'triangle-15',
+          'sports, culture, gender and social services', 'triangle-15',
+          'circle-15'
+      ]
+    },
+    'paint': {
+      'text-opacity': [
+        'case',
+          ["boolean", ["feature-state", 'selected'], false],
+                1,
+                0
+      ]
+    }
+  });
+
 
    map.on('click', 'projects-layer', handleProjectClick);
    map.on('click', 'projects-ways-layer', handleProjectClick);
@@ -494,7 +519,7 @@ function buildFilter() {
   attributesToFilter.forEach(function(attribute, index){
     var attributeValues = [];
     projects.features.forEach(function(project){
-      var val = project.properties[attribute].toLowerCase().replace(/_/g," ");
+      var val = project.properties[attribute]; //.toLowerCase().replace(/_/g," ");
       if (attributeValues.indexOf(val)==-1) attributeValues.push(val);
     });
 
