@@ -1254,15 +1254,15 @@
       "is_in:village": "Town A",
       "name": "Ngoswe Bodaboda Shed",
       "shelter_type": "boda",
-      "wb_pb:id": "228"
+      "wb_pb:id": "227c"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-05T03:48:50Z",
-      "version": "4",
-      "changeset": "75308155",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-19T08:08:48Z",
+      "version": "5",
+      "changeset": "77260436",
+      "user": "Peter Agenga",
+      "uid": "4570042"
     }
   },
   "geometry": {
@@ -1287,15 +1287,15 @@
       "is_in:village": "Town A",
       "name": "Kamko Bodaboda Shed",
       "shelter_type": "boda",
-      "wb_pb:id": "227"
+      "wb_pb:id": "227b"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-05T03:48:50Z",
-      "version": "4",
-      "changeset": "75308155",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-19T08:12:49Z",
+      "version": "5",
+      "changeset": "77260645",
+      "user": "Peter Agenga",
+      "uid": "4570042"
     }
   },
   "geometry": {
@@ -1315,18 +1315,18 @@
     "tags": {
       "amenity": "shelter",
       "description": "Bodaboda Shed",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568380990521.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568381205606.jpg",
+      "image": "https://mapkibera.github.io/counties/data/images/cache/6799316013/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568380990521jpg/orig.jpg",
+      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6799316013/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568381205606jpg/orig.jpg",
       "is_in:village": "Town A",
       "name": "Roundabout Bodaboda Shed",
       "shelter_type": "boda",
-      "wb_pb:id": "227"
+      "wb_pb:id": "227a"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-04T20:36:46Z",
-      "version": "3",
-      "changeset": "75303433",
+      "timestamp": "2019-11-19T18:14:03Z",
+      "version": "5",
+      "changeset": "77286315",
       "user": "mikelmaron",
       "uid": "999"
     }
@@ -1355,18 +1355,18 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-04T20:36:46Z",
-      "version": "2",
-      "changeset": "75303433",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-19T09:16:23Z",
+      "version": "3",
+      "changeset": "77264016",
+      "user": "Peter Agenga",
+      "uid": "4570042"
     }
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      35.98038,
-      0.471077
+      35.9803142,
+      0.4711035
     ]
   }
 },
@@ -2553,6 +2553,37 @@
     "coordinates": [
       35.98487,
       0.4774133
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6989258798",
+  "properties": {
+    "type": "node",
+    "id": "6989258798",
+    "tags": {
+      "amenity": "shelter",
+      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568795362752.jpg",
+      "is_in:village": "Town A",
+      "name": "Perkerra Bodaboda Shed",
+      "shelter_type": "public_transport",
+      "wb_pb:id": "227d"
+    },
+    "relations": [],
+    "meta": {
+      "timestamp": "2019-11-19T09:16:23Z",
+      "version": "2",
+      "changeset": "77264016",
+      "user": "Peter Agenga",
+      "uid": "4570042"
+    }
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9804256,
+      0.4710341
     ]
   }
 }

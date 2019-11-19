@@ -352,38 +352,39 @@
         "operator:funding": "county_government", 
         "operator:type": "cbo", 
         "osm:id": "6799387352", 
-        "wb_pb:id": "44"
+        "wb_pb:id": "44b"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          35.7914, 
-          0.238835
+          35.79038, 
+          0.237785
         ], 
         "type": "Point"
       }, 
-      "id": "6799387352", 
+      "id": "6799387353", 
       "properties": {
         "Budgeted sum": "3,075,700.00", 
         "Category": "WI", 
-        "In_your_opinion_is_the_project_quality": "adequate", 
-        "Please_add_any_details_about_y": "The borehole has been drilled and equipped and water is being pumped. The water has also only been distributed to the water kiosk but domestic distribution to the community has not yet started because piping has not yet been done. The water is still not clean and fit for human consumption because it has yellow/rusty component.", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The water kiosk is functioning well. The water is not yet clean for human consumption because it still has some dirt.", 
         "Project_Description": "Drilling and equipping of Kapkein borehole", 
-        "Project_Name_or_Title": "Kapkein borehole", 
+        "Project_Name_or_Title": "Kapkein borehole (water kiosk)", 
         "What_is_the_project_s_apparent_status": "completed", 
-        "image": "https://mapkibera.github.io/counties/data/images/cache/6799387352/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568370674260jpg/orig.jpg", 
-        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6799387352/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568371006958jpg/orig.jpg", 
+        "amenity": "drinking_water", 
+        "description": "kiosk", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6799387353/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568370088439jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6799387353/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568370358804jpg/orig.jpg", 
         "is_in:village": "Kapkein", 
         "iterator": 11, 
-        "man_made": "borehole", 
-        "name": "Kapekein Borehole", 
+        "name": "Kapkein Borehole", 
         "operational_status": "operational", 
         "operator:funding": "county_government", 
         "operator:type": "cbo", 
-        "osm:id": "6799387352", 
-        "wb_pb:id": "44"
+        "osm:id": "6799387353", 
+        "wb_pb:id": "44a"
       }, 
       "type": "Feature"
     }, 

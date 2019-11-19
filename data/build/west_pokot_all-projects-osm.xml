@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
+<osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-19T02:58:02Z"/>
+<meta osm_base="2019-11-19T18:17:02Z"/>
 
   <bounds minlat="1.1610400" minlon="34.9640000" maxlat="1.4225900" maxlon="35.1782300"/>
 
@@ -1859,10 +1859,10 @@
     <tag k="operator_type" v="government"/>
     <tag k="wb_pb:id" v="24"/>
   </node>
-  <node id="6979293418" lat="1.2391317" lon="35.1204433" version="1" timestamp="2019-11-15T09:55:55Z" changeset="77116430" uid="4570042" user="Peter Agenga">
-    <tag k="image:project_outside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909311014.jpg"/>
+  <node id="6979293418" lat="1.2391317" lon="35.1204433" version="2" timestamp="2019-11-19T13:00:43Z" changeset="77275468" uid="616774" user="mueschel">
     <tag k="image_pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909168587.jpg"/>
     <tag k="image_project_inside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909338343.jpg"/>
+    <tag k="image_project_outside" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909311014.jpg"/>
     <tag k="is_in_village" v="Mwotot"/>
     <tag k="name" v="West pokot County Department of Health and Sanitation Health Office"/>
     <tag k="office" v="government"/>

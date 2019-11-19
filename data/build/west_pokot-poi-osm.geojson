@@ -18337,41 +18337,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6979198428",
-  "properties": {
-    "type": "node",
-    "id": "6979198428",
-    "tags": {
-      "Photo_of_Project": "https://mapkibera.github.io/counties/data/images/cache/6908747818/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731849944.jpg",
-      "Project_ID": "135",
-      "amenity": "school",
-      "education_gender_type": "mixed",
-      "education_government_registere": "moe",
-      "education_type": "primary",
-      "image_pointofinterest": "https://mapkibera.github.io/counties/data/images/cache/6908747818/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731537923.jpg",
-      "is_in_village": "Roponywo",
-      "name": "Roponywo ECDE",
-      "operator_type": "government"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-11-18T09:25:34Z",
-      "version": "2",
-      "changeset": "77216572",
-      "user": "fondolucy",
-      "uid": "265690"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.13739,
-      1.279125
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6979225376",
   "properties": {
     "type": "node",
@@ -18411,9 +18376,9 @@
     "type": "node",
     "id": "6979293418",
     "tags": {
-      "image:project_outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909311014.jpg",
       "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909168587.jpg",
       "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909338343.jpg",
+      "image_project_outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909311014.jpg",
       "is_in_village": "Mwotot",
       "name": "West pokot County Department of Health and Sanitation Health Office",
       "office": "government",
@@ -18421,11 +18386,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-15T09:55:55Z",
-      "version": "1",
-      "changeset": "77116430",
-      "user": "Peter Agenga",
-      "uid": "4570042"
+      "timestamp": "2019-11-19T13:00:43Z",
+      "version": "2",
+      "changeset": "77275468",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {

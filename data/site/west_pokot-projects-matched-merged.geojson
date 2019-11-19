@@ -3231,9 +3231,9 @@
         "Project_Name_or_Title": "Health office",
         "Tender sum": "",
         "What_is_the_project_s_apparent_status": "completed",
-        "image:project_outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909311014.jpg",
         "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909168587.jpg",
         "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909338343.jpg",
+        "image_project_outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909311014.jpg",
         "is_in_village": "Mwotot",
         "name": "West pokot County Department of Health and Sanitation Health Office",
         "office": "government",
@@ -5713,102 +5713,6 @@
         "name": "Makutano primary wall",
         "osm:id": "739532656",
         "wb_pb:id": "278"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              35.0930725,
-              1.2556321
-            ],
-            [
-              35.0931166,
-              1.2556136
-            ],
-            [
-              35.093253,
-              1.2559375
-            ],
-            [
-              35.0932089,
-              1.2559561
-            ],
-            [
-              35.0930725,
-              1.2556321
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "id": "737862250",
-      "properties": {
-        "Category": "YSTGSS",
-        "In_your_opinion_is_the_project_quality": "adequate",
-        "Please_add_any_details_about_y": "The project is completed and operational.\nIt has helped nurture talent and promote sports in the region.",
-        "Project_Description": "Renovation of Makutano Sports Stadium - Phase 2",
-        "Project_Name_or_Title": "Makutano Sports Stadium",
-        "Tender sum": "3,486,183.06",
-        "What_is_the_project_s_apparent_status": "completed",
-        "image": "https://mapkibera.github.io/counties/data/images/cache/737862250/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571734249560jpg/orig.jpg",
-        "image:project": "https://mapkibera.github.io/counties/data/images/cache/737862250/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571734567147jpg/orig.jpg",
-        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734619235.jpg",
-        "is_in:village": "Makutano",
-        "leisure": "stadium",
-        "name": "Makutano Stadium",
-        "osm:id": "737862250",
-        "wb_pb:id": "280"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              35.0930725,
-              1.2556321
-            ],
-            [
-              35.0931166,
-              1.2556136
-            ],
-            [
-              35.093253,
-              1.2559375
-            ],
-            [
-              35.0932089,
-              1.2559561
-            ],
-            [
-              35.0930725,
-              1.2556321
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "id": "737862250",
-      "properties": {
-        "Category": "YSTGSS",
-        "In_your_opinion_is_the_project_quality": "adequate",
-        "Please_add_any_details_about_y": "The project is completed and operational.\nIt has helped nurture talent and promote sports in the region.",
-        "Project_Description": "Renovation of Makutano Sports Stadium - Phase 2",
-        "Project_Name_or_Title": "Makutano Sports Stadium",
-        "Tender sum": "3,486,183.06",
-        "What_is_the_project_s_apparent_status": "completed",
-        "image": "https://mapkibera.github.io/counties/data/images/cache/737862250/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571734249560jpg/orig.jpg",
-        "image:project": "https://mapkibera.github.io/counties/data/images/cache/737862250/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571734567147jpg/orig.jpg",
-        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571734619235.jpg",
-        "is_in:village": "Makutano",
-        "leisure": "stadium",
-        "name": "Makutano Stadium",
-        "osm:id": "737862250",
-        "wb_pb:id": "280"
       },
       "type": "Feature"
     },
@@ -9786,64 +9690,6 @@
         "surface": "dirt",
         "wb_pb:id": "82",
         "width": "9"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          35.1474967,
-          1.263695
-        ],
-        "type": "Point"
-      },
-      "id": "6936808431",
-      "properties": {
-        "Category": "RPWTI",
-        "In_your_opinion_is_the_project_quality": "poor",
-        "Please_add_any_details_about_y": "The drainage system is still poor",
-        "Project_Description": "Proposed improvement and maintainance works",
-        "Project_Name_or_Title": "Karas-Cheptapesha-Katiporot-Kalomoywo Road",
-        "Tender sum": "2,851,280.00",
-        "What_is_the_project_s_apparent_status": "completed",
-        "highway": "unclassified",
-        "image": "https://mapkibera.github.io/counties/data/images/cache/6936808431/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572337092318jpg/orig.jpg",
-        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6936808431/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572337257846jpg/orig.jpg",
-        "maintenance": "county_governm",
-        "name": "Karas -Cheptapesha-Kalomoywo",
-        "osm:id": "6936808431",
-        "surface": "dirt",
-        "wb_pb:id": "83",
-        "width": "9_m"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          35.1474967,
-          1.263695
-        ],
-        "type": "Point"
-      },
-      "id": "6936808431",
-      "properties": {
-        "Category": "RPWTI",
-        "In_your_opinion_is_the_project_quality": "poor",
-        "Please_add_any_details_about_y": "The drainage system is still poor",
-        "Project_Description": "Proposed improvement and maintainance works",
-        "Project_Name_or_Title": "Karas-Cheptapesha-Katiporot-Kalomoywo Road",
-        "Tender sum": "2,851,280.00",
-        "What_is_the_project_s_apparent_status": "completed",
-        "highway": "unclassified",
-        "image": "https://mapkibera.github.io/counties/data/images/cache/6936808431/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572337092318jpg/orig.jpg",
-        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6936808431/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572337257846jpg/orig.jpg",
-        "maintenance": "county_governm",
-        "name": "Karas -Cheptapesha-Kalomoywo",
-        "osm:id": "6936808431",
-        "surface": "dirt",
-        "wb_pb:id": "83",
-        "width": "9_m"
       },
       "type": "Feature"
     },

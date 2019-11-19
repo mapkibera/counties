@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
+<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-19T02:58:02Z"/>
+<meta osm_base="2019-11-19T18:17:02Z"/>
 
   <bounds minlat="0.2520000" minlon="35.7760000" maxlat="0.6160000" maxlon="36.0540000"/>
 
@@ -462,7 +462,7 @@
     <tag k="waterway" v="drain"/>
     <tag k="wb_pb:id" v="89"/>
   </node>
-  <node id="6799316011" lat="0.4706430" lon="35.9829800" version="4" timestamp="2019-10-05T03:48:50Z" changeset="75308155" uid="999" user="mikelmaron">
+  <node id="6799316011" lat="0.4706430" lon="35.9829800" version="5" timestamp="2019-11-19T08:08:48Z" changeset="77260436" uid="4570042" user="Peter Agenga">
     <tag k="amenity" v="shelter"/>
     <tag k="description" v="Bodaboda shed"/>
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6799316011/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568383234017jpg/orig.jpg"/>
@@ -470,9 +470,9 @@
     <tag k="is_in:village" v="Town A"/>
     <tag k="name" v="Ngoswe Bodaboda Shed"/>
     <tag k="shelter_type" v="boda"/>
-    <tag k="wb_pb:id" v="228"/>
+    <tag k="wb_pb:id" v="227c"/>
   </node>
-  <node id="6799316012" lat="0.4694770" lon="35.9804500" version="4" timestamp="2019-10-05T03:48:50Z" changeset="75308155" uid="999" user="mikelmaron">
+  <node id="6799316012" lat="0.4694770" lon="35.9804500" version="5" timestamp="2019-11-19T08:12:49Z" changeset="77260645" uid="4570042" user="Peter Agenga">
     <tag k="amenity" v="shelter"/>
     <tag k="description" v="Bodaboda Shed"/>
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6799316012/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568381863874jpg/orig.jpg"/>
@@ -480,19 +480,19 @@
     <tag k="is_in:village" v="Town A"/>
     <tag k="name" v="Kamko Bodaboda Shed"/>
     <tag k="shelter_type" v="boda"/>
-    <tag k="wb_pb:id" v="227"/>
+    <tag k="wb_pb:id" v="227b"/>
   </node>
-  <node id="6799316013" lat="0.4694400" lon="35.9796500" version="3" timestamp="2019-10-04T20:36:46Z" changeset="75303433" uid="999" user="mikelmaron">
+  <node id="6799316013" lat="0.4694400" lon="35.9796500" version="5" timestamp="2019-11-19T18:14:03Z" changeset="77286315" uid="999" user="mikelmaron">
     <tag k="amenity" v="shelter"/>
     <tag k="description" v="Bodaboda Shed"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568380990521.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568381205606.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6799316013/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568380990521jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6799316013/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568381205606jpg/orig.jpg"/>
     <tag k="is_in:village" v="Town A"/>
     <tag k="name" v="Roundabout Bodaboda Shed"/>
     <tag k="shelter_type" v="boda"/>
-    <tag k="wb_pb:id" v="227"/>
+    <tag k="wb_pb:id" v="227a"/>
   </node>
-  <node id="6799316015" lat="0.4710770" lon="35.9803800" version="2" timestamp="2019-10-04T20:36:46Z" changeset="75303433" uid="999" user="mikelmaron">
+  <node id="6799316015" lat="0.4711035" lon="35.9803142" version="3" timestamp="2019-11-19T09:16:23Z" changeset="77264016" uid="4570042" user="Peter Agenga">
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568379453723.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568379681319.jpg"/>
     <tag k="is_in:village" v="Town A"/>
@@ -903,6 +903,14 @@
     <tag k="is_in:village" v="Town A"/>
     <tag k="name" v="Sub County Referral Hospital"/>
     <tag k="wb_pb:id" v="146"/>
+  </node>
+  <node id="6989258798" lat="0.4710341" lon="35.9804256" version="2" timestamp="2019-11-19T09:16:23Z" changeset="77264016" uid="4570042" user="Peter Agenga">
+    <tag k="amenity" v="shelter"/>
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568795362752.jpg"/>
+    <tag k="is_in:village" v="Town A"/>
+    <tag k="name" v="Perkerra Bodaboda Shed"/>
+    <tag k="shelter_type" v="public_transport"/>
+    <tag k="wb_pb:id" v="227d"/>
   </node>
 
 </osm>

@@ -3575,15 +3575,15 @@
           "operational_status": "operational",
           "operator:funding": "county_government",
           "operator:type": "cbo",
-          "wb_pb:id": "44"
+          "wb_pb:id": "44b"
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-10-05T17:06:53Z",
-          "version": "3",
-          "changeset": "75323732",
-          "user": "mikelmaron",
-          "uid": "999"
+          "timestamp": "2019-11-19T07:55:49Z",
+          "version": "4",
+          "changeset": "77259725",
+          "user": "Peter Agenga",
+          "uid": "4570042"
         }
       },
       "geometry": {
@@ -3603,20 +3603,20 @@
         "tags": {
           "amenity": "drinking_water",
           "description": "kiosk",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568370088439.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568370358804.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6799387353/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568370088439jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6799387353/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568370358804jpg/orig.jpg",
           "is_in:village": "Kapkein",
           "name": "Kapkein Borehole",
           "operational_status": "operational",
           "operator:funding": "county_government",
           "operator:type": "cbo",
-          "wb_pb:id": "44"
+          "wb_pb:id": "44a"
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-10-05T04:40:17Z",
-          "version": "2",
-          "changeset": "75308508",
+          "timestamp": "2019-11-19T18:14:29Z",
+          "version": "4",
+          "changeset": "77286330",
           "user": "mikelmaron",
           "uid": "999"
         }

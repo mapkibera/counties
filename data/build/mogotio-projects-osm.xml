@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
+<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-19T02:58:02Z"/>
+<meta osm_base="2019-11-19T18:18:02Z"/>
 
   <bounds minlat="-0.0816000" minlon="35.6889000" maxlat="0.2642000" maxlon="35.9805000"/>
 
@@ -1126,7 +1126,7 @@
     <tag k="operator:type" v="government"/>
     <tag k="wb_pb:id" v="37"/>
   </node>
-  <node id="6799387352" lat="0.2388350" lon="35.7914000" version="3" timestamp="2019-10-05T17:06:53Z" changeset="75323732" uid="999" user="mikelmaron">
+  <node id="6799387352" lat="0.2388350" lon="35.7914000" version="4" timestamp="2019-11-19T07:55:49Z" changeset="77259725" uid="4570042" user="Peter Agenga">
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6799387352/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568370674260jpg/orig.jpg"/>
     <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6799387352/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568371006958jpg/orig.jpg"/>
     <tag k="is_in:village" v="Kapkein"/>
@@ -1135,19 +1135,19 @@
     <tag k="operational_status" v="operational"/>
     <tag k="operator:funding" v="county_government"/>
     <tag k="operator:type" v="cbo"/>
-    <tag k="wb_pb:id" v="44"/>
+    <tag k="wb_pb:id" v="44b"/>
   </node>
-  <node id="6799387353" lat="0.2377850" lon="35.7903800" version="2" timestamp="2019-10-05T04:40:17Z" changeset="75308508" uid="999" user="mikelmaron">
+  <node id="6799387353" lat="0.2377850" lon="35.7903800" version="4" timestamp="2019-11-19T18:14:29Z" changeset="77286330" uid="999" user="mikelmaron">
     <tag k="amenity" v="drinking_water"/>
     <tag k="description" v="kiosk"/>
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568370088439.jpg"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568370358804.jpg"/>
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6799387353/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568370088439jpg/orig.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6799387353/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568370358804jpg/orig.jpg"/>
     <tag k="is_in:village" v="Kapkein"/>
     <tag k="name" v="Kapkein Borehole"/>
     <tag k="operational_status" v="operational"/>
     <tag k="operator:funding" v="county_government"/>
     <tag k="operator:type" v="cbo"/>
-    <tag k="wb_pb:id" v="44"/>
+    <tag k="wb_pb:id" v="44a"/>
   </node>
   <node id="6799387357" lat="0.2145220" lon="35.7811000" version="3" timestamp="2019-10-05T17:06:53Z" changeset="75323732" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>

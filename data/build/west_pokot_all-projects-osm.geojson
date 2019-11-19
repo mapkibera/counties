@@ -5588,9 +5588,9 @@
         "type": "node",
         "id": "6979293418",
         "tags": {
-          "image:project_outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909311014.jpg",
           "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909168587.jpg",
           "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909338343.jpg",
+          "image_project_outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909311014.jpg",
           "is_in_village": "Mwotot",
           "name": "West pokot County Department of Health and Sanitation Health Office",
           "office": "government",
@@ -5598,11 +5598,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-15T09:55:55Z",
-          "version": "1",
-          "changeset": "77116430",
-          "user": "Peter Agenga",
-          "uid": "4570042"
+          "timestamp": "2019-11-19T13:00:43Z",
+          "version": "2",
+          "changeset": "77275468",
+          "user": "mueschel",
+          "uid": "616774"
         }
       },
       "geometry": {

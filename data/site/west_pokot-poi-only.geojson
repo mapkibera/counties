@@ -8052,30 +8052,6 @@
         "osm:id": "6948364841"
       }, 
       "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.13739, 
-          1.279125
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6979198428", 
-      "properties": {
-        "Photo_of_Project": "https://mapkibera.github.io/counties/data/images/cache/6908747818/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731849944.jpg", 
-        "Project_ID": "135", 
-        "amenity": "school", 
-        "education_gender_type": "mixed", 
-        "education_government_registere": "moe", 
-        "education_type": "primary", 
-        "image_pointofinterest": "https://mapkibera.github.io/counties/data/images/cache/6908747818/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731537923.jpg", 
-        "is_in_village": "Roponywo", 
-        "name": "Roponywo ECDE", 
-        "operator_type": "government", 
-        "osm:id": "6979198428"
-      }, 
-      "type": "Feature"
     }
   ], 
   "type": "FeatureCollection"
