@@ -1,6 +1,6 @@
 <osm generator="Overpass API 0.7.55.1009 5e627b63" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-16T22:55:02Z" />
+<meta osm_base="2019-11-19T02:30:02Z" />
 
   <bounds maxlat="0.6160000" maxlon="36.0540000" minlat="0.2520000" minlon="35.7760000" />
 
@@ -885,9 +885,9 @@
     <tag k="operator:type" v="cbo" />
     <tag k="wb_pb:id" v="108" />
   </node>
-  <node changeset="77010121" id="6972597422" lat="0.5104847" lon="35.8688311" timestamp="2019-11-13T12:14:50Z" uid="4570042" user="Peter Agenga" version="2">
+  <node changeset="77253096" id="6972597422" lat="0.5104847" lon="35.8688311" timestamp="2019-11-19T02:26:10Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="drinking_water" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568283618986.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6972597422/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568283618986jpg/orig.jpg" />
     <tag k="is_in:village" v="Kimondis" />
     <tag k="man_made" v="borehole" />
     <tag k="name" v="Kibingor Borehole" />
@@ -895,10 +895,10 @@
     <tag k="source" v="survey;local knowledge" />
     <tag k="wb_pb:id" v="99" />
   </node>
-  <node changeset="77126870" id="6979687003" lat="0.4774133" lon="35.9848700" timestamp="2019-11-15T12:54:15Z" uid="4570042" user="Peter Agenga" version="1">
+  <node changeset="77253096" id="6979687003" lat="0.4774133" lon="35.9848700" timestamp="2019-11-19T02:26:10Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="hospital" />
-    <tag k="image:poinofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568033412053.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568033967704.jpg" />
+    <tag k="image:pointofinterest" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568033412053.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6979687003/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568033967704jpg/orig.jpg" />
     <tag k="is_in:village" v="Town A" />
     <tag k="name" v="Sub County Referral Hospital" />
     <tag k="wb_pb:id" v="146" />

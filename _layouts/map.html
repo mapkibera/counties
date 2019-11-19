@@ -567,8 +567,12 @@ function handleProjectClick(e) {
         "<tr><td>Opinion</td><td><strong>" + e.features[0].properties['In_your_opinion_is_the_project_quality'] + "</strong></td></tr>" +
         "<tr><td>Comment</td><td><strong>" + e.features[0].properties['Please_add_any_details_about_y'] + "</strong></td></tr>" +
         (e.features[0].properties['Budgeted sum'] ?
-          "<tr><td>Budget</td><td><strong>" + e.features[0].properties['Budgeted sum'] + "</strong></td></tr>" : "")
+          "<tr><td>Budget</td><td><strong>" + e.features[0].properties['Budgeted sum'] + "</strong></td></tr>" : "") +
+        (e.features[0].properties['Tender sum'] ?
+            "<tr><td>Tender</td><td><strong>" + e.features[0].properties['Tender sum'] + "</strong></td></tr>" : "")
         + "<tr><td colspan='2'><img src='" + image + "'/></td></tr></table>";
+
+
       });
 
   if (parent) {

@@ -48524,7 +48524,7 @@
     "id": "6972597422",
     "tags": {
       "amenity": "drinking_water",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568283618986.jpg",
+      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6972597422/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568283618986jpg/orig.jpg",
       "is_in:village": "Kimondis",
       "man_made": "borehole",
       "name": "Kibingor Borehole",
@@ -48534,11 +48534,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-13T12:14:50Z",
-      "version": "2",
-      "changeset": "77010121",
-      "user": "Peter Agenga",
-      "uid": "4570042"
+      "timestamp": "2019-11-19T02:26:10Z",
+      "version": "3",
+      "changeset": "77253096",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -48557,19 +48557,19 @@
     "id": "6979687003",
     "tags": {
       "amenity": "hospital",
-      "image:poinofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568033412053.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568033967704.jpg",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568033412053.jpg",
+      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6979687003/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568033967704jpg/orig.jpg",
       "is_in:village": "Town A",
       "name": "Sub County Referral Hospital",
       "wb_pb:id": "146"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-15T12:54:15Z",
-      "version": "1",
-      "changeset": "77126870",
-      "user": "Peter Agenga",
-      "uid": "4570042"
+      "timestamp": "2019-11-19T02:26:10Z",
+      "version": "3",
+      "changeset": "77253096",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {

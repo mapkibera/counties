@@ -1,6 +1,6 @@
-<osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
+<osm generator="Overpass API 0.7.55.1009 5e627b63" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-16T22:55:02Z" />
+<meta osm_base="2019-11-19T02:29:02Z" />
 
   <bounds maxlat="1.4225900" maxlon="35.1782300" minlat="1.1610400" minlon="34.9640000" />
 
@@ -2840,6 +2840,57 @@
   <node changeset="76484582" id="6936774882" lat="1.2514755" lon="35.0917295" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="1" />
   <node changeset="76484582" id="6936774883" lat="1.2516337" lon="35.0913727" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="1" />
   <node changeset="76484582" id="6936774884" lat="1.2517169" lon="35.0912628" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="1" />
+  <node changeset="76485077" id="6936783434" lat="1.2711019" lon="35.0316775" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783435" lat="1.2706299" lon="35.0315434" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783436" lat="1.2701955" lon="35.0313985" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783437" lat="1.2698308" lon="35.0312644" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783438" lat="1.2694500" lon="35.0311679" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783439" lat="1.2692409" lon="35.0311303" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783440" lat="1.2692033" lon="35.0310069" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783441" lat="1.2691819" lon="35.0308567" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783442" lat="1.2691497" lon="35.0307065" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783443" lat="1.2690800" lon="35.0304651" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783444" lat="1.2690317" lon="35.0302881" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783445" lat="1.2689781" lon="35.0300950" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783446" lat="1.2689244" lon="35.0298589" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783447" lat="1.2689030" lon="35.0296390" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783448" lat="1.2688655" lon="35.0294512" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783449" lat="1.2688065" lon="35.0293440" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783450" lat="1.2686992" lon="35.0293118" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783451" lat="1.2685598" lon="35.0293064" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783452" lat="1.2683935" lon="35.0293171" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783453" lat="1.2682541" lon="35.0293440" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783454" lat="1.2681039" lon="35.0293225" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783455" lat="1.2679859" lon="35.0292957" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783456" lat="1.2678518" lon="35.0292474" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783457" lat="1.2678304" lon="35.0291884" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783458" lat="1.2678196" lon="35.0288397" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783459" lat="1.2677982" lon="35.0283891" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783460" lat="1.2678089" lon="35.0279975" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783461" lat="1.2678036" lon="35.0278741" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783462" lat="1.2677875" lon="35.0277615" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783463" lat="1.2677392" lon="35.0276273" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783464" lat="1.2677017" lon="35.0275040" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783465" lat="1.2676427" lon="35.0272947" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783466" lat="1.2675890" lon="35.0271338" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783467" lat="1.2675408" lon="35.0269943" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783468" lat="1.2675086" lon="35.0268120" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783469" lat="1.2674603" lon="35.0266403" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783470" lat="1.2674389" lon="35.0264096" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783471" lat="1.2673262" lon="35.0263345" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783472" lat="1.2672190" lon="35.0262648" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783473" lat="1.2671224" lon="35.0261736" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783474" lat="1.2669830" lon="35.0260770" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783475" lat="1.2668757" lon="35.0260502" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783476" lat="1.2667631" lon="35.0260717" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783477" lat="1.2666237" lon="35.0261199" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783478" lat="1.2665486" lon="35.0262004" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783479" lat="1.2664789" lon="35.0262111" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783480" lat="1.2664145" lon="35.0262594" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783481" lat="1.2663984" lon="35.0263399" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783482" lat="1.2664038" lon="35.0264096" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783483" lat="1.2663877" lon="35.0265008" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936783484" lat="1.2664092" lon="35.0265706" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
   <node changeset="76484582" id="6936786085" lat="1.2406902" lon="35.0652856" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="1" />
   <node changeset="76484582" id="6936786086" lat="1.2404569" lon="35.0654116" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="1" />
   <node changeset="76484582" id="6936786087" lat="1.2401512" lon="35.0655484" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="1" />
@@ -3293,6 +3344,224 @@
   <node changeset="76485041" id="6936796615" lat="1.3085736" lon="35.1085469" timestamp="2019-11-01T09:49:26Z" uid="10380766" user="Isaac Lonika" version="1" />
   <node changeset="76485041" id="6936796616" lat="1.3009205" lon="35.1110199" timestamp="2019-11-01T09:49:26Z" uid="10380766" user="Isaac Lonika" version="1" />
   <node changeset="76485041" id="6936796617" lat="1.2956352" lon="35.1115939" timestamp="2019-11-01T09:49:26Z" uid="10380766" user="Isaac Lonika" version="1" />
+  <node changeset="76485077" id="6936798285" lat="1.2663609" lon="35.0266832" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798286" lat="1.2663073" lon="35.0267369" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798287" lat="1.2661946" lon="35.0267047" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798288" lat="1.2661303" lon="35.0266886" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798289" lat="1.2660498" lon="35.0266671" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798290" lat="1.2659372" lon="35.0266671" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798291" lat="1.2658568" lon="35.0266510" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798292" lat="1.2658031" lon="35.0265920" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798293" lat="1.2657388" lon="35.0265062" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798294" lat="1.2656851" lon="35.0264472" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798295" lat="1.2656208" lon="35.0263882" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798296" lat="1.2655028" lon="35.0264203" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798297" lat="1.2652883" lon="35.0264525" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798298" lat="1.2651166" lon="35.0265169" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798299" lat="1.2649021" lon="35.0264954" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798300" lat="1.2647305" lon="35.0264954" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798301" lat="1.2644731" lon="35.0263989" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798302" lat="1.2643336" lon="35.0263238" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798303" lat="1.2641191" lon="35.0262058" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798304" lat="1.2639153" lon="35.0260448" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798305" lat="1.2636793" lon="35.0258946" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798306" lat="1.2634326" lon="35.0256586" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798307" lat="1.2632396" lon="35.0255513" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798308" lat="1.2629607" lon="35.0254655" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798309" lat="1.2627032" lon="35.0253689" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798310" lat="1.2624244" lon="35.0252831" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798311" lat="1.2622313" lon="35.0252509" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798312" lat="1.2621240" lon="35.0253689" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798313" lat="1.2616843" lon="35.0251651" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798314" lat="1.2614483" lon="35.0250578" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798315" lat="1.2611265" lon="35.0248754" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798316" lat="1.2608905" lon="35.0247788" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798317" lat="1.2607189" lon="35.0247145" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798318" lat="1.2604722" lon="35.0246179" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798319" lat="1.2602040" lon="35.0246394" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798320" lat="1.2598393" lon="35.0246930" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798321" lat="1.2595068" lon="35.0247037" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798322" lat="1.2592387" lon="35.0247145" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798323" lat="1.2589383" lon="35.0246823" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798324" lat="1.2586916" lon="35.0245964" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798325" lat="1.2585307" lon="35.0245428" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798326" lat="1.2583698" lon="35.0244731" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798327" lat="1.2582626" lon="35.0244462" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798328" lat="1.2581392" lon="35.0244355" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798329" lat="1.2580427" lon="35.0243711" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798330" lat="1.2579676" lon="35.0242799" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798331" lat="1.2579462" lon="35.0241780" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798332" lat="1.2579569" lon="35.0240707" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798333" lat="1.2579569" lon="35.0239742" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798334" lat="1.2579354" lon="35.0238937" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798335" lat="1.2579193" lon="35.0238240" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798336" lat="1.2578389" lon="35.0237703" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798337" lat="1.2577477" lon="35.0237918" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798338" lat="1.2576458" lon="35.0238401" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798339" lat="1.2575815" lon="35.0239044" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798340" lat="1.2574957" lon="35.0239366" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798341" lat="1.2574206" lon="35.0239527" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798342" lat="1.2573079" lon="35.0239634" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798343" lat="1.2571900" lon="35.0239903" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798344" lat="1.2571578" lon="35.0240546" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798345" lat="1.2571363" lon="35.0241190" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798346" lat="1.2571202" lon="35.0241727" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798347" lat="1.2570827" lon="35.0242531" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798348" lat="1.2569862" lon="35.0243497" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798349" lat="1.2569218" lon="35.0244194" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798350" lat="1.2568682" lon="35.0245160" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798351" lat="1.2568038" lon="35.0245804" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798352" lat="1.2567663" lon="35.0246447" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798353" lat="1.2567234" lon="35.0247037" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798354" lat="1.2566429" lon="35.0247306" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798355" lat="1.2565839" lon="35.0247467" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798356" lat="1.2565196" lon="35.0247252" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798357" lat="1.2564606" lon="35.0246823" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798358" lat="1.2564177" lon="35.0246233" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798359" lat="1.2563908" lon="35.0245750" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798360" lat="1.2563640" lon="35.0244892" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798361" lat="1.2563211" lon="35.0244033" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798362" lat="1.2561978" lon="35.0242478" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798363" lat="1.2561227" lon="35.0241941" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798364" lat="1.2560798" lon="35.0241190" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798365" lat="1.2560369" lon="35.0240010" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798366" lat="1.2559779" lon="35.0239205" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798367" lat="1.2559082" lon="35.0239366" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798368" lat="1.2558545" lon="35.0239795" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798369" lat="1.2558170" lon="35.0240654" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798370" lat="1.2557848" lon="35.0241512" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798371" lat="1.2557365" lon="35.0242263" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798372" lat="1.2556507" lon="35.0243068" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798373" lat="1.2555757" lon="35.0243497" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798374" lat="1.2555220" lon="35.0243711" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798375" lat="1.2554523" lon="35.0243497" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798376" lat="1.2553772" lon="35.0242907" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798377" lat="1.2553236" lon="35.0242209" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798378" lat="1.2552217" lon="35.0242102" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798379" lat="1.2550662" lon="35.0242048" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798380" lat="1.2549053" lon="35.0241834" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798381" lat="1.2547980" lon="35.0242048" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798382" lat="1.2546854" lon="35.0242156" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798383" lat="1.2545567" lon="35.0242531" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798384" lat="1.2544440" lon="35.0242960" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798385" lat="1.2543475" lon="35.0243175" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798386" lat="1.2541920" lon="35.0242960" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798387" lat="1.2540847" lon="35.0242853" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798388" lat="1.2539184" lon="35.0242585" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798389" lat="1.2538112" lon="35.0242424" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798390" lat="1.2536610" lon="35.0242048" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798391" lat="1.2534626" lon="35.0241995" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798392" lat="1.2533178" lon="35.0241941" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798393" lat="1.2531998" lon="35.0241941" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798394" lat="1.2530550" lon="35.0241941" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798395" lat="1.2529209" lon="35.0242317" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798396" lat="1.2528512" lon="35.0242102" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798397" lat="1.2528244" lon="35.0241351" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798398" lat="1.2528190" lon="35.0240493" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798399" lat="1.2528190" lon="35.0239903" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798400" lat="1.2527707" lon="35.0239205" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798401" lat="1.2526903" lon="35.0239044" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798402" lat="1.2526152" lon="35.0239420" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798403" lat="1.2525026" lon="35.0240064" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798404" lat="1.2524168" lon="35.0240198" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798405" lat="1.2523390" lon="35.0240090" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798406" lat="1.2522827" lon="35.0240010" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798407" lat="1.2522344" lon="35.0239447" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798408" lat="1.2521861" lon="35.0238991" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798409" lat="1.2521540" lon="35.0238749" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798410" lat="1.2521057" lon="35.0238642" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798411" lat="1.2520548" lon="35.0238615" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798412" lat="1.2519797" lon="35.0238937" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798413" lat="1.2519234" lon="35.0239098" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798414" lat="1.2517303" lon="35.0240707" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798415" lat="1.2516123" lon="35.0241244" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798416" lat="1.2514729" lon="35.0240707" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798417" lat="1.2513120" lon="35.0238883" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798418" lat="1.2511189" lon="35.0237167" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798419" lat="1.2509044" lon="35.0237703" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798420" lat="1.2506577" lon="35.0238132" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798421" lat="1.2504324" lon="35.0238132" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798422" lat="1.2502715" lon="35.0238991" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798423" lat="1.2500892" lon="35.0239634" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798424" lat="1.2499497" lon="35.0239205" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798425" lat="1.2498639" lon="35.0238454" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798426" lat="1.2497567" lon="35.0237489" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798427" lat="1.2495421" lon="35.0237489" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798428" lat="1.2494456" lon="35.0238132" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798429" lat="1.2492740" lon="35.0239205" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798430" lat="1.2490809" lon="35.0239420" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798431" lat="1.2489200" lon="35.0238991" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798432" lat="1.2487055" lon="35.0238669" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798433" lat="1.2485231" lon="35.0238025" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798434" lat="1.2482228" lon="35.0237489" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798435" lat="1.2478420" lon="35.0237274" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798436" lat="1.2475470" lon="35.0237381" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798437" lat="1.2473647" lon="35.0237060" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798438" lat="1.2472896" lon="35.0237274" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798439" lat="1.2472360" lon="35.0238079" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798440" lat="1.2472145" lon="35.0238883" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798441" lat="1.2470697" lon="35.0239527" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798442" lat="1.2468874" lon="35.0239795" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798443" lat="1.2466889" lon="35.0240117" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798444" lat="1.2464851" lon="35.0240546" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798445" lat="1.2463671" lon="35.0240868" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798446" lat="1.2462438" lon="35.0241834" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798447" lat="1.2461043" lon="35.0242156" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798448" lat="1.2459810" lon="35.0241727" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798449" lat="1.2458845" lon="35.0241136" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798450" lat="1.2458201" lon="35.0240278" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798451" lat="1.2457772" lon="35.0239205" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798452" lat="1.2458416" lon="35.0237113" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798453" lat="1.2458845" lon="35.0235343" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798454" lat="1.2459166" lon="35.0233948" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798455" lat="1.2459435" lon="35.0232661" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798456" lat="1.2460293" lon="35.0229442" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798457" lat="1.2461097" lon="35.0226062" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798458" lat="1.2461794" lon="35.0223273" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798459" lat="1.2462706" lon="35.0221342" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798460" lat="1.2463511" lon="35.0220162" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798461" lat="1.2464530" lon="35.0218552" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798462" lat="1.2465066" lon="35.0216782" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798463" lat="1.2465039" lon="35.0215602" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798464" lat="1.2464851" lon="35.0213188" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798465" lat="1.2464905" lon="35.0211820" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798466" lat="1.2465093" lon="35.0210774" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798467" lat="1.2465334" lon="35.0209969" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798468" lat="1.2466112" lon="35.0208279" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798469" lat="1.2466514" lon="35.0207341" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798470" lat="1.2466648" lon="35.0206885" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798471" lat="1.2466889" lon="35.0205544" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798472" lat="1.2467238" lon="35.0204498" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798473" lat="1.2467506" lon="35.0203237" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798474" lat="1.2468069" lon="35.0201386" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798475" lat="1.2469222" lon="35.0199079" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798476" lat="1.2469785" lon="35.0197336" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798477" lat="1.2470670" lon="35.0195190" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798478" lat="1.2471126" lon="35.0194225" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798479" lat="1.2471555" lon="35.0193769" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798480" lat="1.2472011" lon="35.0193661" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798481" lat="1.2472681" lon="35.0193635" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798482" lat="1.2473271" lon="35.0193420" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798483" lat="1.2473835" lon="35.0192910" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798484" lat="1.2474344" lon="35.0192186" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798485" lat="1.2475578" lon="35.0190014" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798486" lat="1.2477294" lon="35.0186446" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798487" lat="1.2478930" lon="35.0181350" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798488" lat="1.2480914" lon="35.0176951" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798489" lat="1.2482871" lon="35.0172445" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798490" lat="1.2484025" lon="35.0169709" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798491" lat="1.2484614" lon="35.0168475" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798492" lat="1.2485017" lon="35.0167134" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798493" lat="1.2485258" lon="35.0164801" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798494" lat="1.2485231" lon="35.0162467" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798495" lat="1.2485017" lon="35.0160322" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798496" lat="1.2484239" lon="35.0158310" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798497" lat="1.2483381" lon="35.0156727" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798498" lat="1.2482121" lon="35.0154743" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798499" lat="1.2481021" lon="35.0152972" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798500" lat="1.2480002" lon="35.0151443" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798501" lat="1.2478219" lon="35.0148560" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
+  <node changeset="76485077" id="6936798502" lat="1.2477414" lon="35.0147031" timestamp="2019-11-01T09:50:26Z" uid="10381136" user="Wafula_Wafula" version="1" />
   <node changeset="76489653" id="6936955277" lat="1.2718527" lon="35.1474001" timestamp="2019-11-01T11:14:30Z" uid="10380856" user="benard lokeris" version="1" />
   <node changeset="76489469" id="6936964560" lat="1.2581553" lon="35.0953048" timestamp="2019-11-01T11:11:23Z" uid="10380936" user="CHENAA" version="1" />
   <node changeset="76489469" id="6936964561" lat="1.2583055" lon="35.0948086" timestamp="2019-11-01T11:11:23Z" uid="10380936" user="CHENAA" version="1" />
@@ -5693,7 +5962,7 @@
     <tag k="wb_pb:id" v="314" />
     <tag k="width" v="12 metres" />
   </way>
-  <way changeset="76484582" id="698061539" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="2">
+  <way changeset="77214153" id="698061539" timestamp="2019-11-18T08:33:06Z" uid="265690" user="fondolucy" version="3">
     <nd ref="2578071765" />
     <nd ref="2583718099" />
     <nd ref="2583718098" />
@@ -5897,7 +6166,7 @@
     <tag k="maintenance" v="county_governm" />
     <tag k="name" v="Psigirio-Tomkokalya-Talau Road" />
     <tag k="surface" v="dirt" />
-    <tag k="wb_pb:id" v="54" />
+    <tag k="wb_pb:id" v="304" />
     <tag k="width" v="12" />
   </way>
   <way changeset="77094053" id="737830348" timestamp="2019-11-14T20:35:41Z" uid="999" user="mikelmaron" version="3">
@@ -6887,7 +7156,7 @@
     <tag k="wb_pb:id" v="307" />
     <tag k="width" v="12 metres" />
   </way>
-  <way changeset="76484582" id="740923103" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="1">
+  <way changeset="77214758" id="740923103" timestamp="2019-11-18T08:44:31Z" uid="265690" user="fondolucy" version="2">
     <nd ref="2583718151" />
     <nd ref="6936786151" />
     <nd ref="6936786150" />
@@ -6961,7 +7230,7 @@
     <tag k="maintenance" v="county_governm" />
     <tag k="name" v="Kaa Tartar-Cormolee Road" />
     <tag k="surface" v="dirt" />
-    <tag k="wb_pb:id" v="57" />
+    <tag k="wb_pb:id" v="222" />
     <tag k="width" v="12" />
   </way>
   <way changeset="76484582" id="740923104" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="1">
@@ -7249,6 +7518,284 @@
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="78" />
     <tag k="width" v="15_m" />
+  </way>
+  <way changeset="77215683" id="740924443" timestamp="2019-11-18T09:04:26Z" uid="10380856" user="benard lokeris" version="3">
+    <nd ref="6936798502" />
+    <nd ref="6936798501" />
+    <nd ref="6936798500" />
+    <nd ref="6936798499" />
+    <nd ref="6936798498" />
+    <nd ref="6936798497" />
+    <nd ref="6936798496" />
+    <nd ref="6936798495" />
+    <nd ref="6936798494" />
+    <nd ref="6936798493" />
+    <nd ref="6936798492" />
+    <nd ref="6936798491" />
+    <nd ref="6936798490" />
+    <nd ref="6936798489" />
+    <nd ref="6936798488" />
+    <nd ref="6936798487" />
+    <nd ref="6936798486" />
+    <nd ref="6936798485" />
+    <nd ref="6936798484" />
+    <nd ref="6936798483" />
+    <nd ref="6936798482" />
+    <nd ref="6936798481" />
+    <nd ref="6936798480" />
+    <nd ref="6936798479" />
+    <nd ref="6936798478" />
+    <nd ref="6936798477" />
+    <nd ref="6936798476" />
+    <nd ref="6936798475" />
+    <nd ref="6936798474" />
+    <nd ref="6936798473" />
+    <nd ref="6936798472" />
+    <nd ref="6936798471" />
+    <nd ref="6936798470" />
+    <nd ref="6936798469" />
+    <nd ref="6936798468" />
+    <nd ref="6936798467" />
+    <nd ref="6936798466" />
+    <nd ref="6936798465" />
+    <nd ref="6936798464" />
+    <nd ref="6936798463" />
+    <nd ref="6936798462" />
+    <nd ref="6936798461" />
+    <nd ref="6936798460" />
+    <nd ref="6936798459" />
+    <nd ref="6936798458" />
+    <nd ref="6936798457" />
+    <nd ref="6936798456" />
+    <nd ref="6936798455" />
+    <nd ref="6936798454" />
+    <nd ref="6936798453" />
+    <nd ref="6936798452" />
+    <nd ref="6936798451" />
+    <nd ref="6936798450" />
+    <nd ref="6936798449" />
+    <nd ref="6936798448" />
+    <nd ref="6936798447" />
+    <nd ref="6936798446" />
+    <nd ref="6936798445" />
+    <nd ref="6936798444" />
+    <nd ref="6936798443" />
+    <nd ref="6936798442" />
+    <nd ref="6936798441" />
+    <nd ref="6936798440" />
+    <nd ref="6936798439" />
+    <nd ref="6936798438" />
+    <nd ref="6936798437" />
+    <nd ref="6936798436" />
+    <nd ref="6936798435" />
+    <nd ref="6936798434" />
+    <nd ref="6936798433" />
+    <nd ref="6936798432" />
+    <nd ref="6936798431" />
+    <nd ref="6936798430" />
+    <nd ref="6936798429" />
+    <nd ref="6936798428" />
+    <nd ref="6936798427" />
+    <nd ref="6936798426" />
+    <nd ref="6936798425" />
+    <nd ref="6936798424" />
+    <nd ref="6936798423" />
+    <nd ref="6936798422" />
+    <nd ref="6936798421" />
+    <nd ref="6936798420" />
+    <nd ref="6936798419" />
+    <nd ref="6936798418" />
+    <nd ref="6936798417" />
+    <nd ref="6936798416" />
+    <nd ref="6936798415" />
+    <nd ref="6936798414" />
+    <nd ref="6936798413" />
+    <nd ref="6936798412" />
+    <nd ref="6936798411" />
+    <nd ref="6936798410" />
+    <nd ref="6936798409" />
+    <nd ref="6936798408" />
+    <nd ref="6936798407" />
+    <nd ref="6936798406" />
+    <nd ref="6936798405" />
+    <nd ref="6936798404" />
+    <nd ref="6936798403" />
+    <nd ref="6936798402" />
+    <nd ref="6936798401" />
+    <nd ref="6936798400" />
+    <nd ref="6936798399" />
+    <nd ref="6936798398" />
+    <nd ref="6936798397" />
+    <nd ref="6936798396" />
+    <nd ref="6936798395" />
+    <nd ref="6936798394" />
+    <nd ref="6936798393" />
+    <nd ref="6936798392" />
+    <nd ref="6936798391" />
+    <nd ref="6936798390" />
+    <nd ref="6936798389" />
+    <nd ref="6936798388" />
+    <nd ref="6936798387" />
+    <nd ref="6936798386" />
+    <nd ref="6936798385" />
+    <nd ref="6936798384" />
+    <nd ref="6936798383" />
+    <nd ref="6936798382" />
+    <nd ref="6936798381" />
+    <nd ref="6936798380" />
+    <nd ref="6936798379" />
+    <nd ref="6936798378" />
+    <nd ref="6936798377" />
+    <nd ref="6936798376" />
+    <nd ref="6936798375" />
+    <nd ref="6936798374" />
+    <nd ref="6936798373" />
+    <nd ref="6936798372" />
+    <nd ref="6936798371" />
+    <nd ref="6936798370" />
+    <nd ref="6936798369" />
+    <nd ref="6936798368" />
+    <nd ref="6936798367" />
+    <nd ref="6936798366" />
+    <nd ref="6936798365" />
+    <nd ref="6936798364" />
+    <nd ref="6936798363" />
+    <nd ref="6936798362" />
+    <nd ref="6936798361" />
+    <nd ref="6936798360" />
+    <nd ref="6936798359" />
+    <nd ref="6936798358" />
+    <nd ref="6936798357" />
+    <nd ref="6936798356" />
+    <nd ref="6936798355" />
+    <nd ref="6936798354" />
+    <nd ref="6936798353" />
+    <nd ref="6936798352" />
+    <nd ref="6936798351" />
+    <nd ref="6936798350" />
+    <nd ref="6936798349" />
+    <nd ref="6936798348" />
+    <nd ref="6936798347" />
+    <nd ref="6936798346" />
+    <nd ref="6936798345" />
+    <nd ref="6936798344" />
+    <nd ref="6936798343" />
+    <nd ref="6936798342" />
+    <nd ref="6936798341" />
+    <nd ref="6936798340" />
+    <nd ref="6936798339" />
+    <nd ref="6936798338" />
+    <nd ref="6936798337" />
+    <nd ref="6936798336" />
+    <nd ref="6936798335" />
+    <nd ref="6936798334" />
+    <nd ref="6936798333" />
+    <nd ref="6936798332" />
+    <nd ref="6936798331" />
+    <nd ref="6936798330" />
+    <nd ref="6936798329" />
+    <nd ref="6936798328" />
+    <nd ref="6936798327" />
+    <nd ref="6936798326" />
+    <nd ref="6936798325" />
+    <nd ref="6936798324" />
+    <nd ref="6936798323" />
+    <nd ref="6936798322" />
+    <nd ref="6936798321" />
+    <nd ref="6936798320" />
+    <nd ref="6936798319" />
+    <nd ref="6936798318" />
+    <nd ref="6936798317" />
+    <nd ref="6936798316" />
+    <nd ref="6936798315" />
+    <nd ref="6936798314" />
+    <nd ref="6936798313" />
+    <nd ref="6936798312" />
+    <nd ref="6936798311" />
+    <nd ref="6936798310" />
+    <nd ref="6936798309" />
+    <nd ref="6936798308" />
+    <nd ref="6936798307" />
+    <nd ref="6936798306" />
+    <nd ref="6936798305" />
+    <nd ref="6936798304" />
+    <nd ref="6936798303" />
+    <nd ref="6936798302" />
+    <nd ref="6936798301" />
+    <nd ref="6936798300" />
+    <nd ref="6936798299" />
+    <nd ref="6936798298" />
+    <nd ref="6936798297" />
+    <nd ref="6936798296" />
+    <nd ref="6936798295" />
+    <nd ref="6936798294" />
+    <nd ref="6936798293" />
+    <nd ref="6936798292" />
+    <nd ref="6936798291" />
+    <nd ref="6936798290" />
+    <nd ref="6936798289" />
+    <nd ref="6936798288" />
+    <nd ref="6936798287" />
+    <nd ref="6936798286" />
+    <nd ref="6936798285" />
+    <nd ref="6936783484" />
+    <nd ref="6936783483" />
+    <nd ref="6936783482" />
+    <nd ref="6936783481" />
+    <nd ref="6936783480" />
+    <nd ref="6936783479" />
+    <nd ref="6936783478" />
+    <nd ref="6936783477" />
+    <nd ref="6936783476" />
+    <nd ref="6936783475" />
+    <nd ref="6936783474" />
+    <nd ref="6936783473" />
+    <nd ref="6936783472" />
+    <nd ref="6936783471" />
+    <nd ref="6936783470" />
+    <nd ref="6936783469" />
+    <nd ref="6936783468" />
+    <nd ref="6936783467" />
+    <nd ref="6936783466" />
+    <nd ref="6936783465" />
+    <nd ref="6936783464" />
+    <nd ref="6936783463" />
+    <nd ref="6936783462" />
+    <nd ref="6936783461" />
+    <nd ref="6936783460" />
+    <nd ref="6936783459" />
+    <nd ref="6936783458" />
+    <nd ref="6936783457" />
+    <nd ref="6936783456" />
+    <nd ref="6936783455" />
+    <nd ref="6936783454" />
+    <nd ref="6936783453" />
+    <nd ref="6936783452" />
+    <nd ref="6936783451" />
+    <nd ref="6936783450" />
+    <nd ref="6936783449" />
+    <nd ref="6936783448" />
+    <nd ref="6936783447" />
+    <nd ref="6936783446" />
+    <nd ref="6936783445" />
+    <nd ref="6936783444" />
+    <nd ref="6936783443" />
+    <nd ref="6936783442" />
+    <nd ref="6936783441" />
+    <nd ref="6936783440" />
+    <nd ref="6936783439" />
+    <nd ref="6936783438" />
+    <nd ref="6936783437" />
+    <nd ref="6936783436" />
+    <nd ref="6936783435" />
+    <nd ref="6936783434" />
+    <tag k="highway" v="unclassified" />
+    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427675465.jpg" />
+    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427811819.jpg" />
+    <tag k="maintenance" v="county_government" />
+    <tag k="name" v="Cheptuya Chepkoghyo Lokornoi Road" />
+    <tag k="surface" v="earth" />
+    <tag k="wb_pb:id" v="215" />
   </way>
   <way changeset="77125352" id="740942612" timestamp="2019-11-15T12:27:07Z" uid="4570042" user="Peter Agenga" version="2">
     <nd ref="6584317174" />

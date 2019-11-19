@@ -783,8 +783,8 @@
       "education_gender_type": "mixed",
       "education_government_registere": "moe",
       "education_type": "primary",
-      "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745594849.jpg",
-      "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745807652.jpg",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745594849.jpg",
+      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6908782535/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571745807652jpg/orig.jpg",
       "is_in_village": "Cheptuya",
       "name": "Cheptuya Primary School",
       "operator_type": "government",
@@ -792,11 +792,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-13T09:13:06Z",
-      "version": "2",
-      "changeset": "76999926",
-      "user": "Peter Agenga",
-      "uid": "4570042"
+      "timestamp": "2019-11-19T02:04:45Z",
+      "version": "4",
+      "changeset": "77252789",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -4094,9 +4094,9 @@
     "tags": {
       "amenity": "shelter",
       "image": "https://mapkibera.github.io/counties/data/images/cache/6924416524/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571908110589jpg/orig.jpg",
-      "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908122561.jpg",
-      "image_project:inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908122561.jpg",
-      "image_project:outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908110589.jpg",
+      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924416524/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571908122561jpg/orig.jpg",
+      "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908122561.jpg",
+      "image_project_outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908110589.jpg",
       "is_in:village": "Bendera",
       "name": "Bendera Boda Boda Shed",
       "shelter_type": "boda",
@@ -4104,9 +4104,9 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-14T20:32:41Z",
-      "version": "5",
-      "changeset": "77093971",
+      "timestamp": "2019-11-19T02:04:45Z",
+      "version": "8",
+      "changeset": "77252789",
       "user": "mikelmaron",
       "uid": "999"
     }
@@ -4128,19 +4128,19 @@
     "tags": {
       "advertising": "billboard",
       "image": "https://mapkibera.github.io/counties/data/images/cache/6924416528/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907624653jpg/orig.jpg",
-      "image_project:inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907825676.jpg",
-      "image_project:outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907820117.jpg",
+      "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907825676.jpg",
+      "image_project_outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907820117.jpg",
       "is_in:village": "Bendera",
       "name": "Directional Billboard/Signage",
       "wb_pb:id": "31"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-14T20:32:41Z",
-      "version": "4",
-      "changeset": "77093971",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-18T09:25:16Z",
+      "version": "5",
+      "changeset": "77216554",
+      "user": "mueschel",
+      "uid": "616774"
     }
   },
   "geometry": {
@@ -4160,16 +4160,16 @@
     "tags": {
       "amenity": "marketplace",
       "image": "https://mapkibera.github.io/counties/data/images/cache/6924416541/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571910126734jpg/orig.jpg",
-      "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571914018995.jpg",
+      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924416541/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571914018995jpg/orig.jpg",
       "is_in:village": "Bendera",
       "name": "Bendera Market Stalls",
       "wb_pb:id": "159"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-14T20:32:41Z",
-      "version": "4",
-      "changeset": "77093971",
+      "timestamp": "2019-11-19T02:04:45Z",
+      "version": "6",
+      "changeset": "77252789",
       "user": "mikelmaron",
       "uid": "999"
     }
@@ -5039,8 +5039,8 @@
     "id": "6936808413",
     "tags": {
       "highway": "unclassified",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572356090217.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572356260767.jpg",
+      "image": "https://mapkibera.github.io/counties/data/images/cache/6936808413/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572356090217jpg/orig.jpg",
+      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6936808413/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572356260767jpg/orig.jpg",
       "maintenance": "county_governm",
       "name": "Kaa Tartar-Cormolee Road",
       "surface": "dirt",
@@ -5049,11 +5049,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-02T10:58:54Z",
-      "version": "2",
-      "changeset": "76524824",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2019-11-19T02:04:45Z",
+      "version": "3",
+      "changeset": "77252789",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -5105,8 +5105,8 @@
     "id": "6936808419",
     "tags": {
       "highway": "unclassified",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341888484.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342020569.jpg",
+      "image": "https://mapkibera.github.io/counties/data/images/cache/6936808419/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572341888484jpg/orig.jpg",
+      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6936808419/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572342020569jpg/orig.jpg",
       "maintenance": "county_governm",
       "name": "Keringet Town Roads",
       "surface": "earth",
@@ -5115,11 +5115,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-02T10:58:54Z",
-      "version": "2",
-      "changeset": "76524824",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2019-11-19T02:04:45Z",
+      "version": "3",
+      "changeset": "77252789",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -5138,8 +5138,8 @@
     "id": "6936808429",
     "tags": {
       "highway": "unclassified",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340124535.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340283252.jpg",
+      "image": "https://mapkibera.github.io/counties/data/images/cache/6936808429/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572340124535jpg/orig.jpg",
+      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6936808429/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572340283252jpg/orig.jpg",
       "maintenance": "county_governm",
       "name": "Tukumo -Karas Road",
       "surface": "dirt",
@@ -5148,11 +5148,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-02T10:58:54Z",
-      "version": "2",
-      "changeset": "76524824",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2019-11-19T02:04:45Z",
+      "version": "3",
+      "changeset": "77252789",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -5171,8 +5171,8 @@
     "id": "6936808431",
     "tags": {
       "highway": "unclassified",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337092318.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337257846.jpg",
+      "image": "https://mapkibera.github.io/counties/data/images/cache/6936808431/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572337092318jpg/orig.jpg",
+      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6936808431/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572337257846jpg/orig.jpg",
       "maintenance": "county_governm",
       "name": "Karas -Cheptapesha-Kalomoywo",
       "surface": "dirt",
@@ -5181,11 +5181,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-02T10:58:54Z",
-      "version": "2",
-      "changeset": "76524824",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2019-11-19T02:04:45Z",
+      "version": "3",
+      "changeset": "77252789",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -5204,8 +5204,8 @@
     "id": "6936808433",
     "tags": {
       "highway": "unclassified",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350538249.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350644110.jpg",
+      "image": "https://mapkibera.github.io/counties/data/images/cache/6936808433/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572350538249jpg/orig.jpg",
+      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6936808433/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572350644110jpg/orig.jpg",
       "maintenance": "kerra",
       "name": "Nasokol-Kaplelach Koror Road",
       "surface": "earth",
@@ -5214,11 +5214,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-12T11:45:14Z",
-      "version": "3",
-      "changeset": "76957390",
-      "user": "muindre",
-      "uid": "261050"
+      "timestamp": "2019-11-19T02:04:45Z",
+      "version": "4",
+      "changeset": "77252789",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -5237,8 +5237,8 @@
     "id": "6936808436",
     "tags": {
       "highway": "unclassified",
-      "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344950383.jpg",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572346582894.jpg",
+      "image": "https://mapkibera.github.io/counties/data/images/cache/6936808436/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572344950383jpg/orig.jpg",
+      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6936808436/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572346582894jpg/orig.jpg",
       "maintenance": "kerra",
       "name": "Lopalal road",
       "surface": "earth",
@@ -5247,11 +5247,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-02T10:58:54Z",
-      "version": "2",
-      "changeset": "76524824",
-      "user": "mueschel",
-      "uid": "616774"
+      "timestamp": "2019-11-19T02:04:45Z",
+      "version": "3",
+      "changeset": "77252789",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -5419,25 +5419,25 @@
       "amenity": "clinic",
       "dispensing": "yes",
       "electricity": "sometime",
-      "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571399288592.jpg",
-      "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571399598820.jpg",
+      "health_facility:referrals": "Kapenguria County Hospital",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571399288592.jpg",
+      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6972029291/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571399598820jpg/orig.jpg",
       "is_in:village": "kadokony",
       "medical_service:family_planning": "yes",
       "medical_service:general_medical_services": "yes",
-      "medical_service:immunization": "yes",
+      "medical_service:immunizations": "yes",
       "medical_service:malaria": "yes",
       "medical_service:pregnancy_test": "yes",
-      "medical_service:referral": "Kapenguria County Hospital",
       "name": "Kadokony Dispensary",
       "wb_pb:id": "224"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-13T10:56:06Z",
-      "version": "1",
-      "changeset": "77005626",
-      "user": "benard lokeris",
-      "uid": "10380856"
+      "timestamp": "2019-11-19T02:04:45Z",
+      "version": "4",
+      "changeset": "77252789",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -5456,19 +5456,19 @@
     "id": "6972029292",
     "tags": {
       "amenity": "drinking_water",
-      "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911597337.jpg",
-      "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911707285.jpg",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911597337.jpg",
+      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6972029292/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571911707285jpg/orig.jpg",
       "name": "Lokornoi Water Project",
       "operator:description": "Government",
       "wb_pb:id": "270"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-13T10:56:06Z",
-      "version": "1",
-      "changeset": "77005626",
-      "user": "benard lokeris",
-      "uid": "10380856"
+      "timestamp": "2019-11-19T02:04:45Z",
+      "version": "3",
+      "changeset": "77252789",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -5490,8 +5490,8 @@
       "education:gender_type": "mixed",
       "education:government_registered": "moe",
       "education:type": "primary",
-      "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571397514159.jpg",
-      "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571397744818.jpg",
+      "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571397514159.jpg",
+      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6972029293/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571397744818jpg/orig.jpg",
       "is_in:village": "Kadokony",
       "name": "Kadokony Primary School",
       "operator:description": "government",
@@ -5499,11 +5499,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-13T10:56:06Z",
-      "version": "1",
-      "changeset": "77005626",
-      "user": "benard lokeris",
-      "uid": "10380856"
+      "timestamp": "2019-11-19T02:04:45Z",
+      "version": "3",
+      "changeset": "77252789",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {
@@ -5555,7 +5555,7 @@
     "id": "6979225376",
     "tags": {
       "amenity": "drinking_water",
-      "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572507971895.jpg",
+      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6979225376/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1572507971895jpg/orig.jpg",
       "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572507763928.jpg",
       "is_in_village": "Mwotot",
       "man_made": "borehole",
@@ -5566,11 +5566,11 @@
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-15T09:22:27Z",
-      "version": "1",
-      "changeset": "77114839",
-      "user": "shazomojah",
-      "uid": "4873427"
+      "timestamp": "2019-11-19T02:04:45Z",
+      "version": "2",
+      "changeset": "77252789",
+      "user": "mikelmaron",
+      "uid": "999"
     }
   },
   "geometry": {

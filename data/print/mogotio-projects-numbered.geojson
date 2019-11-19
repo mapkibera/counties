@@ -3176,35 +3176,6 @@
         "wb_pb:id": "13"
       }, 
       "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          35.88792, 
-          0.063177
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6808083476", 
-      "properties": {
-        "Budgeted sum": "2,500,000.00", 
-        "Category": "WI", 
-        "In_your_opinion_is_the_project_quality": "poor", 
-        "Please_add_any_details_about_y": "It has not yet started.", 
-        "Project_Description": "Drilling", 
-        "Project_Name_or_Title": "Kapkararam Borehole", 
-        "What_is_the_project_s_apparent_status": "not_yet_starte", 
-        "image": "https://mapkibera.github.io/counties/data/images/cache/6808083476/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568800266288jpg/orig.jpg", 
-        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6808083476/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568800414483jpg/orig.jpg", 
-        "is_in:village": "Kapkararam", 
-        "iterator": 64, 
-        "name": "Kapkararam", 
-        "operator:funding": "County Government of Baringo", 
-        "operator:type": "cbo", 
-        "osm:id": "6808083476", 
-        "wb_pb:id": "78"
-      }, 
-      "type": "Feature"
     }
   ], 
   "type": "FeatureCollection"

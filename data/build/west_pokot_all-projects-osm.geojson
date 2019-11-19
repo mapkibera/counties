@@ -783,8 +783,8 @@
           "education_gender_type": "mixed",
           "education_government_registere": "moe",
           "education_type": "primary",
-          "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745594849.jpg",
-          "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745807652.jpg",
+          "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745594849.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6908782535/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571745807652jpg/orig.jpg",
           "is_in_village": "Cheptuya",
           "name": "Cheptuya Primary School",
           "operator_type": "government",
@@ -792,11 +792,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-13T09:13:06Z",
-          "version": "2",
-          "changeset": "76999926",
-          "user": "Peter Agenga",
-          "uid": "4570042"
+          "timestamp": "2019-11-19T02:04:45Z",
+          "version": "4",
+          "changeset": "77252789",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -4094,9 +4094,9 @@
         "tags": {
           "amenity": "shelter",
           "image": "https://mapkibera.github.io/counties/data/images/cache/6924416524/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571908110589jpg/orig.jpg",
-          "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908122561.jpg",
-          "image_project:inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908122561.jpg",
-          "image_project:outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908110589.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924416524/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571908122561jpg/orig.jpg",
+          "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908122561.jpg",
+          "image_project_outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571908110589.jpg",
           "is_in:village": "Bendera",
           "name": "Bendera Boda Boda Shed",
           "shelter_type": "boda",
@@ -4104,9 +4104,9 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-14T20:32:41Z",
-          "version": "5",
-          "changeset": "77093971",
+          "timestamp": "2019-11-19T02:04:45Z",
+          "version": "8",
+          "changeset": "77252789",
           "user": "mikelmaron",
           "uid": "999"
         }
@@ -4128,19 +4128,19 @@
         "tags": {
           "advertising": "billboard",
           "image": "https://mapkibera.github.io/counties/data/images/cache/6924416528/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907624653jpg/orig.jpg",
-          "image_project:inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907825676.jpg",
-          "image_project:outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907820117.jpg",
+          "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907825676.jpg",
+          "image_project_outside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571907820117.jpg",
           "is_in:village": "Bendera",
           "name": "Directional Billboard/Signage",
           "wb_pb:id": "31"
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-14T20:32:41Z",
-          "version": "4",
-          "changeset": "77093971",
-          "user": "mikelmaron",
-          "uid": "999"
+          "timestamp": "2019-11-18T09:25:16Z",
+          "version": "5",
+          "changeset": "77216554",
+          "user": "mueschel",
+          "uid": "616774"
         }
       },
       "geometry": {
@@ -4160,16 +4160,16 @@
         "tags": {
           "amenity": "marketplace",
           "image": "https://mapkibera.github.io/counties/data/images/cache/6924416541/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571910126734jpg/orig.jpg",
-          "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571914018995.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924416541/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571914018995jpg/orig.jpg",
           "is_in:village": "Bendera",
           "name": "Bendera Market Stalls",
           "wb_pb:id": "159"
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-14T20:32:41Z",
-          "version": "4",
-          "changeset": "77093971",
+          "timestamp": "2019-11-19T02:04:45Z",
+          "version": "6",
+          "changeset": "77252789",
           "user": "mikelmaron",
           "uid": "999"
         }
@@ -5039,8 +5039,8 @@
         "id": "6936808413",
         "tags": {
           "highway": "unclassified",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572356090217.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572356260767.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6936808413/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572356090217jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6936808413/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572356260767jpg/orig.jpg",
           "maintenance": "county_governm",
           "name": "Kaa Tartar-Cormolee Road",
           "surface": "dirt",
@@ -5049,11 +5049,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-02T10:58:54Z",
-          "version": "2",
-          "changeset": "76524824",
-          "user": "mueschel",
-          "uid": "616774"
+          "timestamp": "2019-11-19T02:04:45Z",
+          "version": "3",
+          "changeset": "77252789",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -5105,8 +5105,8 @@
         "id": "6936808419",
         "tags": {
           "highway": "unclassified",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341888484.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342020569.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6936808419/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572341888484jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6936808419/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572342020569jpg/orig.jpg",
           "maintenance": "county_governm",
           "name": "Keringet Town Roads",
           "surface": "earth",
@@ -5115,11 +5115,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-02T10:58:54Z",
-          "version": "2",
-          "changeset": "76524824",
-          "user": "mueschel",
-          "uid": "616774"
+          "timestamp": "2019-11-19T02:04:45Z",
+          "version": "3",
+          "changeset": "77252789",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -5138,8 +5138,8 @@
         "id": "6936808429",
         "tags": {
           "highway": "unclassified",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340124535.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340283252.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6936808429/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572340124535jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6936808429/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572340283252jpg/orig.jpg",
           "maintenance": "county_governm",
           "name": "Tukumo -Karas Road",
           "surface": "dirt",
@@ -5148,11 +5148,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-02T10:58:54Z",
-          "version": "2",
-          "changeset": "76524824",
-          "user": "mueschel",
-          "uid": "616774"
+          "timestamp": "2019-11-19T02:04:45Z",
+          "version": "3",
+          "changeset": "77252789",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -5171,8 +5171,8 @@
         "id": "6936808431",
         "tags": {
           "highway": "unclassified",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337092318.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337257846.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6936808431/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572337092318jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6936808431/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572337257846jpg/orig.jpg",
           "maintenance": "county_governm",
           "name": "Karas -Cheptapesha-Kalomoywo",
           "surface": "dirt",
@@ -5181,11 +5181,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-02T10:58:54Z",
-          "version": "2",
-          "changeset": "76524824",
-          "user": "mueschel",
-          "uid": "616774"
+          "timestamp": "2019-11-19T02:04:45Z",
+          "version": "3",
+          "changeset": "77252789",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -5204,8 +5204,8 @@
         "id": "6936808433",
         "tags": {
           "highway": "unclassified",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350538249.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350644110.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6936808433/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572350538249jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6936808433/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572350644110jpg/orig.jpg",
           "maintenance": "kerra",
           "name": "Nasokol-Kaplelach Koror Road",
           "surface": "earth",
@@ -5214,11 +5214,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-12T11:45:14Z",
-          "version": "3",
-          "changeset": "76957390",
-          "user": "muindre",
-          "uid": "261050"
+          "timestamp": "2019-11-19T02:04:45Z",
+          "version": "4",
+          "changeset": "77252789",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -5237,8 +5237,8 @@
         "id": "6936808436",
         "tags": {
           "highway": "unclassified",
-          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344950383.jpg",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572346582894.jpg",
+          "image": "https://mapkibera.github.io/counties/data/images/cache/6936808436/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572344950383jpg/orig.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6936808436/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572346582894jpg/orig.jpg",
           "maintenance": "kerra",
           "name": "Lopalal road",
           "surface": "earth",
@@ -5247,11 +5247,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-02T10:58:54Z",
-          "version": "2",
-          "changeset": "76524824",
-          "user": "mueschel",
-          "uid": "616774"
+          "timestamp": "2019-11-19T02:04:45Z",
+          "version": "3",
+          "changeset": "77252789",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -5419,25 +5419,25 @@
           "amenity": "clinic",
           "dispensing": "yes",
           "electricity": "sometime",
-          "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571399288592.jpg",
-          "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571399598820.jpg",
+          "health_facility:referrals": "Kapenguria County Hospital",
+          "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571399288592.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6972029291/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571399598820jpg/orig.jpg",
           "is_in:village": "kadokony",
           "medical_service:family_planning": "yes",
           "medical_service:general_medical_services": "yes",
-          "medical_service:immunization": "yes",
+          "medical_service:immunizations": "yes",
           "medical_service:malaria": "yes",
           "medical_service:pregnancy_test": "yes",
-          "medical_service:referral": "Kapenguria County Hospital",
           "name": "Kadokony Dispensary",
           "wb_pb:id": "224"
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-13T10:56:06Z",
-          "version": "1",
-          "changeset": "77005626",
-          "user": "benard lokeris",
-          "uid": "10380856"
+          "timestamp": "2019-11-19T02:04:45Z",
+          "version": "4",
+          "changeset": "77252789",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -5456,19 +5456,19 @@
         "id": "6972029292",
         "tags": {
           "amenity": "drinking_water",
-          "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911597337.jpg",
-          "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911707285.jpg",
+          "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911597337.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6972029292/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571911707285jpg/orig.jpg",
           "name": "Lokornoi Water Project",
           "operator:description": "Government",
           "wb_pb:id": "270"
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-13T10:56:06Z",
-          "version": "1",
-          "changeset": "77005626",
-          "user": "benard lokeris",
-          "uid": "10380856"
+          "timestamp": "2019-11-19T02:04:45Z",
+          "version": "3",
+          "changeset": "77252789",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -5490,8 +5490,8 @@
           "education:gender_type": "mixed",
           "education:government_registered": "moe",
           "education:type": "primary",
-          "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571397514159.jpg",
-          "image_project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571397744818.jpg",
+          "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571397514159.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6972029293/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571397744818jpg/orig.jpg",
           "is_in:village": "Kadokony",
           "name": "Kadokony Primary School",
           "operator:description": "government",
@@ -5499,11 +5499,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-13T10:56:06Z",
-          "version": "1",
-          "changeset": "77005626",
-          "user": "benard lokeris",
-          "uid": "10380856"
+          "timestamp": "2019-11-19T02:04:45Z",
+          "version": "3",
+          "changeset": "77252789",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -5555,7 +5555,7 @@
         "id": "6979225376",
         "tags": {
           "amenity": "drinking_water",
-          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572507971895.jpg",
+          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6979225376/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1572507971895jpg/orig.jpg",
           "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572507763928.jpg",
           "is_in_village": "Mwotot",
           "man_made": "borehole",
@@ -5566,11 +5566,11 @@
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-15T09:22:27Z",
-          "version": "1",
-          "changeset": "77114839",
-          "user": "shazomojah",
-          "uid": "4873427"
+          "timestamp": "2019-11-19T02:04:45Z",
+          "version": "2",
+          "changeset": "77252789",
+          "user": "mikelmaron",
+          "uid": "999"
         }
       },
       "geometry": {
@@ -17437,11 +17437,11 @@
       "properties": {
         "id": "698061539",
         "meta": {
-          "changeset": "76484582",
-          "timestamp": "2019-11-01T09:39:33Z",
-          "uid": "10380829",
-          "user": "SIWA Jnr",
-          "version": "2"
+          "changeset": "77214153",
+          "timestamp": "2019-11-18T08:33:06Z",
+          "uid": "265690",
+          "user": "fondolucy",
+          "version": "3"
         },
         "relations": [],
         "tags": {
@@ -17451,7 +17451,7 @@
           "maintenance": "county_governm",
           "name": "Psigirio-Tomkokalya-Talau Road",
           "surface": "dirt",
-          "wb_pb:id": "54",
+          "wb_pb:id": "304",
           "width": "12"
         },
         "type": "way"
@@ -19785,11 +19785,11 @@
       "properties": {
         "id": "740923103",
         "meta": {
-          "changeset": "76484582",
-          "timestamp": "2019-11-01T09:39:33Z",
-          "uid": "10380829",
-          "user": "SIWA Jnr",
-          "version": "1"
+          "changeset": "77214758",
+          "timestamp": "2019-11-18T08:44:31Z",
+          "uid": "265690",
+          "user": "fondolucy",
+          "version": "2"
         },
         "relations": [],
         "tags": {
@@ -19799,7 +19799,7 @@
           "maintenance": "county_governm",
           "name": "Kaa Tartar-Cormolee Road",
           "surface": "dirt",
-          "wb_pb:id": "57",
+          "wb_pb:id": "222",
           "width": "12"
         },
         "type": "way"
@@ -20879,6 +20879,1112 @@
           "surface": "earth",
           "wb_pb:id": "78",
           "width": "15_m"
+        },
+        "type": "way"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            35.0147031,
+            1.2477414
+          ],
+          [
+            35.014856,
+            1.2478219
+          ],
+          [
+            35.0151443,
+            1.2480002
+          ],
+          [
+            35.0152972,
+            1.2481021
+          ],
+          [
+            35.0154743,
+            1.2482121
+          ],
+          [
+            35.0156727,
+            1.2483381
+          ],
+          [
+            35.015831,
+            1.2484239
+          ],
+          [
+            35.0160322,
+            1.2485017
+          ],
+          [
+            35.0162467,
+            1.2485231
+          ],
+          [
+            35.0164801,
+            1.2485258
+          ],
+          [
+            35.0167134,
+            1.2485017
+          ],
+          [
+            35.0168475,
+            1.2484614
+          ],
+          [
+            35.0169709,
+            1.2484025
+          ],
+          [
+            35.0172445,
+            1.2482871
+          ],
+          [
+            35.0176951,
+            1.2480914
+          ],
+          [
+            35.018135,
+            1.247893
+          ],
+          [
+            35.0186446,
+            1.2477294
+          ],
+          [
+            35.0190014,
+            1.2475578
+          ],
+          [
+            35.0192186,
+            1.2474344
+          ],
+          [
+            35.019291,
+            1.2473835
+          ],
+          [
+            35.019342,
+            1.2473271
+          ],
+          [
+            35.0193635,
+            1.2472681
+          ],
+          [
+            35.0193661,
+            1.2472011
+          ],
+          [
+            35.0193769,
+            1.2471555
+          ],
+          [
+            35.0194225,
+            1.2471126
+          ],
+          [
+            35.019519,
+            1.247067
+          ],
+          [
+            35.0197336,
+            1.2469785
+          ],
+          [
+            35.0199079,
+            1.2469222
+          ],
+          [
+            35.0201386,
+            1.2468069
+          ],
+          [
+            35.0203237,
+            1.2467506
+          ],
+          [
+            35.0204498,
+            1.2467238
+          ],
+          [
+            35.0205544,
+            1.2466889
+          ],
+          [
+            35.0206885,
+            1.2466648
+          ],
+          [
+            35.0207341,
+            1.2466514
+          ],
+          [
+            35.0208279,
+            1.2466112
+          ],
+          [
+            35.0209969,
+            1.2465334
+          ],
+          [
+            35.0210774,
+            1.2465093
+          ],
+          [
+            35.021182,
+            1.2464905
+          ],
+          [
+            35.0213188,
+            1.2464851
+          ],
+          [
+            35.0215602,
+            1.2465039
+          ],
+          [
+            35.0216782,
+            1.2465066
+          ],
+          [
+            35.0218552,
+            1.246453
+          ],
+          [
+            35.0220162,
+            1.2463511
+          ],
+          [
+            35.0221342,
+            1.2462706
+          ],
+          [
+            35.0223273,
+            1.2461794
+          ],
+          [
+            35.0226062,
+            1.2461097
+          ],
+          [
+            35.0229442,
+            1.2460293
+          ],
+          [
+            35.0232661,
+            1.2459435
+          ],
+          [
+            35.0233948,
+            1.2459166
+          ],
+          [
+            35.0235343,
+            1.2458845
+          ],
+          [
+            35.0237113,
+            1.2458416
+          ],
+          [
+            35.0239205,
+            1.2457772
+          ],
+          [
+            35.0240278,
+            1.2458201
+          ],
+          [
+            35.0241136,
+            1.2458845
+          ],
+          [
+            35.0241727,
+            1.245981
+          ],
+          [
+            35.0242156,
+            1.2461043
+          ],
+          [
+            35.0241834,
+            1.2462438
+          ],
+          [
+            35.0240868,
+            1.2463671
+          ],
+          [
+            35.0240546,
+            1.2464851
+          ],
+          [
+            35.0240117,
+            1.2466889
+          ],
+          [
+            35.0239795,
+            1.2468874
+          ],
+          [
+            35.0239527,
+            1.2470697
+          ],
+          [
+            35.0238883,
+            1.2472145
+          ],
+          [
+            35.0238079,
+            1.247236
+          ],
+          [
+            35.0237274,
+            1.2472896
+          ],
+          [
+            35.023706,
+            1.2473647
+          ],
+          [
+            35.0237381,
+            1.247547
+          ],
+          [
+            35.0237274,
+            1.247842
+          ],
+          [
+            35.0237489,
+            1.2482228
+          ],
+          [
+            35.0238025,
+            1.2485231
+          ],
+          [
+            35.0238669,
+            1.2487055
+          ],
+          [
+            35.0238991,
+            1.24892
+          ],
+          [
+            35.023942,
+            1.2490809
+          ],
+          [
+            35.0239205,
+            1.249274
+          ],
+          [
+            35.0238132,
+            1.2494456
+          ],
+          [
+            35.0237489,
+            1.2495421
+          ],
+          [
+            35.0237489,
+            1.2497567
+          ],
+          [
+            35.0238454,
+            1.2498639
+          ],
+          [
+            35.0239205,
+            1.2499497
+          ],
+          [
+            35.0239634,
+            1.2500892
+          ],
+          [
+            35.0238991,
+            1.2502715
+          ],
+          [
+            35.0238132,
+            1.2504324
+          ],
+          [
+            35.0238132,
+            1.2506577
+          ],
+          [
+            35.0237703,
+            1.2509044
+          ],
+          [
+            35.0237167,
+            1.2511189
+          ],
+          [
+            35.0238883,
+            1.251312
+          ],
+          [
+            35.0240707,
+            1.2514729
+          ],
+          [
+            35.0241244,
+            1.2516123
+          ],
+          [
+            35.0240707,
+            1.2517303
+          ],
+          [
+            35.0239098,
+            1.2519234
+          ],
+          [
+            35.0238937,
+            1.2519797
+          ],
+          [
+            35.0238615,
+            1.2520548
+          ],
+          [
+            35.0238642,
+            1.2521057
+          ],
+          [
+            35.0238749,
+            1.252154
+          ],
+          [
+            35.0238991,
+            1.2521861
+          ],
+          [
+            35.0239447,
+            1.2522344
+          ],
+          [
+            35.024001,
+            1.2522827
+          ],
+          [
+            35.024009,
+            1.252339
+          ],
+          [
+            35.0240198,
+            1.2524168
+          ],
+          [
+            35.0240064,
+            1.2525026
+          ],
+          [
+            35.023942,
+            1.2526152
+          ],
+          [
+            35.0239044,
+            1.2526903
+          ],
+          [
+            35.0239205,
+            1.2527707
+          ],
+          [
+            35.0239903,
+            1.252819
+          ],
+          [
+            35.0240493,
+            1.252819
+          ],
+          [
+            35.0241351,
+            1.2528244
+          ],
+          [
+            35.0242102,
+            1.2528512
+          ],
+          [
+            35.0242317,
+            1.2529209
+          ],
+          [
+            35.0241941,
+            1.253055
+          ],
+          [
+            35.0241941,
+            1.2531998
+          ],
+          [
+            35.0241941,
+            1.2533178
+          ],
+          [
+            35.0241995,
+            1.2534626
+          ],
+          [
+            35.0242048,
+            1.253661
+          ],
+          [
+            35.0242424,
+            1.2538112
+          ],
+          [
+            35.0242585,
+            1.2539184
+          ],
+          [
+            35.0242853,
+            1.2540847
+          ],
+          [
+            35.024296,
+            1.254192
+          ],
+          [
+            35.0243175,
+            1.2543475
+          ],
+          [
+            35.024296,
+            1.254444
+          ],
+          [
+            35.0242531,
+            1.2545567
+          ],
+          [
+            35.0242156,
+            1.2546854
+          ],
+          [
+            35.0242048,
+            1.254798
+          ],
+          [
+            35.0241834,
+            1.2549053
+          ],
+          [
+            35.0242048,
+            1.2550662
+          ],
+          [
+            35.0242102,
+            1.2552217
+          ],
+          [
+            35.0242209,
+            1.2553236
+          ],
+          [
+            35.0242907,
+            1.2553772
+          ],
+          [
+            35.0243497,
+            1.2554523
+          ],
+          [
+            35.0243711,
+            1.255522
+          ],
+          [
+            35.0243497,
+            1.2555757
+          ],
+          [
+            35.0243068,
+            1.2556507
+          ],
+          [
+            35.0242263,
+            1.2557365
+          ],
+          [
+            35.0241512,
+            1.2557848
+          ],
+          [
+            35.0240654,
+            1.255817
+          ],
+          [
+            35.0239795,
+            1.2558545
+          ],
+          [
+            35.0239366,
+            1.2559082
+          ],
+          [
+            35.0239205,
+            1.2559779
+          ],
+          [
+            35.024001,
+            1.2560369
+          ],
+          [
+            35.024119,
+            1.2560798
+          ],
+          [
+            35.0241941,
+            1.2561227
+          ],
+          [
+            35.0242478,
+            1.2561978
+          ],
+          [
+            35.0244033,
+            1.2563211
+          ],
+          [
+            35.0244892,
+            1.256364
+          ],
+          [
+            35.024575,
+            1.2563908
+          ],
+          [
+            35.0246233,
+            1.2564177
+          ],
+          [
+            35.0246823,
+            1.2564606
+          ],
+          [
+            35.0247252,
+            1.2565196
+          ],
+          [
+            35.0247467,
+            1.2565839
+          ],
+          [
+            35.0247306,
+            1.2566429
+          ],
+          [
+            35.0247037,
+            1.2567234
+          ],
+          [
+            35.0246447,
+            1.2567663
+          ],
+          [
+            35.0245804,
+            1.2568038
+          ],
+          [
+            35.024516,
+            1.2568682
+          ],
+          [
+            35.0244194,
+            1.2569218
+          ],
+          [
+            35.0243497,
+            1.2569862
+          ],
+          [
+            35.0242531,
+            1.2570827
+          ],
+          [
+            35.0241727,
+            1.2571202
+          ],
+          [
+            35.024119,
+            1.2571363
+          ],
+          [
+            35.0240546,
+            1.2571578
+          ],
+          [
+            35.0239903,
+            1.25719
+          ],
+          [
+            35.0239634,
+            1.2573079
+          ],
+          [
+            35.0239527,
+            1.2574206
+          ],
+          [
+            35.0239366,
+            1.2574957
+          ],
+          [
+            35.0239044,
+            1.2575815
+          ],
+          [
+            35.0238401,
+            1.2576458
+          ],
+          [
+            35.0237918,
+            1.2577477
+          ],
+          [
+            35.0237703,
+            1.2578389
+          ],
+          [
+            35.023824,
+            1.2579193
+          ],
+          [
+            35.0238937,
+            1.2579354
+          ],
+          [
+            35.0239742,
+            1.2579569
+          ],
+          [
+            35.0240707,
+            1.2579569
+          ],
+          [
+            35.024178,
+            1.2579462
+          ],
+          [
+            35.0242799,
+            1.2579676
+          ],
+          [
+            35.0243711,
+            1.2580427
+          ],
+          [
+            35.0244355,
+            1.2581392
+          ],
+          [
+            35.0244462,
+            1.2582626
+          ],
+          [
+            35.0244731,
+            1.2583698
+          ],
+          [
+            35.0245428,
+            1.2585307
+          ],
+          [
+            35.0245964,
+            1.2586916
+          ],
+          [
+            35.0246823,
+            1.2589383
+          ],
+          [
+            35.0247145,
+            1.2592387
+          ],
+          [
+            35.0247037,
+            1.2595068
+          ],
+          [
+            35.024693,
+            1.2598393
+          ],
+          [
+            35.0246394,
+            1.260204
+          ],
+          [
+            35.0246179,
+            1.2604722
+          ],
+          [
+            35.0247145,
+            1.2607189
+          ],
+          [
+            35.0247788,
+            1.2608905
+          ],
+          [
+            35.0248754,
+            1.2611265
+          ],
+          [
+            35.0250578,
+            1.2614483
+          ],
+          [
+            35.0251651,
+            1.2616843
+          ],
+          [
+            35.0253689,
+            1.262124
+          ],
+          [
+            35.0252509,
+            1.2622313
+          ],
+          [
+            35.0252831,
+            1.2624244
+          ],
+          [
+            35.0253689,
+            1.2627032
+          ],
+          [
+            35.0254655,
+            1.2629607
+          ],
+          [
+            35.0255513,
+            1.2632396
+          ],
+          [
+            35.0256586,
+            1.2634326
+          ],
+          [
+            35.0258946,
+            1.2636793
+          ],
+          [
+            35.0260448,
+            1.2639153
+          ],
+          [
+            35.0262058,
+            1.2641191
+          ],
+          [
+            35.0263238,
+            1.2643336
+          ],
+          [
+            35.0263989,
+            1.2644731
+          ],
+          [
+            35.0264954,
+            1.2647305
+          ],
+          [
+            35.0264954,
+            1.2649021
+          ],
+          [
+            35.0265169,
+            1.2651166
+          ],
+          [
+            35.0264525,
+            1.2652883
+          ],
+          [
+            35.0264203,
+            1.2655028
+          ],
+          [
+            35.0263882,
+            1.2656208
+          ],
+          [
+            35.0264472,
+            1.2656851
+          ],
+          [
+            35.0265062,
+            1.2657388
+          ],
+          [
+            35.026592,
+            1.2658031
+          ],
+          [
+            35.026651,
+            1.2658568
+          ],
+          [
+            35.0266671,
+            1.2659372
+          ],
+          [
+            35.0266671,
+            1.2660498
+          ],
+          [
+            35.0266886,
+            1.2661303
+          ],
+          [
+            35.0267047,
+            1.2661946
+          ],
+          [
+            35.0267369,
+            1.2663073
+          ],
+          [
+            35.0266832,
+            1.2663609
+          ],
+          [
+            35.0265706,
+            1.2664092
+          ],
+          [
+            35.0265008,
+            1.2663877
+          ],
+          [
+            35.0264096,
+            1.2664038
+          ],
+          [
+            35.0263399,
+            1.2663984
+          ],
+          [
+            35.0262594,
+            1.2664145
+          ],
+          [
+            35.0262111,
+            1.2664789
+          ],
+          [
+            35.0262004,
+            1.2665486
+          ],
+          [
+            35.0261199,
+            1.2666237
+          ],
+          [
+            35.0260717,
+            1.2667631
+          ],
+          [
+            35.0260502,
+            1.2668757
+          ],
+          [
+            35.026077,
+            1.266983
+          ],
+          [
+            35.0261736,
+            1.2671224
+          ],
+          [
+            35.0262648,
+            1.267219
+          ],
+          [
+            35.0263345,
+            1.2673262
+          ],
+          [
+            35.0264096,
+            1.2674389
+          ],
+          [
+            35.0266403,
+            1.2674603
+          ],
+          [
+            35.026812,
+            1.2675086
+          ],
+          [
+            35.0269943,
+            1.2675408
+          ],
+          [
+            35.0271338,
+            1.267589
+          ],
+          [
+            35.0272947,
+            1.2676427
+          ],
+          [
+            35.027504,
+            1.2677017
+          ],
+          [
+            35.0276273,
+            1.2677392
+          ],
+          [
+            35.0277615,
+            1.2677875
+          ],
+          [
+            35.0278741,
+            1.2678036
+          ],
+          [
+            35.0279975,
+            1.2678089
+          ],
+          [
+            35.0283891,
+            1.2677982
+          ],
+          [
+            35.0288397,
+            1.2678196
+          ],
+          [
+            35.0291884,
+            1.2678304
+          ],
+          [
+            35.0292474,
+            1.2678518
+          ],
+          [
+            35.0292957,
+            1.2679859
+          ],
+          [
+            35.0293225,
+            1.2681039
+          ],
+          [
+            35.029344,
+            1.2682541
+          ],
+          [
+            35.0293171,
+            1.2683935
+          ],
+          [
+            35.0293064,
+            1.2685598
+          ],
+          [
+            35.0293118,
+            1.2686992
+          ],
+          [
+            35.029344,
+            1.2688065
+          ],
+          [
+            35.0294512,
+            1.2688655
+          ],
+          [
+            35.029639,
+            1.268903
+          ],
+          [
+            35.0298589,
+            1.2689244
+          ],
+          [
+            35.030095,
+            1.2689781
+          ],
+          [
+            35.0302881,
+            1.2690317
+          ],
+          [
+            35.0304651,
+            1.26908
+          ],
+          [
+            35.0307065,
+            1.2691497
+          ],
+          [
+            35.0308567,
+            1.2691819
+          ],
+          [
+            35.0310069,
+            1.2692033
+          ],
+          [
+            35.0311303,
+            1.2692409
+          ],
+          [
+            35.0311679,
+            1.26945
+          ],
+          [
+            35.0312644,
+            1.2698308
+          ],
+          [
+            35.0313985,
+            1.2701955
+          ],
+          [
+            35.0315434,
+            1.2706299
+          ],
+          [
+            35.0316775,
+            1.2711019
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "way/740924443",
+      "properties": {
+        "id": "740924443",
+        "meta": {
+          "changeset": "77215683",
+          "timestamp": "2019-11-18T09:04:26Z",
+          "uid": "10380856",
+          "user": "benard lokeris",
+          "version": "3"
+        },
+        "relations": [],
+        "tags": {
+          "highway": "unclassified",
+          "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427675465.jpg",
+          "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427811819.jpg",
+          "maintenance": "county_government",
+          "name": "Cheptuya Chepkoghyo Lokornoi Road",
+          "surface": "earth",
+          "wb_pb:id": "215"
         },
         "type": "way"
       },
