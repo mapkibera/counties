@@ -3176,6 +3176,971 @@
         "wb_pb:id": "13"
       }, 
       "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.94298, 
+          -0.04
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788191285", 
+      "properties": {
+        "Budgeted sum": "", 
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "1. Floor cracks. 2. No windows glasses. 3. No water tank. 4. The structure is very good, generally.", 
+        "Project_Description": "Construction of ECDE classroom", 
+        "Project_Name_or_Title": "Logiri ECDE", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6788191285/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568103841526jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6788191285/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568104076322jpg/orig.jpg", 
+        "is_in:village": "Kipsogon", 
+        "iterator": 64, 
+        "name": "Logiri Primary School", 
+        "operator:description": "Government", 
+        "operator:type": "government", 
+        "osm:id": "6788191285", 
+        "wb_pb:id": "150"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.95438, 
+          0.015617
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799722592", 
+      "properties": {
+        "Budgeted sum": "1,000,000.00", 
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Construction of the classroom is good but it is still going on with construction of other classes", 
+        "Project_Description": "Construction of ECDE classroom", 
+        "Project_Name_or_Title": "Lomanira ECDE", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6799722592/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568373194479jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6799722592/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568373373745jpg/orig.jpg", 
+        "is_in:village": "Mogotio", 
+        "iterator": 65, 
+        "name": "Lomanira ECDE", 
+        "operator:description": "Lomanira Primary School", 
+        "operator:type": "Government of Kenya", 
+        "osm:id": "6799722592", 
+        "wb_pb:id": "14"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.95566, 
+          -0.02634
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788190489", 
+      "properties": {
+        "Budgeted sum": "", 
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "Concrete posts being used is of high standards and the project is ongoing smoothly.", 
+        "Project_Description": "Erecting of Fence at Mogotio Sub County Hospital", 
+        "Project_Name_or_Title": "Mogotio Sub County Hospital Fence", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "health_facility:referrals": "Eldama Ravine Referral Hospital and Nakuru PGH", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6788190489/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568109993268jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6788190489/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568110151149jpg/orig.jpg", 
+        "is_in:village": "Mogotio", 
+        "iterator": 66, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Mogotio Sub County Hospital", 
+        "osm:id": "6788190489", 
+        "wb_pb:id": "152"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.95632, 
+          -0.03166
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788190886", 
+      "properties": {
+        "Budgeted sum": "5,000,000.00", 
+        "Category": "TCI", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Phase 2 refurbishment of the tannery has not yet started", 
+        "Project_Description": "Completion of Mogotio Tannery", 
+        "Project_Name_or_Title": "Mogotio Tannery", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6788190886/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568107688871jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6788190886/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568107641437jpg/orig.jpg", 
+        "is_in:village": "Mogotio", 
+        "iterator": 67, 
+        "landuse": "other", 
+        "name": "Mogotio Tannery", 
+        "osm:id": "6788190886", 
+        "other_agriculture": "Tannery", 
+        "wb_pb:id": "25"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.90508, 
+          0.056007
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6808083481", 
+      "properties": {
+        "Budgeted sum": "4,000,000.00", 
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The roofing and finishing of the facility is remaining but the structure standard is commendable.", 
+        "Project_Description": "Erection and completion of ward blocks", 
+        "Project_Name_or_Title": "Ngubereti Health Center", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "clinic", 
+        "health_facility:referrals": "Eldama Ravine Referral Hospital", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6808083481/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568794054129jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6808083481/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568794293587jpg/orig.jpg", 
+        "is_in:village": "Ngubereti", 
+        "iterator": 68, 
+        "name": "Ngubereti Health Center", 
+        "osm:id": "6808083481", 
+        "wb_pb:id": "80"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.85958, 
+          0.100087
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788216972", 
+      "properties": {
+        "Budgeted sum": "1,000,000.00", 
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The project is ongoing and if it goes this way it will complete under time given.", 
+        "Project_Description": "Construction of ECDE Classroom", 
+        "Project_Name_or_Title": "Rosoga ECDE", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "pre_primary", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6788216972/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568030348372jpg/orig.jpg", 
+        "is_in:village": "Rosoga", 
+        "iterator": 69, 
+        "name": "Rosoga ECDE", 
+        "operator:description": "County Government of Baringo", 
+        "operator:type": "government", 
+        "osm:id": "6788216972", 
+        "wb_pb:id": "38"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.83283, 
+          0.16307
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6808019418", 
+      "properties": {
+        "Budgeted sum": "1,000,000.00", 
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The floor is not yet finished, lockable door is fixed, windows fixed but no glasses.", 
+        "Project_Description": "Construction of ECDE Classroom", 
+        "Project_Name_or_Title": "Aram ECDE", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "amenity": "school", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6808019418/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568696524412jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6808019418/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568696908015jpg/orig.jpg", 
+        "is_in:village": "Aram", 
+        "iterator": 70, 
+        "name": "Aram Primary School", 
+        "operator:description": "Government of Kenya", 
+        "operator:type": "government", 
+        "osm:id": "6808019418", 
+        "wb_pb:id": "66"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.87518, 
+          0.04721
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788190594", 
+      "properties": {
+        "Budgeted sum": "923,962.00", 
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "The one million money allocated to finish the construction is a dream to the members and stakeholders of the school since nothing is going on. Even the students and teachers are suffering due to lack of facilities used in learning.", 
+        "Project_Description": "Construction of ECDE classroom", 
+        "Project_Name_or_Title": "Bartulkel ECDE", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "pre_primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6788190594/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568105731808jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6788190594/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568106271041jpg/orig.jpg", 
+        "is_in:village": "Bartulkel", 
+        "iterator": 71, 
+        "name": "Bartulkel ECDE", 
+        "operator:description": "County Government of Baringo", 
+        "operator:type": "government", 
+        "osm:id": "6788190594", 
+        "wb_pb:id": "60"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.75214, 
+          0.167915
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799024586", 
+      "properties": {
+        "Budgeted sum": "915,863.00", 
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "Roofing not done, no door and windows", 
+        "Project_Description": "Construction of ECDE Classroom", 
+        "Project_Name_or_Title": "Chemorogong ECDE", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6799024586/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568104672826jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6799024586/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568104978746jpg/orig.jpg", 
+        "is_in:village": "Chemorgong", 
+        "iterator": 72, 
+        "name": "Chemorgong Primary School", 
+        "operator:description": "Government of Kenya", 
+        "operator:type": "government", 
+        "osm:id": "6799024586", 
+        "wb_pb:id": "47"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.89615, 
+          0.073938
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6808083477", 
+      "properties": {
+        "Budgeted sum": "1,000,000.00", 
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The design of the blackboard has not been done, the ramp has not been constructed, there's no employed staff. But the structural standard is commendable.", 
+        "Project_Description": "Construction of ECDE classroom", 
+        "Project_Name_or_Title": "Kenet ECDE", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "mgcsd", 
+        "education:type": "pre_primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6808083477/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568797638726jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6808083477/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568797953493jpg/orig.jpg", 
+        "is_in:village": "Kenet", 
+        "iterator": 73, 
+        "name": "Kenet ECD", 
+        "operator:type": "government", 
+        "osm:id": "6808083477", 
+        "wb_pb:id": "79"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            35.8070185, 
+            0.1749515
+          ], 
+          [
+            35.8070171, 
+            0.174846
+          ], 
+          [
+            35.8069337, 
+            0.1747814
+          ], 
+          [
+            35.8068312, 
+            0.1748062
+          ], 
+          [
+            35.8067866, 
+            0.1749019
+          ], 
+          [
+            35.8068337, 
+            0.1749963
+          ], 
+          [
+            35.8069369, 
+            0.1750184
+          ], 
+          [
+            35.8070185, 
+            0.1749515
+          ]
+        ], 
+        "type": "LineString"
+      }, 
+      "id": "726146405", 
+      "properties": {
+        "Budgeted sum": "900,000.00", 
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "The Dam is leaking, the water through not yet constructed and has not been fenced", 
+        "Project_Description": "Dam construction Kipngorom", 
+        "Project_Name_or_Title": "Kipngorom Dam", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/726146405/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568816264948jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/726146405/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568816606202jpg/orig.jpg", 
+        "is_in:village": "Kiptum", 
+        "iterator": 74, 
+        "name": "Kimngorom Dam", 
+        "operational_status": "operational", 
+        "operator:funding": "County Government of Baringo", 
+        "osm:id": "726146405", 
+        "wb_pb:id": "70"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.91816, 
+          -0.06268
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788192317", 
+      "properties": {
+        "Budgeted sum": "1,000,000.00", 
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The standard of construction materials is okay, only that the contructor has left the site with no notice to the school.", 
+        "Project_Description": "Construction of ECDE classroom", 
+        "Project_Name_or_Title": "Kipsogon ECDE", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6788192317/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568026367058jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6788192317/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568026794231jpg/orig.jpg", 
+        "is_in:village": "Kipsogon", 
+        "iterator": 75, 
+        "name": "Kipsogon Primary School", 
+        "operator:type": "government", 
+        "osm:id": "6788192317", 
+        "wb_pb:id": "16"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.96435, 
+          -0.00322
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799533352", 
+      "properties": {
+        "Budgeted sum": "17,889,535.40", 
+        "Category": "TWNRM", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The project is on the finishing stage and requires immediate action and the structural standard is okay.", 
+        "Project_Description": "Construction of Mogotio information center", 
+        "Project_Name_or_Title": "Mogotio Information Center", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "building": "office", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6799533352/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568284309964jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6799533352/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568284560450jpg/orig.jpg", 
+        "is_in:village": "Mogotio", 
+        "iterator": 76, 
+        "name": "Mogotio Information Center", 
+        "osm:id": "6799533352", 
+        "wb_pb:id": "9"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.93058, 
+          0.06009
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799660486", 
+      "properties": {
+        "Budgeted sum": "2,600,000.00", 
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "The pump which was equipped is in plastic which doesn't accommodate the warm temperatures, and also the pump which was installed can't handle the high water temperatures.", 
+        "Project_Description": "Drilling of Noiwet borehole", 
+        "Project_Name_or_Title": "Noiwet Borehole", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6799660486/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568369757457jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6799660486/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568369937984jpg/orig.jpg", 
+        "is_in:village": "Noiwet", 
+        "iterator": 77, 
+        "man_made": "borehole", 
+        "name": "Noiwet Borehole", 
+        "operational_status": "operational", 
+        "operator:funding": "County Government of Baringo", 
+        "operator:type": "cbo", 
+        "osm:id": "6799660486", 
+        "wb_pb:id": "76"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              35.7621181, 
+              0.1664147
+            ], 
+            [
+              35.7622415, 
+              0.1663236
+            ], 
+            [
+              35.7624453, 
+              0.1662914
+            ], 
+            [
+              35.7627779, 
+              0.166227
+            ], 
+            [
+              35.763309, 
+              0.1660768
+            ], 
+            [
+              35.7634002, 
+              0.1668439
+            ], 
+            [
+              35.7633519, 
+              0.1673321
+            ], 
+            [
+              35.7625902, 
+              0.1672838
+            ], 
+            [
+              35.7621986, 
+              0.1672033
+            ], 
+            [
+              35.7620645, 
+              0.1667312
+            ], 
+            [
+              35.7621181, 
+              0.1664147
+            ]
+          ]
+        ], 
+        "type": "Polygon"
+      }, 
+      "id": "725034003", 
+      "properties": {
+        "Budgeted sum": "4,420,000.00", 
+        "Category": "SCG", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The ground is cleared, levelled, fenced. Construction of athletics dormitories and washrooms is incomplete", 
+        "Project_Description": "Construction of Sirwa Athletics Camp", 
+        "Project_Name_or_Title": "Sirwa Athletics Camp", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/725034003/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568036929222jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/725034003/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568036490919jpg/orig.jpg", 
+        "is_in:village": "Kaburgei", 
+        "iterator": 78, 
+        "leisure": "stadium", 
+        "name": "Sirwa Athletic Camp", 
+        "osm:id": "725034003", 
+        "wb_pb:id": "51"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            35.787701, 
+            0.1858151
+          ], 
+          [
+            35.7876876, 
+            0.1859304
+          ], 
+          [
+            35.7875776, 
+            0.1860162
+          ], 
+          [
+            35.7878002, 
+            0.1866626
+          ], 
+          [
+            35.7879451, 
+            0.1869228
+          ], 
+          [
+            35.7881704, 
+            0.1870006
+          ], 
+          [
+            35.7882321, 
+            0.1874244
+          ], 
+          [
+            35.7882965, 
+            0.1875853
+          ], 
+          [
+            35.7882428, 
+            0.1882156
+          ], 
+          [
+            35.7883206, 
+            0.1883819
+          ], 
+          [
+            35.7883072, 
+            0.1885777
+          ], 
+          [
+            35.7881919, 
+            0.1888889
+          ], 
+          [
+            35.7881328, 
+            0.1892617
+          ], 
+          [
+            35.7881355, 
+            0.1894897
+          ], 
+          [
+            35.7882053, 
+            0.1897606
+          ], 
+          [
+            35.7881543, 
+            0.1901334
+          ], 
+          [
+            35.7881731, 
+            0.1904392
+          ], 
+          [
+            35.7884145, 
+            0.1909488
+          ], 
+          [
+            35.7884225, 
+            0.1912197
+          ], 
+          [
+            35.788326, 
+            0.191445
+          ], 
+          [
+            35.7883233, 
+            0.1915898
+          ], 
+          [
+            35.7884172, 
+            0.1917749
+          ], 
+          [
+            35.788267, 
+            0.1924106
+          ], 
+          [
+            35.7880953, 
+            0.1926091
+          ], 
+          [
+            35.7878754, 
+            0.192778
+          ], 
+          [
+            35.7876796, 
+            0.1928558
+          ]
+        ], 
+        "type": "LineString"
+      }, 
+      "id": "726146404", 
+      "properties": {
+        "Budgeted sum": "1,151.18", 
+        "Category": "RTEPW", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "The road is not well levelled and therefore impassable", 
+        "Project_Description": "Dozer works", 
+        "Project_Name_or_Title": "Sirwa-Kapkech Road", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "highway": "unclassified", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/726146404/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568812506945jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/726146404/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568812921681jpg/orig.jpg", 
+        "is_in:village": "Chepkoyo", 
+        "iterator": 79, 
+        "name": "Sirwa-Chepkoyo-Kipkigei Road", 
+        "operator:description": "County Government of Baringo", 
+        "operator:type": "government", 
+        "osm:id": "726146404", 
+        "wb_pb:id": "42"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.78659, 
+          0.19205
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799387359", 
+      "properties": {
+        "Budgeted sum": "1,000,000.00", 
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "The site is not yet cleared and levelled. There is no materials on the site to indicate any sign of the project starting.", 
+        "Project_Description": "Construction of ECDE classroom", 
+        "Project_Name_or_Title": "Chepkoyo ECDE", 
+        "What_is_the_project_s_apparent_status": "not_yet_started", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "mgcsd", 
+        "education:type": "pre_primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6799387359/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568364873230jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6799387359/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568365230716jpg/orig.jpg", 
+        "is_in:village": "Chepkoyo", 
+        "iterator": 80, 
+        "name": "Chepkoyo ECDE", 
+        "operator:description": "County Government of Baringo", 
+        "operator:type": "government", 
+        "osm:id": "6799387359", 
+        "wb_pb:id": "67"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.793815, 
+          0.14535
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6808019405", 
+      "properties": {
+        "Budgeted sum": "", 
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "It is not yet cleared.", 
+        "Project_Description": "Construction of ECDE", 
+        "Project_Name_or_Title": "Construction of ECDE", 
+        "What_is_the_project_s_apparent_status": "not_yet_started", 
+        "amenity": "school", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6808019405/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568796633386jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6808019405/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568797184875jpg/orig.jpg", 
+        "is_in:village": "Kapterit", 
+        "iterator": 81, 
+        "name": "Kapterit Primary School", 
+        "operator:description": "Government of Kenya", 
+        "operator:type": "government", 
+        "osm:id": "6808019405", 
+        "wb_pb:id": "184"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.88792, 
+          0.063177
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6808083476", 
+      "properties": {
+        "Budgeted sum": "2,500,000.00", 
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "It has not yet started.", 
+        "Project_Description": "Drilling", 
+        "Project_Name_or_Title": "Kapkararam Borehole", 
+        "What_is_the_project_s_apparent_status": "not_yet_started", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6808083476/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568800266288jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6808083476/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568800414483jpg/orig.jpg", 
+        "is_in:village": "Kapkararam", 
+        "iterator": 82, 
+        "name": "Kapkararam", 
+        "operator:funding": "County Government of Baringo", 
+        "operator:type": "cbo", 
+        "osm:id": "6808083476", 
+        "wb_pb:id": "78"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.76153, 
+          0.202198
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799387364", 
+      "properties": {
+        "Budgeted sum": "1,250,000.00", 
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "The contractor located the site, cleared but has not brought any material for readiness to start the project.", 
+        "Project_Description": "Construction of ECDE classroom", 
+        "Project_Name_or_Title": "Kapkiris ECDE", 
+        "What_is_the_project_s_apparent_status": "not_yet_started", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "mgcsd", 
+        "education:type": "pre_primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6799387364/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568281615312jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6799387364/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568281990773jpg/orig.jpg", 
+        "is_in:village": "Kapkiris", 
+        "iterator": 83, 
+        "name": "Kapkiris ECDE", 
+        "operator:description": "County Government of Baringo", 
+        "operator:type": "government", 
+        "osm:id": "6799387364", 
+        "wb_pb:id": "74"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.87481, 
+          0.087243
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799326185", 
+      "properties": {
+        "Budgeted sum": "1,000,000.00", 
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "The project has not yet started. Up to now they is no contractor on the site hence nothing is going on. The school is even unsure when the project should start.", 
+        "Project_Description": "Construction of ECDE Class", 
+        "Project_Name_or_Title": "Lombala ECDE", 
+        "What_is_the_project_s_apparent_status": "not_yet_started", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6799326185/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568361407565jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6799326185/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568361313473jpg/orig.jpg", 
+        "is_in:village": "Lombala", 
+        "iterator": 84, 
+        "name": "Lombala Primary School", 
+        "operator:description": "Government of Kenya", 
+        "operator:type": "government", 
+        "osm:id": "6799326185", 
+        "wb_pb:id": "37"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.95483, 
+          -0.02752
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788190587", 
+      "properties": {
+        "Budgeted sum": "6,908,475.00", 
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The hospital community hopes it will ease some of its services and hope the project will start very soon.", 
+        "Project_Description": "Construction of theatre room", 
+        "Project_Name_or_Title": "Mogotio Sub County Hospital", 
+        "What_is_the_project_s_apparent_status": "not_yet_started", 
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "health_facility:referrals": "Eldama Ravine Referral Hospital and Nakuru PGH", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6788190587/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568112024136jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6788190587/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568112183368jpg/orig.jpg", 
+        "is_in:village": "Mogotio", 
+        "iterator": 85, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Mogotio Sub County Hospital", 
+        "osm:id": "6788190587", 
+        "wb_pb:id": "8"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.91645, 
+          -0.03672
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788192318", 
+      "properties": {
+        "Budgeted sum": "1,500,000.00", 
+        "Category": "EDU", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "Construction of the county project has not started but once it's complete it will replace the already existing structure which is in bad state.", 
+        "Project_Description": "Construction of ECDE classroom", 
+        "Project_Name_or_Title": "Oroyet ECDE", 
+        "What_is_the_project_s_apparent_status": "not_yet_started", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "pre_primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6788192318/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568031967994jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6788192318/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568032407429jpg/orig.jpg", 
+        "is_in:village": "Kipsogon", 
+        "iterator": 86, 
+        "name": "Oruyet ECDE", 
+        "operator:description": "County Government of Baringo", 
+        "operator:type": "government", 
+        "osm:id": "6788192318", 
+        "wb_pb:id": "15"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.77195, 
+          0.177325
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799018001", 
+      "properties": {
+        "Budgeted sum": "2,000,000.00", 
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "Delay of contractor starting the work. Up to now there is nothing that has been done.", 
+        "Project_Description": "Construction of 12 bed ward", 
+        "Project_Name_or_Title": "Sirwa Dispensary", 
+        "What_is_the_project_s_apparent_status": "not_yet_started", 
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "health_facility:referrals": "Eldama Ravine Referral Hospital", 
+        "health_facility:type": "dispensary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6799018001/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568032194416jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6799018001/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568031833110jpg/orig.jpg", 
+        "is_in:village": "Kiptaoi", 
+        "iterator": 87, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Sirwa Dispensary", 
+        "osm:id": "6799018001", 
+        "wb_pb:id": "50"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.8373417, 
+          0.1634367
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6808019419", 
+      "properties": {
+        "Budgeted sum": "", 
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "The site has not yet been cleared.", 
+        "Project_Description": "Construction of a dam", 
+        "Project_Name_or_Title": "Tabare Tui Dam", 
+        "What_is_the_project_s_apparent_status": "not_yet_started", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6808019419/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568695684111jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6808019419/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568695891449jpg/orig.jpg", 
+        "is_in:village": "Aram", 
+        "iterator": 88, 
+        "name": "Tabare Tui Dam", 
+        "osm:id": "6808019419", 
+        "wb_pb:id": "181"
+      }, 
+      "type": "Feature"
     }
   ], 
   "type": "FeatureCollection"

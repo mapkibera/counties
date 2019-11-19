@@ -127,6 +127,8 @@ def match_projects_ward(ward):
            feature.properties['tags']['type_of_facility_for print'] = row['type_of_facility_for print']
          if 'Budgeted sum' in row:
            feature.properties['tags']['Budgeted sum'] = row['Budgeted sum']
+         if 'Tender sum' in row:
+           feature.properties['tags']['Tender sum'] = row['Tender sum']
 
          feature.properties['tags']['osm:id'] = feature.properties['id']
 
@@ -177,9 +179,11 @@ def number_projects_ward(ward):
    osm = geojson.loads(readfile('build/' + ward + '-projects-matched.geojson'))
    completed = list(filter(lambda p: p.properties['What_is_the_project_s_apparent_status'] in ['Completed', 'completed'], osm.features))
    in_progress = list(filter(lambda p: p.properties['What_is_the_project_s_apparent_status'] in ['In progress','in_progress'], osm.features))
-   not_yet_started = list(filter(lambda p: p.properties['What_is_the_project_s_apparent_status'] in ['Not yet started', 'not_yet_starte'], osm.features))
+   stalled = list(filter(lambda p: p.properties['What_is_the_project_s_apparent_status'] in ['stalled'], osm.features))
+   on_going = list(filter(lambda p: p.properties['What_is_the_project_s_apparent_status'] in ['on_going'], osm.features))
+   not_yet_started = list(filter(lambda p: p.properties['What_is_the_project_s_apparent_status'] in ['Not yet started', 'not_yet_starte', 'not_yet_started'], osm.features))
 
-   for features in [completed, in_progress, not_yet_started]:
+   for features in [completed, in_progress, on_going, stalled, not_yet_started]:
      for feature in sorted(features, key=lambda project: (project.properties['Project_Name_for_Print'] if 'Project_Name_for_Print' in project.properties else project.properties['Project_Name_or_Title']).strip().lower()):
        feature.properties["iterator"] = i
        result['features'].append(feature)

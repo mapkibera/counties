@@ -16072,6 +16072,2584 @@
         "wb_pb:id": "123"
       }, 
       "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.14291, 
+          1.38915
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908733062", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observation: The construction is proceeding well and almost to completion \nImpact: It will promote early childhood education to the community", 
+        "Project_Description": "The construction of ECDE classroom", 
+        "Project_Name_or_Title": "Akimultin ECDE", 
+        "Tender sum": "500,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "pre_primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6908733062/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571405459618jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6908733062/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571405730511jpg/orig.jpg", 
+        "is_in:village": "Akimultin", 
+        "iterator": 168, 
+        "name": "Akimultin ECDE Centre", 
+        "operator:description": "County Government", 
+        "operator:type": "government", 
+        "osm:id": "6908733062", 
+        "wb_pb:id": "1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.073035, 
+          1.2200267
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924165760", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The project is ongoing, finishing up and power connection required", 
+        "Project_Description": "Construction of Chepangang ECDE Classroom", 
+        "Project_Name_or_Title": "Chepangang ECDE", 
+        "Tender sum": "800,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "pre_primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924165760/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1572000361615jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924165760/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1572000474579jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572000491790.jpg", 
+        "is_in:village": "Chepangang", 
+        "iterator": 169, 
+        "name": "Chepangang ECDE", 
+        "operator:type": "government", 
+        "osm:id": "6924165760", 
+        "wb_pb:id": "210"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1294517, 
+          1.3687733
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908733059", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "Physical observations:\nThe project  is well built with firm materials.\n\nImpact:\nOnce the project is complete, the emergency cases will be well attended to since the doctors will be residing within the facility.", 
+        "Project_Description": "Construction of Doctor's Quarters at Chepkechir Dispensary", 
+        "Project_Name_or_Title": "Chepkechir Dispensary", 
+        "Tender sum": "", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "sometime", 
+        "health_facility:referrals": "Kapenguria Referral Hospital", 
+        "health_facility:type": "dispensary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6908733059/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571736987404jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6908733059/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571737679075jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571737729425.jpg", 
+        "is_in:village": "Chepkechir Center", 
+        "iterator": 170, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Chepkechir Dispensary", 
+        "osm:id": "6908733059", 
+        "wb_pb:id": "12"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0104467, 
+          1.253335
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908782533", 
+      "properties": {
+        "Category": "WENR", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The project is still ongoing and it requires fixing of pumping materials.", 
+        "Project_Description": "Proposed Cheptuya Mixed Secondary School Water Borehole Project", 
+        "Project_Name_or_Title": "Cheptuya Mixed Secondary School", 
+        "Tender sum": "", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education_gender_type": "mixed", 
+        "education_government_registere": "moe", 
+        "education_type": "secondary", 
+        "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747102468.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747254094.jpg", 
+        "is_in_village": "Cheptuya", 
+        "iterator": 171, 
+        "name": "Cheptuya Mixed Secondary School-Borehole", 
+        "operator_type": "government", 
+        "osm:id": "6908782533", 
+        "wb_pb:id": "162"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0463433, 
+          1.2698883
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908475310", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "\nAdequate.\nThe classrooms are spacious and will be able to accommodate more pupils in the community.", 
+        "Project_Description": "Construction of Chepunpun ECDE", 
+        "Project_Name_or_Title": "Chepunpun ECDE", 
+        "Tender sum": "800,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "pre_primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6908475310/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571386086295jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6908475310/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571387002418jpg/orig.jpg", 
+        "is_in:village": "Chepunpun", 
+        "iterator": 172, 
+        "name": "Chepunpun ECDE", 
+        "operator:description": "County Government of West Pokot", 
+        "operator:type": "government", 
+        "osm:id": "6908475310", 
+        "wb_pb:id": "216"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              35.0952018, 
+              1.196764
+            ], 
+            [
+              35.0952834, 
+              1.1967081
+            ], 
+            [
+              35.0953234, 
+              1.1967666
+            ], 
+            [
+              35.0952418, 
+              1.1968224
+            ], 
+            [
+              35.0952018, 
+              1.196764
+            ]
+          ]
+        ], 
+        "type": "Polygon"
+      }, 
+      "id": "737862246", 
+      "properties": {
+        "Category": "TIICD", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The project is ongoing and not yet operational.", 
+        "Project_Description": "Construction of Murkwijit Cooling and Processing plant", 
+        "Project_Name_or_Title": "Cooling Plant at Murkwijit", 
+        "Tender sum": "", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/737862246/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571744923150jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/737862246/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571745085240jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571745117264.jpg", 
+        "is_in:village": "Murkwijit", 
+        "iterator": 173, 
+        "landuse": "dairy", 
+        "name": "Murkwijit Cooling Plant", 
+        "osm:id": "737862246", 
+        "product": "dairy", 
+        "wb_pb:id": "217"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0546301, 
+          1.2686743
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924662862", 
+      "properties": {
+        "Category": "CA", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The construction is still ongoing\n", 
+        "Project_Description": "Construction of Speaker's Residence", 
+        "Project_Name_or_Title": "County Assembly", 
+        "Tender sum": "55,450,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924662862/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571991592049jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924662862/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571991989054jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571913856373.jpg", 
+        "is_in:village": "Chewoyet", 
+        "iterator": 174, 
+        "name": "County Assembly Residence", 
+        "office": "government", 
+        "osm:id": "6924662862", 
+        "wb_pb:id": "17"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.11941, 
+          1.2398483
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6909005401", 
+      "properties": {
+        "Category": "CA", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "Physical observation:\nContractor is on site and the work is proceeding well. The materials used are of good quality and high standard. \n\nImpact:\nIt's not yet in use but once complete it will house the Assembly.", 
+        "Project_Description": "Construction of new modern County Assembly", 
+        "Project_Name_or_Title": "County assembly", 
+        "Tender sum": "358,782,751.40", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6909005401/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571400170407jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6909005401/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571401483188jpg/orig.jpg", 
+        "is_in:village": "Mwotot", 
+        "iterator": 175, 
+        "name": "West Pokot County Assembly new building", 
+        "office": "government", 
+        "osm:id": "6909005401", 
+        "wb_pb:id": "18"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.11919, 
+          1.239865
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924413667", 
+      "properties": {
+        "Category": "PSIDU", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observation:\nThe construction is still ongoing.", 
+        "Project_Description": "Office block. Construction of commissioners office", 
+        "Project_Name_or_Title": "County Commissioner's Office", 
+        "Tender sum": "20,000,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924413667/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571904679510jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924413667/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571904814271jpg/orig.jpg", 
+        "is_in:village": "Mwotot", 
+        "iterator": 176, 
+        "name": "West Pokot County Commissioners Office", 
+        "office": "government", 
+        "osm:id": "6924413667", 
+        "wb_pb:id": "22"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.117475, 
+          1.2421267
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6909005396", 
+      "properties": {
+        "Category": "YSTGSS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observation:\nThe roofing, painting and floor is well done.\nImpact:\nThe pit latrine will cater for the tourism officers.", 
+        "Project_Description": "Construction of tourism office pit latrine", 
+        "Project_Name_or_Title": "County Tourism office", 
+        "Tender sum": "", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "access": "yes", 
+        "amenity": "toilets", 
+        "female": "yes", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6909005396/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571730593947jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6909005396/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571730870332jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571730889049.jpg", 
+        "is_in:village": "Mwotot", 
+        "iterator": 177, 
+        "male": "yes", 
+        "name": "West Pokot County Tourism Office pit latrine", 
+        "opening_hours": "Mo-Fr 6:00-18:00", 
+        "osm:id": "6909005396", 
+        "toilets:num_chambers": "3", 
+        "wb_pb:id": "126"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.119165, 
+          1.239625
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924413666", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observation:\nThe construction is ongoing.", 
+        "Project_Description": "Construction of education block", 
+        "Project_Name_or_Title": "Education and ICT administration office block", 
+        "Tender sum": "52,457,964.32", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924413666/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571904935517jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924413666/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571905171387jpg/orig.jpg", 
+        "image_project_inside": "1571905185588.jpg", 
+        "is_in:village": "Chewoyet", 
+        "iterator": 178, 
+        "name": "West Pokot County Department of Education Block", 
+        "office": "government", 
+        "osm:id": "6924413666", 
+        "wb_pb:id": "33"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              35.0386467, 
+              1.2193969
+            ], 
+            [
+              35.0387196, 
+              1.2193233
+            ], 
+            [
+              35.0387972, 
+              1.2194003
+            ], 
+            [
+              35.0387243, 
+              1.2194738
+            ], 
+            [
+              35.0386467, 
+              1.2193969
+            ]
+          ]
+        ], 
+        "type": "Polygon"
+      }, 
+      "id": "737862247", 
+      "properties": {
+        "Category": "PEAGRI", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Excellent.\nOnce operational, it will open more job opportunities for the community.\nThe sunflower produced will open up more market opportunities for farmers.", 
+        "Project_Description": "Completion of FADC Sunflower Oil processing project Development in Kapenguria", 
+        "Project_Name_or_Title": "FADC Sunflower Oil Processing Project", 
+        "Tender sum": "4,614,201.60", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/737862247/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571397440773jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/737862247/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571397635803jpg/orig.jpg", 
+        "is_in:village": "Keringet", 
+        "iterator": 179, 
+        "landuse": "other", 
+        "name": "FADC Sunflower Oil Processing Project", 
+        "osm:id": "737862247", 
+        "other_agriculture": "Sunflower oil processing project", 
+        "wb_pb:id": "220"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1169583, 
+          1.241875
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924413670", 
+      "properties": {
+        "Category": "OG", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observation:\nThe construction is almost complete.\nImpact:\nNot yet in use.", 
+        "Project_Description": "Proposed construction of an official residence houce block A within Governor's residence in kapenguria", 
+        "Project_Name_or_Title": "Governor's Residence", 
+        "Tender sum": "113,008,580.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924413670/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571903194284jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924413670/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571903629348jpg/orig.jpg", 
+        "is_in:village": "Mwotot", 
+        "iterator": 180, 
+        "name": "West Pokot Governor's Residence", 
+        "office": "government", 
+        "osm:id": "6924413670", 
+        "wb_pb:id": "39"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.058815, 
+          1.18747
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924165769", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The project is ongoing.", 
+        "Project_Description": "Proposed Renovation of Kanglikwan Dispensary", 
+        "Project_Name_or_Title": "Kanglikwan Dispensary", 
+        "Tender sum": "999,44.40", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "none", 
+        "health_facility:referrals": "KCRH", 
+        "health_facility:type": "dispensary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924165769/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571914839611jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924165769/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571914966863jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571914979306.jpg", 
+        "is_in:village": "Kangulikwan", 
+        "iterator": 181, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Kangulikwan Dispensary", 
+        "osm:id": "6924165769", 
+        "wb_pb:id": "232"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1217567, 
+          1.23626
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924413652", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observation:\nThe construction is at finishing point.\nImpact:\nNot yet in use.", 
+        "Project_Description": "Construction of isolation ward", 
+        "Project_Name_or_Title": "Kapenguria County Referral Hospital", 
+        "Tender sum": "6,000,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "hospital", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924413652/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571914285963jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924413652/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571914481279jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571914531189.jpg", 
+        "is_in:village": "Mwotot", 
+        "iterator": 182, 
+        "name": "Kapenguria referral hospital", 
+        "osm:id": "6924413652", 
+        "wb_pb:id": "51"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1216083, 
+          1.2368567
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924413654", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observation:\nThe construction is going on well.\nImpact:\nIt will assist in providing oxygen for patients under special care.", 
+        "Project_Description": "Construction of Kapenguria Referral Oxygen plant", 
+        "Project_Name_or_Title": "Kapenguria County Referral Hospital", 
+        "Tender sum": "1,037,794.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "hospital", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924413654/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571913172589jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924413654/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571913315322jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571915700216.jpg", 
+        "is_in:village": "Mwotot", 
+        "iterator": 183, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Kapenguria County Referral Hospital", 
+        "osm:id": "6924413654", 
+        "wb_pb:id": "56"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1183383, 
+          1.22868
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924662852", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "\nThe project is not yet in use.\nThe institution will enroll more teachers since accommodation will be available since the hostels are spacious.", 
+        "Project_Description": "Proposed construction of hostel at Kapenguria ECDE college", 
+        "Project_Name_or_Title": "Kapenguria ECDE Training College", 
+        "Tender sum": "", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "tertiary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924662852/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571993988884jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924662852/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571994645867jpg/orig.jpg", 
+        "is_in:village": "Chewotet", 
+        "iterator": 184, 
+        "name": "kapenguria ECDE College", 
+        "operator:type": "government", 
+        "osm:id": "6924662852", 
+        "wb_pb:id": "58"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.118685, 
+          1.2286433
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924662844", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observations:\nThe roofing has been done but the floor, windows and doors are not yet fixed.\nOnce the ECDE is complete, more teachers will be enrolled thus promoting early childhood education.", 
+        "Project_Description": "Construction of Multi Purpose Hall and ECDE College", 
+        "Project_Name_or_Title": "Kapenguria ECDE Training College", 
+        "Tender sum": "41,727,079.20", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "vocational", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924662844/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571994849048jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924662844/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571995194507jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571995221255.jpg", 
+        "is_in:village": "Chewoyet", 
+        "iterator": 185, 
+        "name": "Kapenguria ECDE Training College", 
+        "operator:description": "West pokot county government", 
+        "operator:type": "government", 
+        "osm:id": "6924662844", 
+        "wb_pb:id": "59"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1187367, 
+          1.2281883
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924662843", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observations:\nSome sections are not yet done.\nThe hall will accommodate more teachers thus reducing congestion since it will be spacious enough.", 
+        "Project_Description": "Proposed erection and completion of multi purpose hall and kitchen at ECDE college Kapenguria", 
+        "Project_Name_or_Title": "Kapenguria ECDE Training College", 
+        "Tender sum": "2,306,138.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "vocational", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924662843/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571995530356jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924662843/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571996604299jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571996619356.jpg", 
+        "is_in:village": "Chewoyet", 
+        "iterator": 186, 
+        "name": "Kapenguria ECDE College", 
+        "operator:description": "West pokot county government", 
+        "operator:type": "government", 
+        "osm:id": "6924662843", 
+        "wb_pb:id": "60"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.09378, 
+          1.2566383
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908909071", 
+      "properties": {
+        "Category": "PSIDU", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The the project is ongoing.\nThe facility provides ample working space and it is already in use by Wepesa and Agriculture office.", 
+        "Project_Description": "Construction of Kapenguria Sub County Office", 
+        "Project_Name_or_Title": "Kapenguria Sub County Office", 
+        "Tender sum": "19,786,143.20", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6908909071/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571730420331jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6908909071/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731189761jpg/orig.jpg", 
+        "is_in:village": "Makutano", 
+        "iterator": 187, 
+        "name": "Kapenguria Divisional Headquarters", 
+        "office": "administrative", 
+        "osm:id": "6908909071", 
+        "wb_pb:id": "237"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1117933, 
+          1.24322
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924662863", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The construction is still ongoing.\nThe foundation is good but the construction is taking too long.", 
+        "Project_Description": "Construction of Multi-Purpose Hall and Kitchen Vocational Training Centre - Phase 1", 
+        "Project_Name_or_Title": "Kapenguria Vocational Training Centre", 
+        "Tender sum": "", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "vocational", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924662863/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571990109368jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924662863/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571990926165jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571990969028.jpg", 
+        "is_in:village": "Chewoyet", 
+        "iterator": 188, 
+        "name": "Kapenguria Vocational Training Centre", 
+        "operator:description": "National Government", 
+        "operator:type": "government", 
+        "osm:id": "6924662863", 
+        "wb_pb:id": "69"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1189352, 
+          1.2905168
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908747810", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Construction is to the roof.\nUpon construction, the facility will promote maternal health service.", 
+        "Project_Description": "Construction of maternity wing at Kapkoris Dispensary", 
+        "Project_Name_or_Title": "Kapkoris Dispensary", 
+        "Tender sum": "2,500,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "health_facility:type": "dispensary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6908747810/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571744045506jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6908747810/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571744669251jpg/orig.jpg", 
+        "is_in:village": "Kapkoris", 
+        "iterator": 189, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Kapkoris Dispensary", 
+        "osm:id": "6908747810", 
+        "wb_pb:id": "75"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.11764, 
+          1.27959
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924227346", 
+      "properties": {
+        "Category": "WENR", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "It has not commenced.", 
+        "Project_Description": "Kapkoris Makutano water supply project", 
+        "Project_Name_or_Title": "Kapkoris Makutano Water Supply Project", 
+        "Tender sum": "3,995,460.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924227346/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571909177068jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924227346/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571909568504jpg/orig.jpg", 
+        "is_in:village": "Kapkoris", 
+        "iterator": 190, 
+        "man_made": "storage_tank", 
+        "name": "Kapkoris Makutano Water Project", 
+        "operator:funding": "county_government", 
+        "operator:type": "government", 
+        "osm:id": "6924227346", 
+        "wb_pb:id": "76"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1509633, 
+          1.2529954
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924227335", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Well built.\nPromotion of early childhood education.", 
+        "Project_Description": "Construction of Katiporot ECDE centre", 
+        "Project_Name_or_Title": "Katiporot ECDE", 
+        "Tender sum": "500,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "pre_primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924227335/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571992001525jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924227335/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571992171031jpg/orig.jpg", 
+        "is_in:village": "Katiporot", 
+        "iterator": 191, 
+        "name": "Katiporot ECDE", 
+        "operator:description": "County Government", 
+        "operator:type": "government", 
+        "osm:id": "6924227335", 
+        "wb_pb:id": "85"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0866983, 
+          1.3436033
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908794322", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "It's good but not yet completed.", 
+        "Project_Description": "Construction of Maternity Ward at Komol Dispensary", 
+        "Project_Name_or_Title": "Komol Dispensary", 
+        "Tender sum": "1,000,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "clinic", 
+        "dispensing": "no", 
+        "electricity": "none", 
+        "health_facility:type": "dispensary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6908794322/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571386100998jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6908794322/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571386268194jpg/orig.jpg", 
+        "is_in:village": "Komol", 
+        "iterator": 192, 
+        "medical_service:family_planning": "no", 
+        "name": "Komol Dispensary", 
+        "osm:id": "6908794322", 
+        "wb_pb:id": "88"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0869717, 
+          1.34247
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908794320", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "One classroom is completed and functioning while the other is on lintal.", 
+        "Project_Description": "Construction of ECDE Classroom at Komol Primary", 
+        "Project_Name_or_Title": "Komol ECDE", 
+        "Tender sum": "500,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6908794320/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571387317689jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6908794320/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571387499146jpg/orig.jpg", 
+        "is_in:village": "Komol", 
+        "iterator": 193, 
+        "name": "Komol Primary School", 
+        "operator:type": "government", 
+        "osm:id": "6908794320", 
+        "wb_pb:id": "89"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0930817, 
+          1.3795483
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908733063", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observation: The construction is almost to completion.\nImpact: The Kopoch ECDE centre promotes education to early childhood in the community.", 
+        "Project_Description": "Construction of ECDE classroom", 
+        "Project_Name_or_Title": "Kopoch ECDE centre", 
+        "Tender sum": "", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6908733063/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571401539146jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6908733063/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571402026227jpg/orig.jpg", 
+        "is_in:village": "Marsitot", 
+        "iterator": 194, 
+        "name": "Kopoch Primary School", 
+        "operator:description": "National Government", 
+        "operator:type": "government", 
+        "osm:id": "6908733063", 
+        "wb_pb:id": "136"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              35.03028, 
+              1.2677973
+            ], 
+            [
+              35.03044, 
+              1.2674643
+            ], 
+            [
+              35.0306353, 
+              1.2675582
+            ], 
+            [
+              35.0304547, 
+              1.267869
+            ], 
+            [
+              35.0302742, 
+              1.2678094
+            ], 
+            [
+              35.03028, 
+              1.2677973
+            ]
+          ]
+        ], 
+        "type": "Polygon"
+      }, 
+      "id": "739511941", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "The project is not in good conditions though it has not been operationalized.\nThe project will improve the health standards in the community since people won't have to travel for long in search of treatment.", 
+        "Project_Description": "Construction of Lokornoi Dispensary", 
+        "Project_Name_or_Title": "Lokornoi Dispensary", 
+        "Tender sum": "", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "clinic", 
+        "health_facility:type": "dispensary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/739511941/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571911348165jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/739511941/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571911470100jpg/orig.jpg", 
+        "is_in:village": "Lokornoi", 
+        "iterator": 195, 
+        "name": "Lokornoi Dispensary", 
+        "osm:id": "739511941", 
+        "wb_pb:id": "165"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1035367, 
+          1.3327967
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908794314", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The bricks were adequately layed.", 
+        "Project_Description": "Construction of ECDE Classroom", 
+        "Project_Name_or_Title": "Lokwamuke ECDE", 
+        "Tender sum": "500,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "pre_primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6908794314/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571391366127jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6908794314/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571391528123jpg/orig.jpg", 
+        "is_in:village": "Lokwamuke", 
+        "iterator": 196, 
+        "name": "Lokwamuke ECDE", 
+        "operator:description": "County Government of West Pokot", 
+        "operator:type": "cbo", 
+        "osm:id": "6908794314", 
+        "wb_pb:id": "91"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0502481, 
+          1.2813128
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924364294", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observations: Construction is completed but not yet fully furnished (it lacks windows, doors, blackboards, tables). Impact: the project has boost early childhood education in the community.", 
+        "Project_Description": "Construction of ECDE classroom", 
+        "Project_Name_or_Title": "Lopalal ECDE", 
+        "Tender sum": "800,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "pre_primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924364294/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571735128564jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924364294/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachmentsIMG20191022115547jpg143025jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/IMG_20191022_120008-14_30_41.jpg", 
+        "is_in:village": "Lopalal", 
+        "iterator": 197, 
+        "name": "Lopalal ECDE", 
+        "operator:description": "County Government", 
+        "operator:type": "government", 
+        "osm:id": "6924364294", 
+        "wb_pb:id": "271"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0922217, 
+          1.2572167
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924444597", 
+      "properties": {
+        "Category": "TIICD", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The painting has not been completed inside the market.\nLeakages on the ironsheets.\nInsecurity from neighborhood.\nThe market will promote trade since the market will have a variety of products to market.", 
+        "Project_Description": "Proposed Renovation of Makutano Market", 
+        "Project_Name_or_Title": "Makutano Market", 
+        "Tender sum": "8,900,880.50", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "marketplace", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924444597/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571911678940jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924444597/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571911909940jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571911920470.jpg", 
+        "is_in:village": "Makutano", 
+        "iterator": 198, 
+        "name": "Makutano Market.", 
+        "osm:id": "6924444597", 
+        "wb_pb:id": "275"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              35.0899458, 
+              1.2558921
+            ], 
+            [
+              35.0896937, 
+              1.2554255
+            ], 
+            [
+              35.0896132, 
+              1.2551091
+            ], 
+            [
+              35.0893021, 
+              1.2539292
+            ], 
+            [
+              35.0898653, 
+              1.2535108
+            ], 
+            [
+              35.0902998, 
+              1.2531408
+            ], 
+            [
+              35.0905412, 
+              1.2529853
+            ], 
+            [
+              35.0914049, 
+              1.2542349
+            ], 
+            [
+              35.091818, 
+              1.2548677
+            ], 
+            [
+              35.0918515, 
+              1.2549173
+            ], 
+            [
+              35.0914532, 
+              1.2551412
+            ], 
+            [
+              35.0909758, 
+              1.2553906
+            ], 
+            [
+              35.0905077, 
+              1.2556065
+            ], 
+            [
+              35.0899458, 
+              1.2558921
+            ]
+          ]
+        ], 
+        "type": "Polygon"
+      }, 
+      "id": "739532656", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Wiring is incomplete.\nThe drainage system is incomplete.\nThe wall itself is incomplete.\nThe lower side should be fenced due to insecurity issues and a gate to be built for the students to access water at Tanga Tanga Springs. It should be fenced by the same barrier no mesh as proposed.", 
+        "Project_Description": "Renovation and Fencing of Makutano Primary and Mnagei Secondary school", 
+        "Project_Name_or_Title": "Makutano Primary And Mnagei Secondary School", 
+        "Tender sum": "20,000,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "barrier": "wall", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/739532656/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907348672jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/739532656/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571907592480jpg/orig.jpg", 
+        "is_in:village": "Makutano", 
+        "iterator": 199, 
+        "name": "Makutano primary wall", 
+        "osm:id": "739532656", 
+        "wb_pb:id": "278"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.09359, 
+          1.2563967
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924444596", 
+      "properties": {
+        "Category": "TIICD", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The project quality is good for poultry.\nThe project will promote poultry farming.", 
+        "Project_Description": "Poultry Stalls at Makutano", 
+        "Project_Name_or_Title": "Makutano Stalls", 
+        "Tender sum": "350,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "marketplace", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924444596/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571912791253jpg/orig.jpg", 
+        "is_in:village": "Makutano", 
+        "iterator": 200, 
+        "name": "Makutano Stalls", 
+        "osm:id": "6924444596", 
+        "wb_pb:id": "281"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1125782, 
+          1.2477258
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6909005416", 
+      "properties": {
+        "Category": "LHPPUD", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observation: \nThe project is ongoing, the contractor on the site, materials already at the site, at lintel stage.\nImpact:\nNot in use.", 
+        "Project_Description": "Construction of modern fire station", 
+        "Project_Name_or_Title": "Modern fire station", 
+        "Tender sum": "3,000,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "fire_station", 
+        "description": "Modern Fire Station", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6909005416/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571385942629jpg/orig.jpg", 
+        "is_in:village": "Mwotot", 
+        "iterator": 201, 
+        "osm:id": "6909005416", 
+        "wb_pb:id": "94"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1175767, 
+          1.2388067
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924413646", 
+      "properties": {
+        "Category": "YSTGSS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observation  \nConstruction is at completion ", 
+        "Project_Description": "Construction of restaurant and cottages at Mtelo", 
+        "Project_Name_or_Title": "Mtelo restaurant and cottages", 
+        "Tender sum": "30,058.91", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924413646/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571918711524jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924413646/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571918980669jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571919006285.jpg", 
+        "is_in:village": "Mwotot", 
+        "iterator": 202, 
+        "name": "Mtelo Restaurant and Cottages", 
+        "osm:id": "6924413646", 
+        "tourism": "attraction", 
+        "wb_pb:id": "96"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0604567, 
+          1.27136
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924364297", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observation: The construction of the classroom has been done well, the roofing material and the building material is of good quality. Impact: the school will improve the standard of education and lower illiteracy level in community.", 
+        "Project_Description": "Construction of ECDE classrooms", 
+        "Project_Name_or_Title": "Nangrotum ECDE", 
+        "Tender sum": "800,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "pre_primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924364297/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571741658110jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924364297/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachmentsIMG20191022135411144848jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571741751675.jpg", 
+        "is_in:village": "Nangrotum", 
+        "iterator": 203, 
+        "name": "Nangrotum ECDE", 
+        "operator:description": "County government", 
+        "operator:type": "government", 
+        "osm:id": "6924364297", 
+        "wb_pb:id": "290"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              35.0241163, 
+              1.2340935
+            ], 
+            [
+              35.0246742, 
+              1.2338656
+            ], 
+            [
+              35.0249639, 
+              1.2337396
+            ], 
+            [
+              35.0251651, 
+              1.2336524
+            ], 
+            [
+              35.0252295, 
+              1.2336377
+            ], 
+            [
+              35.0254843, 
+              1.2338066
+            ], 
+            [
+              35.0252375, 
+              1.2342839
+            ], 
+            [
+              35.0247037, 
+              1.2352359
+            ], 
+            [
+              35.0239688, 
+              1.2357856
+            ], 
+            [
+              35.0238642, 
+              1.2358151
+            ], 
+            [
+              35.0233144, 
+              1.2357749
+            ], 
+            [
+              35.0231856, 
+              1.2357213
+            ], 
+            [
+              35.0241163, 
+              1.2340935
+            ]
+          ]
+        ], 
+        "type": "Polygon"
+      }, 
+      "id": "739511945", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The project ongoing.\nThe project once complete will improve education, it will enroll more students thus improving education standards in the community.", 
+        "Project_Description": "Construction of ECDE Classroom", 
+        "Project_Name_or_Title": "Pser ECDE", 
+        "Tender sum": "1,000,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/739511945/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571915217609jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/739511945/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571915360694jpg/orig.jpg", 
+        "is_in:village": "Pser", 
+        "iterator": 204, 
+        "name": "Pser Primary School", 
+        "operator:description": "National Government", 
+        "operator:type": "government", 
+        "osm:id": "739511945", 
+        "wb_pb:id": "298"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0842667, 
+          1.221095
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908909053", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The project is ongoing.", 
+        "Project_Description": "Construction of Psigirio Dispensary Staff Houses", 
+        "Project_Name_or_Title": "Psigirio Dispensary", 
+        "Tender sum": "3,999,562.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "health_facility:referrals": "Kapenguria Refferel Hospital", 
+        "health_facility:type": "dispensary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6908909053/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571746956262jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6908909053/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571747110136jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571747124374.jpg", 
+        "is_in:village": "Psigirio", 
+        "iterator": 205, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Psigirio Dispensary", 
+        "osm:id": "6908909053", 
+        "wb_pb:id": "302"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.110605, 
+          1.24099
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924662859", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The construction is partially complete.", 
+        "Project_Description": "Construction of St.Francis secondary school for visually impaired", 
+        "Project_Name_or_Title": "St.Francis Secondary School For The Visually Impaired", 
+        "Tender sum": "", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924662859/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571992610241jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924662859/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571993074528jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571993097296.jpg", 
+        "is_in:village": "Chewoyet", 
+        "iterator": 206, 
+        "name": "St Francis Primary School of Blind", 
+        "operator:type": "government", 
+        "osm:id": "6924662859", 
+        "wb_pb:id": "151"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1216683, 
+          1.23032
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924662850", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The project is at finishing stage.\nThe classrooms are yet to be painted.\nThe ECDE will promote early childhood education to people living around Kapenguria prisons.", 
+        "Project_Description": "Construction of ECDE classrooms at Kapenguria Prisons", 
+        "Project_Name_or_Title": "St.Peters Kapenguria Prison ECDE", 
+        "Tender sum": "", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "pre_primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924662850/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571998185996jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924662850/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571998386756jpg/orig.jpg", 
+        "is_in:village": "Chewoyet", 
+        "iterator": 207, 
+        "name": "St.Peters Kapenguria Prisons ECDE.", 
+        "operator:description": "County Government Of Westpokot.", 
+        "operator:type": "government", 
+        "osm:id": "6924662850", 
+        "wb_pb:id": "152"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            35.0927393, 
+            1.2874914
+          ], 
+          [
+            35.0927111, 
+            1.2875974
+          ], 
+          [
+            35.0926656, 
+            1.2878414
+          ], 
+          [
+            35.0923182, 
+            1.2888966
+          ], 
+          [
+            35.0919588, 
+            1.2898056
+          ], 
+          [
+            35.0916383, 
+            1.2904197
+          ], 
+          [
+            35.0913861, 
+            1.2912617
+          ], 
+          [
+            35.0909811, 
+            1.2927419
+          ], 
+          [
+            35.0905493, 
+            1.2943347
+          ], 
+          [
+            35.0901067, 
+            1.2961394
+          ], 
+          [
+            35.0899646, 
+            1.2967802
+          ], 
+          [
+            35.0900102, 
+            1.2969304
+          ], 
+          [
+            35.0901309, 
+            1.2970699
+          ], 
+          [
+            35.0902757, 
+            1.2971101
+          ], 
+          [
+            35.0904822, 
+            1.297102
+          ], 
+          [
+            35.0906002, 
+            1.2971449
+          ], 
+          [
+            35.0906995, 
+            1.2973192
+          ], 
+          [
+            35.0912601, 
+            1.2984374
+          ], 
+          [
+            35.0915658, 
+            1.2997058
+          ], 
+          [
+            35.0917938, 
+            1.3009098
+          ], 
+          [
+            35.0918555, 
+            1.3010814
+          ], 
+          [
+            35.0919038, 
+            1.3014032
+          ], 
+          [
+            35.0919226, 
+            1.3019234
+          ], 
+          [
+            35.0920406, 
+            1.3025911
+          ], 
+          [
+            35.092105, 
+            1.3030121
+          ], 
+          [
+            35.0921774, 
+            1.3032239
+          ], 
+          [
+            35.0922847, 
+            1.3034814
+          ], 
+          [
+            35.092569, 
+            1.3039104
+          ], 
+          [
+            35.0927862, 
+            1.3040927
+          ], 
+          [
+            35.0929177, 
+            1.3042402
+          ], 
+          [
+            35.0929338, 
+            1.3043663
+          ], 
+          [
+            35.0929016, 
+            1.3047041
+          ], 
+          [
+            35.0926468, 
+            1.3057982
+          ], 
+          [
+            35.0925958, 
+            1.3061709
+          ], 
+          [
+            35.0925449, 
+            1.3063774
+          ], 
+          [
+            35.0924483, 
+            1.3064981
+          ], 
+          [
+            35.0922793, 
+            1.3066724
+          ], 
+          [
+            35.0922632, 
+            1.3067957
+          ], 
+          [
+            35.0922713, 
+            1.3069271
+          ], 
+          [
+            35.0922391, 
+            1.3070612
+          ], 
+          [
+            35.0920996, 
+            1.3072945
+          ], 
+          [
+            35.092046, 
+            1.3074259
+          ], 
+          [
+            35.0920781, 
+            1.3075251
+          ], 
+          [
+            35.092113, 
+            1.307568
+          ], 
+          [
+            35.0921586, 
+            1.3075787
+          ], 
+          [
+            35.092333, 
+            1.3075519
+          ], 
+          [
+            35.0924268, 
+            1.307517
+          ], 
+          [
+            35.0925288, 
+            1.30745
+          ], 
+          [
+            35.0925931, 
+            1.3073883
+          ], 
+          [
+            35.0926602, 
+            1.3073696
+          ], 
+          [
+            35.0927353, 
+            1.3074071
+          ], 
+          [
+            35.0927809, 
+            1.3075278
+          ], 
+          [
+            35.0928238, 
+            1.3075921
+          ], 
+          [
+            35.0928855, 
+            1.3076082
+          ], 
+          [
+            35.0929418, 
+            1.3075975
+          ], 
+          [
+            35.0929901, 
+            1.3075626
+          ], 
+          [
+            35.0930625, 
+            1.3075492
+          ], 
+          [
+            35.0931242, 
+            1.307576
+          ], 
+          [
+            35.0931296, 
+            1.3076806
+          ], 
+          [
+            35.0930706, 
+            1.3078415
+          ], 
+          [
+            35.0929606, 
+            1.3080533
+          ], 
+          [
+            35.0929284, 
+            1.3081821
+          ], 
+          [
+            35.0928962, 
+            1.3086031
+          ], 
+          [
+            35.0927916, 
+            1.3087747
+          ], 
+          [
+            35.0925824, 
+            1.3089651
+          ], 
+          [
+            35.09251, 
+            1.3091206
+          ], 
+          [
+            35.0924966, 
+            1.3092842
+          ], 
+          [
+            35.0925502, 
+            1.3093431
+          ], 
+          [
+            35.0926092, 
+            1.3093566
+          ], 
+          [
+            35.0927326, 
+            1.3093458
+          ], 
+          [
+            35.0930223, 
+            1.3093083
+          ], 
+          [
+            35.0934863, 
+            1.3092707
+          ], 
+          [
+            35.0936446, 
+            1.3093271
+          ], 
+          [
+            35.093725, 
+            1.309437
+          ], 
+          [
+            35.0938779, 
+            1.3098339
+          ], 
+          [
+            35.094122, 
+            1.310287
+          ], 
+          [
+            35.0941783, 
+            1.3105686
+          ], 
+          [
+            35.0940925, 
+            1.3110218
+          ], 
+          [
+            35.0940227, 
+            1.311416
+          ], 
+          [
+            35.0940201, 
+            1.3116841
+          ], 
+          [
+            35.0940549, 
+            1.3118182
+          ], 
+          [
+            35.0945646, 
+            1.3122579
+          ], 
+          [
+            35.0946692, 
+            1.3123384
+          ], 
+          [
+            35.0947201, 
+            1.3123384
+          ], 
+          [
+            35.0948542, 
+            1.3123303
+          ], 
+          [
+            35.0949562, 
+            1.312333
+          ], 
+          [
+            35.0949776, 
+            1.3123545
+          ], 
+          [
+            35.0949696, 
+            1.3124135
+          ], 
+          [
+            35.0949159, 
+            1.3125073
+          ], 
+          [
+            35.0948113, 
+            1.3126387
+          ], 
+          [
+            35.0946933, 
+            1.3128586
+          ], 
+          [
+            35.0946262, 
+            1.3131241
+          ], 
+          [
+            35.0946021, 
+            1.3133198
+          ], 
+          [
+            35.0944921, 
+            1.3136094
+          ], 
+          [
+            35.094189, 
+            1.3141672
+          ], 
+          [
+            35.0939476, 
+            1.3148027
+          ], 
+          [
+            35.0938296, 
+            1.3152425
+          ], 
+          [
+            35.0937384, 
+            1.3153846
+          ], 
+          [
+            35.0934729, 
+            1.3157654
+          ], 
+          [
+            35.0933441, 
+            1.3160308
+          ], 
+          [
+            35.0932261, 
+            1.3163124
+          ], 
+          [
+            35.0931054, 
+            1.3164384
+          ], 
+          [
+            35.0928184, 
+            1.3166315
+          ], 
+          [
+            35.0916517, 
+            1.3175137
+          ], 
+          [
+            35.0914183, 
+            1.3177175
+          ], 
+          [
+            35.0912976, 
+            1.3178167
+          ], 
+          [
+            35.0911421, 
+            1.3178623
+          ], 
+          [
+            35.0909597, 
+            1.3179615
+          ], 
+          [
+            35.0906861, 
+            1.3181492
+          ], 
+          [
+            35.0903186, 
+            1.3184469
+          ], 
+          [
+            35.0901228, 
+            1.3186775
+          ]
+        ], 
+        "type": "LineString"
+      }, 
+      "id": "694202682", 
+      "properties": {
+        "Category": "RPWTI", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The road is good \nIt needs more culverts to help with water drainage during rainy seasons", 
+        "Project_Description": "Proposed opening of Sukut Kopoch Road", 
+        "Project_Name_or_Title": "Sukut Kopoch Emboasis Road", 
+        "Tender sum": "1,600,337.29", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "highway": "unclassified", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/694202682/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572432768291jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/694202682/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572432963240jpg/orig.jpg", 
+        "iterator": 208, 
+        "maintenance": "county_governm", 
+        "name": "Sukut emboasis koboch road", 
+        "osm:id": "694202682", 
+        "surface": "dirt", 
+        "wb_pb:id": "111", 
+        "width": "9"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0699233, 
+          1.3128833
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924297236", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "Physical observation:\nThe building is well constructed. \nImpact:\nThe residents around the area will be able to access medical services easily.", 
+        "Project_Description": "Construction of Tampalal Dispensary", 
+        "Project_Name_or_Title": "Tampalal Dispensary", 
+        "Tender sum": "", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "clinic", 
+        "dispensing": "no", 
+        "electricity": "none", 
+        "health_facility:referrals": "Kapenguria Referral", 
+        "health_facility:type": "dispensary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924297236/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571913544635jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924297236/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571913862620jpg/orig.jpg", 
+        "image_project_inside": "1571913902865.jpg", 
+        "is_in:village": "Tampalal", 
+        "iterator": 209, 
+        "medical_service:family_planning": "no", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "no", 
+        "medical_service:malaria": "no", 
+        "medical_service:pregnancy_test": "no", 
+        "name": "Tampalal Dispensary", 
+        "osm:id": "6924297236", 
+        "wb_pb:id": "308"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            35.0904322, 
+            1.2526294
+          ], 
+          [
+            35.0892913, 
+            1.2534518
+          ], 
+          [
+            35.0892055, 
+            1.2535108
+          ], 
+          [
+            35.0891706, 
+            1.2535672
+          ], 
+          [
+            35.0891304, 
+            1.2538782
+          ], 
+          [
+            35.0891289, 
+            1.2541115
+          ], 
+          [
+            35.0891277, 
+            1.2542885
+          ], 
+          [
+            35.0891197, 
+            1.2552914
+          ], 
+          [
+            35.0891465, 
+            1.2555515
+          ], 
+          [
+            35.0891519, 
+            1.2557258
+          ], 
+          [
+            35.0891411, 
+            1.2559082
+          ], 
+          [
+            35.0891278, 
+            1.2560529
+          ]
+        ], 
+        "type": "LineString"
+      }, 
+      "id": "694421306", 
+      "properties": {
+        "Category": "RPWTI", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Bushes has been cleared.\nRoad has been graded.\nProvide access to other areas.", 
+        "Project_Description": "Levelling", 
+        "Project_Name_or_Title": "TangaTanga-Town View-Lityei Road", 
+        "Tender sum": "2,059,928.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "highway": "unclassified", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/694421306/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572352324576jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/694421306/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572352569978jpg/orig.jpg", 
+        "iterator": 210, 
+        "maintenance": "county_government", 
+        "name": "TangaTanga Town View Lityei Road", 
+        "osm:id": "694421306", 
+        "surface": "earth", 
+        "wb_pb:id": "310", 
+        "width": "12 metres"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          34.977055, 
+          1.2631183
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908782539", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Adequately constructed where teachers will be helped stay within school vicinity.", 
+        "Project_Description": "Construction of teachers quarters at Mortome primary school", 
+        "Project_Name_or_Title": "Teachers quarters", 
+        "Tender sum": "", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education_gender_type": "mixed", 
+        "education_government_registere": "moe", 
+        "education_type": "primary", 
+        "image_pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571735314332.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571735843966.jpg", 
+        "is_in_village": "Mortome", 
+        "iterator": 211, 
+        "name": "Mortome primary school", 
+        "operator_type": "government", 
+        "osm:id": "6908782539", 
+        "wb_pb:id": "160"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1011133, 
+          1.27399
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924227341", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "The building is partially complete.\nIt lacks the necessary stationary and hence not conducive for learning.", 
+        "Project_Description": "Construction of ECDE classroom", 
+        "Project_Name_or_Title": "Tilak ECDE", 
+        "Tender sum": "1,000,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:type": "primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924227341/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571916457152jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924227341/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571916675986jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571916723112.jpg", 
+        "is_in:village": "Tilak", 
+        "iterator": 212, 
+        "name": "Tilak primary school", 
+        "operator:description": "National Government", 
+        "operator:type": "government", 
+        "osm:id": "6924227341", 
+        "wb_pb:id": "114"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1162583, 
+          1.2289633
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924662853", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observations:\nThe project is ongoing. \nThe project will promote early childhood education which will also promote skills and knowledge.", 
+        "Project_Description": "Construction of Tomena Primary ECDE", 
+        "Project_Name_or_Title": "Tomena ECDE", 
+        "Tender sum": "400,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "pre_primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924662853/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571992987538jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924662853/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571993568264jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments1571993597874.jpg", 
+        "is_in:village": "Chewoyet", 
+        "iterator": 213, 
+        "name": "Tomena Primary ECDE", 
+        "operator:description": "County government of West Pokot", 
+        "operator:type": "government", 
+        "osm:id": "6924662853", 
+        "wb_pb:id": "118"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0912183, 
+          1.283375
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924297232", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "Physical observation:\nThe materials used in the construction were of good quality. \nImpact: \nThe new constructed building has helped the pupils because initially they were taught in church and they had no enough facility. Also it will increase enrolment of students.", 
+        "Project_Description": "Construction of Totum ECDE", 
+        "Project_Name_or_Title": "Totum ECDE", 
+        "Tender sum": "800,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "pre_primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924297232/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571922513119jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924297232/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571922958341jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571923000807.jpg", 
+        "is_in:village": "Totum", 
+        "iterator": 214, 
+        "name": "Totum ECDE", 
+        "operator:description": "County Government of West Pokot", 
+        "operator:type": "government", 
+        "osm:id": "6924297232", 
+        "wb_pb:id": "316"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0905683, 
+          1.2834233
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924297231", 
+      "properties": {
+        "Category": "YSTGSS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observation: \nThe levelling has not been done to a satisfactory level.\nImpact:\nOnce done the playground will improve extra curriculum activities in the school.", 
+        "Project_Description": "Field levelling and grading of Totum Primary School Playground", 
+        "Project_Name_or_Title": "Totum Primary School", 
+        "Tender sum": "500,000.00", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924297231/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571923162008jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924297231/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571923524319jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571923539368.jpg", 
+        "is_in:village": "Totum", 
+        "iterator": 215, 
+        "name": "Totum Primary School-Playground", 
+        "operator:description": "National Government", 
+        "operator:type": "government", 
+        "osm:id": "6924297231", 
+        "wb_pb:id": "317"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            35.1128224, 
+            1.2480002
+          ], 
+          [
+            35.1125783, 
+            1.2484775
+          ]
+        ], 
+        "type": "LineString"
+      }, 
+      "id": "737868496", 
+      "properties": {
+        "Category": "LHPPUD", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observation \nGeneral finishing not yet done \nThe wall has not been painted\nThe security light hasn't been stalled\nImpact \nThe wall has provided good barrier to the office.", 
+        "Project_Description": "Construction of perimeter wall at Ardhi house", 
+        "Project_Name_or_Title": "Ardhi House office", 
+        "Tender sum": "", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "barrier": "wall", 
+        "description": "Ardhi Pouse perimeter Wall", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/737868496/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571384658077jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/737868496/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571385450319jpg/orig.jpg", 
+        "is_in:village": "Mwotot", 
+        "iterator": 216, 
+        "osm:id": "737868496", 
+        "wb_pb:id": "5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1205576, 
+          1.2402035
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6909005281", 
+      "properties": {
+        "Category": "CA", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "Physical observation:\nThe floor and the are not yet done.\nThe walls have not been painted.\nInstallation of electricity has not been done.\nThe stairs are not yet done.", 
+        "Project_Description": "Construction of West Pokot County Assembly restaurant", 
+        "Project_Name_or_Title": "County Assembly", 
+        "Tender sum": "", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6909005281/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571745282276jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6909005281/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571745948779jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571746136173.jpg", 
+        "is_in:village": "Mwotot", 
+        "iterator": 217, 
+        "name": "West Pokot County Assembly Restaurant", 
+        "office": "government", 
+        "osm:id": "6909005281", 
+        "wb_pb:id": "19"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1295033, 
+          1.4064083
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908733061", 
+      "properties": {
+        "Category": "WENR", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observation:\nThe project has been constructed with solar panel stands but the panels has not yet been installed.\nThe metal stands for the tanks has been installed.\n\nImpact:\nOnce this project is complete, the solar panel will help to pump water to the tanks which will supply water to the institution and community at large.", 
+        "Project_Description": "Installation of solar panel Emboasis Secondary school Borehole", 
+        "Project_Name_or_Title": "Emboasis Secondary School Borehole", 
+        "Tender sum": "1,722,750.00", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "secondary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6908733061/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571732881337jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6908733061/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571732688556jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571732714424.jpg", 
+        "is_in:village": "Kokpech", 
+        "iterator": 218, 
+        "name": "ELCK Emboasis Secondary School", 
+        "operator:description": "National Government", 
+        "operator:type": "government", 
+        "osm:id": "6908733061", 
+        "wb_pb:id": "37"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.08168, 
+          1.2787817
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6948364837", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "Physical observation: There is no construction going on, the project stalled due to land dispute.\nImpact: If the maternity is completed, it will provide maternity services to the community.", 
+        "Project_Description": "Construction of maternity wing at Kishaunet dispensary", 
+        "Project_Name_or_Title": "Kishaunet Dispensary", 
+        "Tender sum": "5,930,000.00", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "always", 
+        "health_facility:referrals": "Kapenguria Referral Hospital", 
+        "health_facility:type": "dispensary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6948364837/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571999130069jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6948364837/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571999400843jpg/orig.jpg", 
+        "is_in:village": "Kishaunet", 
+        "iterator": 219, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Kishaunet Dispensary", 
+        "osm:id": "6948364837", 
+        "wb_pb:id": "247"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0905567, 
+          1.254835
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924444599", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The ironsheets are well but the windows and floors need to be completed and the contractor should be recalled. The ECDE will promote early childhood education.", 
+        "Project_Description": "Completion of Makutano ECDE Centre", 
+        "Project_Name_or_Title": "Makutano ECDE", 
+        "Tender sum": "", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "amenity": "school", 
+        "education:type": "primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924444599/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571982536829jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924444599/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571909019013jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571909062311.jpg", 
+        "is_in:village": "Makutano", 
+        "iterator": 220, 
+        "name": "Makutano Primary", 
+        "operator:description": "National Government", 
+        "osm:id": "6924444599", 
+        "wb_pb:id": "146"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.0899817, 
+          1.2877833
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924297229", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observation: The materials used for foundation are of good quality. Impact: The institution will improve academic standards in the county.", 
+        "Project_Description": "Construction of Totum polytechnic and proposed construction of two classrooms and administration block at Totum vocational training  centre in West Pokot county", 
+        "Project_Name_or_Title": "Totum Vocational Training Centre", 
+        "Tender sum": "", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "vocational", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924297229/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571924053519jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924297229/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571924390893jpg/orig.jpg", 
+        "image_project_inside": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1571924408872.jpg", 
+        "is_in:village": "Totum", 
+        "iterator": 221, 
+        "name": "Totum polytechnic", 
+        "operator:description": "County government", 
+        "operator:type": "government", 
+        "osm:id": "6924297229", 
+        "wb_pb:id": "318"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              35.1265417, 
+              1.4160434
+            ], 
+            [
+              35.1266015, 
+              1.4156742
+            ], 
+            [
+              35.1267042, 
+              1.4156908
+            ], 
+            [
+              35.1266444, 
+              1.41606
+            ], 
+            [
+              35.1265417, 
+              1.4160434
+            ]
+          ]
+        ], 
+        "type": "Polygon"
+      }, 
+      "id": "737849799", 
+      "properties": {
+        "Category": "PEAGRI", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "Physical observation: The cattle dip has stagnant Acaricide.\nImpact: The cattle dip has been abandoned for sometime and is not under use at the moment.\n", 
+        "Project_Description": "Proposed Rehabilitation of Emboasis Cattle Dip", 
+        "Project_Name_or_Title": "Emboasis Cattle Dip", 
+        "Tender sum": "392,080.00", 
+        "What_is_the_project_s_apparent_status": "not_yet_started", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/737849799/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571394121541jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/737849799/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571394589876jpg/orig.jpg", 
+        "is_in:village": "Lotongot", 
+        "iterator": 222, 
+        "landuse": "livestock_dip", 
+        "man_made": "livestock_dip", 
+        "name": "Emboasis Cattle Dip", 
+        "osm:id": "737849799", 
+        "wb_pb:id": "34"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.1269783, 
+          1.4129883
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908733072", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "Physical observation: The construction has not started.\nImpact: The project has been delayed for too long.", 
+        "Project_Description": "Construction of Emboasis staff house", 
+        "Project_Name_or_Title": "Emboasis Dispensary", 
+        "Tender sum": "2,500,000.00", 
+        "What_is_the_project_s_apparent_status": "not_yet_started", 
+        "amenity": "hospital", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6908733072/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571389774547jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6908733072/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571391007520jpg/orig.jpg", 
+        "is_in:village": "Lotongot", 
+        "iterator": 223, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:immunizations": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Emboasis Dispensary", 
+        "osm:id": "6908733072", 
+        "wb_pb:id": "35"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.051975, 
+          1.2509717
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908475308", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Adequate since the materials are already in site and ready for construction.\nOnce the facility is complete, it will reduce cases of mother and child mortality.\nWomen will not have to travel long distances since the facility will be closer to them.", 
+        "Project_Description": "Maternity Wing At Kaplelachkoror Dispensary", 
+        "Project_Name_or_Title": "Kaplelachkoror Dispensary", 
+        "Tender sum": "2,300,000.00", 
+        "What_is_the_project_s_apparent_status": "not_yet_started", 
+        "amenity": "clinic", 
+        "dispensing": "no", 
+        "electricity": "none", 
+        "health_facility:type": "dispensary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6908475308/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571395889900jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6908475308/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571396588034jpg/orig.jpg", 
+        "is_in:village": "Kaplelach-Koror", 
+        "iterator": 224, 
+        "medical_service:family_planning": "no", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "no", 
+        "medical_service:malaria": "no", 
+        "medical_service:pregnancy_test": "no", 
+        "name": "Kaplelach-Koror Dispensary", 
+        "osm:id": "6908475308", 
+        "wb_pb:id": "241"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.048385, 
+          1.2931433
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6948364842", 
+      "properties": {
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "Physical observation: The land is there but the place is still bushy, nothing has been done so far. Impact: Once the project is complete, it will provide health facilities to the community.", 
+        "Project_Description": "Construction of Kodongou dispensary at Kamito girls secondary piece of land", 
+        "Project_Name_or_Title": "Kodongou Dispensary", 
+        "Tender sum": "127,721.20", 
+        "What_is_the_project_s_apparent_status": "not_yet_started", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6948364842/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571989861048jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6948364842/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571990635421jpg/orig.jpg", 
+        "is_in:village": "Kodongou", 
+        "iterator": 225, 
+        "name": "Kodongou Primary School", 
+        "operator:description": "ELCK", 
+        "operator:type": "government", 
+        "osm:id": "6948364842", 
+        "wb_pb:id": "253"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.133545, 
+          1.34514
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924207852", 
+      "properties": {
+        "Category": "ETT", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Physical observations: The proposed site is yet to be construction.\nImpact: When the project is complete, it will promote smooth learning of early childhood education.", 
+        "Project_Description": "Construction of ECDE classroom", 
+        "Project_Name_or_Title": "Putor ECDE", 
+        "Tender sum": "", 
+        "What_is_the_project_s_apparent_status": "not_yet_started", 
+        "amenity": "school", 
+        "education:gender_type": "mixed", 
+        "education:government_registered": "moe", 
+        "education:type": "primary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6924207852/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571910354338jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6924207852/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571910883052jpg/orig.jpg", 
+        "is_in:village": "Putor", 
+        "iterator": 226, 
+        "name": "Putor Primary School", 
+        "operator:description": "National Government", 
+        "operator:type": "government", 
+        "osm:id": "6924207852", 
+        "wb_pb:id": "147"
+      }, 
+      "type": "Feature"
     }
   ], 
   "type": "FeatureCollection"

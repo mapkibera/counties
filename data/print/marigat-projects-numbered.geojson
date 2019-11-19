@@ -1921,6 +1921,433 @@
         "wb_pb:id": "153"
       }, 
       "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.88607, 
+          0.340183
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6798591056", 
+      "properties": {
+        "Budgeted sum": "2,000,000.00", 
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Building is under renovation and after completion it will improve the quality of the structure. The use of the facility will help reduce mortality rate in the area.", 
+        "Project_Description": "Renovation of maternity wing", 
+        "Project_Name_or_Title": "Bekibon dispensary-maternity", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "often", 
+        "health_facility:referrals": "Kabarnet referral hospital", 
+        "health_facility:type": "dispensary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6798591056/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568118655277jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6798591056/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568195113388jpg/orig.jpg", 
+        "is_in:village": "Bekibon", 
+        "iterator": 53, 
+        "medical_service:family_planning": "no", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "no", 
+        "medical_service:pregnancy_test": "no", 
+        "name": "Bekibon Maternity Renovation", 
+        "osm:id": "6798591056", 
+        "wb_pb:id": "140"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9794883, 
+          0.4680133
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6807606135", 
+      "properties": {
+        "Budgeted sum": "500,000.00", 
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Project is still under construction, once complete it will be able to accomodate more staff", 
+        "Project_Description": "Staff house", 
+        "Project_Name_or_Title": "Kapkwei Dispensary", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "clinic", 
+        "dispensing": "yes", 
+        "electricity": "sometime", 
+        "health_facility:type": "dispensary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6807606135/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568785076778jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6807606135/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568821884863jpg/orig.jpg", 
+        "is_in:village": "Kapkwei", 
+        "iterator": 54, 
+        "medical_service:family_planning": "yes", 
+        "medical_service:general_medical_services": "yes", 
+        "medical_service:malaria": "yes", 
+        "medical_service:pregnancy_test": "yes", 
+        "name": "Kapkwei Dispensary", 
+        "osm:id": "6807606135", 
+        "wb_pb:id": "129"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.98487, 
+          0.4774237
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6788450194", 
+      "properties": {
+        "Budgeted sum": "2,500,000.00", 
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Construction is still going on. They have already put on the roof, and they are still painting the wall. Windows have already been installed but the fencing of the compound has not yet been done.", 
+        "Project_Description": "Construction of Marigat Sub County Wards", 
+        "Project_Name_or_Title": "Marigat Sub County Hospital", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "hospital", 
+        "dispensing": "no", 
+        "electricity": "none", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6788450194/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568033412053jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6788450194/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568033967704jpg/orig.jpg", 
+        "is_in:village": "Town A", 
+        "iterator": 55, 
+        "medical_service:family_planning": "no", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "no", 
+        "medical_service:malaria": "no", 
+        "medical_service:pregnancy_test": "no", 
+        "name": "Sub County Referral Hospital", 
+        "osm:id": "6788450194", 
+        "wb_pb:id": "128"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9849, 
+          0.477392
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6851133550", 
+      "properties": {
+        "Budgeted sum": "4,000,000.00", 
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "It is spacious but needs to be renovated", 
+        "Project_Description": "Proposed erection and completion of ward block", 
+        "Project_Name_or_Title": "Marigat Sub County Hospital", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "hospital", 
+        "dispensing": "no", 
+        "electricity": "none", 
+        "health_facility:referrals": "Kabarnet Refferal Hospital", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6851133550/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570000239365jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6851133550/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570000414885jpg/orig.jpg", 
+        "is_in:village": "Town A", 
+        "iterator": 56, 
+        "medical_service:family_planning": "no", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "no", 
+        "medical_service:malaria": "no", 
+        "medical_service:pregnancy_test": "no", 
+        "name": "Marigat Sub County Hospital Ward Block", 
+        "osm:id": "6851133550", 
+        "wb_pb:id": "138"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.98454, 
+          0.475735
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6798389725", 
+      "properties": {
+        "Budgeted sum": "3,000,000.00", 
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "It needs more man power to be completed", 
+        "Project_Description": "Equipping of Mortuary block", 
+        "Project_Name_or_Title": "Marigat Sub County Hospital", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "hospital", 
+        "dispensing": "no", 
+        "fixme": "mortuary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6798389725/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568276275179jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6798389725/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568279207012jpg/orig.jpg", 
+        "is_in:village": "Town A", 
+        "iterator": 57, 
+        "medical_service:family_planning": "no", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "no", 
+        "medical_service:malaria": "no", 
+        "medical_service:pregnancy_test": "no", 
+        "name": "Marigat Sub County Mortuary", 
+        "osm:id": "6798389725", 
+        "shop": "funeral_directors", 
+        "wb_pb:id": "142"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.98454, 
+          0.475735
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6798389725", 
+      "properties": {
+        "Budgeted sum": "3,000,000.00", 
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "It needs more man power to be completed", 
+        "Project_Description": "Equipping of Mortuary block", 
+        "Project_Name_or_Title": "Marigat Sub County Hospital", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "hospital", 
+        "dispensing": "no", 
+        "fixme": "mortuary", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6798389725/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568276275179jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6798389725/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568279207012jpg/orig.jpg", 
+        "is_in:village": "Town A", 
+        "iterator": 58, 
+        "medical_service:family_planning": "no", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "no", 
+        "medical_service:malaria": "no", 
+        "medical_service:pregnancy_test": "no", 
+        "name": "Marigat Sub County Mortuary", 
+        "osm:id": "6798389725", 
+        "shop": "funeral_directors", 
+        "wb_pb:id": "142"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.98518, 
+          0.47717
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6851133551", 
+      "properties": {
+        "Budgeted sum": "2,500,000.00", 
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Lacks enough man power", 
+        "Project_Description": "Construction of Septic tank", 
+        "Project_Name_or_Title": "Marigat Sub County Hospital", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "hospital", 
+        "dispensing": "no", 
+        "health_facility:referrals": "Kabarnet Referral Hospital", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6851133551/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570000865185jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6851133551/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570000846382jpg/orig.jpg", 
+        "is_in:village": "Town A", 
+        "iterator": 59, 
+        "medical_service:family_planning": "no", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "no", 
+        "medical_service:malaria": "no", 
+        "medical_service:pregnancy_test": "no", 
+        "name": "Marigat Sub County Hospital Septic Tank", 
+        "osm:id": "6851133551", 
+        "wb_pb:id": "232"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.8171322, 
+          0.5585011
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6799041929", 
+      "properties": {
+        "Budgeted sum": "1,380,000.00", 
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The project needs taps to control spillage and installation of a tank to store water.", 
+        "Project_Description": "Water pipeline extension", 
+        "Project_Name_or_Title": "Sogon water project", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "drinking_water", 
+        "description": "water_tap", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6799041929/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568374755735jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6799041929/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568374995966jpg/orig.jpg", 
+        "is_in:village": "Sogon", 
+        "iterator": 60, 
+        "name": "Sogon Water Project", 
+        "operational_status": "Operational", 
+        "operator:funding": "County_government", 
+        "operator:type": "government", 
+        "osm:id": "6799041929", 
+        "wb_pb:id": "118"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.9814, 
+          0.4726
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6807413173", 
+      "properties": {
+        "Budgeted sum": "", 
+        "Category": "SCG", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "1.The foundation of the building has already been done and the land has been fenced\nTown A,yes,marigat,marigat,yatoi,,,,,,,,,,,,,,,HQ,Honey stall,Construction Of Honey Stalls,,,,1", 
+        "Project_Description": "Construction Of Youth Empowerment Center", 
+        "Project_Name_or_Title": "Youth Empowerment Centre", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "community_centre", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6807413173/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568709474853jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6807413173/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568709895471jpg/orig.jpg", 
+        "is_in:village": "Town A", 
+        "iterator": 61, 
+        "name": "Youth Empowerment Centre", 
+        "osm:id": "6807413173", 
+        "wb_pb:id": "229"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            35.9812278, 
+            0.4738551
+          ], 
+          [
+            35.9819519, 
+            0.4734152
+          ], 
+          [
+            35.98266, 
+            0.472793
+          ], 
+          [
+            35.9823757, 
+            0.4723209
+          ], 
+          [
+            35.9821182, 
+            0.471924
+          ], 
+          [
+            35.9815335, 
+            0.472514
+          ], 
+          [
+            35.9806108, 
+            0.4729164
+          ], 
+          [
+            35.9812278, 
+            0.4738551
+          ]
+        ], 
+        "type": "LineString"
+      }, 
+      "id": "731560946", 
+      "properties": {
+        "Budgeted sum": "", 
+        "Category": "SCG", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "The materials used for fencing is not of high standard.", 
+        "Project_Description": "Fencing", 
+        "Project_Name_or_Title": "Youth Empowerment Centre", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "barrier": "fence", 
+        "fence_type": "wire", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/731560946/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1569997673559jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/731560946/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1569997863738jpg/orig.jpg", 
+        "iterator": 62, 
+        "name": "Youth Empowerment Centre Fence", 
+        "osm:id": "731560946", 
+        "wb_pb:id": "233"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.85101, 
+          0.280598
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6798591059", 
+      "properties": {
+        "Budgeted sum": "", 
+        "Category": "WI", 
+        "In_your_opinion_is_the_project_quality": "poor", 
+        "Please_add_any_details_about_y": "The project isn't working because the transformer isn't working. If supplied with solar panels or exchange transformer, the borehole will work and supply water to Katkamuma ECDE.", 
+        "Project_Description": "Fixing power supply because transformer is not working", 
+        "Project_Name_or_Title": "Katkamuma borehole", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "image": "https://mapkibera.github.io/counties/data/images/cache/6798591059/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568115050273jpg/orig.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6798591059/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568115363895jpg/orig.jpg", 
+        "is_in:village": "Katkamuma", 
+        "iterator": 63, 
+        "man_made": "borehole", 
+        "name": "Katkamuma Borehole", 
+        "operational_status": "non_operational", 
+        "operator:description": "Drilling and equipping", 
+        "operator:funding": "County_government", 
+        "operator:type": "cbo", 
+        "osm:id": "6798591059", 
+        "wb_pb:id": "110"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.98487, 
+          0.4774133
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6979687003", 
+      "properties": {
+        "Budgeted sum": "", 
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "excellent", 
+        "Please_add_any_details_about_y": "The structure of the buildings are of good quality also it's spacious to accomodate the community", 
+        "Project_Description": "Construction of General wards", 
+        "Project_Name_or_Title": "Sub County Referral Hospital", 
+        "What_is_the_project_s_apparent_status": "stalled", 
+        "amenity": "hospital", 
+        "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568033412053.jpg", 
+        "image:project": "https://mapkibera.github.io/counties/data/images/cache/6979687003/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568033967704jpg/orig.jpg", 
+        "is_in:village": "Town A", 
+        "iterator": 64, 
+        "name": "Sub County Referral Hospital", 
+        "osm:id": "6979687003", 
+        "wb_pb:id": "146"
+      }, 
+      "type": "Feature"
     }
   ], 
   "type": "FeatureCollection"
