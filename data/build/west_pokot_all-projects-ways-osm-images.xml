@@ -1,6 +1,6 @@
 <osm generator="Overpass API 0.7.55.1009 5e627b63" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-19T02:29:02Z" />
+<meta osm_base="2019-11-19T02:58:02Z" />
 
   <bounds maxlat="1.4225900" maxlon="35.1782300" minlat="1.1610400" minlon="34.9640000" />
 
@@ -3603,7 +3603,7 @@
   <node changeset="77115764" id="6979247309" lat="1.2384368" lon="35.1200205" timestamp="2019-11-15T09:42:52Z" uid="4570042" user="Peter Agenga" version="1" />
   <node changeset="77115764" id="6979247310" lat="1.2381539" lon="35.1197514" timestamp="2019-11-15T09:42:52Z" uid="4570042" user="Peter Agenga" version="1" />
   <node changeset="77115764" id="6979247311" lat="1.2384533" lon="35.1194363" timestamp="2019-11-15T09:42:52Z" uid="4570042" user="Peter Agenga" version="1" />
-  <way changeset="76484582" id="252283602" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="6">
+  <way changeset="77253575" id="252283602" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="7">
     <nd ref="2583717319" />
     <nd ref="6555843784" />
     <nd ref="2583717326" />
@@ -3651,15 +3651,15 @@
     <nd ref="6555843763" />
     <nd ref="2583717535" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350038499.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350188140.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/252283602/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572350038499jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/252283602/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572350188140jpg/orig.jpg" />
     <tag k="maintenance" v="county_governm" />
     <tag k="name" v="Murkwijit-Tomkokalya Road" />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="288" />
     <tag k="width" v="12" />
   </way>
-  <way changeset="76484582" id="252283615" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="5">
+  <way changeset="77253575" id="252283615" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="6">
     <nd ref="2583717242" />
     <nd ref="6555509676" />
     <nd ref="6555509677" />
@@ -3896,15 +3896,15 @@
     <nd ref="2583717918" />
     <nd ref="2583717924" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572348898133.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572349083244.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/252283615/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572348898133jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/252283615/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572349083244jpg/orig.jpg" />
     <tag k="maintenance" v="county_governm" />
     <tag k="name" v="Keringet-Kanglikwan-Murkwijit Road" />
     <tag k="surface" v="dirt" />
     <tag k="wb_pb:id" v="286" />
     <tag k="width" v="15" />
   </way>
-  <way changeset="77125579" id="252283627" timestamp="2019-11-15T12:31:19Z" uid="4570042" user="Peter Agenga" version="5">
+  <way changeset="77253575" id="252283627" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="6">
     <nd ref="2583717689" />
     <nd ref="2583717678" />
     <nd ref="2583717662" />
@@ -4023,15 +4023,15 @@
     <nd ref="6555518814" />
     <nd ref="2583717941" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340796951.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340980000.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/252283627/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572340796951jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/252283627/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572340980000jpg/orig.jpg" />
     <tag k="maintenance" v="county_governm" />
     <tag k="name" v="Kamorrow-Kanglikwan Road" />
     <tag k="surface" v="dirt" />
     <tag k="wb_pb:id" v="228" />
     <tag k="width" v="12" />
   </way>
-  <way changeset="76484064" id="252283633" timestamp="2019-11-01T09:28:15Z" uid="10380870" user="loitalima" version="5">
+  <way changeset="77253575" id="252283633" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="6">
     <nd ref="2578072142" />
     <nd ref="6532179174" />
     <nd ref="6532179168" />
@@ -4124,8 +4124,8 @@
     <nd ref="6537083571" />
     <nd ref="2583719215" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347428636.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347681951.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/252283633/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572347428636jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/252283633/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572347681951jpg/orig.jpg" />
     <tag k="maintenance" v="county_government" />
     <tag k="name" v="Kaprom _ Roponywo road" />
     <tag k="surface" v="earth" />
@@ -4219,7 +4219,7 @@
     <tag k="wb_pb:id" v="291" />
     <tag k="width" v="9" />
   </way>
-  <way changeset="76484210" id="693695937" timestamp="2019-11-01T09:31:37Z" uid="4873427" user="shazomojah" version="2">
+  <way changeset="77253575" id="693695937" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="3">
     <nd ref="6936768266" />
     <nd ref="6936768265" />
     <nd ref="6936768264" />
@@ -4342,15 +4342,15 @@
     <nd ref="6936768148" />
     <nd ref="6936768147" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344077605.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344459914.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/693695937/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572344077605jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/693695937/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572344459914jpg/orig.jpg" />
     <tag k="maintenance" v="kerra" />
     <tag k="name" v="Kamito-Kamayech Serowo Road" />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="226" />
     <tag k="width" v="9" />
   </way>
-  <way changeset="76484387" id="694202682" timestamp="2019-11-01T09:35:19Z" uid="10380888" user="Hillarious" version="4">
+  <way changeset="77253575" id="694202682" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="5">
     <nd ref="6517509830" />
     <nd ref="6517509829" />
     <nd ref="6517509828" />
@@ -4463,15 +4463,15 @@
     <nd ref="6517538667" />
     <nd ref="6517538666" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572432768291.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572432963240.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/694202682/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572432768291jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/694202682/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572432963240jpg/orig.jpg" />
     <tag k="maintenance" v="county_governm" />
     <tag k="name" v="Sukut emboasis koboch road" />
     <tag k="surface" v="dirt" />
     <tag k="wb_pb:id" v="111" />
     <tag k="width" v="9" />
   </way>
-  <way changeset="76485146" id="694206759" timestamp="2019-11-01T09:52:11Z" uid="10380766" user="Isaac Lonika" version="3">
+  <way changeset="77253575" id="694206759" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="4">
     <nd ref="2583719112" />
     <nd ref="6936796617" />
     <nd ref="6517557051" />
@@ -4741,15 +4741,15 @@
     <nd ref="6936796400" />
     <nd ref="6936796399" />
     <tag k="highway" v="residential" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344186262.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344687835.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/694206759/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572344186262jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/694206759/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572344687835jpg/orig.jpg" />
     <tag k="maintenance" v="county_government" />
     <tag k="name" v="Kapkoris-Chepkechir-Emboasis" />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="78" />
     <tag k="width" v="15 metres" />
   </way>
-  <way changeset="76489469" id="694421306" timestamp="2019-11-01T11:11:23Z" uid="10380936" user="CHENAA" version="3">
+  <way changeset="77253575" id="694421306" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="4">
     <nd ref="1778245259" />
     <nd ref="6520263587" />
     <nd ref="6520344548" />
@@ -4763,15 +4763,15 @@
     <nd ref="6520344486" />
     <nd ref="6520263592" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572352324576.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572352569978.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/694421306/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572352324576jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/694421306/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572352569978jpg/orig.jpg" />
     <tag k="maintenance" v="county_government" />
     <tag k="name" v="TangaTanga Town View Lityei Road" />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="310" />
     <tag k="width" v="12 metres" />
   </way>
-  <way changeset="76489469" id="694421308" timestamp="2019-11-01T11:11:23Z" uid="10380936" user="CHENAA" version="7">
+  <way changeset="77253575" id="694421308" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="8">
     <nd ref="6520263625" />
     <nd ref="6520263624" />
     <nd ref="6520263623" />
@@ -4938,15 +4938,15 @@
     <nd ref="6539920655" />
     <nd ref="380130157" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347985469.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572348020472.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/694421308/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572347985469jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/694421308/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572348020472jpg/orig.jpg" />
     <tag k="maintenance" v="county_government" />
     <tag k="name" v="Kaplelach Koror Road." />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="240" />
     <tag k="width" v="12 metres" />
   </way>
-  <way changeset="76489469" id="694428651" timestamp="2019-11-01T11:11:23Z" uid="10380936" user="CHENAA" version="5">
+  <way changeset="77253575" id="694428651" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="6">
     <nd ref="6520263625" />
     <nd ref="6520344538" />
     <nd ref="6520344537" />
@@ -4975,15 +4975,15 @@
     <nd ref="6526381787" />
     <nd ref="2578071981" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350608493.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572350894401.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/694428651/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572350608493jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/694428651/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572350894401jpg/orig.jpg" />
     <tag k="maintenance" v="county_government" />
     <tag k="name" v="Makutano Primary Paul Kide Residence Road." />
     <tag k="surface" v="dirt" />
     <tag k="wb_pb:id" v="279" />
     <tag k="width" v="12 metres" />
   </way>
-  <way changeset="76489469" id="694449607" timestamp="2019-11-01T11:11:23Z" uid="10380936" user="CHENAA" version="2">
+  <way changeset="77253575" id="694449607" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="3">
     <nd ref="6520344536" />
     <nd ref="6520602499" />
     <nd ref="6520602498" />
@@ -5012,15 +5012,15 @@
     <nd ref="6520562273" />
     <nd ref="1778245260" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353381900.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353598574.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/694449607/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572353381900jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/694449607/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572353598574jpg/orig.jpg" />
     <tag k="maintenance" v="county_government" />
     <tag k="name" v="Lutheran Shalom School road." />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="273" />
     <tag k="width" v="12 metres" />
   </way>
-  <way changeset="76489296" id="695294186" timestamp="2019-11-01T11:12:50Z" uid="10380856" user="benard lokeris" version="3">
+  <way changeset="77253575" id="695294186" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="4">
     <nd ref="6936974858" />
     <nd ref="6936974859" />
     <nd ref="6936974860" />
@@ -5039,8 +5039,8 @@
     <nd ref="6529739827" />
     <nd ref="6529739855" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341998595.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572342021066.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/695294186/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572341998595jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/695294186/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572342021066jpg/orig.jpg" />
     <tag k="maintenance" v="kura" />
     <tag k="name" v="Kapenguria Office Road" />
     <tag k="surface" v="paved" />
@@ -5069,7 +5069,7 @@
     <tag k="wb_pb:id" v="121" />
     <tag k="width" v="9 metres" />
   </way>
-  <way changeset="76484387" id="695295337" timestamp="2019-11-01T09:35:19Z" uid="10380888" user="Hillarious" version="8">
+  <way changeset="77253575" id="695295337" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="9">
     <nd ref="380148648" />
     <nd ref="6531727634" />
     <nd ref="6532107190" />
@@ -5170,8 +5170,8 @@
     <nd ref="6529770398" />
     <nd ref="6529619660" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572343601716.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572344135921.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/695295337/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572343601716jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/695295337/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572344135921jpg/orig.jpg" />
     <tag k="maintenance" v="county_governm" />
     <tag k="name" v="Karas-Rainbow Road" />
     <tag k="surface" v="dirt" />
@@ -5345,7 +5345,7 @@
     <tag k="wb_pb:id" v="83" />
     <tag k="width" v="9" />
   </way>
-  <way changeset="77122099" id="696115061" timestamp="2019-11-15T11:28:57Z" uid="4570042" user="Peter Agenga" version="6">
+  <way changeset="77253575" id="696115061" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="7">
     <nd ref="6536703375" />
     <nd ref="6536783695" />
     <nd ref="6536783693" />
@@ -5393,8 +5393,8 @@
     <nd ref="6537761773" />
     <nd ref="6537761770" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572423416920.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572423918673.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/696115061/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572423416920jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/696115061/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572423918673jpg/orig.jpg" />
     <tag k="maintenance" v="county_government" />
     <tag k="name" v="Kapkoris Chemwacham Road" />
     <tag k="surface" v="earth" />
@@ -5587,7 +5587,7 @@
     <tag k="wb_pb:id" v="84" />
     <tag k="width" v="9" />
   </way>
-  <way changeset="76484064" id="696156198" timestamp="2019-11-01T09:28:15Z" uid="10380870" user="loitalima" version="5">
+  <way changeset="77253575" id="696156198" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="6">
     <nd ref="2583719183" />
     <nd ref="6537187967" />
     <nd ref="6537187963" />
@@ -5657,15 +5657,15 @@
     <nd ref="6537245983" />
     <nd ref="6537245982" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340188552.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572340467873.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/696156198/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572340188552jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/696156198/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572340467873jpg/orig.jpg" />
     <tag k="maintenance" v="county_government" />
     <tag k="name" v="Sakat Kaprom Road" />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="110" />
     <tag k="width" v="12 metres" />
   </way>
-  <way changeset="77122864" id="696198489" timestamp="2019-11-15T11:43:07Z" uid="265690" user="fondolucy" version="8">
+  <way changeset="77253575" id="696198489" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="9">
     <nd ref="6537187854" />
     <nd ref="6537680775" />
     <nd ref="6537680778" />
@@ -5755,15 +5755,15 @@
     <nd ref="6936955277" />
     <nd ref="6936974857" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427213674.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427691105.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/696198489/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572427213674jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/696198489/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572427691105jpg/orig.jpg" />
     <tag k="maintenance" v="county_government" />
     <tag k="name" v="Kamatira-Kaa Komtin Road" />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="47" />
     <tag k="width" v="6 metres" />
   </way>
-  <way changeset="76484064" id="696214507" timestamp="2019-11-01T09:28:15Z" uid="10380870" user="loitalima" version="5">
+  <way changeset="77253575" id="696214507" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="6">
     <nd ref="6536734201" />
     <nd ref="6537817835" />
     <nd ref="6537817832" />
@@ -5836,15 +5836,15 @@
     <nd ref="6936763197" />
     <nd ref="6536765650" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572425189724.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572425566397.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/696214507/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572425189724jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/696214507/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572425566397jpg/orig.jpg" />
     <tag k="maintenance" v="county_government" />
     <tag k="name" v="Kaproris Ptop Parua Chemwayam Road" />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="72" />
     <tag k="width" v="9 metres" />
   </way>
-  <way changeset="76489469" id="696411080" timestamp="2019-11-01T11:11:23Z" uid="10380936" user="CHENAA" version="3">
+  <way changeset="77253575" id="696411080" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="4">
     <nd ref="6539920461" />
     <nd ref="6540222918" />
     <nd ref="6540222911" />
@@ -5954,15 +5954,15 @@
     <nd ref="6540223003" />
     <nd ref="6539920445" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572339241663.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572339579311.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/696411080/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572339241663jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/696411080/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572339579311jpg/orig.jpg" />
     <tag k="maintenance" v="county_government" />
     <tag k="name" v="Tartar-Parpelo-Kilimameri Box Culvert." />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="314" />
     <tag k="width" v="12 metres" />
   </way>
-  <way changeset="77214153" id="698061539" timestamp="2019-11-18T08:33:06Z" uid="265690" user="fondolucy" version="3">
+  <way changeset="77253575" id="698061539" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="4">
     <nd ref="2578071765" />
     <nd ref="2583718099" />
     <nd ref="2583718098" />
@@ -6161,8 +6161,8 @@
     <nd ref="6555809860" />
     <nd ref="6555843785" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572352093068.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572352303286.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/698061539/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572352093068jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/698061539/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572352303286jpg/orig.jpg" />
     <tag k="maintenance" v="county_governm" />
     <tag k="name" v="Psigirio-Tomkokalya-Talau Road" />
     <tag k="surface" v="dirt" />
@@ -6698,7 +6698,7 @@
     <tag k="operator:funding" v="county_government" />
     <tag k="wb_pb:id" v="46" />
   </way>
-  <way changeset="77123358" id="740921089" timestamp="2019-11-15T11:52:30Z" uid="4570042" user="Peter Agenga" version="3">
+  <way changeset="77253575" id="740921089" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="4">
     <nd ref="6936768134" />
     <nd ref="6936768133" />
     <nd ref="6936768132" />
@@ -6762,8 +6762,8 @@
     <nd ref="6936760975" />
     <nd ref="6936760974" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347619518.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572347715270.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/740921089/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572347619518jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/740921089/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572347715270jpg/orig.jpg" />
     <tag k="maintenance" v="kerra" />
     <tag k="name" v="Kodongou-Kapchekai Road" />
     <tag k="surface" v="earth" />
@@ -6894,7 +6894,7 @@
     <tag k="wb_pb:id" v="226" />
     <tag k="width" v="9" />
   </way>
-  <way changeset="76484210" id="740921094" timestamp="2019-11-01T09:31:37Z" uid="4873427" user="shazomojah" version="1">
+  <way changeset="77253575" id="740921094" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6936768329" />
     <nd ref="6936768328" />
     <nd ref="6936768327" />
@@ -6908,8 +6908,8 @@
     <nd ref="6936768319" />
     <nd ref="6936768317" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572349089840.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572349222261.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/740921094/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572349089840jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/740921094/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572349222261jpg/orig.jpg" />
     <tag k="maintenance" v="kerra" />
     <tag k="name" v="Kishaunet-Nasokol Road" />
     <tag k="surface" v="earth" />
@@ -7055,7 +7055,7 @@
     <tag k="wb_pb:id" v="83" />
     <tag k="width" v="9" />
   </way>
-  <way changeset="76484387" id="740921541" timestamp="2019-11-01T09:35:19Z" uid="10380888" user="Hillarious" version="1">
+  <way changeset="77253575" id="740921541" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="2">
     <nd ref="2578072068" />
     <nd ref="6532018494" />
     <nd ref="6532018493" />
@@ -7123,15 +7123,15 @@
     <nd ref="6531898621" />
     <nd ref="6531898620" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572336461112.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572336594284.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/740921541/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572336461112jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/740921541/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572336594284jpg/orig.jpg" />
     <tag k="maintenance" v="county_governm" />
     <tag k="name" v="Karas-Kalomoyo Road" />
     <tag k="surface" v="dirt" />
     <tag k="wb_pb:id" v="81" />
     <tag k="width" v="9" />
   </way>
-  <way changeset="76587155" id="740923102" timestamp="2019-11-04T11:38:25Z" uid="265690" user="fondolucy" version="2">
+  <way changeset="77253575" id="740923102" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="3">
     <nd ref="380138365" />
     <nd ref="6936774884" />
     <nd ref="6936774883" />
@@ -7148,15 +7148,15 @@
     <nd ref="6936774872" />
     <nd ref="2578071967" />
     <tag k="highway" v="residential" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357062734.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357188239.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/740923102/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572357062734jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/740923102/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572357188239jpg/orig.jpg" />
     <tag k="maintenance" v="county_governm" />
     <tag k="name" v="Superfoam-Daraja Road" />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="307" />
     <tag k="width" v="12 metres" />
   </way>
-  <way changeset="77214758" id="740923103" timestamp="2019-11-18T08:44:31Z" uid="265690" user="fondolucy" version="2">
+  <way changeset="77253575" id="740923103" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="3">
     <nd ref="2583718151" />
     <nd ref="6936786151" />
     <nd ref="6936786150" />
@@ -7225,8 +7225,8 @@
     <nd ref="6936786086" />
     <nd ref="6936786085" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572356090217.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572356260767.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/740923103/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572356090217jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/740923103/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572356260767jpg/orig.jpg" />
     <tag k="maintenance" v="county_governm" />
     <tag k="name" v="Kaa Tartar-Cormolee Road" />
     <tag k="surface" v="dirt" />
@@ -7253,7 +7253,7 @@
     <tag k="wb_pb:id" v="245" />
     <tag k="width" v="12" />
   </way>
-  <way changeset="76484582" id="740923105" timestamp="2019-11-01T09:39:33Z" uid="10380829" user="SIWA Jnr" version="1">
+  <way changeset="77253575" id="740923105" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="2">
     <nd ref="2583717732" />
     <nd ref="2583717731" />
     <nd ref="6555843859" />
@@ -7277,15 +7277,15 @@
     <nd ref="2583717697" />
     <nd ref="1190786468" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572355315203.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572355415803.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/740923105/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572355315203jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/740923105/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572355415803jpg/orig.jpg" />
     <tag k="maintenance" v="county_governm" />
     <tag k="name" v="Bondeni Road" />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="208" />
     <tag k="width" v="12" />
   </way>
-  <way changeset="76959813" id="740923106" timestamp="2019-11-12T12:33:19Z" uid="10269217" user="Arap Kobilo" version="2">
+  <way changeset="77253575" id="740923106" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="3">
     <nd ref="2583718086" />
     <nd ref="6936786203" />
     <nd ref="6936786202" />
@@ -7333,30 +7333,30 @@
     <nd ref="6936786162" />
     <nd ref="6555938870" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353768976.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572353928542.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/740923106/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572353768976jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/740923106/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572353928542jpg/orig.jpg" />
     <tag k="maintenance" v="county_governm" />
     <tag k="name" v="Kwa Chief-Chepangang Road" />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="254" />
     <tag k="width" v="12" />
   </way>
-  <way changeset="77121379" id="740923107" timestamp="2019-11-15T11:17:48Z" uid="4570042" user="Peter Agenga" version="2">
+  <way changeset="77253575" id="740923107" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="3">
     <nd ref="6936786207" />
     <nd ref="6936786206" />
     <nd ref="6936786205" />
     <nd ref="6936786204" />
     <nd ref="2583717591" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341447069.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572341609674.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/740923107/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572341447069jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/740923107/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572341609674jpg/orig.jpg" />
     <tag k="maintenance" v="county_governm" />
     <tag k="name" v="Kanglikwan-Kisii University Road" />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="233" />
     <tag k="width" v="12" />
   </way>
-  <way changeset="76485146" id="740924218" timestamp="2019-11-01T09:52:11Z" uid="10380766" user="Isaac Lonika" version="2">
+  <way changeset="77253575" id="740924218" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="3">
     <nd ref="6936796374" />
     <nd ref="6936769070" />
     <nd ref="6936796373" />
@@ -7464,8 +7464,8 @@
     <nd ref="6936796285" />
     <nd ref="6936796286" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357162313.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572357446912.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/740924218/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572357162313jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/740924218/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572357446912jpg/orig.jpg" />
     <tag k="maintenance" v="county_government" />
     <tag k="name" v="Tingwo-Kormonot-Kopoch Road" />
     <tag k="surface" v="earth" />
@@ -7519,7 +7519,7 @@
     <tag k="wb_pb:id" v="78" />
     <tag k="width" v="15_m" />
   </way>
-  <way changeset="77215683" id="740924443" timestamp="2019-11-18T09:04:26Z" uid="10380856" user="benard lokeris" version="3">
+  <way changeset="77253575" id="740924443" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="4">
     <nd ref="6936798502" />
     <nd ref="6936798501" />
     <nd ref="6936798500" />
@@ -7790,14 +7790,14 @@
     <nd ref="6936783435" />
     <nd ref="6936783434" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427675465.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572427811819.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/740924443/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572427675465jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/740924443/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572427811819jpg/orig.jpg" />
     <tag k="maintenance" v="county_government" />
     <tag k="name" v="Cheptuya Chepkoghyo Lokornoi Road" />
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="215" />
   </way>
-  <way changeset="77125352" id="740942612" timestamp="2019-11-15T12:27:07Z" uid="4570042" user="Peter Agenga" version="2">
+  <way changeset="77253575" id="740942612" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="3">
     <nd ref="6584317174" />
     <nd ref="6936964565" />
     <nd ref="6936964564" />
@@ -7807,8 +7807,8 @@
     <nd ref="6936964560" />
     <nd ref="380147966" />
     <tag k="highway" v="unclassified" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572435474880.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572435704662.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/740942612/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572435474880jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/740942612/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572435704662jpg/orig.jpg" />
     <tag k="maintenance" v="County_Government" />
     <tag k="name" v="Total-KCB-Olive tree Road." />
     <tag k="surface" v="dirt" />
@@ -7872,7 +7872,7 @@
     <tag k="surface" v="earth" />
     <tag k="wb_pb:id" v="width=12_metres" />
   </way>
-  <way changeset="76489296" id="740942814" timestamp="2019-11-01T11:12:50Z" uid="10380856" user="benard lokeris" version="1">
+  <way changeset="77253575" id="740942814" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="2">
     <nd ref="1772724407" />
     <nd ref="6529770397" />
     <nd ref="6531727591" />
@@ -7936,15 +7936,15 @@
     <nd ref="6531717857" />
     <nd ref="6529770388" />
     <tag k="highway" v="tertiary" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572335163086.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572335425826.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/740942814/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572335163086jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/740942814/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572335425826jpg/orig.jpg" />
     <tag k="maintenance" v="county_government" />
     <tag k="name" v="Kapenguria- kakrut road" />
     <tag k="surface" v="dirt" />
     <tag k="wb_pb:id" v="70" />
     <tag k="width" v="9 metres" />
   </way>
-  <way changeset="76489296" id="740942815" timestamp="2019-11-01T11:12:50Z" uid="10380856" user="benard lokeris" version="1">
+  <way changeset="77253575" id="740942815" timestamp="2019-11-19T02:57:47Z" uid="999" user="mikelmaron" version="2">
     <nd ref="2322791416" />
     <nd ref="6532170331" />
     <nd ref="6532170334" />
@@ -7975,8 +7975,8 @@
     <nd ref="2583718164" />
     <nd ref="2583718163" />
     <tag k="highway" v="tertiary" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572336953317.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337126314.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/740942815/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572336953317jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/740942815/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572337126314jpg/orig.jpg" />
     <tag k="maintenance" v="county_government" />
     <tag k="name" v="Aramaket -Kasurum Road" />
     <tag k="surface" v="dirt" />
