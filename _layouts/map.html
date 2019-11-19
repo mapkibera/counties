@@ -561,7 +561,7 @@ function handleProjectClick(e) {
       }
       var image = e.features[0].properties.image || e.features[0].properties['image:project'] || e.features[0].properties['image:pointofinterest'];
       return "<table style='border-spacing: 10px'>" +
-        "<tr><td>Project Name</td><td><strong><a target='_blank_' href='https://www.openstreetmap.org/node/" + e.features[0].properties['osm:id'] + "'>" + e.features[0].properties['name'] + "</a></strong></td></tr>" +
+        "<tr><td>Project Name</td><td><strong><a target='_blank_' href='https://www.openstreetmap.org/" + (e.features[0].geometry.type == "Point" ? "node/" : "way/") + e.features[0].properties['osm:id'] + "'>" + e.features[0].properties['name'] + "</a></strong></td></tr>" +
         "<tr><td>Project Description</td><td><strong>" + e.features[0].properties['Project_Description'] + "</strong></td></tr>" +
         "<tr><td>Project Status</td><td><strong>" + e.features[0].properties['What_is_the_project_s_apparent_status'] + "</strong></td></tr>" +
         "<tr><td>Opinion</td><td><strong>" + e.features[0].properties['In_your_opinion_is_the_project_quality'] + "</strong></td></tr>" +
