@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-19T18:17:02Z"/>
+<meta osm_base="2019-11-19T18:36:02Z"/>
 
   <bounds minlat="-0.2150000" minlon="35.5210000" maxlat="1.6800000" maxlon="36.4950000"/>
 
@@ -10312,9 +10312,9 @@
     <tag k="name" v="Sub County Referral Hospital"/>
     <tag k="wb_pb:id" v="146"/>
   </node>
-  <node id="6989258798" lat="0.4710341" lon="35.9804256" version="2" timestamp="2019-11-19T09:16:23Z" changeset="77264016" uid="4570042" user="Peter Agenga">
+  <node id="6989258798" lat="0.4710341" lon="35.9804256" version="4" timestamp="2019-11-19T18:30:22Z" changeset="77286920" uid="999" user="mikelmaron">
     <tag k="amenity" v="shelter"/>
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568795362752.jpg"/>
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6989258798/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568795362752jpg/orig.jpg"/>
     <tag k="is_in:village" v="Town A"/>
     <tag k="name" v="Perkerra Bodaboda Shed"/>
     <tag k="shelter_type" v="public_transport"/>
