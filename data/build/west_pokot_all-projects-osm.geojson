@@ -498,17 +498,17 @@
           "image": "https://mapkibera.github.io/counties/data/images/cache/6908747817/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731537923jpg/orig.jpg",
           "image:project": "https://mapkibera.github.io/counties/data/images/cache/6908747817/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731849944jpg/orig.jpg",
           "is_in:village": "Roponywo",
-          "name": "Roponywo Primary School",
+          "name": "Roponywo Primary School Playground",
           "operator:type": "government",
-          "wb_pb:id": "0"
+          "wb_pb:id": "319"
         },
         "relations": [],
         "meta": {
-          "timestamp": "2019-11-14T20:32:41Z",
-          "version": "2",
-          "changeset": "77093971",
-          "user": "mikelmaron",
-          "uid": "999"
+          "timestamp": "2019-11-20T11:10:07Z",
+          "version": "3",
+          "changeset": "77318404",
+          "user": "Peter Agenga",
+          "uid": "4570042"
         }
       },
       "geometry": {
@@ -5165,39 +5165,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/6936808431",
-      "properties": {
-        "type": "node",
-        "id": "6936808431",
-        "tags": {
-          "highway": "unclassified",
-          "image": "https://mapkibera.github.io/counties/data/images/cache/6936808431/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572337092318jpg/orig.jpg",
-          "image:project": "https://mapkibera.github.io/counties/data/images/cache/6936808431/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572337257846jpg/orig.jpg",
-          "maintenance": "county_governm",
-          "name": "Karas -Cheptapesha-Kalomoywo",
-          "surface": "dirt",
-          "wb_pb:id": "83",
-          "width": "9_m"
-        },
-        "relations": [],
-        "meta": {
-          "timestamp": "2019-11-19T02:04:45Z",
-          "version": "3",
-          "changeset": "77252789",
-          "user": "mikelmaron",
-          "uid": "999"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.1474967,
-          1.263695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/6936808433",
       "properties": {
         "type": "node",
@@ -6036,11 +6003,11 @@
       "properties": {
         "id": "737862250",
         "meta": {
-          "changeset": "77094053",
-          "timestamp": "2019-11-14T20:35:41Z",
-          "uid": "999",
-          "user": "mikelmaron",
-          "version": "2"
+          "changeset": "77309730",
+          "timestamp": "2019-11-20T08:36:12Z",
+          "uid": "4570042",
+          "user": "Peter Agenga",
+          "version": "3"
         },
         "relations": [],
         "tags": {
@@ -6050,7 +6017,7 @@
           "is_in:village": "Makutano",
           "leisure": "stadium",
           "name": "Makutano Stadium",
-          "wb_pb:id": "280"
+          "wb_pb:id": "280a"
         },
         "type": "way"
       },
@@ -6088,11 +6055,11 @@
       "properties": {
         "id": "737862251",
         "meta": {
-          "changeset": "76100501",
-          "timestamp": "2019-10-23T12:10:47Z",
-          "uid": "10380829",
-          "user": "SIWA Jnr",
-          "version": "1"
+          "changeset": "77309730",
+          "timestamp": "2019-11-20T08:36:12Z",
+          "uid": "4570042",
+          "user": "Peter Agenga",
+          "version": "2"
         },
         "relations": [],
         "tags": {
@@ -6102,7 +6069,7 @@
           "is_in:village": "Makutano",
           "leisure": "stadium",
           "name": "Makutano Sports Stadium",
-          "wb_pb:id": "280"
+          "wb_pb:id": "280b"
         },
         "type": "way"
       },
@@ -14213,11 +14180,11 @@
       "properties": {
         "id": "695603233",
         "meta": {
-          "changeset": "76484387",
-          "timestamp": "2019-11-01T09:35:19Z",
-          "uid": "10380888",
-          "user": "Hillarious",
-          "version": "5"
+          "changeset": "77315801",
+          "timestamp": "2019-11-20T10:26:47Z",
+          "uid": "4570042",
+          "user": "Peter Agenga",
+          "version": "7"
         },
         "relations": [],
         "tags": {
@@ -14225,9 +14192,9 @@
           "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337804785.jpg",
           "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337925036.jpg",
           "maintenance": "county_governm",
-          "name": "Karas-Cheptapesha-Katiporot - Kalamoywo Road",
+          "name": "Karas-Cheptapesha-Katiporot-Kalamoywo Road",
           "surface": "dirt",
-          "wb_pb:id": "83",
+          "wb_pb:id": "83b",
           "width": "9"
         },
         "type": "way"
@@ -19100,11 +19067,11 @@
       "properties": {
         "id": "740921539",
         "meta": {
-          "changeset": "76484387",
-          "timestamp": "2019-11-01T09:35:19Z",
-          "uid": "10380888",
-          "user": "Hillarious",
-          "version": "1"
+          "changeset": "77315764",
+          "timestamp": "2019-11-20T10:26:09Z",
+          "uid": "4570042",
+          "user": "Peter Agenga",
+          "version": "2"
         },
         "relations": [],
         "tags": {
@@ -19112,9 +19079,9 @@
           "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337092318.jpg",
           "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337257846.jpg",
           "maintenance": "county_governm",
-          "name": "Karas -Cheptapesha-Kalomoywo",
+          "name": "Karas -Cheptapesha-Katiporot-Kalomoywo Road",
           "surface": "dirt",
-          "wb_pb:id": "83",
+          "wb_pb:id": "83a",
           "width": "9"
         },
         "type": "way"

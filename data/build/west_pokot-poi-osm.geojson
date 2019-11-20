@@ -3223,17 +3223,17 @@
       "image": "https://mapkibera.github.io/counties/data/images/cache/6908747817/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731537923jpg/orig.jpg",
       "image:project": "https://mapkibera.github.io/counties/data/images/cache/6908747817/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731849944jpg/orig.jpg",
       "is_in:village": "Roponywo",
-      "name": "Roponywo Primary School",
+      "name": "Roponywo Primary School Playground",
       "operator:type": "government",
-      "wb_pb:id": "0"
+      "wb_pb:id": "319"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-11-14T20:32:41Z",
-      "version": "2",
-      "changeset": "77093971",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-20T11:10:07Z",
+      "version": "3",
+      "changeset": "77318404",
+      "user": "Peter Agenga",
+      "uid": "4570042"
     }
   },
   "geometry": {
@@ -17853,39 +17853,6 @@
     "coordinates": [
       35.121815,
       1.285435
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/6936808431",
-  "properties": {
-    "type": "node",
-    "id": "6936808431",
-    "tags": {
-      "highway": "unclassified",
-      "image": "https://mapkibera.github.io/counties/data/images/cache/6936808431/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572337092318jpg/orig.jpg",
-      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6936808431/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572337257846jpg/orig.jpg",
-      "maintenance": "county_governm",
-      "name": "Karas -Cheptapesha-Kalomoywo",
-      "surface": "dirt",
-      "wb_pb:id": "83",
-      "width": "9_m"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-11-19T02:04:45Z",
-      "version": "3",
-      "changeset": "77252789",
-      "user": "mikelmaron",
-      "uid": "999"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.1474967,
-      1.263695
     ]
   }
 },

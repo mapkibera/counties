@@ -1225,6 +1225,76 @@
     {
       "geometry": {
         "coordinates": [
+          35.98489,
+          0.475863
+        ],
+        "type": "Point"
+      },
+      "id": "6851133549",
+      "properties": {
+        "Budgeted sum": "",
+        "Category": "HS",
+        "In_your_opinion_is_the_project_quality": "adequate",
+        "Please_add_any_details_about_y": "Construction is ongoing. There is no window panes. There are no tiles",
+        "Project_Description": "Construction Of Mortuary",
+        "Project_Name_or_Title": "Marigat Sub County Hospital",
+        "What_is_the_project_s_apparent_status": "on_going",
+        "amenity": "hospital",
+        "dispensing": "no",
+        "electricity": "none",
+        "health_facility:referrals": "Kabarnet Referral Hospital",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569999587056.jpg",
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569999701964.jpg",
+        "is_in:village": "Town A",
+        "medical_service:family_planning": "no",
+        "medical_service:general_medical_services": "no",
+        "medical_service:immunizations": "no",
+        "medical_service:malaria": "no",
+        "medical_service:pregnancy_test": "no",
+        "name": "Marigat Sub County Hospital Mortuary",
+        "osm:id": "6851133549",
+        "wb_pb:id": "142a"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.98489,
+          0.475863
+        ],
+        "type": "Point"
+      },
+      "id": "6851133549",
+      "properties": {
+        "Budgeted sum": "3,000,000.00",
+        "Category": "HS",
+        "In_your_opinion_is_the_project_quality": "adequate",
+        "Please_add_any_details_about_y": "It needs more man power to be completed",
+        "Project_Description": "Equipping of Mortuary block",
+        "Project_Name_or_Title": "Marigat Sub County Hospital",
+        "What_is_the_project_s_apparent_status": "on_going",
+        "amenity": "hospital",
+        "dispensing": "no",
+        "electricity": "none",
+        "health_facility:referrals": "Kabarnet Referral Hospital",
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569999587056.jpg",
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569999701964.jpg",
+        "is_in:village": "Town A",
+        "medical_service:family_planning": "no",
+        "medical_service:general_medical_services": "no",
+        "medical_service:immunizations": "no",
+        "medical_service:malaria": "no",
+        "medical_service:pregnancy_test": "no",
+        "name": "Marigat Sub County Hospital Mortuary",
+        "osm:id": "6851133549",
+        "wb_pb:id": "142b"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           35.88582,
           0.333507
         ],

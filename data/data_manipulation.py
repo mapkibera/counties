@@ -108,31 +108,39 @@ def match_projects_ward(ward):
     elif 'Project_Name' in row:
        project_name = row['Project_Name']
 
-    for feature in osm.features:
-       if feature.properties['tags']['wb_pb:id'] == id and found_match == False:
-         found_match = True
+    for feature in osm.features
+       ids = feature.properties['tags']['wb_pb:id'].split(',')
+       for feature_id in ids:
+         if feature_id == id and found_match == False:
+           found_match = id
 
-         feature.properties['tags']['Project_Name_or_Title'] = project_name
+       if found_match != False:
+         new_feature = feature.properties['tags'].copy()
+
+         new_feature['wb_pb:id'] = found_match
+         new_feature['Project_Name_or_Title'] = project_name
          if 'Project_Description' in row:
-           feature.properties['tags']['Project_Description'] = row['Project_Description']
+           new_feature['Project_Description'] = row['Project_Description']
          if 'Additional_Project_Details' in row:
-           feature.properties['tags']['Project_Description'] = row['Additional_Project_Details']
-         feature.properties['tags']['Category'] = row['Category']
-         feature.properties['tags']['What_is_the_project_s_apparent_status'] = row['What_is_the_project_s_apparent_status']
-         feature.properties['tags']['In_your_opinion_is_the_project_quality'] = row['In_your_opinion_is_the_project_quality']
-         feature.properties['tags']['Please_add_any_details_about_y'] = row['Please_add_any_details_about_y']
+           new_feature['Project_Description'] = row['Additional_Project_Details']
+         new_feature['Category'] = row['Category']
+         new_feature['What_is_the_project_s_apparent_status'] = row['What_is_the_project_s_apparent_status']
+         new_feature['In_your_opinion_is_the_project_quality'] = row['In_your_opinion_is_the_project_quality']
+         new_feature['Please_add_any_details_about_y'] = row['Please_add_any_details_about_y']
          if 'Project_Name_for_Print' in row and row['Project_Name_for_Print'] != '':
-           feature.properties['tags']['Project_Name_for_Print'] = row['Project_Name_for_Print']
+           new_feature['Project_Name_for_Print'] = row['Project_Name_for_Print']
          if 'type_of_facility_for print' in row and row['type_of_facility_for print'] != '':
-           feature.properties['tags']['type_of_facility_for print'] = row['type_of_facility_for print']
+           new_feature['type_of_facility_for print'] = row['type_of_facility_for print']
          if 'Budgeted sum' in row:
-           feature.properties['tags']['Budgeted sum'] = row['Budgeted sum']
+           new_feature['Budgeted sum'] = row['Budgeted sum']
          if 'Tender sum' in row:
-           feature.properties['tags']['Tender sum'] = row['Tender sum']
+           new_feature['Tender sum'] = row['Tender sum']
 
-         feature.properties['tags']['osm:id'] = feature.properties['id']
+         new_feature['osm:id'] = feature.properties['id']
 
-         result['features'].append( { "type": "Feature", "id": feature.properties["id"], "properties": feature.properties['tags'], "geometry": feature.geometry })
+         result['features'].append( { "type": "Feature", "id": feature.properties["id"], "properties": new_feature, "geometry": feature.geometry })
+
+         break
 
     if found_match == False:
       print "WARN: " + str(i) + " " + ward + " no project id match " +  id + " " + project_name

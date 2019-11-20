@@ -1,6 +1,6 @@
 <osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-19T18:36:02Z" />
+<meta osm_base="2019-11-20T20:11:02Z" />
 
   <bounds maxlat="0.2642000" maxlon="35.9805000" minlat="-0.0816000" minlon="35.6889000" />
 
@@ -223,17 +223,17 @@
     <tag k="operator_type" v="CBO" />
     <tag k="wb_pb:id" v="26728319" />
   </node>
-  <node changeset="61359658" id="5798802348" lat="0.0268865" lon="35.7363990" timestamp="2018-08-04T18:33:39Z" uid="616774" user="mueschel" version="2">
+  <node action="modify" changeset="61359658" id="5798802348" lat="0.0268865" lon="35.7363990" timestamp="2018-08-04T18:33:39Z" uid="616774" user="mueschel" version="2">
     <tag k="amenity" v="place_of_worship" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532685891321.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5798802348/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532685891321jpg/orig.jpg" />
     <tag k="name" v="Full Gospel Church Sogonin" />
     <tag k="religion" v="christian" />
     <tag k="service_times" v="10:00" />
     <tag k="wb_pb:id" v="26728308" />
   </node>
-  <node changeset="61359658" id="5798802349" lat="0.0234747" lon="35.7383791" timestamp="2018-08-04T18:33:39Z" uid="616774" user="mueschel" version="2">
+  <node action="modify" changeset="61359658" id="5798802349" lat="0.0234747" lon="35.7383791" timestamp="2018-08-04T18:33:39Z" uid="616774" user="mueschel" version="2">
     <tag k="amenity" v="place_of_worship" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532685207588.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5798802349/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532685207588jpg/orig.jpg" />
     <tag k="name" v="AIC Sogonin" />
     <tag k="religion" v="christian" />
     <tag k="service_times" v="10:00" />
@@ -249,17 +249,17 @@
     <tag k="operator_type" v="CBO" />
     <tag k="wb_pb:id" v="26728281" />
   </node>
-  <node changeset="61359658" id="5798802351" lat="0.0117370" lon="35.7411412" timestamp="2018-08-04T18:33:40Z" uid="616774" user="mueschel" version="2">
+  <node action="modify" changeset="61359658" id="5798802351" lat="0.0117370" lon="35.7411412" timestamp="2018-08-04T18:33:40Z" uid="616774" user="mueschel" version="2">
     <tag k="amenity" v="place_of_worship" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532681559363.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5798802351/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532681559363jpg/orig.jpg" />
     <tag k="name" v="AIC Tabare" />
     <tag k="religion" v="christian" />
     <tag k="service_times" v="10:00" />
     <tag k="wb_pb:id" v="26728273" />
   </node>
-  <node changeset="61359658" id="5798802352" lat="0.0113297" lon="35.7414219" timestamp="2018-08-04T18:33:40Z" uid="616774" user="mueschel" version="2">
+  <node action="modify" changeset="61359658" id="5798802352" lat="0.0113297" lon="35.7414219" timestamp="2018-08-04T18:33:40Z" uid="616774" user="mueschel" version="2">
     <tag k="amenity" v="place_of_worship" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532681187175.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5798802352/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532681187175jpg/orig.jpg" />
     <tag k="name" v="Full Gospel Church Tabare" />
     <tag k="religion" v="christian" />
     <tag k="service_times" v="10:00" />
@@ -493,11 +493,11 @@
     <tag k="type" v="Pre_primary" />
     <tag k="wb_pb:id" v="26669272" />
   </node>
-  <node changeset="61524445" id="5817629959" lat="0.0450339" lon="35.7387979" timestamp="2018-08-10T07:41:54Z" uid="345975" user="VlIvYur" version="2">
+  <node action="modify" changeset="61524445" id="5817629959" lat="0.0450339" lon="35.7387979" timestamp="2018-08-10T07:41:54Z" uid="345975" user="VlIvYur" version="2">
     <tag k="amenity" v="place_of_worship" />
     <tag k="building_type" v="Church" />
     <tag k="denomination" v="anglican" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532597144060.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5817629959/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532597144060jpg/orig.jpg" />
     <tag k="name" v="Kamelilo Anglican Church" />
     <tag k="religion" v="christian" />
     <tag k="service_times" v="10:00" />
@@ -599,10 +599,10 @@
     <tag k="type" v="Cattle dip" />
     <tag k="wb_pb:id" v="26661971" />
   </node>
-  <node changeset="61711628" id="5820105409" lat="0.0055506" lon="35.7035017" timestamp="2018-08-16T10:53:16Z" uid="616774" user="mueschel" version="2">
+  <node action="modify" changeset="61711628" id="5820105409" lat="0.0055506" lon="35.7035017" timestamp="2018-08-16T10:53:16Z" uid="616774" user="mueschel" version="2">
     <tag k="funded_by" v="County Government of Baringo" />
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532594918411.jpg" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532595323774.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5820105409/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532595323774jpg/orig.jpg" />
     <tag k="man_made" v="storage_tank" />
     <tag k="name" v="Benonin Storage Tank" />
     <tag k="operational_status" v="Operational" />
@@ -1292,13 +1292,13 @@
     <tag k="name" v="Kipsogon Health Center" />
     <tag k="wb_pb:id" v="2" />
   </node>
-  <node changeset="75308508" id="6799549393" lat="0.0186680" lon="35.8292100" timestamp="2019-10-05T04:40:17Z" uid="999" user="mikelmaron" version="3">
+  <node action="modify" changeset="75308508" id="6799549393" lat="0.0186680" lon="35.8292100" timestamp="2019-10-05T04:40:17Z" uid="999" user="mikelmaron" version="3">
     <tag k="amenity" v="school" />
     <tag k="education:gender_type" v="mixed" />
     <tag k="education:government_registered" v="moe" />
     <tag k="education:type" v="primary" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568284714107.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568284999131.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6799549393/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568284714107jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6799549393/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568284999131jpg/orig.jpg" />
     <tag k="is_in:village" v="Esageri" />
     <tag k="name" v="Esageri School For Deaf" />
     <tag k="operator:description" v="Government of Kenya" />
@@ -1458,9 +1458,9 @@
     <tag k="name" v="Deputy County Commissioner Office" />
     <tag k="wb_pb:id" v="192" />
   </node>
-  <node changeset="75308508" id="6807606139" lat="0.2626200" lon="35.8043883" timestamp="2019-10-05T04:40:17Z" uid="999" user="mikelmaron" version="3">
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568369635827.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568369792459.jpg" />
+  <node action="modify" changeset="75308508" id="6807606139" lat="0.2626200" lon="35.8043883" timestamp="2019-10-05T04:40:17Z" uid="999" user="mikelmaron" version="3">
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6807606139/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568369635827jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6807606139/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568369792459jpg/orig.jpg" />
     <tag k="is_in:village" v="Bekimei" />
     <tag k="man_made" v="storage_tank" />
     <tag k="name" v="Bekimei Water Project" />

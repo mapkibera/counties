@@ -1,6 +1,6 @@
 <osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-19T18:36:02Z" />
+<meta osm_base="2019-11-20T20:11:02Z" />
 
   <bounds maxlat="0.0852000" maxlon="35.7553000" minlat="-0.0307000" minlon="35.6881000" />
 
@@ -1166,7 +1166,7 @@
   <node changeset="76957818" id="6968865241" lat="-0.0016767" lon="35.7443647" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
   <node changeset="76957818" id="6968865242" lat="-0.0015058" lon="35.7445819" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
   <node changeset="76957818" id="6968865243" lat="-0.0010836" lon="35.7448374" timestamp="2019-11-12T11:53:11Z" uid="5236234" user="AWFCloin" version="1" />
-  <way changeset="72351728" id="171084021" timestamp="2019-07-17T14:21:37Z" uid="9625560" user="Maboneng" version="10">
+  <way action="modify" changeset="72351728" id="171084021" timestamp="2019-07-17T14:21:37Z" uid="9625560" user="Maboneng" version="10">
     <nd ref="1821802815" />
     <nd ref="5489244436" />
     <nd ref="6622833912" />
@@ -1216,7 +1216,7 @@
     <nd ref="5486732999" />
     <nd ref="1821828058" />
     <tag k="highway" v="unclassified" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532934866227.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/171084021/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532934866227jpg/orig.jpg" />
     <tag k="name" v="Police Junction-DC Road" />
     <tag k="surface" v="asphalt" />
     <tag k="wb_pb:id" v="26907291" />
@@ -1234,7 +1234,7 @@
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937761376.jpg" />
     <tag k="wb_pb:id" v="26920880" />
   </way>
-  <way changeset="72694411" id="254406552" timestamp="2019-07-26T16:03:14Z" uid="9625568" user="San_Telmo" version="8">
+  <way action="modify" changeset="72694411" id="254406552" timestamp="2019-07-26T16:03:14Z" uid="9625568" user="San_Telmo" version="8">
     <nd ref="1821828112" />
     <nd ref="5673758792" />
     <nd ref="5673764826" />
@@ -1265,12 +1265,12 @@
     <nd ref="6623044839" />
     <nd ref="1821828077" />
     <tag k="highway" v="unclassified" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532940807372.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/254406552/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532940807372jpg/orig.jpg" />
     <tag k="name" v="Shimoni-Stage-Kims Road" />
     <tag k="surface" v="asphalt" />
     <tag k="wb_pb:id" v="26907408" />
   </way>
-  <way changeset="72388572" id="254406555" timestamp="2019-07-18T12:32:18Z" uid="9625560" user="Maboneng" version="10">
+  <way action="modify" changeset="72388572" id="254406555" timestamp="2019-07-18T12:32:18Z" uid="9625560" user="Maboneng" version="10">
     <nd ref="2602050200" />
     <nd ref="6622804582" />
     <nd ref="6622804581" />
@@ -1332,11 +1332,11 @@
     <nd ref="6622804549" />
     <nd ref="2602029549" />
     <tag k="highway" v="unclassified" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533108703972.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/254406555/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1533108703972jpg/orig.jpg" />
     <tag k="name" v="Sawmil-Dc Road" />
     <tag k="wb_pb:id" v="27045987" />
   </way>
-  <way changeset="72515094" id="258895103" timestamp="2019-07-22T13:14:30Z" uid="9447030" user="Liamuiga" version="9">
+  <way action="modify" changeset="72515094" id="258895103" timestamp="2019-07-22T13:14:30Z" uid="9447030" user="Liamuiga" version="9">
     <nd ref="2642049949" />
     <nd ref="5491736609" />
     <nd ref="6637594394" />
@@ -1366,7 +1366,7 @@
     <nd ref="5494625795" />
     <nd ref="1821802913" />
     <tag k="highway" v="residential" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532673552616.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/258895103/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532673552616jpg/orig.jpg" />
     <tag k="name" v="KCC Road" />
     <tag k="wb_pb:id" v="26724241" />
   </way>
@@ -1387,7 +1387,7 @@
     <tag k="name" v="County Office-Mosque Road" />
     <tag k="wb_pb:id" v="26920873" />
   </way>
-  <way changeset="72696329" id="428471947" timestamp="2019-07-26T16:52:01Z" uid="9625568" user="San_Telmo" version="5">
+  <way action="modify" changeset="72696329" id="428471947" timestamp="2019-07-26T16:52:01Z" uid="9625568" user="San_Telmo" version="5">
     <nd ref="1821828078" />
     <nd ref="5489310176" />
     <nd ref="6651406140" />
@@ -1401,12 +1401,12 @@
     <nd ref="5489310031" />
     <nd ref="4275666679" />
     <tag k="highway" v="residential" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532934471371.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/428471947/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532934471371jpg/orig.jpg" />
     <tag k="name" v="Junction-Boss Energy Road" />
     <tag k="surface" v="asphalt" />
     <tag k="wb_pb:id" v="26907255" />
   </way>
-  <way changeset="67742998" id="428473245" timestamp="2019-03-03T17:37:37Z" uid="74746" user="vogelfreier" version="4">
+  <way action="modify" changeset="67742998" id="428473245" timestamp="2019-03-03T17:37:37Z" uid="74746" user="vogelfreier" version="4">
     <nd ref="4275660610" />
     <nd ref="4275660611" />
     <nd ref="6314630894" />
@@ -1416,7 +1416,7 @@
     <nd ref="4275660613" />
     <nd ref="4275660610" />
     <tag k="amenity" v="marketplace" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124345492.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/428473245/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1533124345492jpg/orig.jpg" />
     <tag k="name" v="Eldama ravine market" />
     <tag k="wb_pb:id" v="26964603" />
   </way>
@@ -1448,7 +1448,7 @@
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital-Perimeter wall" />
     <tag k="wb_pb:id" v="26663342" />
   </way>
-  <way changeset="72387974" id="429076577" timestamp="2019-07-18T12:16:42Z" uid="9625560" user="Maboneng" version="7">
+  <way action="modify" changeset="72387974" id="429076577" timestamp="2019-07-18T12:16:42Z" uid="9625560" user="Maboneng" version="7">
     <nd ref="5483137903" />
     <nd ref="6627627695" />
     <nd ref="6627627696" />
@@ -1488,12 +1488,12 @@
     <nd ref="5486671521" />
     <nd ref="5486671520" />
     <tag k="highway" v="residential" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532938269230.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/429076577/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532938269230jpg/orig.jpg" />
     <tag k="name" v="Kibasiso-Shimoni Junction Road" />
     <tag k="surface" v="asphalt" />
     <tag k="wb_pb:id" v="26907381" />
   </way>
-  <way changeset="72514315" id="569117127" timestamp="2019-07-22T12:57:05Z" uid="9447030" user="Liamuiga" version="6">
+  <way action="modify" changeset="72514315" id="569117127" timestamp="2019-07-22T12:57:05Z" uid="9447030" user="Liamuiga" version="6">
     <nd ref="5492080503" />
     <nd ref="6637519921" />
     <nd ref="5492080504" />
@@ -1564,12 +1564,12 @@
     <nd ref="5525595244" />
     <nd ref="5525595245" />
     <tag k="highway" v="residential" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532607109289.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/569117127/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532607109289jpg/orig.jpg" />
     <tag k="name" v="Benonin-Kaplelechwa-Kapius Road" />
     <tag k="surface" v="ground" />
     <tag k="wb_pb:id" v="26662089" />
   </way>
-  <way changeset="72514315" id="569123153" timestamp="2019-07-22T12:57:05Z" uid="9447030" user="Liamuiga" version="13">
+  <way action="modify" changeset="72514315" id="569123153" timestamp="2019-07-22T12:57:05Z" uid="9447030" user="Liamuiga" version="13">
     <nd ref="5474138760" />
     <nd ref="6637520397" />
     <nd ref="6637520398" />
@@ -1655,12 +1655,12 @@
     <nd ref="5531242674" />
     <nd ref="5474138752" />
     <tag k="highway" v="unclassified" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532676727723.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/569123153/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532676727723jpg/orig.jpg" />
     <tag k="name" v="Benonin-Kaplelechwa Road" />
     <tag k="surface" v="unpaved" />
     <tag k="wb_pb:id" v="26724267" />
   </way>
-  <way changeset="72388572" id="570325235" timestamp="2019-07-18T12:32:18Z" uid="9625560" user="Maboneng" version="5">
+  <way action="modify" changeset="72388572" id="570325235" timestamp="2019-07-18T12:32:18Z" uid="9625560" user="Maboneng" version="5">
     <nd ref="5483137903" />
     <nd ref="5483137901" />
     <nd ref="6622941317" />
@@ -1701,7 +1701,7 @@
     <nd ref="6622941340" />
     <nd ref="2602050200" />
     <tag k="highway" v="residential" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533110756669.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/570325235/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1533110756669jpg/orig.jpg" />
     <tag k="name" v="Nubian Road" />
     <tag k="wb_pb:id" v="27046025" />
   </way>
@@ -1725,7 +1725,7 @@
     <tag k="name" v="Eldama Ravine Sub-County Referral Hospital-Mortuary" />
     <tag k="wb_pb:id" v="26663338" />
   </way>
-  <way changeset="72518125" id="571448774" timestamp="2019-07-22T14:15:30Z" uid="9447030" user="Liamuiga" version="5">
+  <way action="modify" changeset="72518125" id="571448774" timestamp="2019-07-22T14:15:30Z" uid="9447030" user="Liamuiga" version="5">
     <nd ref="5800743997" />
     <nd ref="5492011660" />
     <nd ref="5492011661" />
@@ -1755,12 +1755,12 @@
     <nd ref="6637745094" />
     <nd ref="5492080276" />
     <tag k="highway" v="unclassified" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674515642.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/571448774/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532674515642jpg/orig.jpg" />
     <tag k="name" v="Kaplelechwa Main Road" />
     <tag k="surface" v="ground" />
     <tag k="wb_pb:id" v="26724248" />
   </way>
-  <way changeset="72514315" id="571456936" timestamp="2019-07-22T12:57:05Z" uid="9447030" user="Liamuiga" version="4">
+  <way action="modify" changeset="72514315" id="571456936" timestamp="2019-07-22T12:57:05Z" uid="9447030" user="Liamuiga" version="4">
     <nd ref="5474138760" />
     <nd ref="5800743994" />
     <nd ref="5519358601" />
@@ -1825,7 +1825,7 @@
     <nd ref="6637520429" />
     <nd ref="5492080276" />
     <tag k="highway" v="unclassified" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532675247790.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/571456936/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532675247790jpg/orig.jpg" />
     <tag k="name" v="Kaplelechwa Road" />
     <tag k="surface" v="ground" />
     <tag k="wb_pb:id" v="26724255" />
@@ -2033,7 +2033,7 @@
     <tag k="surface" v="unpaved" />
     <tag k="wb_pb:id" v="26664008" />
   </way>
-  <way changeset="72510176" id="575585338" timestamp="2019-07-22T11:12:14Z" uid="9447030" user="Liamuiga" version="4">
+  <way action="modify" changeset="72510176" id="575585338" timestamp="2019-07-22T11:12:14Z" uid="9447030" user="Liamuiga" version="4">
     <nd ref="5508595311" />
     <nd ref="5536420507" />
     <nd ref="5535373724" />
@@ -2125,17 +2125,17 @@
     <nd ref="6637152965" />
     <nd ref="5522802837" />
     <tag k="highway" v="unclassified" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532599906244.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/575585338/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532599906244jpg/orig.jpg" />
     <tag k="name" v="Kapsimotwo-Kabiyet- Loita Road" />
     <tag k="surface" v="unpaved" />
     <tag k="wb_pb:id" v="26662013" />
   </way>
-  <way changeset="68205731" id="612915036" timestamp="2019-03-16T15:04:18Z" uid="74746" user="vogelfreier" version="3">
+  <way action="modify" changeset="68205731" id="612915036" timestamp="2019-03-16T15:04:18Z" uid="74746" user="vogelfreier" version="3">
     <nd ref="5800785504" />
     <nd ref="5800785503" />
     <nd ref="5801330593" />
     <nd ref="5800785502" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937130899.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/612915036/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532937130899jpg/orig.jpg" />
     <tag k="name" v="Eldama Ravine Drainage system" />
     <tag k="waterway" v="drain" />
     <tag k="wb_pb:id" v="26921040" />
@@ -2155,7 +2155,7 @@
     <tag k="waterway" v="drain" />
     <tag k="wb_pb:id" v="27061427" />
   </way>
-  <way changeset="72696329" id="612942743" timestamp="2019-07-26T16:52:01Z" uid="9625568" user="San_Telmo" version="4">
+  <way action="modify" changeset="72696329" id="612942743" timestamp="2019-07-26T16:52:01Z" uid="9625568" user="San_Telmo" version="4">
     <nd ref="1821828124" />
     <nd ref="5800956596" />
     <nd ref="2734824427" />
@@ -2174,7 +2174,7 @@
     <nd ref="1821828125" />
     <nd ref="1821828112" />
     <tag k="highway" v="unclassified" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532941785164.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/612942743/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532941785164jpg/orig.jpg" />
     <tag k="name" v="Mercy-Kefa Roundabout Road" />
     <tag k="surface" v="asphalt" />
     <tag k="wb_pb:id" v="26907432" />
@@ -2307,95 +2307,95 @@
     <tag k="surface" v="unpaved" />
     <tag k="wb_pb:id" v="26664008" />
   </way>
-  <way changeset="68205731" id="674271902" timestamp="2019-03-16T15:04:18Z" uid="74746" user="vogelfreier" version="2">
+  <way action="modify" changeset="68205731" id="674271902" timestamp="2019-03-16T15:04:18Z" uid="74746" user="vogelfreier" version="2">
     <nd ref="6314630898" />
     <nd ref="5800785513" />
     <nd ref="6341493546" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124766318.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/674271902/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1533124766318jpg/orig.jpg" />
     <tag k="name" v="Eldama Ravine Drainage system" />
     <tag k="waterway" v="drain" />
     <tag k="wb_pb:id" v="27061427" />
   </way>
-  <way changeset="68205731" id="674271905" timestamp="2019-03-16T15:04:18Z" uid="74746" user="vogelfreier" version="2">
+  <way action="modify" changeset="68205731" id="674271905" timestamp="2019-03-16T15:04:18Z" uid="74746" user="vogelfreier" version="2">
     <nd ref="6314630897" />
     <nd ref="6314630898" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124766318.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/674271905/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1533124766318jpg/orig.jpg" />
     <tag k="layer" v="-1" />
     <tag k="name" v="Eldama Ravine Drainage system" />
     <tag k="tunnel" v="culvert" />
     <tag k="waterway" v="drain" />
     <tag k="wb_pb:id" v="27061427" />
   </way>
-  <way changeset="68205731" id="677254802" timestamp="2019-03-16T15:04:15Z" uid="74746" user="vogelfreier" version="1">
+  <way action="modify" changeset="68205731" id="677254802" timestamp="2019-03-16T15:04:15Z" uid="74746" user="vogelfreier" version="1">
     <nd ref="5801330591" />
     <nd ref="5800785512" />
     <nd ref="5800785501" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937130899.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/677254802/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532937130899jpg/orig.jpg" />
     <tag k="name" v="Eldama Ravine Drainage system" />
     <tag k="waterway" v="drain" />
     <tag k="wb_pb:id" v="26921040" />
   </way>
-  <way changeset="68205731" id="677254803" timestamp="2019-03-16T15:04:15Z" uid="74746" user="vogelfreier" version="1">
+  <way action="modify" changeset="68205731" id="677254803" timestamp="2019-03-16T15:04:15Z" uid="74746" user="vogelfreier" version="1">
     <nd ref="5800785502" />
     <nd ref="5801330591" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937130899.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/677254803/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532937130899jpg/orig.jpg" />
     <tag k="layer" v="-1" />
     <tag k="name" v="Eldama Ravine Drainage system" />
     <tag k="tunnel" v="culvert" />
     <tag k="waterway" v="drain" />
     <tag k="wb_pb:id" v="26921040" />
   </way>
-  <way changeset="68205731" id="677254804" timestamp="2019-03-16T15:04:15Z" uid="74746" user="vogelfreier" version="1">
+  <way action="modify" changeset="68205731" id="677254804" timestamp="2019-03-16T15:04:15Z" uid="74746" user="vogelfreier" version="1">
     <nd ref="6341493544" />
     <nd ref="5800785504" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937130899.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/677254804/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532937130899jpg/orig.jpg" />
     <tag k="layer" v="-1" />
     <tag k="name" v="Eldama Ravine Drainage system" />
     <tag k="tunnel" v="culvert" />
     <tag k="waterway" v="drain" />
     <tag k="wb_pb:id" v="26921040" />
   </way>
-  <way changeset="68205731" id="677254805" timestamp="2019-03-16T15:04:15Z" uid="74746" user="vogelfreier" version="1">
+  <way action="modify" changeset="68205731" id="677254805" timestamp="2019-03-16T15:04:15Z" uid="74746" user="vogelfreier" version="1">
     <nd ref="5800785507" />
     <nd ref="5800785506" />
     <nd ref="5800785505" />
     <nd ref="6341493544" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937130899.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/677254805/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532937130899jpg/orig.jpg" />
     <tag k="name" v="Eldama Ravine Drainage system" />
     <tag k="waterway" v="drain" />
     <tag k="wb_pb:id" v="26921040" />
   </way>
-  <way changeset="68205731" id="677254806" timestamp="2019-03-16T15:04:15Z" uid="74746" user="vogelfreier" version="1">
+  <way action="modify" changeset="68205731" id="677254806" timestamp="2019-03-16T15:04:15Z" uid="74746" user="vogelfreier" version="1">
     <nd ref="6341493546" />
     <nd ref="5800785512" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533124766318.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/677254806/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1533124766318jpg/orig.jpg" />
     <tag k="layer" v="-1" />
     <tag k="name" v="Eldama Ravine Drainage system" />
     <tag k="tunnel" v="culvert" />
     <tag k="waterway" v="drain" />
     <tag k="wb_pb:id" v="27061427" />
   </way>
-  <way changeset="68205731" id="677254807" timestamp="2019-03-16T15:04:15Z" uid="74746" user="vogelfreier" version="1">
+  <way action="modify" changeset="68205731" id="677254807" timestamp="2019-03-16T15:04:15Z" uid="74746" user="vogelfreier" version="1">
     <nd ref="5800785509" />
     <nd ref="5800785508" />
     <nd ref="5800785507" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937130899.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/677254807/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532937130899jpg/orig.jpg" />
     <tag k="layer" v="-1" />
     <tag k="name" v="Eldama Ravine Drainage system" />
     <tag k="tunnel" v="culvert" />
     <tag k="waterway" v="drain" />
     <tag k="wb_pb:id" v="26921040" />
   </way>
-  <way changeset="68205731" id="677254808" timestamp="2019-03-16T15:04:15Z" uid="74746" user="vogelfreier" version="1">
+  <way action="modify" changeset="68205731" id="677254808" timestamp="2019-03-16T15:04:15Z" uid="74746" user="vogelfreier" version="1">
     <nd ref="5800785511" />
     <nd ref="5800785510" />
     <nd ref="5800785509" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532937130899.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/677254808/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532937130899jpg/orig.jpg" />
     <tag k="name" v="Eldama Ravine Drainage system" />
     <tag k="waterway" v="drain" />
     <tag k="wb_pb:id" v="26921040" />
   </way>
-  <way changeset="72348198" id="705147406" timestamp="2019-07-17T13:11:41Z" uid="9625560" user="Maboneng" version="1">
+  <way action="modify" changeset="72348198" id="705147406" timestamp="2019-07-17T13:11:41Z" uid="9625560" user="Maboneng" version="1">
     <nd ref="2602050200" />
     <nd ref="6622804583" />
     <nd ref="6622804584" />
@@ -2404,11 +2404,11 @@
     <nd ref="6622833887" />
     <nd ref="1821828058" />
     <tag k="highway" v="unclassified" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1533110756669.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/705147406/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1533110756669jpg/orig.jpg" />
     <tag k="name" v="Nubian Road" />
     <tag k="wb_pb:id" v="27046025" />
   </way>
-  <way changeset="72698455" id="705174532" timestamp="2019-07-26T17:51:16Z" uid="9625568" user="San_Telmo" version="3">
+  <way action="modify" changeset="72698455" id="705174532" timestamp="2019-07-26T17:51:16Z" uid="9625568" user="San_Telmo" version="3">
     <nd ref="2602050238" />
     <nd ref="6341493549" />
     <nd ref="6651039670" />
@@ -2422,12 +2422,12 @@
     <nd ref="6651039667" />
     <nd ref="2602050290" />
     <tag k="highway" v="residential" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532940807372.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/705174532/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532940807372jpg/orig.jpg" />
     <tag k="name" v="Shimoni-Stage-Kims Road" />
     <tag k="surface" v="asphalt" />
     <tag k="wb_pb:id" v="26907408" />
   </way>
-  <way changeset="72515094" id="706380359" timestamp="2019-07-22T13:14:30Z" uid="9447030" user="Liamuiga" version="2">
+  <way action="modify" changeset="72515094" id="706380359" timestamp="2019-07-22T13:14:30Z" uid="9447030" user="Liamuiga" version="2">
     <nd ref="5491940704" />
     <nd ref="5491980268" />
     <nd ref="6637594403" />
@@ -2440,16 +2440,16 @@
     <nd ref="6637594405" />
     <nd ref="5800743997" />
     <tag k="highway" v="residential" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532674515642.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/706380359/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532674515642jpg/orig.jpg" />
     <tag k="name" v="Kaplelechwa Main Road" />
     <tag k="surface" v="ground" />
     <tag k="wb_pb:id" v="26724248" />
   </way>
-  <way changeset="72698455" id="707866532" timestamp="2019-07-26T17:51:16Z" uid="9625568" user="San_Telmo" version="1">
+  <way action="modify" changeset="72698455" id="707866532" timestamp="2019-07-26T17:51:16Z" uid="9625568" user="San_Telmo" version="1">
     <nd ref="2602050290" />
     <nd ref="1821828112" />
     <tag k="highway" v="unclassified" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532940807372.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/707866532/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532940807372jpg/orig.jpg" />
     <tag k="name" v="Shimoni-Stage-Kims Road" />
     <tag k="surface" v="asphalt" />
     <tag k="wb_pb:id" v="26907408" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-19T18:36:02Z"/>
+<meta osm_base="2019-11-20T20:10:03Z"/>
 
   <bounds minlat="1.1610400" minlon="34.9640000" maxlat="1.4225900" maxlon="35.1782300"/>
 
@@ -189,7 +189,7 @@
     <tag k="name" v="Kapkoris Dispensary"/>
     <tag k="wb_pb:id" v="74"/>
   </node>
-  <node id="6908747817" lat="1.2791250" lon="35.1373900" version="2" timestamp="2019-11-14T20:32:41Z" changeset="77093971" uid="999" user="mikelmaron">
+  <node id="6908747817" lat="1.2791250" lon="35.1373900" version="3" timestamp="2019-11-20T11:10:07Z" changeset="77318404" uid="4570042" user="Peter Agenga">
     <tag k="amenity" v="school"/>
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="moe"/>
@@ -197,9 +197,9 @@
     <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6908747817/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731537923jpg/orig.jpg"/>
     <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6908747817/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1571731849944jpg/orig.jpg"/>
     <tag k="is_in:village" v="Roponywo"/>
-    <tag k="name" v="Roponywo Primary School"/>
+    <tag k="name" v="Roponywo Primary School Playground"/>
     <tag k="operator:type" v="government"/>
-    <tag k="wb_pb:id" v="0"/>
+    <tag k="wb_pb:id" v="319"/>
   </node>
   <node id="6908747818" lat="1.2796667" lon="35.1372150" version="2" timestamp="2019-11-14T20:32:41Z" changeset="77093971" uid="999" user="mikelmaron">
     <tag k="amenity" v="school"/>
@@ -1715,16 +1715,6 @@
     <tag k="name" v="Tukumo -Karas Road"/>
     <tag k="surface" v="dirt"/>
     <tag k="wb_pb:id" v="84"/>
-    <tag k="width" v="9_m"/>
-  </node>
-  <node id="6936808431" lat="1.2636950" lon="35.1474967" version="3" timestamp="2019-11-19T02:04:45Z" changeset="77252789" uid="999" user="mikelmaron">
-    <tag k="highway" v="unclassified"/>
-    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6936808431/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572337092318jpg/orig.jpg"/>
-    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6936808431/httpskchumanitarianresponseinfoattachmentoriginalmediafilewestpokotcountyattachments1572337257846jpg/orig.jpg"/>
-    <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Karas -Cheptapesha-Kalomoywo"/>
-    <tag k="surface" v="dirt"/>
-    <tag k="wb_pb:id" v="83"/>
     <tag k="width" v="9_m"/>
   </node>
   <node id="6936808433" lat="1.2656209" lon="35.1314346" version="4" timestamp="2019-11-19T02:04:45Z" changeset="77252789" uid="999" user="mikelmaron">

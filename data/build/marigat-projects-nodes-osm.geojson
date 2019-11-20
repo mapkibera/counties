@@ -621,45 +621,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6798389725",
-  "properties": {
-    "type": "node",
-    "id": "6798389725",
-    "tags": {
-      "amenity": "hospital",
-      "dispensing": "no",
-      "fixme": "mortuary",
-      "image": "https://mapkibera.github.io/counties/data/images/cache/6798389725/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568276275179jpg/orig.jpg",
-      "image:project": "https://mapkibera.github.io/counties/data/images/cache/6798389725/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568279207012jpg/orig.jpg",
-      "is_in:village": "Town A",
-      "medical_service:family_planning": "no",
-      "medical_service:general_medical_services": "no",
-      "medical_service:immunizations": "no",
-      "medical_service:malaria": "no",
-      "medical_service:pregnancy_test": "no",
-      "name": "Marigat Sub County Mortuary",
-      "shop": "funeral_directors",
-      "wb_pb:id": "142"
-    },
-    "relations": [],
-    "meta": {
-      "timestamp": "2019-10-05T03:48:50Z",
-      "version": "4",
-      "changeset": "75308155",
-      "user": "mikelmaron",
-      "uid": "999"
-    }
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.98454,
-      0.475735
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/6798389726",
   "properties": {
     "type": "node",
@@ -2181,15 +2142,15 @@
       "medical_service:malaria": "no",
       "medical_service:pregnancy_test": "no",
       "name": "Marigat Sub County Hospital Mortuary",
-      "wb_pb:id": "142"
+      "wb_pb:id": "142a,142b"
     },
     "relations": [],
     "meta": {
-      "timestamp": "2019-10-04T20:36:46Z",
-      "version": "2",
-      "changeset": "75303433",
-      "user": "mikelmaron",
-      "uid": "999"
+      "timestamp": "2019-11-20T14:16:47Z",
+      "version": "5",
+      "changeset": "77329856",
+      "user": "muindre",
+      "uid": "261050"
     }
   },
   "geometry": {

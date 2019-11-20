@@ -423,11 +423,11 @@
       "properties": {
         "id": "737862250", 
         "meta": {
-          "changeset": "77094053", 
-          "timestamp": "2019-11-14T20:35:41Z", 
-          "uid": "999", 
-          "user": "mikelmaron", 
-          "version": "2"
+          "changeset": "77309730", 
+          "timestamp": "2019-11-20T08:36:12Z", 
+          "uid": "4570042", 
+          "user": "Peter Agenga", 
+          "version": "3"
         }, 
         "relations": [], 
         "tags": {
@@ -437,7 +437,7 @@
           "is_in:village": "Makutano", 
           "leisure": "stadium", 
           "name": "Makutano Stadium", 
-          "wb_pb:id": "280"
+          "wb_pb:id": "280a"
         }, 
         "type": "way"
       }, 
@@ -475,11 +475,11 @@
       "properties": {
         "id": "737862251", 
         "meta": {
-          "changeset": "76100501", 
-          "timestamp": "2019-10-23T12:10:47Z", 
-          "uid": "10380829", 
-          "user": "SIWA Jnr", 
-          "version": "1"
+          "changeset": "77309730", 
+          "timestamp": "2019-11-20T08:36:12Z", 
+          "uid": "4570042", 
+          "user": "Peter Agenga", 
+          "version": "2"
         }, 
         "relations": [], 
         "tags": {
@@ -489,7 +489,7 @@
           "is_in:village": "Makutano", 
           "leisure": "stadium", 
           "name": "Makutano Sports Stadium", 
-          "wb_pb:id": "280"
+          "wb_pb:id": "280b"
         }, 
         "type": "way"
       }, 
@@ -8600,11 +8600,11 @@
       "properties": {
         "id": "695603233", 
         "meta": {
-          "changeset": "76484387", 
-          "timestamp": "2019-11-01T09:35:19Z", 
-          "uid": "10380888", 
-          "user": "Hillarious", 
-          "version": "5"
+          "changeset": "77315801", 
+          "timestamp": "2019-11-20T10:26:47Z", 
+          "uid": "4570042", 
+          "user": "Peter Agenga", 
+          "version": "7"
         }, 
         "relations": [], 
         "tags": {
@@ -8612,9 +8612,9 @@
           "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337804785.jpg", 
           "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337925036.jpg", 
           "maintenance": "county_governm", 
-          "name": "Karas-Cheptapesha-Katiporot - Kalamoywo Road", 
+          "name": "Karas-Cheptapesha-Katiporot-Kalamoywo Road", 
           "surface": "dirt", 
-          "wb_pb:id": "83", 
+          "wb_pb:id": "83b", 
           "width": "9"
         }, 
         "type": "way"
@@ -13487,11 +13487,11 @@
       "properties": {
         "id": "740921539", 
         "meta": {
-          "changeset": "76484387", 
-          "timestamp": "2019-11-01T09:35:19Z", 
-          "uid": "10380888", 
-          "user": "Hillarious", 
-          "version": "1"
+          "changeset": "77315764", 
+          "timestamp": "2019-11-20T10:26:09Z", 
+          "uid": "4570042", 
+          "user": "Peter Agenga", 
+          "version": "2"
         }, 
         "relations": [], 
         "tags": {
@@ -13499,9 +13499,9 @@
           "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337092318.jpg", 
           "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337257846.jpg", 
           "maintenance": "county_governm", 
-          "name": "Karas -Cheptapesha-Kalomoywo", 
+          "name": "Karas -Cheptapesha-Katiporot-Kalomoywo Road", 
           "surface": "dirt", 
-          "wb_pb:id": "83", 
+          "wb_pb:id": "83a", 
           "width": "9"
         }, 
         "type": "way"

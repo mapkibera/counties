@@ -1,6 +1,6 @@
 <osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-19T18:36:02Z" />
+<meta osm_base="2019-11-20T20:11:02Z" />
 
   <bounds maxlat="0.5916000" maxlon="35.7990000" minlat="0.4353000" minlon="35.6147000" />
 
@@ -287,10 +287,10 @@
     <tag k="type" v="Agriculture" />
     <tag k="wb_pb:id" v="26128576" />
   </node>
-  <node changeset="61359658" id="5779230492" lat="0.4714106" lon="35.7021336" timestamp="2018-08-04T18:33:35Z" uid="616774" user="mueschel" version="2">
+  <node action="modify" changeset="61359658" id="5779230492" lat="0.4714106" lon="35.7021336" timestamp="2018-08-04T18:33:35Z" uid="616774" user="mueschel" version="2">
     <tag k="amenity" v="school" />
     <tag k="gender" v="Mixed" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532069801348.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5779230492/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532069801348jpg/orig.jpg" />
     <tag k="name" v="Sironoi Primary School" />
     <tag k="operator_type" v="Government" />
     <tag k="wb_pb:id" v="26237638" />
@@ -734,8 +734,8 @@
     <tag k="type" v="footbridge" />
     <tag k="wb_pb:id" v="26240452" />
   </node>
-  <node changeset="61010537" id="5781093173" lat="0.5140858" lon="35.6891608" timestamp="2018-07-24T07:39:29Z" uid="8556507" user="ronovincent32" version="1">
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074358246.jpg" />
+  <node action="modify" changeset="61010537" id="5781093173" lat="0.5140858" lon="35.6891608" timestamp="2018-07-24T07:39:29Z" uid="8556507" user="ronovincent32" version="1">
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5781093173/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532074358246jpg/orig.jpg" />
     <tag k="operational_status" v="Operational" />
     <tag k="operator_type" v="Government" />
     <tag k="wb_pb:id" v="26240526" />
@@ -1101,12 +1101,12 @@
     <tag k="place" v="town" />
     <tag k="wb_pb:id" v="26128812" />
   </node>
-  <node changeset="61018700" id="5781605129" lat="0.5194983" lon="35.6280339" timestamp="2018-07-24T11:08:23Z" uid="261050" user="muindre" version="1">
+  <node action="modify" changeset="61018700" id="5781605129" lat="0.5194983" lon="35.6280339" timestamp="2018-07-24T11:08:23Z" uid="261050" user="muindre" version="1">
     <tag k="amenity" v="school" />
     <tag k="gender" v="Mixed" />
     <tag k="government_registered" v="MOE (Ministry of Education)" />
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531984550120.jpg" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531984772944.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5781605129/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1531984772944jpg/orig.jpg" />
     <tag k="name" v="Kakwane Primary School" />
     <tag k="operational_status" v="operational" />
     <tag k="operator:type" v="Government" />
@@ -1186,9 +1186,9 @@
     <tag k="type" v="Hardware" />
     <tag k="wb_pb:id" v="26241483" />
   </node>
-  <node changeset="61376117" id="5781797213" lat="0.4922992" lon="35.7446762" timestamp="2018-08-05T14:59:02Z" uid="616774" user="mueschel" version="2">
+  <node action="modify" changeset="61376117" id="5781797213" lat="0.4922992" lon="35.7446762" timestamp="2018-08-05T14:59:02Z" uid="616774" user="mueschel" version="2">
     <tag k="amenity" v="veterinary" />
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532078636442.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5781797213/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532078636442jpg/orig.jpg" />
     <tag k="name" v="Baringo County Vetinary Office" />
     <tag k="wb_pb:id" v="26237653" />
   </node>
@@ -1218,15 +1218,15 @@
     <tag k="service_times" v="08:00" />
     <tag k="wb_pb:id" v="26128727" />
   </node>
-  <node changeset="61048025" id="5783571611" lat="0.5220088" lon="35.7181783" timestamp="2018-07-25T08:49:43Z" uid="261050" user="muindre" version="1">
+  <node action="modify" changeset="61048025" id="5783571611" lat="0.5220088" lon="35.7181783" timestamp="2018-07-25T08:49:43Z" uid="261050" user="muindre" version="1">
     <tag k="bridge:support" v="abutment" />
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070512306.jpg" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532070720410.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/5783571611/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532070720410jpg/orig.jpg" />
     <tag k="type" v="footbridge" />
     <tag k="wb_pb:id" v="26240452" />
   </node>
-  <node changeset="61163593" id="5783571612" lat="0.5140858" lon="35.6891608" timestamp="2018-07-29T12:33:49Z" uid="616774" user="mueschel" version="2">
-    <tag k="image" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1532074358246.jpg" />
+  <node action="modify" changeset="61163593" id="5783571612" lat="0.5140858" lon="35.6891608" timestamp="2018-07-29T12:33:49Z" uid="616774" user="mueschel" version="2">
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/5783571612/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1532074358246jpg/orig.jpg" />
     <tag k="man_made" v="water_well" />
     <tag k="name" v="Magonoi Water Tank" />
     <tag k="operational_status" v="Operational" />

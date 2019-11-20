@@ -2065,6 +2065,78 @@
     {
       "geometry": {
         "coordinates": [
+          35.98489, 
+          0.475863
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6851133549", 
+      "properties": {
+        "Budgeted sum": "", 
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "Construction is ongoing. There is no window panes. There are no tiles", 
+        "Project_Description": "Construction Of Mortuary", 
+        "Project_Name_or_Title": "Marigat Sub County Hospital", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "hospital", 
+        "dispensing": "no", 
+        "electricity": "none", 
+        "health_facility:referrals": "Kabarnet Referral Hospital", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569999587056.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569999701964.jpg", 
+        "is_in:village": "Town A", 
+        "iterator": 57, 
+        "medical_service:family_planning": "no", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "no", 
+        "medical_service:malaria": "no", 
+        "medical_service:pregnancy_test": "no", 
+        "name": "Marigat Sub County Hospital Mortuary", 
+        "osm:id": "6851133549", 
+        "wb_pb:id": "142a"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          35.98489, 
+          0.475863
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6851133549", 
+      "properties": {
+        "Budgeted sum": "3,000,000.00", 
+        "Category": "HS", 
+        "In_your_opinion_is_the_project_quality": "adequate", 
+        "Please_add_any_details_about_y": "It needs more man power to be completed", 
+        "Project_Description": "Equipping of Mortuary block", 
+        "Project_Name_or_Title": "Marigat Sub County Hospital", 
+        "What_is_the_project_s_apparent_status": "on_going", 
+        "amenity": "hospital", 
+        "dispensing": "no", 
+        "electricity": "none", 
+        "health_facility:referrals": "Kabarnet Referral Hospital", 
+        "image": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569999587056.jpg", 
+        "image:project": "https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1569999701964.jpg", 
+        "is_in:village": "Town A", 
+        "iterator": 58, 
+        "medical_service:family_planning": "no", 
+        "medical_service:general_medical_services": "no", 
+        "medical_service:immunizations": "no", 
+        "medical_service:malaria": "no", 
+        "medical_service:pregnancy_test": "no", 
+        "name": "Marigat Sub County Hospital Mortuary", 
+        "osm:id": "6851133549", 
+        "wb_pb:id": "142b"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           35.98518, 
           0.47717
         ], 
@@ -2085,7 +2157,7 @@
         "image": "https://mapkibera.github.io/counties/data/images/cache/6851133551/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570000865185jpg/orig.jpg", 
         "image:project": "https://mapkibera.github.io/counties/data/images/cache/6851133551/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1570000846382jpg/orig.jpg", 
         "is_in:village": "Town A", 
-        "iterator": 57, 
+        "iterator": 59, 
         "medical_service:family_planning": "no", 
         "medical_service:general_medical_services": "no", 
         "medical_service:immunizations": "no", 
@@ -2119,7 +2191,7 @@
         "image": "https://mapkibera.github.io/counties/data/images/cache/6799041929/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568374755735jpg/orig.jpg", 
         "image:project": "https://mapkibera.github.io/counties/data/images/cache/6799041929/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568374995966jpg/orig.jpg", 
         "is_in:village": "Sogon", 
-        "iterator": 58, 
+        "iterator": 60, 
         "name": "Sogon Water Project", 
         "operational_status": "Operational", 
         "operator:funding": "County_government", 
@@ -2150,7 +2222,7 @@
         "image": "https://mapkibera.github.io/counties/data/images/cache/6807413173/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568709474853jpg/orig.jpg", 
         "image:project": "https://mapkibera.github.io/counties/data/images/cache/6807413173/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568709895471jpg/orig.jpg", 
         "is_in:village": "Town A", 
-        "iterator": 59, 
+        "iterator": 61, 
         "name": "Youth Empowerment Centre", 
         "osm:id": "6807413173", 
         "wb_pb:id": "229"
@@ -2208,7 +2280,7 @@
         "fence_type": "wire", 
         "image": "https://mapkibera.github.io/counties/data/images/cache/731560946/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1569997673559jpg/orig.jpg", 
         "image:project": "https://mapkibera.github.io/counties/data/images/cache/731560946/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1569997863738jpg/orig.jpg", 
-        "iterator": 60, 
+        "iterator": 62, 
         "name": "Youth Empowerment Centre Fence", 
         "osm:id": "731560946", 
         "wb_pb:id": "233"
@@ -2235,7 +2307,7 @@
         "image": "https://mapkibera.github.io/counties/data/images/cache/6798591059/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568115050273jpg/orig.jpg", 
         "image:project": "https://mapkibera.github.io/counties/data/images/cache/6798591059/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568115363895jpg/orig.jpg", 
         "is_in:village": "Katkamuma", 
-        "iterator": 61, 
+        "iterator": 63, 
         "man_made": "borehole", 
         "name": "Katkamuma Borehole", 
         "operational_status": "non_operational", 
@@ -2268,7 +2340,7 @@
         "image:pointofinterest": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1568033412053.jpg", 
         "image:project": "https://mapkibera.github.io/counties/data/images/cache/6979687003/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568033967704jpg/orig.jpg", 
         "is_in:village": "Town A", 
-        "iterator": 62, 
+        "iterator": 64, 
         "name": "Sub County Referral Hospital", 
         "osm:id": "6979687003", 
         "wb_pb:id": "146"

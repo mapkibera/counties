@@ -1,6 +1,6 @@
 <osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-19T18:36:02Z" />
+<meta osm_base="2019-11-20T20:11:02Z" />
 
   <bounds maxlat="0.5916000" maxlon="35.7990000" minlat="0.4353000" minlon="35.6147000" />
 
@@ -2565,13 +2565,13 @@
     <tag k="name" v="Kaptimbor Cifika Road" />
     <tag k="wb_pb:id" v="26240426" />
   </way>
-  <way changeset="72162646" id="610473680" timestamp="2019-07-12T05:21:10Z" uid="9446755" user="Comayagua" version="3">
+  <way action="modify" changeset="72162646" id="610473680" timestamp="2019-07-12T05:21:10Z" uid="9446755" user="Comayagua" version="3">
     <nd ref="5781357920" />
     <nd ref="5477266261" />
     <tag k="embankment" v="yes" />
     <tag k="highway" v="residential" />
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531988761195.jpg" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531989146378.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/610473680/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1531989146378jpg/orig.jpg" />
     <tag k="lanes" v="1" />
     <tag k="name" v="Airstrip Road" />
     <tag k="oneway" v="yes" />
@@ -2608,7 +2608,7 @@
     <tag k="type" v="Stadium" />
     <tag k="wb_pb:id" v="26191876" />
   </way>
-  <way changeset="61047706" id="610480110" timestamp="2018-07-25T08:41:57Z" uid="261050" user="muindre" version="2">
+  <way action="modify" changeset="61047706" id="610480110" timestamp="2018-07-25T08:41:57Z" uid="261050" user="muindre" version="2">
     <nd ref="5781399421" />
     <nd ref="5781399420" />
     <nd ref="5781399419" />
@@ -2622,7 +2622,7 @@
     <nd ref="5781399421" />
     <tag k="barrier" v="wall" />
     <tag k="image:pointofinterest" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531981808166.jpg" />
-    <tag k="image:project" v="http://kc.humanitarianresponse.info/attachment/orginal?media_file=mapkibera/attachments/1531982100266.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/610480110/httpkchumanitarianresponseinfoattachmentorginalmediafilemapkiberaattachments1531982100266jpg/orig.jpg" />
     <tag k="leisure" v="stadium" />
     <tag k="name" v="Kabarnet Stadium Perimeter Wall" />
     <tag k="stadium" v="Perimeter wall" />

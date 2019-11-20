@@ -1,6 +1,6 @@
 <osm generator="Overpass API 0.7.55.7 8b86ff77" version="0.6">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-19T18:36:02Z" />
+<meta osm_base="2019-11-20T20:11:02Z" />
 
   <bounds maxlat="0.6160000" maxlon="36.0540000" minlat="0.2520000" minlon="35.7760000" />
 
@@ -155,7 +155,7 @@
     <tag k="name" v="Marigat Sale Yard" />
     <tag k="wb_pb:id" v="87" />
   </way>
-  <way changeset="75308375" id="725043182" timestamp="2019-10-05T04:21:51Z" uid="999" user="mikelmaron" version="2">
+  <way action="modify" changeset="75308375" id="725043182" timestamp="2019-10-05T04:21:51Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6799074237" />
     <nd ref="6799074236" />
     <nd ref="6799074235" />
@@ -170,15 +170,15 @@
     <nd ref="6799074226" />
     <nd ref="6799074225" />
     <nd ref="6799074237" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568277065972.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568277520636.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/725043182/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568277065972jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/725043182/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568277520636jpg/orig.jpg" />
     <tag k="is_in:village" v="Ketipterkek" />
     <tag k="name" v="Ketipterkek Irrigation Scheme" />
     <tag k="operator:funding" v="County Government of Baringo" />
     <tag k="place" v="farm" />
     <tag k="wb_pb:id" v="157" />
   </way>
-  <way changeset="75308375" id="725043183" timestamp="2019-10-05T04:21:51Z" uid="999" user="mikelmaron" version="2">
+  <way action="modify" changeset="75308375" id="725043183" timestamp="2019-10-05T04:21:51Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6799074248" />
     <nd ref="6799074247" />
     <nd ref="6799074246" />
@@ -191,8 +191,8 @@
     <nd ref="6799074239" />
     <nd ref="6799074238" />
     <nd ref="6799074248" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568279751537.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568279969141.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/725043183/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568279751537jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/725043183/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568279969141jpg/orig.jpg" />
     <tag k="is_in:village" v="Ngenyin" />
     <tag k="name" v="Ngenyin Irrigation Scheme" />
     <tag k="operator:funding" v="County Government of Baringo" />
@@ -286,28 +286,28 @@
     <tag k="name" v="Kimale Goat Auction" />
     <tag k="wb_pb:id" v="88" />
   </way>
-  <way changeset="75308375" id="726100503" timestamp="2019-10-05T04:21:51Z" uid="999" user="mikelmaron" version="2">
+  <way action="modify" changeset="75308375" id="726100503" timestamp="2019-10-05T04:21:51Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6807610565" />
     <nd ref="6807610564" />
     <nd ref="6807610563" />
     <nd ref="6807610562" />
     <nd ref="6807610565" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568712460626.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568712654884.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/726100503/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568712460626jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/726100503/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568712654884jpg/orig.jpg" />
     <tag k="is_in:village" v="Kipsamisonchun" />
     <tag k="landuse" v="other" />
     <tag k="name" v="Kipsamisonchun Water Trough" />
     <tag k="other_agriculture" v="Livestock Water Trough" />
     <tag k="wb_pb:id" v="102" />
   </way>
-  <way changeset="75308375" id="726100504" timestamp="2019-10-05T04:21:51Z" uid="999" user="mikelmaron" version="2">
+  <way action="modify" changeset="75308375" id="726100504" timestamp="2019-10-05T04:21:51Z" uid="999" user="mikelmaron" version="2">
     <nd ref="6807610569" />
     <nd ref="6807610568" />
     <nd ref="6807610567" />
     <nd ref="6807610566" />
     <nd ref="6807610569" />
-    <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568711216487.jpg" />
-    <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=baringo_county/attachments/1568711350283.jpg" />
+    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/726100504/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568711216487jpg/orig.jpg" />
+    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/726100504/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568711350283jpg/orig.jpg" />
     <tag k="is_in:village" v="Kapkechii" />
     <tag k="landuse" v="other" />
     <tag k="name" v="Kapkechii Water Trough" />

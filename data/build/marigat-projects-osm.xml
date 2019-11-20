@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-19T18:36:02Z"/>
+<meta osm_base="2019-11-20T20:11:02Z"/>
 
   <bounds minlat="0.2520000" minlon="35.7760000" maxlat="0.6160000" maxlon="36.0540000"/>
 
@@ -231,22 +231,6 @@
     <tag k="operator:description" v="County Government Of Baringo"/>
     <tag k="operator:type" v="government"/>
     <tag k="wb_pb:id" v="84"/>
-  </node>
-  <node id="6798389725" lat="0.4757350" lon="35.9845400" version="4" timestamp="2019-10-05T03:48:50Z" changeset="75308155" uid="999" user="mikelmaron">
-    <tag k="amenity" v="hospital"/>
-    <tag k="dispensing" v="no"/>
-    <tag k="fixme" v="mortuary"/>
-    <tag k="image" v="https://mapkibera.github.io/counties/data/images/cache/6798389725/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568276275179jpg/orig.jpg"/>
-    <tag k="image:project" v="https://mapkibera.github.io/counties/data/images/cache/6798389725/httpskchumanitarianresponseinfoattachmentoriginalmediafilebaringocountyattachments1568279207012jpg/orig.jpg"/>
-    <tag k="is_in:village" v="Town A"/>
-    <tag k="medical_service:family_planning" v="no"/>
-    <tag k="medical_service:general_medical_services" v="no"/>
-    <tag k="medical_service:immunizations" v="no"/>
-    <tag k="medical_service:malaria" v="no"/>
-    <tag k="medical_service:pregnancy_test" v="no"/>
-    <tag k="name" v="Marigat Sub County Mortuary"/>
-    <tag k="shop" v="funeral_directors"/>
-    <tag k="wb_pb:id" v="142"/>
   </node>
   <node id="6798389726" lat="0.4772200" lon="35.9843400" version="4" timestamp="2019-10-04T20:36:46Z" changeset="75303433" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>
@@ -762,7 +746,7 @@
     <tag k="operator:type" v="government"/>
     <tag k="wb_pb:id" v="212"/>
   </node>
-  <node id="6851133549" lat="0.4758630" lon="35.9848900" version="2" timestamp="2019-10-04T20:36:46Z" changeset="75303433" uid="999" user="mikelmaron">
+  <node id="6851133549" lat="0.4758630" lon="35.9848900" version="5" timestamp="2019-11-20T14:16:47Z" changeset="77329856" uid="261050" user="muindre">
     <tag k="amenity" v="hospital"/>
     <tag k="dispensing" v="no"/>
     <tag k="electricity" v="none"/>
@@ -776,7 +760,7 @@
     <tag k="medical_service:malaria" v="no"/>
     <tag k="medical_service:pregnancy_test" v="no"/>
     <tag k="name" v="Marigat Sub County Hospital Mortuary"/>
-    <tag k="wb_pb:id" v="142"/>
+    <tag k="wb_pb:id" v="142a,142b"/>
   </node>
   <node id="6851133550" lat="0.4773920" lon="35.9849000" version="3" timestamp="2019-11-14T20:36:05Z" changeset="77094074" uid="999" user="mikelmaron">
     <tag k="amenity" v="hospital"/>

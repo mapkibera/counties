@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-11-19T18:36:02Z"/>
+<meta osm_base="2019-11-20T20:11:02Z"/>
 
   <bounds minlat="1.1610400" minlon="34.9640000" maxlat="1.4225900" maxlon="35.1782300"/>
 
@@ -5179,7 +5179,7 @@
     <tag k="wb_pb:id" v="82"/>
     <tag k="width" v="9"/>
   </way>
-  <way id="695603233" version="5" timestamp="2019-11-01T09:35:19Z" changeset="76484387" uid="10380888" user="Hillarious">
+  <way id="695603233" version="7" timestamp="2019-11-20T10:26:47Z" changeset="77315801" uid="4570042" user="Peter Agenga">
     <nd ref="6531898667"/>
     <nd ref="6531917970"/>
     <nd ref="6531881361"/>
@@ -5341,9 +5341,9 @@
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337804785.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337925036.jpg"/>
     <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Karas-Cheptapesha-Katiporot - Kalamoywo Road"/>
+    <tag k="name" v="Karas-Cheptapesha-Katiporot-Kalamoywo Road"/>
     <tag k="surface" v="dirt"/>
-    <tag k="wb_pb:id" v="83"/>
+    <tag k="wb_pb:id" v="83b"/>
     <tag k="width" v="9"/>
   </way>
   <way id="696115061" version="7" timestamp="2019-11-19T02:57:47Z" changeset="77253575" uid="999" user="mikelmaron">
@@ -6277,7 +6277,7 @@
     <tag k="other_agriculture" v="Sunflower oil processing project"/>
     <tag k="wb_pb:id" v="220"/>
   </way>
-  <way id="737862250" version="2" timestamp="2019-11-14T20:35:41Z" changeset="77094053" uid="999" user="mikelmaron">
+  <way id="737862250" version="3" timestamp="2019-11-20T08:36:12Z" changeset="77309730" uid="4570042" user="Peter Agenga">
     <nd ref="6908909031"/>
     <nd ref="6908909030"/>
     <nd ref="6908909029"/>
@@ -6289,9 +6289,9 @@
     <tag k="is_in:village" v="Makutano"/>
     <tag k="leisure" v="stadium"/>
     <tag k="name" v="Makutano Stadium"/>
-    <tag k="wb_pb:id" v="280"/>
+    <tag k="wb_pb:id" v="280a"/>
   </way>
-  <way id="737862251" version="1" timestamp="2019-10-23T12:10:47Z" changeset="76100501" uid="10380829" user="SIWA Jnr">
+  <way id="737862251" version="2" timestamp="2019-11-20T08:36:12Z" changeset="77309730" uid="4570042" user="Peter Agenga">
     <nd ref="6908909035"/>
     <nd ref="6908909034"/>
     <nd ref="6908909033"/>
@@ -6303,7 +6303,7 @@
     <tag k="is_in:village" v="Makutano"/>
     <tag k="leisure" v="stadium"/>
     <tag k="name" v="Makutano Sports Stadium"/>
-    <tag k="wb_pb:id" v="280"/>
+    <tag k="wb_pb:id" v="280b"/>
   </way>
   <way id="737862252" version="2" timestamp="2019-11-14T20:35:41Z" changeset="77094053" uid="999" user="mikelmaron">
     <nd ref="6908909042"/>
@@ -6917,7 +6917,7 @@
     <tag k="wb_pb:id" v="292"/>
     <tag k="width" v="9"/>
   </way>
-  <way id="740921539" version="1" timestamp="2019-11-01T09:35:19Z" changeset="76484387" uid="10380888" user="Hillarious">
+  <way id="740921539" version="2" timestamp="2019-11-20T10:26:09Z" changeset="77315764" uid="4570042" user="Peter Agenga">
     <nd ref="6531898620"/>
     <nd ref="6531898617"/>
     <nd ref="6531898618"/>
@@ -7051,9 +7051,9 @@
     <tag k="image" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337092318.jpg"/>
     <tag k="image:project" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1572337257846.jpg"/>
     <tag k="maintenance" v="county_governm"/>
-    <tag k="name" v="Karas -Cheptapesha-Kalomoywo"/>
+    <tag k="name" v="Karas -Cheptapesha-Katiporot-Kalomoywo Road"/>
     <tag k="surface" v="dirt"/>
-    <tag k="wb_pb:id" v="83"/>
+    <tag k="wb_pb:id" v="83a"/>
     <tag k="width" v="9"/>
   </way>
   <way id="740921541" version="2" timestamp="2019-11-19T02:57:47Z" changeset="77253575" uid="999" user="mikelmaron">
