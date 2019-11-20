@@ -56,6 +56,9 @@
         .count {
           float: right;
         }
+        .project_item {
+          cursor: default;
+        }
     </style>
 </head>
 <body>
@@ -569,40 +572,69 @@ function buildFilter() {
 
 function handleProjectClick(e) {
   deselect();
-  selectedProjectId = e.features[0].id;
-  map.setFeatureState({source: 'projects', id: selectedProjectId}, { selected: true});
+  if (e.features.length > 1) { displayProjectList(e.features); return; }
 
+  displayProject(e.features[0]);
+
+  if (parent) {
+    parent.postMessage(e.features[0].properties['wb_pb:id'], "*");
+  }
+}
+
+function handleProjectItemClick(wb_pb_id) {
+  const feature = map.queryRenderedFeatures({
+    layers:['projects-layer'],
+    filter: ["==", ["get", "wb_pb:id"], wb_pb_id]
+  });
+  displayProject(feature[0]);
+}
+
+function displayProjectList(projects) {
   d3.select('.entry').remove();
 
   d3.select('.list')
     .append('div')
     .attr('class', 'entry pad2 keyline-top')
     .html(function(d){
+      var text = "";
+      for (p in projects) {
+        text += "<a class='project_item' onclick='handleProjectItemClick(\"" + projects[p].properties['wb_pb:id'] + "\")'>" + projects[p].properties['name'] + "</a><p/>"
+      }
+      return text;
+    });
+}
+
+function displayProject(p) {
+  d3.select('.entry').remove();
+
+  selectedProjectId = p.id;
+  map.setFeatureState({source: 'projects', id: selectedProjectId}, { selected: true});
+
+  d3.select('.list')
+    .append('div')
+    .attr('class', 'entry pad2 keyline-top')
+    .html(function(d){
       var poi_text = "<br/>";
-      for (attribute in e.features[0].properties) {
+      for (attribute in p.properties) {
         if (attribute[0]  != attribute[0].toUpperCase() && ! attribute.startsWith("image") ) {
-          poi_text = poi_text + attribute + ": " + e.features[0].properties[attribute] + "<br/>";
+          poi_text = poi_text + attribute + ": " + p.properties[attribute] + "<br/>";
         }
       }
-      var image = e.features[0].properties.image || e.features[0].properties['image:project'] || e.features[0].properties['image:pointofinterest'];
+      var image = p.properties.image || p.properties['image:project'] || p.properties['image:pointofinterest'];
       return "<table style='border-spacing: 10px'>" +
-        "<tr><td>Project Name</td><td><strong><a target='_blank_' href='https://www.openstreetmap.org/" + (e.features[0].geometry.type == "Point" ? "node/" : "way/") + e.features[0].properties['osm:id'] + "'>" + e.features[0].properties['name'] + "</a></strong></td></tr>" +
-        "<tr><td>Project Description</td><td><strong>" + e.features[0].properties['Project_Description'] + "</strong></td></tr>" +
-        "<tr><td>Project Status</td><td><strong>" + e.features[0].properties['What_is_the_project_s_apparent_status'] + "</strong></td></tr>" +
-        "<tr><td>Opinion</td><td><strong>" + e.features[0].properties['In_your_opinion_is_the_project_quality'] + "</strong></td></tr>" +
-        "<tr><td>Comment</td><td><strong>" + e.features[0].properties['Please_add_any_details_about_y'] + "</strong></td></tr>" +
-        (e.features[0].properties['Budgeted sum'] ?
-          "<tr><td>Budget</td><td><strong>" + e.features[0].properties['Budgeted sum'] + "</strong></td></tr>" : "") +
-        (e.features[0].properties['Tender sum'] ?
-            "<tr><td>Tender</td><td><strong>" + e.features[0].properties['Tender sum'] + "</strong></td></tr>" : "")
+        "<tr><td>Project Name</td><td><strong><a target='_blank_' href='https://www.openstreetmap.org/" + (p.geometry.type == "Point" ? "node/" : "way/") + p.properties['osm:id'] + "'>" + p.properties['name'] + "</a></strong></td></tr>" +
+        "<tr><td>Project Description</td><td><strong>" + p.properties['Project_Description'] + "</strong></td></tr>" +
+        "<tr><td>Project Status</td><td><strong>" + p.properties['What_is_the_project_s_apparent_status'] + "</strong></td></tr>" +
+        "<tr><td>Opinion</td><td><strong>" + p.properties['In_your_opinion_is_the_project_quality'] + "</strong></td></tr>" +
+        "<tr><td>Comment</td><td><strong>" + p.properties['Please_add_any_details_about_y'] + "</strong></td></tr>" +
+        (p.properties['Budgeted sum'] ?
+          "<tr><td>Budget</td><td><strong>" + p.properties['Budgeted sum'] + "</strong></td></tr>" : "") +
+        (p.properties['Tender sum'] ?
+            "<tr><td>Tender</td><td><strong>" + p.properties['Tender sum'] + "</strong></td></tr>" : "")
         + "<tr><td colspan='2'><img src='" + image + "'/></td></tr></table>";
 
 
       });
-
-  if (parent) {
-    parent.postMessage(e.features[0].properties['wb_pb:id'], "*");
-  }
 }
 
 </script>
