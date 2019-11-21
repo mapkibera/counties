@@ -598,7 +598,7 @@ function displayProjectList(projects) {
     .html(function(d){
       var text = "";
       for (p in projects) {
-        text += "<a class='project_item' onclick='handleProjectItemClick(\"" + projects[p].properties['wb_pb:id'] + "\")'>" + projects[p].properties['name'] + "</a><p/>"
+        text += "<a class='project_item' onclick='handleProjectItemClick(\"" + projects[p].properties['wb_pb:id'] + "\")'>" + projects[p].properties['name'] + "</a> " + projects[p].properties['Project_Description'] + "<p/>";
       }
       return text;
     });
