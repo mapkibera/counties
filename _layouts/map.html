@@ -339,37 +339,49 @@ function loadProjects() {
 function cleanCategories(response) {
   var result = [];
   var cleanCategory = {
-    'EDU': 'Education and Vocational Training',
-    'CA': 'County Assembly',
-    'GO': "The Governor's Office",
-    'FIEC': 'County Finance and Economic Planning',
-    'AGLF': 'Agriculture, Livestock, and Fisheries Management',
-    'Agriculture, Livestock and Fisheries': 'Agriculture, Livestock, and Fisheries Management',
-    'WI': 'Water and Irrigation',
-    'HS': 'Health Services',
-    'ALF': 'Agriculture, Livestock, and Fisheries Management',
-    'SCG': 'Sports, Culture, Gender and Social services',
-    'LHUD': 'Lands, Housing and Urban Development',
-    'RTEPW': 'Roads, Transport, Energy and Public Works',
-    'Transport, Public Works and Infrasctructure': 'Roads, Transport, Energy and Public Works',
-    'Environment, Natural Resource, Tourism and Wildlife Management': 'Tourism, Wildlife Management, Natural Resources and Mining',
-    'TWNRM': 'Tourism, Wildlife Management, Natural Resources and Mining',
-    'TCI': 'Trade, Cooperatives and Industrialization',
-    'RPWTI': 'Roads, public works, Transport and Infrastructure',
-    'LHPPUD': 'Lands, Housing, physical planning and urban Development',
-    'ETT': 'Education and Technical Training',
-    'PSIDU': 'Public Service,ICT and Devolved Units',
-    'TIICD': 'Trade Industrialization, Investment and Cooperative Development',
-    'YSTGSS': 'Youth,Sports, Tourism,Gender and Social Services',
-    'FEP': 'Finance and Economic Planning',
-    'PEAGRI': 'Pastoral Economy, Agriculture and Irrigation',
-    'WENR': 'Water Environment and Natural Resources',
-    'OG': 'Office of the Governor',
-    'HS': 'Health and sanitation',
-    'TIICD': 'Trade Industrialization, Investment and Cooperative Development'
+    'baringo': {
+      'HS': 'Health Services',
+    },
+    'west_pokot': {
+      'HS': 'Health and sanitation',
+    },
+    'makueni': {
+    },
+    'default': {
+      'EDU': 'Education and Vocational Training',
+      'CA': 'County Assembly',
+      'GO': "The Governor's Office",
+      'FIEC': 'County Finance and Economic Planning',
+      'AGLF': 'Agriculture, Livestock, and Fisheries Management',
+      'Agriculture, Livestock and Fisheries': 'Agriculture, Livestock, and Fisheries Management',
+      'WI': 'Water and Irrigation',
+      'ALF': 'Agriculture, Livestock, and Fisheries Management',
+      'SCG': 'Sports, Culture, Gender and Social services',
+      'LHUD': 'Lands, Housing and Urban Development',
+      'RTEPW': 'Roads, Transport, Energy and Public Works',
+      'Transport, Public Works and Infrasctructure': 'Roads, Transport, Energy and Public Works',
+      'Environment, Natural Resource, Tourism and Wildlife Management': 'Tourism, Wildlife Management, Natural Resources and Mining',
+      'TWNRM': 'Tourism, Wildlife Management, Natural Resources and Mining',
+      'TCI': 'Trade, Cooperatives and Industrialization',
+      'RPWTI': 'Roads, public works, Transport and Infrastructure',
+      'LHPPUD': 'Lands, Housing, physical planning and urban Development',
+      'ETT': 'Education and Technical Training',
+      'PSIDU': 'Public Service,ICT and Devolved Units',
+      'TIICD': 'Trade Industrialization, Investment and Cooperative Development',
+      'YSTGSS': 'Youth,Sports, Tourism,Gender and Social Services',
+      'FEP': 'Finance and Economic Planning',
+      'PEAGRI': 'Pastoral Economy, Agriculture and Irrigation',
+      'WENR': 'Water Environment and Natural Resources',
+      'OG': 'Office of the Governor',
+      'TIICD': 'Trade Industrialization, Investment and Cooperative Development'
+    }
   };
   response.features.forEach(function(project){
-    project.properties['Category'] = (cleanCategory[ project.properties['Category'] ] || project.properties['Category']).toLowerCase().replace(/_/g," ");
+    project.properties['Category'] = (
+        cleanCategory['{{page.county}}'][ project.properties['Category'] ] ||
+        cleanCategory['default'][ project.properties['Category'] ] || 
+        project.properties['Category']
+      ).toLowerCase().replace(/_/g," ");
     project.properties['In_your_opinion_is_the_project_quality'] = project.properties['In_your_opinion_is_the_project_quality'].toLowerCase().replace(/_/g," ");
     project.properties['What_is_the_project_s_apparent_status'] = project.properties['What_is_the_project_s_apparent_status'].toLowerCase().replace(/_/g," ");
     result.push(project);
